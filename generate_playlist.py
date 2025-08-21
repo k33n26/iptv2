@@ -16,6 +16,9 @@ LOGO_SIZES = {
 for size in LOGO_SIZES.keys():
     os.makedirs(os.path.join(LOGO_DIR, size), exist_ok=True)
 
+def safe_filename(channel_name):
+    return hashlib.md5(channel_name.encode()).hexdigest()
+
 def get_logo_url(channel_name):
     sources = [
         f"https://logo.clearbit.com/{channel_name.replace(' ', '').lower()}.com",
@@ -31,14 +34,24 @@ def get_logo_url(channel_name):
     return None
 
 def download_and_save_logo(channel_name):
+    safe_name = safe_filename(channel_name)
+
+    # Eğer logo önceden kaydedilmişse tekrar indirme
+    medium_path = os.path.join(LOGO_DIR, "medium", f"{safe_name}.webp")
+    if os.path.exists(medium_path):
+        return {
+            size: f"https://raw.githubusercontent.com/k33n26/iptv2/main/logos/{size}/{safe_name}.webp"
+            for size in LOGO_SIZES.keys()
+        }
+
     logo_url = get_logo_url(channel_name)
     if not logo_url:
         return None
+
     try:
         r = requests.get(logo_url, timeout=10)
         if r.status_code == 200:
             img = Image.open(BytesIO(r.content)).convert("RGBA")
-            safe_name = hashlib.md5(channel_name.encode()).hexdigest()
             saved_urls = {}
             for size, dims in LOGO_SIZES.items():
                 resized = img.resize(dims, Image.LANCZOS)
