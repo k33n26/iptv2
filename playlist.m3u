@@ -2,3 +2,6 @@
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6a992d5529f459a44fee58c733255e86.webp", index
 #EXTGRP:LOGOS small:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6a992d5529f459a44fee58c733255e86.webp | medium:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6a992d5529f459a44fee58c733255e86.webp | large:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6a992d5529f459a44fee58c733255e86.webp
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
+#EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1b87225c734b0a934e9ce33ffc53c9ce.webp", bloomberg
+#EXTGRP:LOGOS small:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1b87225c734b0a934e9ce33ffc53c9ce.webp | medium:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1b87225c734b0a934e9ce33ffc53c9ce.webp | large:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1b87225c734b0a934e9ce33ffc53c9ce.webp
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
