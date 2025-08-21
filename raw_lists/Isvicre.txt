@@ -1,0 +1,10 @@
+Carac 4,https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+Carac 3,https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+Carac 2,https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+Carac 1,https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+TeleBielingue,https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
+TV 24,https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
+TeleBarn,https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
+SRF 2,https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
+SRF 1,https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+SRF info,https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8

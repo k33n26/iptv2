@@ -1,2 +1,3 @@
 3SAT,https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 WELT,https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+RTL Super,https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8

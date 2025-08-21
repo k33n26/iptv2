@@ -1,0 +1,1 @@
+Television Caribbean,https://live.kingdom-tv.com:3545/stream/play.m3u8

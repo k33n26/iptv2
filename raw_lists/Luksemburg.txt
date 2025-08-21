@@ -1,0 +1,1 @@
+RTL9,https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8

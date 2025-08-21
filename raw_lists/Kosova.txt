@@ -1,0 +1,1 @@
+RTK 1,https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
