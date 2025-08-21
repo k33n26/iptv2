@@ -3,8 +3,8 @@ name: Update M3U Playlist
 on:
   push:
     paths:
-      - "raw_lists/*.txt"   # sadece txt dosyaları değişince tetiklenir
-  workflow_dispatch:        # manuel tetikleme
+      - "raw_lists/*.txt"
+  workflow_dispatch:
 
 jobs:
   update-playlist:
