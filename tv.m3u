@@ -1,5 +1,7 @@
 #EXTM3U
 
 #--- Tv ---
+#EXTINF:-1 , Cdn
+https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:-1 , Tv
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
