@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/088f47d27aca1053823567d22df3a168.webp",3SAT
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef9a847178d6115213d30a23cec021cd.webp",WELT
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8

@@ -16,5 +16,15 @@
   "BOING HD": null,
   "BBC-4": null,
   "RMC-DECOUVERTE": null,
-  "WELT-ALMANYA": null
+  "WELT-ALMANYA": null,
+  "3SAT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/088f47d27aca1053823567d22df3a168.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/088f47d27aca1053823567d22df3a168.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/088f47d27aca1053823567d22df3a168.webp"
+  },
+  "WELT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ef9a847178d6115213d30a23cec021cd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef9a847178d6115213d30a23cec021cd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ef9a847178d6115213d30a23cec021cd.webp"
+  }
 }
