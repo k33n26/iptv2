@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="Belgesel" ,CCTV4-CHiNA
+https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+#EXTINF:-1 group-title="Belgesel" ,BBC EARTH-ASiA
+https://tv.ddns.vn/tv/bbcearth/index.m3u8
