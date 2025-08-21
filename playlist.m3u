@@ -1,0 +1,5 @@
+#EXTM3U
+
+#--- Tv ---
+#EXTINF:-1 , Tv
+https://tv.ddns.vn/tv/bbcearth/index.m3u8
