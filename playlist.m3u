@@ -1,7 +1,4 @@
 #EXTM3U
-
-#--- Tv ---
-#EXTINF:-1 , Cdn
-https://cdn-1.pishow.tv/live/1451/master.m3u8
-#EXTINF:-1 , Tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6a992d5529f459a44fee58c733255e86.webp", index
+#EXTGRP:LOGOS small:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6a992d5529f459a44fee58c733255e86.webp | medium:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6a992d5529f459a44fee58c733255e86.webp | large:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6a992d5529f459a44fee58c733255e86.webp
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
