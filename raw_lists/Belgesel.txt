@@ -1,3 +1,3 @@
 CCTV4-CHiNA,https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 BBC EARTH-ASiA,https://tv.ddns.vn/tv/bbcearth/index.m3u8
-
+BBC EARTH-ASiA-LifeStyle,https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
