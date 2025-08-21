@@ -44,10 +44,12 @@ def get_logo_url(channel_name):
 def download_and_save_logo(channel_name):
     safe_name = safe_filename(channel_name)
 
-    # Önce cache kontrolü
-    if channel_name in cache:
-        return cache[channel_name]  # varsa direkt döndür (None da olabilir)
+    # Cache’de logo varsa ve dosyalar mevcutsa direkt kullan
+    cached = cache.get(channel_name)
+    if cached and all(os.path.exists(os.path.join(LOGO_DIR, size, f"{safe_name}.webp")) for size in LOGO_SIZES):
+        return cached
 
+    # Yeni veya eksik logo varsa indir
     logo_url = get_logo_url(channel_name)
     if not logo_url:
         cache[channel_name] = None
@@ -64,13 +66,12 @@ def download_and_save_logo(channel_name):
                 resized.save(path, "WEBP")
                 saved_urls[size] = f"https://raw.githubusercontent.com/k33n26/iptv2/main/logos/{size}/{safe_name}.webp"
 
-            # Cache'e kaydet
+            # Cache’e kaydet
             cache[channel_name] = saved_urls
             return saved_urls
     except:
         cache[channel_name] = None
         return None
-    return None
 
 def generate_playlist():
     m3u = ["#EXTM3U\n"]
