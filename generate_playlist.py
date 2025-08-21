@@ -1,4 +1,3 @@
-
 import os, re, requests, hashlib
 from PIL import Image
 from io import BytesIO
@@ -55,7 +54,9 @@ def download_and_save_logo(channel_name):
     return None
 
 def generate_playlist():
+    # ✅ playlist.m3u dosyası her zaman sıfırdan oluşturulsun
     m3u = ["#EXTM3U\n"]
+
     for fname in os.listdir(RAW_DIR):
         if not fname.endswith(".txt"):
             continue
@@ -78,6 +79,8 @@ def generate_playlist():
                 if extgrp:
                     m3u.append(extgrp + "\n")
                 m3u.append(f"{url}\n")
+
+    # ✅ playlist.m3u tamamen sıfırlanır ve yeniden yazılır
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(m3u)
 
