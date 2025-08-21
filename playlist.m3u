@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5113086ff6643f95fd81062ba01ba41e.webp", cctv4
-#EXTGRP:LOGOS small:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5113086ff6643f95fd81062ba01ba41e.webp | medium:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5113086ff6643f95fd81062ba01ba41e.webp | large:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5113086ff6643f95fd81062ba01ba41e.webp
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c05a594b68692bbb5d09e966469540c8.webp",CCTV4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0d5a974b27f964b2e7f8507b49132df9.webp", BBC.Earth.Asia
-#EXTGRP:LOGOS small:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0d5a974b27f964b2e7f8507b49132df9.webp | medium:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0d5a974b27f964b2e7f8507b49132df9.webp | large:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0d5a974b27f964b2e7f8507b49132df9.webp
+#EXTINF:-1 group-title="Belgesel" ,BBC EARTH ASiA
 https://tv.ddns.vn/tv/bbcearth/BBC.Earth.Asia.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1b87225c734b0a934e9ce33ffc53c9ce.webp", bloomberg
-#EXTGRP:LOGOS small:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1b87225c734b0a934e9ce33ffc53c9ce.webp | medium:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1b87225c734b0a934e9ce33ffc53c9ce.webp | large:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1b87225c734b0a934e9ce33ffc53c9ce.webp
-https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
