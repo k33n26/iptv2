@@ -1,4 +1,4 @@
-import os, re, requests, hashlib
+import os, requests, hashlib
 from PIL import Image
 from io import BytesIO
 
@@ -16,13 +16,10 @@ LOGO_SIZES = {
 for size in LOGO_SIZES.keys():
     os.makedirs(os.path.join(LOGO_DIR, size), exist_ok=True)
 
-def clean_channel_name(link):
-    return os.path.splitext(os.path.basename(link.split("?")[0]))[0]
-
 def get_logo_url(channel_name):
     sources = [
-        f"https://logo.clearbit.com/{channel_name}.com",
-        f"https://www.google.com/s2/favicons?domain={channel_name}.com&sz=128",
+        f"https://logo.clearbit.com/{channel_name.replace(' ', '').lower()}.com",
+        f"https://www.google.com/s2/favicons?domain={channel_name.replace(' ', '').lower()}.com&sz=128",
     ]
     for url in sources:
         try:
@@ -34,7 +31,7 @@ def get_logo_url(channel_name):
     return None
 
 def download_and_save_logo(channel_name):
-    logo_url = get_logo_url(channel_name.lower())
+    logo_url = get_logo_url(channel_name)
     if not logo_url:
         return None
     try:
@@ -54,33 +51,26 @@ def download_and_save_logo(channel_name):
     return None
 
 def generate_playlist():
-    # ✅ playlist.m3u dosyası her zaman sıfırdan oluşturulsun
     m3u = ["#EXTM3U\n"]
 
     for fname in os.listdir(RAW_DIR):
         if not fname.endswith(".txt"):
             continue
         category = os.path.splitext(fname)[0]
-        with open(os.path.join(RAW_DIR, fname)) as f:
+        with open(os.path.join(RAW_DIR, fname), encoding="utf-8") as f:
             for line in f:
-                url = line.strip()
-                if not url:
+                line = line.strip()
+                if not line or "," not in line:
                     continue
-                channel = clean_channel_name(url)
-                logos = download_and_save_logo(channel)
+                channel_name, url = line.split(",", 1)
+                logos = download_and_save_logo(channel_name)
                 if logos:
                     logo_attr = f'tvg-logo="{logos["medium"]}"'
-                    extra_logos = " | ".join([f"{k}:{v}" for k, v in logos.items()])
-                    extgrp = f'#EXTGRP:LOGOS {extra_logos}'
                 else:
                     logo_attr = ""
-                    extgrp = ""
-                m3u.append(f'#EXTINF:-1 group-title="{category}" {logo_attr}, {channel}\n')
-                if extgrp:
-                    m3u.append(extgrp + "\n")
+                m3u.append(f'#EXTINF:-1 group-title="{category}" {logo_attr},{channel_name}\n')
                 m3u.append(f"{url}\n")
 
-    # ✅ playlist.m3u tamamen sıfırlanır ve yeniden yazılır
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(m3u)
 
