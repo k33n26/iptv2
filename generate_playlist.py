@@ -46,7 +46,7 @@ def download_and_save_logo(channel_name):
 
     # Önce cache kontrolü
     if channel_name in cache:
-        return cache[channel_name]  # bulunduysa direkt döndür (bulunmadıysa None döner)
+        return cache[channel_name]  # varsa direkt döndür (None da olabilir)
 
     logo_url = get_logo_url(channel_name)
     if not logo_url:
@@ -86,7 +86,7 @@ def generate_playlist():
                     continue
                 channel_name, url = line.split(",", 1)
                 logos = download_and_save_logo(channel_name)
-                if logos:
+                if logos and "medium" in logos and logos["medium"]:
                     logo_attr = f'tvg-logo="{logos["medium"]}"'
                 else:
                     logo_attr = ""
