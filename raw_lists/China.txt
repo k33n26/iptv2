@@ -1,0 +1,1 @@
+CCTV4,https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8

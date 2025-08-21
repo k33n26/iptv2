@@ -1,0 +1,1 @@
+TVR,https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
