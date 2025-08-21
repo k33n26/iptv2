@@ -1,1 +1,13 @@
-{}
+{
+  "CCTV4-CHiNA": null,
+  "BBC EARTH-ASiA": null,
+  "BBC EARTH-ASiA-LifeStyle": null,
+  "BLOOMBERG TV": null,
+  "CNBC": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/aa11677d237b2c2b435fd7decac0d7ad.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/aa11677d237b2c2b435fd7decac0d7ad.webp"
+  },
+  "ALJAZEERA ENGLISH": null,
+  "TVR-Romania": null
+}
