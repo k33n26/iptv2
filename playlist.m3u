@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6a992d5529f459a44fee58c733255e86.webp", index
-#EXTGRP:LOGOS small:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6a992d5529f459a44fee58c733255e86.webp | medium:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6a992d5529f459a44fee58c733255e86.webp | large:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6a992d5529f459a44fee58c733255e86.webp
-https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5113086ff6643f95fd81062ba01ba41e.webp", cctv4
 #EXTGRP:LOGOS small:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5113086ff6643f95fd81062ba01ba41e.webp | medium:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5113086ff6643f95fd81062ba01ba41e.webp | large:https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5113086ff6643f95fd81062ba01ba41e.webp
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
