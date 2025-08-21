@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add playlist.m3u logos/*
+          git add playlist.m3u logos/* cache.json
           git commit -m "Otomatik playlist güncelleme" || echo "No changes to commit"
           git push
