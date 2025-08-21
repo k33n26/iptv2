@@ -1,17 +1,1 @@
 #EXTM3U
-#EXTINF:-1 group-title="Haber" ,BLOOMBERG TV
-https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",CNBC
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 group-title="Haber" ,ALJAZEERA ENGLISH
-https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
-#EXTINF:-1 group-title="Haber" ,WELT-ALMANYA
-https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1 group-title="General" ,TVR-Romania
-https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
-#EXTINF:-1 group-title="General" ,3SAT-Almanya
-https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 group-title="General" ,BBC-3
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:-1 group-title="General" ,BBC-4
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
