@@ -5,3 +5,7 @@ https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Haber" ,BLOOMBERG TV
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+#EXTINF:-1 group-title="Haber" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",CNBC
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 group-title="Haber" ,ALJAZEERA ENGLISH
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
