@@ -26,5 +26,33 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ef9a847178d6115213d30a23cec021cd.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef9a847178d6115213d30a23cec021cd.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ef9a847178d6115213d30a23cec021cd.webp"
-  }
+  },
+  "TVR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/25e20053ed7a0b71110207f5481bbe96.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25e20053ed7a0b71110207f5481bbe96.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/25e20053ed7a0b71110207f5481bbe96.webp"
+  },
+  "IUNIOR TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c5357b63bd7b3f64ac8e17680aa532b7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c5357b63bd7b3f64ac8e17680aa532b7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c5357b63bd7b3f64ac8e17680aa532b7.webp"
+  },
+  "BBC EARTH": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/344b85e14839932bf8b647489dc4cba8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/344b85e14839932bf8b647489dc4cba8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/344b85e14839932bf8b647489dc4cba8.webp"
+  },
+  "BBC-LifeStyle": null,
+  "Leman Bleu": null,
+  "RMC Story": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d7a625277de4970b77e868e3b20b0979.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d7a625277de4970b77e868e3b20b0979.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d7a625277de4970b77e868e3b20b0979.webp"
+  },
+  "CCTV4": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c05a594b68692bbb5d09e966469540c8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c05a594b68692bbb5d09e966469540c8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c05a594b68692bbb5d09e966469540c8.webp"
+  },
+  "El Fadjer TV": null
 }
