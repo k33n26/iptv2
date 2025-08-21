@@ -1,10 +1,11 @@
-import os, requests, hashlib
+import os, requests, hashlib, json
 from PIL import Image
 from io import BytesIO
 
 RAW_DIR = "raw_lists"
 LOGO_DIR = "logos"
 OUTPUT_FILE = "playlist.m3u"
+CACHE_FILE = "cache.json"
 
 LOGO_SIZES = {
     "small": (64, 64),
@@ -15,6 +16,13 @@ LOGO_SIZES = {
 # Klasörleri hazırla
 for size in LOGO_SIZES.keys():
     os.makedirs(os.path.join(LOGO_DIR, size), exist_ok=True)
+
+# Cache yükle
+if os.path.exists(CACHE_FILE):
+    with open(CACHE_FILE, "r", encoding="utf-8") as f:
+        cache = json.load(f)
+else:
+    cache = {}
 
 def safe_filename(channel_name):
     return hashlib.md5(channel_name.encode()).hexdigest()
@@ -36,16 +44,13 @@ def get_logo_url(channel_name):
 def download_and_save_logo(channel_name):
     safe_name = safe_filename(channel_name)
 
-    # Eğer logo önceden kaydedilmişse tekrar indirme
-    medium_path = os.path.join(LOGO_DIR, "medium", f"{safe_name}.webp")
-    if os.path.exists(medium_path):
-        return {
-            size: f"https://raw.githubusercontent.com/k33n26/iptv2/main/logos/{size}/{safe_name}.webp"
-            for size in LOGO_SIZES.keys()
-        }
+    # Önce cache kontrolü
+    if channel_name in cache:
+        return cache[channel_name]  # bulunduysa direkt döndür (bulunmadıysa None döner)
 
     logo_url = get_logo_url(channel_name)
     if not logo_url:
+        cache[channel_name] = None
         return None
 
     try:
@@ -58,8 +63,12 @@ def download_and_save_logo(channel_name):
                 path = os.path.join(LOGO_DIR, size, f"{safe_name}.webp")
                 resized.save(path, "WEBP")
                 saved_urls[size] = f"https://raw.githubusercontent.com/k33n26/iptv2/main/logos/{size}/{safe_name}.webp"
+
+            # Cache'e kaydet
+            cache[channel_name] = saved_urls
             return saved_urls
     except:
+        cache[channel_name] = None
         return None
     return None
 
@@ -86,6 +95,10 @@ def generate_playlist():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(m3u)
+
+    # Cache güncelle
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     generate_playlist()
