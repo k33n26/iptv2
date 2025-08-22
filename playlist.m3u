@@ -77,3 +77,5 @@ https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 #EXTINF:-1 group-title="Cezayir" ,El Fadjer TV
 https://stream.wsla.top/play/1.m3u8
+#EXTINF:-1 group-title="Fas" ,Al Maghribia
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
