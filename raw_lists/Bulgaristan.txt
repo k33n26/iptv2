@@ -1,0 +1,12 @@
+This-is-Bulgaria,https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
+AGRO-TV,https://restr2.bgtv.bg/agro/hls/agro.m3u8
+Travel-TV,https://streamer103.neterra.tv/travel/travel_SD.m3u8
+NOVA-TV,https://e20-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTEzODg7QT0xO0s9MztQPTAxMTEwO1M9MTE3MmQ4YjhkNjcwMGRhY2RlYzdiOGEzY2RlMzJhNGViZjNiOTY4ZA==/chunklist.m3u8
+NOVA-NEWS,https://e112-ts.cdn.bg/ntv/fls/NNHD.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTE0NjI7QT0xO0s9MztQPTAxMTEwO1M9ZTEwMGJmYTYxMmQxMmQxYmIyNTA5YzI4ZDgyOWNkNTM4NTJmNWFjOA==/chunklist.m3u8
+BNT4,https://e104-ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTE1MDU7QT0xO0s9MztQPTAxMTEwO1M9MDMwMjM2ZDFmZTkxNzljOGFkMGNhOTM4ZWE4NzQ0ZjI1YWQ5Yjc3Yw==/chunklist.m3u8
+TV1,https://tv1.cloudcdn.bg/temp/livestream-720p.m3u8
+EURONEWS,https://e101-ts.cdn.bg/euronews/fls/euronews.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTE2MDk7QT0xO0s9MztQPTAxMTEwO1M9OWE1MDc0MDlmZGQ5ZWE0OTU2Yzg5NTJkZjIyNTY1ZjIyMDA4NzkyMw==/chunklist.m3u8
+TV-SHUMEN,https://www.tvshumen.tv/hls/stream1.m3u8
+RM-TV,https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+DTV,http://130.185.192.2/n/dtv/index.m3u8?st=GZQaCAXO75iEa37BP7LGNg&e=1755873846
+TVART,https://cdn2.invivo.bg/artfrwbsitfrnglpvlv/tracks-v1a1/mono.m3u8

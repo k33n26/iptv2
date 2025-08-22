@@ -1,0 +1,8 @@
+BRT1,https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist_w78971976.m3u8
+BRT2,https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w1555413252.m3u8
+KIBRIS-TV,https://old.kuzeykibris.tv/m3u8/kktv.m3u8
+ADA-TV,https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w626046447.m3u8?hash=2bece92a3c67865eef19d8509a254589
+TV-2020,https://yayin1.canlitv.fun/canlitv/tv2020.stream/chunklist_w223406649.m3u8?hash=2bece92a3c67865eef19d8509a254589
+GENC-TV,https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w1313138945.m3u8?hash=2bece92a3c67865eef19d8509a254589
+KANAL-T,https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist_w561528257.m3u8
+KANAL-SIM,https://cdn-tr.tivimivi.com//streams/142/1920x1080/index.m3u8

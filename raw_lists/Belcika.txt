@@ -1,0 +1,6 @@
+ATV,https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+BX1,https://59959724487e3.streamlock.net/stream/live/chunklist_w901891554.m3u8
+BRUZZ,https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
+Matélé-Tv,https://live.matele.be/hls/live.m3u8
+FOCUS,https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AQ5jzw.smil/chunklist_b6000000.m3u8
+WTV,https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ALogzX.smil/chunklist_b6000000.m3u8

@@ -1,0 +1,4 @@
+Tropoja-Tv,https://live.prostream.al/al/smil:tropojatv.smil/chunklist_w829554787_b262800_sleng.m3u8
+Vizionplus-Tv,https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
+Scan-Tv,https://cdn-media-content.onestream.studio/content/hls/live/live_1529414_146hefdi9/hls.m3u8
+NTV Televizion,https://protokolldns.xyz/ntv.l.i.v.e5547892023/tracks-v1a1/mono.m3u8

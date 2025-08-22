@@ -5,3 +5,4 @@ Animaux,https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3
 AB 1,https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 LCI,https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 KTO,https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+Fashion TV,https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8

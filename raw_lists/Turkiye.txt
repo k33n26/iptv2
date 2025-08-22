@@ -1,4 +1,4 @@
-TRT-1,https://tv-trt1.medya.trt.com.tr/master.m3u8
+TRT-1,https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 TRT-2,https://tv-trt2.medya.trt.com.tr/master.m3u8
 TRT-BELGESEL,https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 TRT-NOSTALJI,https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
@@ -19,14 +19,19 @@ SUPERTURK-MAX,http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 TABII-TV,https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 Bİ-KANAL,https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 CINE1,https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-SDM,https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+SDM-SINEMA,https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+SDM-BELGESEL,https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 TIVI6,https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 CINE6-MAX,https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 CINE5,https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist.m3u8
 ONS-TV,https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 RIZETURK-TV,https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 ISVICRE-TV,https://i41.ozelip.com:3269/hybrid/play.m3u8
+AKTIF-TV,https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
+VIYANA-TV,https://radyotelekomtv.com/player/m3u8/f822defe91bc1ef8b8444d512d234354/chunklist_w1886573229.m3u8
 PLAY-TV,https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+BALKAN-TURK,http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+HOCWAN-TV,https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 FX,https://saran-live.ercdn.net/fx/index.m3u8
 FX(2),https://kablosistem.vercel.app/index.m3u8?id=120
 LIFE-TV,https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
@@ -78,6 +83,7 @@ NAT-GEO-WILD(2),https://kablosistem.vercel.app/index.m3u8?id=84
 DA-VINCI,https://kablosistem.vercel.app/index.m3u8?id=137
 TLC,https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 DMAX,https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+YABAN-TV,https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1882152028.m3u8?hash=2bece92a3c67865eef19d8509a254589
 CGTN-DOCUMENTRY,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 CGTN-DOC,https://kablosistem.vercel.app/index.m3u8?id=91
 VIZI-BELGESEL,https://goldvod.org/tv/uyanik?id=96
