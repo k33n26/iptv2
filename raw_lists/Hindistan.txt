@@ -1,1 +1,2 @@
 9X Jalwa,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+Chumbak TV,https://cdn-1.pishow.tv/live/1451/master.m3u8
