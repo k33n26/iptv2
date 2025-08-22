@@ -33,6 +33,8 @@ https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
 #EXTINF:-1 group-title="Hindistan" ,9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 group-title="Hindistan" ,Chumbak TV
+https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 group-title="Ingiltere" ,BBC-4
