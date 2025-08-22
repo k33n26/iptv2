@@ -6,3 +6,7 @@ AB 1,https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 LCI,https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 KTO,https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
 Fashion TV,https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
+NATURE-TIME,https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+NATURE-TIME(2),https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+TV5MONDE-VOYAGE,https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+TV5MONDE-VOYAGE(2),https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074

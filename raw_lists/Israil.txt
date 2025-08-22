@@ -1,0 +1,6 @@
+KAN11,https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
+CH12,https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1752661341~acl=%2f*~data=hdntl~hmac=e09c1483ec77a2693cdf91f3d04482b2f03783ccd927dc06cf238707eaae2c87/profileManifest.m3u8?_uid=57b95473-62fd-49a4-bfee-84b31ec6ce42&rK=b9&_did=faa42beff55d6fae254a02cc4447e70f3cc5471a
+CH13,https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+CH14,https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+MAKAN33,https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
+KAN-EDU,https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8

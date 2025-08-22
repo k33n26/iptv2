@@ -1,1 +1,3 @@
-ALJAZEERA ENGLISH,https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+ALJAZEERA-ENGLISH,https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+ALJAZEERA-DOCUMENTRY,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+

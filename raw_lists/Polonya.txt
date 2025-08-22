@@ -1,1 +1,4 @@
 TVP Polonia,https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
+TVP1,https://dokko1new.newkso.ru/dokko1/premium560/mono.m3u8
+TVP2,https://dokko1new.newkso.ru/dokko1/premium561/mono.m3u8
+TVN,https://dokko1new.newkso.ru/dokko1/premium565/mono.m3u8
