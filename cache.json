@@ -482,7 +482,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aaa972549319a1940b35a26a15f963aa.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/aaa972549319a1940b35a26a15f963aa.webp"
   },
-  "Ländle TV": null,
+  "Ländle TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b92057261c0fd573e30ed3dc7bd99acf.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b92057261c0fd573e30ed3dc7bd99acf.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b92057261c0fd573e30ed3dc7bd99acf.webp"
+  },
   "KRONEHIT-TV": null,
   "MELODIE-TV": null,
   "REDBULL-TV": null,
@@ -539,7 +543,11 @@
   "APLHA-TV": null,
   "BRT2": null,
   "KIBRIS-TV": null,
-  "ADA-TV": null,
+  "ADA-TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/009234703749e69a5194f91e538c5f26.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/009234703749e69a5194f91e538c5f26.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/009234703749e69a5194f91e538c5f26.webp"
+  },
   "TV-2020": null,
   "GENC-TV": null,
   "KANAL-T": null,

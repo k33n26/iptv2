@@ -39,7 +39,7 @@ https://edge1.edge.cdn.dorftv.at:8443/dorftv/live/chunklist_1_video_neaOlc7m_llh
 https://streamtest.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 group-title="Avusturya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aaa972549319a1940b35a26a15f963aa.webp",TV1
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269.m3u8
-#EXTINF:-1 group-title="Avusturya" ,Ländle TV
+#EXTINF:-1 group-title="Avusturya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b92057261c0fd573e30ed3dc7bd99acf.webp",Ländle TV
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 group-title="Avusturya" ,KRONEHIT-TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -48,9 +48,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
 #EXTINF:-1 group-title="Avusturya" ,REDBULL-TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="Ermenistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
-https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8?nimblesessionid=587282866
+https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ermenistan" ,1TV-News
-https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8?nimblesessionid=587282044
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ermenistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0e92a34bd2c0a81b3e842712f7ac3986.webp",SONG-TV
 https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Arnavutluk" ,Tropoja-Tv
@@ -117,7 +117,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist_w78971976.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w1555413252.m3u8
 #EXTINF:-1 group-title="K.Kibris" ,KIBRIS-TV
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
-#EXTINF:-1 group-title="K.Kibris" ,ADA-TV
+#EXTINF:-1 group-title="K.Kibris" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/009234703749e69a5194f91e538c5f26.webp",ADA-TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w626046447.m3u8?hash=2bece92a3c67865eef19d8509a254589
 #EXTINF:-1 group-title="K.Kibris" ,TV-2020
 https://yayin1.canlitv.fun/canlitv/tv2020.stream/chunklist_w223406649.m3u8?hash=2bece92a3c67865eef19d8509a254589
