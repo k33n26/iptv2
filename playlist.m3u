@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Azerbaycan" ,BAKU-TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fed5e00daee8b2fde5cebb566e9b6d26.webp",ANEWZ
-https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/chunklist_w1791458655_b3628000_sleng.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,CBC-TV
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,APA-TV
@@ -15,6 +13,8 @@ https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Romanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25e20053ed7a0b71110207f5481bbe96.webp",TVR
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
+#EXTINF:-1 group-title="Romanya" ,DIGI-SPORT1
+http://109.73.128.27/tk
 #EXTINF:-1 group-title="Italya" ,BOING HD
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c5357b63bd7b3f64ac8e17680aa532b7.webp",IUNIOR TV
@@ -25,6 +25,8 @@ https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/p
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Vietnam" ,BBC-LifeStyle
 https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/973b050c50fc6ac0cc62ffa7a942c657.webp",ORF
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.m3u8
 #EXTINF:-1 group-title="Avusturya" ,KRONE-TV
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_3400000=10003-mp4a_128000_deu=20000.m3u8
 #EXTINF:-1 group-title="Avusturya" ,OKTO-TV
@@ -47,6 +49,54 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
 #EXTINF:-1 group-title="Avusturya" ,REDBULL-TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT1
+https://speech8.anixa.tv/ert1CC/ert1CC/chunks.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT2
+https://speech8.anixa.tv/ert2CC/ert2CC/chunks.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT3
+https://speech8.anixa.tv/ert3CC/ert3CC/chunks.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT-WORLD
+https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT-NEWS
+https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT-KIDS
+http://hbbtvapp.ert.gr/stream.php/v/vid_kidstv-hbbtv_mpeg.2ts
+#EXTINF:-1 group-title="Yunanistan" ,ERT-MUSIC
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
+#EXTINF:-1 group-title="Yunanistan" ,ALPHA-TV
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ANT1-HD
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ANT1-SD
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,SPORTS1
+https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1da5fee6acf1ae161b61b0ebd90cf4f0.webp",SKAI
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,STAR-INT
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/353a62ade4ec40c0e638dd974dea0b3f.webp",STAR-HD
+https://livestar.siliconweb.com/media/star4/star4.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,STAR-C
+http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f589eafcf087c11af27e475bafb047fa.webp",MEGA
+https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,MEGA-NEWS
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,MAK-TV
+https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,OPEN-TV
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5fecb1e746f2a94181b3e52b8314a75a.webp",ATTICA
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,SIGMA-TV
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1d408da87e4c838f8915be22bc56387c.webp",OMEGA
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cc1f23c43e08c2e17f4815e757f3f83b.webp",EXPLORE
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2ca95997d1014e15fe21fb77d3a80514.webp",AEOLOS
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="Ermenistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ermenistan" ,1TV-News
@@ -85,12 +135,40 @@ https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/43151260943da1adc32057346a36c6fc.webp",Fashion TV
 https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f2d405982679b071c32fd0417c46a2a.webp",NATURE-TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,NATURE-TIME(2)
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,TV5MONDE-VOYAGE
+https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+#EXTINF:-1 group-title="Fransa" ,TV5MONDE-VOYAGE(2)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
 #EXTINF:-1 group-title="Kosova" ,RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c05a594b68692bbb5d09e966469540c8.webp",CCTV4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+#EXTINF:-1 group-title="China" ,CGTN-DOCUMENTRY
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 group-title="Polonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5193bdfb64ae26e83f832ffd1985f85d.webp",TVP Polonia
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
+#EXTINF:-1 group-title="Polonya" ,TVP1
+https://dokko1new.newkso.ru/dokko1/premium560/mono.m3u8
+#EXTINF:-1 group-title="Polonya" ,TVP2
+https://dokko1new.newkso.ru/dokko1/premium561/mono.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/acf93349a496b825bdde306eb527d1e7.webp",TVN
+https://dokko1new.newkso.ru/dokko1/premium565/mono.m3u8
+#EXTINF:-1 group-title="Israil" ,KAN11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 group-title="Israil" ,CH12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1752661341~acl=%2f*~data=hdntl~hmac=e09c1483ec77a2693cdf91f3d04482b2f03783ccd927dc06cf238707eaae2c87/profileManifest.m3u8?_uid=57b95473-62fd-49a4-bfee-84b31ec6ce42&rK=b9&_did=faa42beff55d6fae254a02cc4447e70f3cc5471a
+#EXTINF:-1 group-title="Israil" ,CH13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 group-title="Israil" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9f6c469304543057850c21748dd9f9d8.webp",CH14
+https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Israil" ,MAKAN33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 group-title="Israil" ,KAN-EDU
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 group-title="Belcika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/df13ed57843877b21ad969184ab6888f.webp",ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Belcika" ,BX1
@@ -107,6 +185,8 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:-1 group-title="Hindistan" ,Chumbak TV
 https://cdn-1.pishow.tv/live/1451/master.m3u8
+#EXTINF:-1 group-title="Hindistan" ,WION-NEWS
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="G.Kibris" ,RIKSAT
 https://am8.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=5178585
 #EXTINF:-1 group-title="G.Kibris" ,APLHA-TV
@@ -161,6 +241,8 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ee2a1b20c48c26e3d02457160d526db4.webp",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#EXTINF:-1 group-title="Sirbistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/47e4dbed638f2371adb075c824da6c5c.webp",HAPPY-TV
+https://stream1.happytv.rs/Happytv/myStream/chunklist_w1509443843.m3u8
 #EXTINF:-1 group-title="Saint Kitts ve Nevis" ,Television Caribbean
 https://live.kingdom-tv.com:3545/stream/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TRT-1
@@ -571,6 +653,8 @@ https://stream.rtvze.ba/live/123/123-301902.ts
 https://parh.rtrs.tv/tv/live/chunklist_w617800997.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/088f47d27aca1053823567d22df3a168.webp",3SAT
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 group-title="Almanya" ,3SAT(2)
+https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef9a847178d6115213d30a23cec021cd.webp",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 group-title="Almanya" ,RTL Super
@@ -579,6 +663,8 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 group-title="Amerika" ,TRAVEL-XP
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Luksemburg" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9f09594706f0260bb0316ff55b5b1a60.webp",RTL9
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 group-title="Isvicre" ,Carac 5
@@ -603,8 +689,10 @@ https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 #EXTINF:-1 group-title="Isvicre" ,SRF info
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 group-title="Katar" ,ALJAZEERA ENGLISH
+#EXTINF:-1 group-title="Katar" ,ALJAZEERA-ENGLISH
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+#EXTINF:-1 group-title="Katar" ,ALJAZEERA-DOCUMENTRY
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Cezayir" ,El Fadjer TV
 https://stream.wsla.top/play/1.m3u8
 #EXTINF:-1 group-title="Fas" ,Al Maghribia
