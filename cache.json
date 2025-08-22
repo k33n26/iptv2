@@ -91,5 +91,10 @@
   "TeleBarn": null,
   "SRF 2": null,
   "SRF 1": null,
-  "SRF info": null
+  "SRF info": null,
+  "KTO": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d98c342d91da43bdf2d7ab230a91068c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d98c342d91da43bdf2d7ab230a91068c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d98c342d91da43bdf2d7ab230a91068c.webp"
+  }
 }
