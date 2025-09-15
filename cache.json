@@ -199,7 +199,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4d181199df1df39c27dc9f4682d78d02.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4d181199df1df39c27dc9f4682d78d02.webp"
   },
-  "HABERGLOBAL": null,
+  "HABERGLOBAL": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a91c74859a87b987bc6cb87c3970f0a8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a91c74859a87b987bc6cb87c3970f0a8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a91c74859a87b987bc6cb87c3970f0a8.webp"
+  },
   "NTV": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ab8f5789d340620b89a3ace8eb2fee47.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ab8f5789d340620b89a3ace8eb2fee47.webp",
@@ -244,12 +248,20 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b718adec73e04ce3ec720dd11a06a308.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b718adec73e04ce3ec720dd11a06a308.webp"
   },
-  "DOCUSCREEN": null,
+  "DOCUSCREEN": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e73929e61cdd0e09f89f9b81ac2ae85f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e73929e61cdd0e09f89f9b81ac2ae85f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e73929e61cdd0e09f89f9b81ac2ae85f.webp"
+  },
   "NAT-GEO-CHANNEL": null,
   "NAT-GEO-CHANNEL(2)": null,
   "NAT-GEO-WILD": null,
   "NAT-GEO-WILD(2)": null,
-  "DA-VINCI": null,
+  "DA-VINCI": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/59789966a1a64898ea31dafc7bf1cee2.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/59789966a1a64898ea31dafc7bf1cee2.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/59789966a1a64898ea31dafc7bf1cee2.webp"
+  },
   "TLC": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e12a8b6e18ee3d67dc8153f4f4713a40.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",
@@ -450,7 +462,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/40b0165992c508339b5053c63ae02629.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/40b0165992c508339b5053c63ae02629.webp"
   },
-  "RUSSIA24": null,
+  "RUSSIA24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ceac23a39b103594140a1f7c6641ad38.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ceac23a39b103594140a1f7c6641ad38.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ceac23a39b103594140a1f7c6641ad38.webp"
+  },
   "PLANETA-RTR": null,
   "KBS-WORLD": null,
   "NHK-WORLD": null,
@@ -526,7 +542,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/43151260943da1adc32057346a36c6fc.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/43151260943da1adc32057346a36c6fc.webp"
   },
-  "BX1": null,
+  "BX1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d8664126beb49769b171a94c044f737c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d8664126beb49769b171a94c044f737c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d8664126beb49769b171a94c044f737c.webp"
+  },
   "BRUZZ": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d3e3a27a09aa9d2c618ec72e3fe76a13.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d3e3a27a09aa9d2c618ec72e3fe76a13.webp",
@@ -538,7 +558,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d417d2f9c3743990750dbf0334bb8408.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d417d2f9c3743990750dbf0334bb8408.webp"
   },
-  "WTV": null,
+  "WTV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e370a83aad21054e3036fd0f3ae73aba.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e370a83aad21054e3036fd0f3ae73aba.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e370a83aad21054e3036fd0f3ae73aba.webp"
+  },
   "RIKSAT": null,
   "APLHA-TV": null,
   "BRT2": null,
@@ -678,5 +702,8 @@
   "3SAT(2)": null,
   "TRAVEL-XP": null,
   "ALJAZEERA-ENGLISH": null,
-  "ALJAZEERA-DOCUMENTRY": null
+  "ALJAZEERA-DOCUMENTRY": null,
+  "KEMAL-SUNAL-TV": null,
+  "YESILCAM-TV": null,
+  "YOL-TV": null
 }
