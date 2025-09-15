@@ -582,7 +582,11 @@
   "Travel-TV": null,
   "NOVA-TV": null,
   "NOVA-NEWS": null,
-  "BNT4": null,
+  "BNT4": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a1a9d155c9ed902bfcb922470fc9ccbf.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a1a9d155c9ed902bfcb922470fc9ccbf.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a1a9d155c9ed902bfcb922470fc9ccbf.webp"
+  },
   "EURONEWS": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/91bce662dd2e03e014df0c53db5e3f1d.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/91bce662dd2e03e014df0c53db5e3f1d.webp",
@@ -632,7 +636,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1da5fee6acf1ae161b61b0ebd90cf4f0.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1da5fee6acf1ae161b61b0ebd90cf4f0.webp"
   },
-  "STAR-INT": null,
+  "STAR-INT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/fdcffce59d6b5a9e2bac6e1f2977e8c8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fdcffce59d6b5a9e2bac6e1f2977e8c8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/fdcffce59d6b5a9e2bac6e1f2977e8c8.webp"
+  },
   "STAR-HD": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/353a62ade4ec40c0e638dd974dea0b3f.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/353a62ade4ec40c0e638dd974dea0b3f.webp",

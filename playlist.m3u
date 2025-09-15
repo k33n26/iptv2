@@ -71,7 +71,7 @@ https://streamer103.neterra.tv/travel/travel_SD.m3u8
 https://e20-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTEzODg7QT0xO0s9MztQPTAxMTEwO1M9MTE3MmQ4YjhkNjcwMGRhY2RlYzdiOGEzY2RlMzJhNGViZjNiOTY4ZA==/chunklist.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,NOVA-NEWS
 https://e112-ts.cdn.bg/ntv/fls/NNHD.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTE0NjI7QT0xO0s9MztQPTAxMTEwO1M9ZTEwMGJmYTYxMmQxMmQxYmIyNTA5YzI4ZDgyOWNkNTM4NTJmNWFjOA==/chunklist.m3u8
-#EXTINF:-1 group-title="Bulgaristan" ,BNT4
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a1a9d155c9ed902bfcb922470fc9ccbf.webp",BNT4
 https://e104-ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTE1MDU7QT0xO0s9MztQPTAxMTEwO1M9MDMwMjM2ZDFmZTkxNzljOGFkMGNhOTM4ZWE4NzQ0ZjI1YWQ5Yjc3Yw==/chunklist.m3u8
 #EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aaa972549319a1940b35a26a15f963aa.webp",TV1
 https://tv1.cloudcdn.bg/temp/livestream-720p.m3u8
@@ -109,7 +109,7 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 #EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1da5fee6acf1ae161b61b0ebd90cf4f0.webp",SKAI
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 group-title="Yunanistan" ,STAR-INT
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fdcffce59d6b5a9e2bac6e1f2977e8c8.webp",STAR-INT
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/353a62ade4ec40c0e638dd974dea0b3f.webp",STAR-HD
 https://livestar.siliconweb.com/media/star4/star4.m3u8
@@ -318,15 +318,13 @@ https://kablosistem.vercel.app/index.m3u8?id=7
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/eb1c46d851c7415a7e3160c1bab256fd.webp",360-TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5d81f37c6cff843d8ed60f3b5e7312a6.webp",SOZCU-TV
-https://kablo-stream.koprulu.workers.dev/?id=szctv&extension=m3u8
-#EXTINF:-1 group-title="Turkiye" ,SOZCU-TV(2)
-https://kablosistem.vercel.app/index.m3u8?id=60
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/416edbd6654ba163d61fde782f74decd.webp",HALK-TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4107ab77a0cd3236db57e9e413100dbe.webp",TELE1
 http://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/954faa98c80f12f4da19299c5f908f93.webp",KRT
-https://kablosistem.vercel.app/index.m3u8?id=57
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Krt_Tv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,EKOL-TV
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,FLASHHABER-TV
