@@ -16,6 +16,8 @@ TRT-EBA,https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 MECLIS-TV,https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 SUPERTURK-MAX,http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+KEMAL-SUNAL-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
+YESILCAM-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
 TABII-TV,https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 Bİ-KANAL,https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 CINE1,https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -68,6 +70,7 @@ TVNET,https://kablosistem.vercel.app/index.m3u8?id=48
 AKIT-TV,https://kablosistem.vercel.app/index.m3u8?id=49
 TH-TURKHABER,https://kablosistem.vercel.app/index.m3u8?id=59
 TV100,https://kablosistem.vercel.app/index.m3u8?id=23
+YOL-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
 B-IZ-TV,http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
 TARIH-TV,https://kablosistem.vercel.app/index.m3u8?id=36
 DISCOVERY,https://kablosistem.vercel.app/index.m3u8?id=85
