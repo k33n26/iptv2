@@ -815,5 +815,12 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2005ec47a3aa728e4d36c89b11ccf973.webp"
   },
   "Xezer TV": null,
-  "ARB Gunes": null
+  "ARB Gunes": null,
+  "ONT": null,
+  "STV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3fac85a0445cab8e38d4613bd60078b7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3fac85a0445cab8e38d4613bd60078b7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3fac85a0445cab8e38d4613bd60078b7.webp"
+  },
+  "BELARUS 5": null
 }
