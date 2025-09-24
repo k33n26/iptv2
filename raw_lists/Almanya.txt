@@ -6,4 +6,7 @@ Br,https://mcdn.br.de/br/fs/bfs_sued/hls/int/master1080p5000.m3u8
 Saarland Fernsehen 1,https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/chunks.m3u8?nimblesessionid=1109933290
 SR,https://srfs.akamaized.net/hls/live/689649-b/srfsgeo/master-720p-3328.m3u8
 TG24,https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
+NITRO,https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQzNjY1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydGxuaXRyby9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmNjk2OTgyN2NkNzEzZTc2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbODRdfQ==.1aagQlX-7PLi2SGN8V_s4a28WCIYnNRbWlTLrCwdox5XJNacKCsGWn9fhVH6beiGb_ieT60PBWeBBDWZupXNnw==/live/eds/rtlnitro/browser-HLS8/rtlnitro-avc1_3000000=4.m3u8
+WDR,https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/master_3328.m3u8
+
 
