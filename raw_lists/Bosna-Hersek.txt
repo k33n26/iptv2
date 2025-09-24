@@ -3,4 +3,8 @@ ALJAZEERA-BALKAN,https://live-hls-web-ajb-fa.thehlive.com/AJB/01.m3u8
 N1-BIH,https://best-str.umn.cdn.united.cloud/stream?i=TgDwzn9bh9qOUHQ2o0p_wg&a=YEI0y-NdITJZJkrA3jI84i0FUcZ8YadaVxGXq3zh-Tj_uDRe38cr0T6Q_UFNTK8p8bp2EC_si01DSL1Ghqz9Y2rJGEXe-7MU3aglyeEZGWfUJh_u2FMZkUsggVAAl1LyDFL25FsRlcHO1KrIqEwI4tvmDsFpMs1ajA_qtwYqtATtnuZR9dXSAyR-chIhMoZ4JzRjNMM6vrWtFiCiwNI1UAeeN8JMw9BiSeOp5zQV-UaXyq6xrhh9FOb9-OLo0Msu&sp=n1info&u=n1info&session=61f0fb13-97d4-4761-aee9-d31f335eabf9&player=m3u8
 RTVHB,https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 TVZE,https://stream.rtvze.ba/live/123/123-301902.ts
+BHT 1,https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 RTRS-TV,https://parh.rtrs.tv/tv/live/chunklist_w617800997.m3u8
+NTV IC Kakanj,https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
+Televizija M,https://live.tv-m.net/hls/stream.m3u8
+RTRS plus,https://pluslive.rtrs.tv/plus/plus/chunklist_w1964455045.m3u8
