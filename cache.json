@@ -768,5 +768,12 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a93adea4e4e9dad0aadf08da85137c7b.webp"
   },
   "hr-fernsehen": null,
-  "l tv": null
+  "l tv": null,
+  "MDR (tokench)": null,
+  "Munchen TV": null,
+  "NDR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/30c6dd2394c54c684272a4dfe785a20a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/30c6dd2394c54c684272a4dfe785a20a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/30c6dd2394c54c684272a4dfe785a20a.webp"
+  }
 }

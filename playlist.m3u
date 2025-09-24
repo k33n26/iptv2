@@ -223,6 +223,12 @@ https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/chunks.m3u8
 https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master-720p-3200.m3u8
 #EXTINF:-1 group-title="Almanya" ,l tv
 https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8
+#EXTINF:-1 group-title="Almanya" ,MDR (tokench)
+https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQ0OTYyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9tZHIvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZDAwNjFjOTc2NzhmNWFkYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjExIiwic291cmNlcyI6WzQ4XX0=.RjsHLF647rjDu7VFtCWfZYP5UFU5T6dZheI7RU6u5kBXZtDn-yYoWZ17iDSNEHy8SSqPIfPqWZh8jR9Ufn6tlA==/live/eds/mdr/browser-HLS8/mdr-avc1_4000000=8.m3u8
+#EXTINF:-1 group-title="Almanya" ,Munchen TV
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunks.m3u8?nimblesessionid=1109945207
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/30c6dd2394c54c684272a4dfe785a20a.webp",NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master-1080p-5000.m3u8
 #EXTINF:-1 group-title="Belarus" ,BELARUS24
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
