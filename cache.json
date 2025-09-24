@@ -860,5 +860,49 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f633e5e80cdba1fc3dccfe17715c4a63.webp"
   },
   "France 2 (chtoken)": null,
-  "France 3 (chtoken)": null
+  "France 3 (chtoken)": null,
+  "Acheloos TV": null,
+  "ART TV": null,
+  "Ionian TV": null,
+  "Kontra Channel": null,
+  "One Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6b5fe11cf755a1b9b31ac196ea1957e0.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6b5fe11cf755a1b9b31ac196ea1957e0.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6b5fe11cf755a1b9b31ac196ea1957e0.webp"
+  },
+  "Syros TV1": null,
+  "Telekriti": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d5b01c383a2dccc10675339a25360274.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d5b01c383a2dccc10675339a25360274.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d5b01c383a2dccc10675339a25360274.webp"
+  },
+  "Thraki Net TV": null,
+  "Smile TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/65c7ca898bb8fad405b49301cde4ee08.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/65c7ca898bb8fad405b49301cde4ee08.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/65c7ca898bb8fad405b49301cde4ee08.webp"
+  },
+  "Alert TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/dffd043a36588fa9edc885aa14bf8094.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dffd043a36588fa9edc885aa14bf8094.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/dffd043a36588fa9edc885aa14bf8094.webp"
+  },
+  "Egnatia TV": null,
+  "TRT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0cb90c600ef1eb286fb4cd9437af8f03.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0cb90c600ef1eb286fb4cd9437af8f03.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0cb90c600ef1eb286fb4cd9437af8f03.webp"
+  },
+  "ALFA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4e44a149cf39b133b2808958a6ac5959.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4e44a149cf39b133b2808958a6ac5959.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4e44a149cf39b133b2808958a6ac5959.webp"
+  },
+  "IRIDA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/727447199784b3b2dff9d47a3269376f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/727447199784b3b2dff9d47a3269376f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/727447199784b3b2dff9d47a3269376f.webp"
+  },
+  "AELOS": null,
+  "Faros TV'": null
 }
