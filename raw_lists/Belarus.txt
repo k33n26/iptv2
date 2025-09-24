@@ -1,4 +1,5 @@
-BELARUS24,https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
+BELARUS24,https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1886902022_b5160000_sleng.m3u8
 ONT,https://stream.dc.beltelecom.by/ont/ont/chunklist_w1579685352.m3u8
 STV,https://edge59.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1830761472.m3u8
 BELARUS 5,https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w1764722635_b2660000_sleng.m3u8
+Perviy Informationniy,https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w153537162_b5160000_sleng.m3u8
