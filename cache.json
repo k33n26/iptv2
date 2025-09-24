@@ -904,5 +904,21 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/727447199784b3b2dff9d47a3269376f.webp"
   },
   "AELOS": null,
-  "Faros TV'": null
+  "Faros TV'": null,
+  "2TV": null,
+  "Imedi TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e66a3305b1dc9685e069329ebdbf763d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e66a3305b1dc9685e069329ebdbf763d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e66a3305b1dc9685e069329ebdbf763d.webp"
+  },
+  "Formula": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/313a6a3d25aa041ee3dc3cbd65d4f22b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/313a6a3d25aa041ee3dc3cbd65d4f22b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/313a6a3d25aa041ee3dc3cbd65d4f22b.webp"
+  },
+  "Palitra News": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4377ec7dc8eda73bea5cb1fa59737417.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4377ec7dc8eda73bea5cb1fa59737417.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4377ec7dc8eda73bea5cb1fa59737417.webp"
+  }
 }
