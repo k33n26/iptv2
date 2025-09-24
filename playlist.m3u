@@ -205,6 +205,20 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/int/master_1920p_5000.m3u8
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/chunklist_b3628000.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/21dba34d74f8b1cb8d42e34579c40946.webp",Augsburg
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_b3628000.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/84340a21394dadd10376bd2dc0c3d1cf.webp",Baden TV
+https://cdn.icu.de/rtplive/btv.stream/chunklist_w336307585.m3u8
+#EXTINF:-1 group-title="Almanya" ,Baden Tv Sud
+https://cdn.icu.de/rtplive/smil:btvsued.smil/chunklist_w802393217_b914000_sldeu.m3u8
+#EXTINF:-1 group-title="Almanya" ,Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master1080p5000.m3u8
+#EXTINF:-1 group-title="Almanya" ,ems TV
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/chunklist_w1186211973.m3u8
+#EXTINF:-1 group-title="Almanya" ,Erz-TV Stollberg
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/chunklist_w1642449910.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d8856505b37fccae52c73ebb32bef0b0.webp",Filstalwelle
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/chunklist_w993586443.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a93adea4e4e9dad0aadf08da85137c7b.webp",Franken Fernsehen
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/chunks.m3u8?nimblesessionid=1109943727
 #EXTINF:-1 group-title="Belarus" ,BELARUS24
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
