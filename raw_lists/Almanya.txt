@@ -10,6 +10,8 @@ RiC TV,https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8?nimbleses
 Alpha Tv,https://mcdn.br.de/br/fs/ard_alpha/hls/int/master_1920p_5000.m3u8
 Allgau TV,https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/chunklist_b3628000.m3u8
 Augsburg,https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_b3628000.m3u8
+Baden TV,https://cdn.icu.de/rtplive/btv.stream/chunklist_w336307585.m3u8
+
 
 
 
