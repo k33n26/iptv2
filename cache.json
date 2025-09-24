@@ -733,5 +733,11 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/12059bbe2efd0db58c85aaf149eb5132.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/12059bbe2efd0db58c85aaf149eb5132.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/12059bbe2efd0db58c85aaf149eb5132.webp"
-  }
+  },
+  "NITRO": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8f1791c9b730baba59b844ec9d657f5b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8f1791c9b730baba59b844ec9d657f5b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8f1791c9b730baba59b844ec9d657f5b.webp"
+  },
+  "WDR": null
 }

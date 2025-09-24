@@ -197,6 +197,10 @@ https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/chunks.m3u8
 https://srfs.akamaized.net/hls/live/689649-b/srfsgeo/master-720p-3328.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/12059bbe2efd0db58c85aaf149eb5132.webp",TG24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8f1791c9b730baba59b844ec9d657f5b.webp",NITRO
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQzNjY1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydGxuaXRyby9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmNjk2OTgyN2NkNzEzZTc2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbODRdfQ==.1aagQlX-7PLi2SGN8V_s4a28WCIYnNRbWlTLrCwdox5XJNacKCsGWn9fhVH6beiGb_ieT60PBWeBBDWZupXNnw==/live/eds/rtlnitro/browser-HLS8/rtlnitro-avc1_3000000=4.m3u8
+#EXTINF:-1 group-title="Almanya" ,WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/master_3328.m3u8
 #EXTINF:-1 group-title="Belarus" ,BELARUS24
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
