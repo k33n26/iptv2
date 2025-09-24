@@ -3,4 +3,9 @@ BX1,https://59959724487e3.streamlock.net/stream/live/chunklist_w901891554.m3u8
 BRUZZ,https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
 Matélé-Tv,https://live.matele.be/hls/live.m3u8
 FOCUS,https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AQ5jzw.smil/chunklist_b6000000.m3u8
+Kanaal Z,https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/chunklist_b5628000.m3u8
 WTV,https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ALogzX.smil/chunklist_b6000000.m3u8
+AB3 (chtoken),https://cache1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQ5NDYwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9hYjMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMzNjNzg2YzczNTQ5ODk2OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjM4Iiwic291cmNlcyI6WzM4XX0=.XgepUWKrHYQfI9e0qTwA-ngqV_8_iYotLEA7ip5ffGbtCBBgKW8masO3NnIQch3ZAQzd-EBf7zM5pFxerYHZNQ==/live/eds/ab3/browser-HLS8/ab3-avc1_4000000=10004.m3u8
+HLN Live,https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+LN24,https://live-ln24.digiteka.com/1911668011/tracks-v1a1/mono.ts.m3u8
+VTM,https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1_305_720p.m3u8
