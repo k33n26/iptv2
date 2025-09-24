@@ -29,8 +29,16 @@ https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
 https://stream1.happytv.rs/Happytv/myStream/chunklist_w1509443843.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c05a594b68692bbb5d09e966469540c8.webp",CCTV4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+#EXTINF:-1 group-title="China" ,CCTV4-Europe (chtoken)
+https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzUwMzY2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jY3R2NC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1NTE4NzMwMjMwYTg0NjllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.lW2p8Z1cjVvQk_CvxZ2vbAgAD8Hx4PFEHRLd5bUdMTj7Xx--jo4n3It0ZgObkihqIBmPeboUfpoetdF2RJBKjw==/live/eds/cctv4/browser-HLS8/cctv4-avc1_3000000=16.m3u8
 #EXTINF:-1 group-title="China" ,CGTN-DOCUMENTRY
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 group-title="China" ,CGTN-DOCUMENTRY
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master1080p.m3u8
+#EXTINF:-1 group-title="China" ,Heyuan Public TV
+https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="China" ,TV BRICS Chinese
+https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Fas" ,Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 group-title="Cezayir" ,El Fadjer TV
