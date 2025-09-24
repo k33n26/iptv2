@@ -157,6 +157,8 @@ https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/6.m3u8
 https://livecdn.euw1-0005.jwplive.com/live/sites/yXh2UIbN/media/KFXZ5tL6/live.isml/live-video=6499968.m3u8
 #EXTINF:-1 group-title="Danimarka" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c1746b81654ff9e9bd1b6f69adaf01de.webp",KVF
 https://w-live-edge2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w97408969_b6000000_slfao.m3u8
+#EXTINF:-1 group-title="Danimarka" ,TV2/Bornholm
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/live-video=6499968.m3u8
 #EXTINF:-1 group-title="Danimarka" ,KVF2
 https://w-live-edge1.kringvarp.fo/kvf-2_utland/_definst_/smil:kvf-2_utland.smil/chunklist_w1361134068_b6000000_slfao.m3u8
 #EXTINF:-1 group-title="Kosova" ,RTK 1
