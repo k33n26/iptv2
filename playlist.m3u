@@ -9,7 +9,7 @@ https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 group-title="Belcika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d417d2f9c3743990750dbf0334bb8408.webp",FOCUS
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AQ5jzw.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Belcika" ,Kanaal Z
+#EXTINF:-1 group-title="Belcika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/edff06d7305061f623676270bee7c110.webp",Kanaal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/chunklist_b5628000.m3u8
 #EXTINF:-1 group-title="Belcika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e370a83aad21054e3036fd0f3ae73aba.webp",WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ALogzX.smil/chunklist_b6000000.m3u8
@@ -297,8 +297,16 @@ https://best-str.umn.cdn.united.cloud/stream?i=TgDwzn9bh9qOUHQ2o0p_wg&a=YEI0y-Nd
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 group-title="Bosna-Hersek" ,TVZE
 https://stream.rtvze.ba/live/123/123-301902.ts
+#EXTINF:-1 group-title="Bosna-Hersek" ,BHT 1
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 group-title="Bosna-Hersek" ,RTRS-TV
 https://parh.rtrs.tv/tv/live/chunklist_w617800997.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" ,NTV IC Kakanj
+https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" ,Televizija M
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Bosna-Hersek" ,RTRS plus
+https://pluslive.rtrs.tv/plus/plus/chunklist_w1964455045.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TRT-1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TRT-2

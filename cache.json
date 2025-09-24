@@ -824,7 +824,11 @@
   },
   "BELARUS 5": null,
   "Perviy Informationniy": null,
-  "Kanaal Z": null,
+  "Kanaal Z": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/edff06d7305061f623676270bee7c110.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/edff06d7305061f623676270bee7c110.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/edff06d7305061f623676270bee7c110.webp"
+  },
   "AB3 (chtoken)": null,
   "HLN Live": null,
   "LN24": null,
@@ -832,5 +836,9 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/64c28aaf48b05cf27697aeb6afe2910d.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/64c28aaf48b05cf27697aeb6afe2910d.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/64c28aaf48b05cf27697aeb6afe2910d.webp"
-  }
+  },
+  "BHT 1": null,
+  "NTV IC Kakanj": null,
+  "Televizija M": null,
+  "RTRS plus": null
 }
