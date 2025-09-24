@@ -30,6 +30,8 @@ KiKA,https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master-1080p-5
 Nickelodeon,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 DW,https://dwamdstream103.akamaized.net/hls/live/2015526-b/dwstream103/stream05/streamPlaylist.m3u8
 World of Freesports,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/1080p-cc/index.m3u8
+ZDFinfo (chtoken),https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQ1ODI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy96ZGZpbmZvaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiODE1YWM3OWUzNTc5YWU5NCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6WzQ4XX0=.zOrdBqFkiOEN4D0RmLE_CL17oqc2Q85qWoX4YIV8xsK4SaVhrCj8A3EpCFTSMuMh8M1JTxoDPuPWzaVtk5-EPQ==/live/eds/zdfinfohd/browser-HLS8/zdfinfohd-avc1_4000000=6.m3u8
+
 
 
 
