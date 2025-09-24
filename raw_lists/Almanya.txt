@@ -23,6 +23,11 @@ MDR (tokench),https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpX
 Munchen TV,https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunks.m3u8?nimblesessionid=1109945207
 NDR,https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master-1080p-5000.m3u8
 Niederbayern TV,https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/chunklist_w1820610363_b3628000.m3u8
+noa4 Norderstedt,https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+Oberpfalz TV,https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/chunks.m3u8?nimblesessionid=1109946851
+SRF,https://58de7a369a9c4.streamlock.net/srf/stream_720p/chunklist_w2130302939.m3u8
+KiKA,https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master-1080p-5000.m3u8
+Nickelodeon,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
 
 
