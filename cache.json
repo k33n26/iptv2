@@ -845,5 +845,13 @@
   "Heyuan Public TV": null,
   "TV BRICS Chinese": null,
   "TV2/Bornholm": null,
-  "Onni TV": null
+  "Onni TV": null,
+  "MTV Uutiset": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f7db4aaaf606a6cbc3f736dfe9d388b3.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f7db4aaaf606a6cbc3f736dfe9d388b3.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f7db4aaaf606a6cbc3f736dfe9d388b3.webp"
+  },
+  "Yle Teema & Fem": null,
+  "Yle TV1": null,
+  "Yle TV2": null
 }
