@@ -823,5 +823,14 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3fac85a0445cab8e38d4613bd60078b7.webp"
   },
   "BELARUS 5": null,
-  "Perviy Informationniy": null
+  "Perviy Informationniy": null,
+  "Kanaal Z": null,
+  "AB3 (chtoken)": null,
+  "HLN Live": null,
+  "LN24": null,
+  "VTM": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/64c28aaf48b05cf27697aeb6afe2910d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/64c28aaf48b05cf27697aeb6afe2910d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/64c28aaf48b05cf27697aeb6afe2910d.webp"
+  }
 }
