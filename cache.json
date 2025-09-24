@@ -776,5 +776,18 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/30c6dd2394c54c684272a4dfe785a20a.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/30c6dd2394c54c684272a4dfe785a20a.webp"
   },
-  "Niederbayern TV": null
+  "Niederbayern TV": null,
+  "noa4 Norderstedt": null,
+  "Oberpfalz TV": null,
+  "SRF": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/aea3f76631696c4d478bc000fc9ea5ad.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aea3f76631696c4d478bc000fc9ea5ad.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/aea3f76631696c4d478bc000fc9ea5ad.webp"
+  },
+  "KiKA": null,
+  "Nickelodeon": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b11cc9ad84502b27a63fa7a8d813ef6a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b11cc9ad84502b27a63fa7a8d813ef6a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b11cc9ad84502b27a63fa7a8d813ef6a.webp"
+  }
 }
