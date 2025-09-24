@@ -1,0 +1,1 @@
+1TV,https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
