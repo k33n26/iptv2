@@ -163,6 +163,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.is
 https://w-live-edge1.kringvarp.fo/kvf-2_utland/_definst_/smil:kvf-2_utland.smil/chunklist_w1361134068_b6000000_slfao.m3u8
 #EXTINF:-1 group-title="Kosova" ,RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+#EXTINF:-1 group-title="Finlandiya" ,Onni TV
+https://onnitv.digitacdn.net/live/ott/onnitv/onnitv_channel-av720p.m3u8
 #EXTINF:-1 group-title="Israil" ,KAN11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 group-title="Israil" ,CH12
