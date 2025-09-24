@@ -393,7 +393,11 @@
   },
   "DISNEY-JUNIOR": null,
   "DISNEY-JUNIOR(2)": null,
-  "BABY-TV": null,
+  "BABY-TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/25316e82fcbb632375d1299047c31c99.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25316e82fcbb632375d1299047c31c99.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/25316e82fcbb632375d1299047c31c99.webp"
+  },
   "BABY-TV(2)": null,
   "MINIKA-COCUK": null,
   "MINIKA-GO": null,
@@ -719,5 +723,15 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8d37869ebc7af08a31df14fe3f48bee2.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8d37869ebc7af08a31df14fe3f48bee2.webp"
   },
-  "Saarland Fernsehen 1": null
+  "Saarland Fernsehen 1": null,
+  "SR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8cb2010d27e13509d364436256e972c0.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8cb2010d27e13509d364436256e972c0.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8cb2010d27e13509d364436256e972c0.webp"
+  },
+  "TG24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/12059bbe2efd0db58c85aaf149eb5132.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/12059bbe2efd0db58c85aaf149eb5132.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/12059bbe2efd0db58c85aaf149eb5132.webp"
+  }
 }

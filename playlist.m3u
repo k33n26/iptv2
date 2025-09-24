@@ -193,6 +193,10 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master1080p5000.m3u8
 #EXTINF:-1 group-title="Almanya" ,Saarland Fernsehen 1
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/chunks.m3u8?nimblesessionid=1109933290
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8cb2010d27e13509d364436256e972c0.webp",SR
+https://srfs.akamaized.net/hls/live/689649-b/srfsgeo/master-720p-3328.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/12059bbe2efd0db58c85aaf149eb5132.webp",TG24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
 #EXTINF:-1 group-title="Belarus" ,BELARUS24
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
@@ -555,7 +559,7 @@ https://kablosistem.vercel.app/index.m3u8?id=118
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,DISNEY-JUNIOR(2)
 https://kablosistem.vercel.app/index.m3u8?id=132
-#EXTINF:-1 group-title="Turkiye" ,BABY-TV
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25316e82fcbb632375d1299047c31c99.webp",BABY-TV
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BABY-TV(2)
 https://kablosistem.vercel.app/index.m3u8?id=131
