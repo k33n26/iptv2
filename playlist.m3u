@@ -229,6 +229,8 @@ https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiO
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunks.m3u8?nimblesessionid=1109945207
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/30c6dd2394c54c684272a4dfe785a20a.webp",NDR
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master-1080p-5000.m3u8
+#EXTINF:-1 group-title="Almanya" ,Niederbayern TV
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/chunklist_w1820610363_b3628000.m3u8
 #EXTINF:-1 group-title="Belarus" ,BELARUS24
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
