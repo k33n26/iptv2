@@ -345,6 +345,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:-1 group-title="Hindistan" ,WION-NEWS
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bosna-Hersek" ,RTV-BN
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 group-title="Bosna-Hersek" ,ALJAZEERA-BALKAN
