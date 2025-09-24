@@ -613,8 +613,14 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,NTV(NAHCIVAN)
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Azerbaycan" ,Medeniyyet TV
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,KANAL35
 https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Azerbaycan" ,Alvin Channel
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1189471111.m3u8
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d6308321b10e1c1466474b9248802268.webp",ARB
+http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1758781316&playlistlength=5&shift=0&sid=coder_62&token=17f583301528fb017b8e07106d1e7a07&user=37076
 #EXTINF:-1 group-title="Avusturya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/973b050c50fc6ac0cc62ffa7a942c657.webp",ORF
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.m3u8
 #EXTINF:-1 group-title="Avusturya" ,KRONE-TV

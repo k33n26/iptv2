@@ -799,5 +799,12 @@
   "ZDFinfo (chtoken)": null,
   "ZDFneo": null,
   "VOX (chtoken)": null,
-  "TR-Sports": null
+  "TR-Sports": null,
+  "Medeniyyet TV": null,
+  "Alvin Channel": null,
+  "ARB": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d6308321b10e1c1466474b9248802268.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d6308321b10e1c1466474b9248802268.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d6308321b10e1c1466474b9248802268.webp"
+  }
 }
