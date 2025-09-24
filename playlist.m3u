@@ -252,13 +252,15 @@ https://cache1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIx
 #EXTINF:-1 group-title="Almanya" ,VOX (chtoken)
 https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQ1OTIwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy92b3gvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiN2M4N2FmZTU3ZGY5MWVlNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjIiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6Wzg0XX0=.7uTxqn2mShB8vrzKLxpAWy2BaQ-3Q2EDHqPvnZIc0XKD-8oSrPrjpO5pBzTtyh2UPqxlHYOx8rkCHL8PWj7EGQ==/live/eds/vox/browser-HLS8/vox-avc1_2500000=2.m3u8
 #EXTINF:-1 group-title="Belarus" ,BELARUS24
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1886902022_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Belarus" ,ONT
 https://stream.dc.beltelecom.by/ont/ont/chunklist_w1579685352.m3u8
 #EXTINF:-1 group-title="Belarus" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3fac85a0445cab8e38d4613bd60078b7.webp",STV
 https://edge59.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1830761472.m3u8
 #EXTINF:-1 group-title="Belarus" ,BELARUS 5
 https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w1764722635_b2660000_sleng.m3u8
+#EXTINF:-1 group-title="Belarus" ,Perviy Informationniy
+https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w153537162_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 group-title="Ingiltere" ,BBC-4
