@@ -7,3 +7,8 @@ Medeniyyet TV,https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8
 KANAL35,https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8
 Alvin Channel,https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1189471111.m3u8
 ARB,http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1758781316&playlistlength=5&shift=0&sid=coder_62&token=17f583301528fb017b8e07106d1e7a07&user=37076
+Azad TV,https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+Dunya TV,http://149.255.152.199/dunya.m3u8?bandwidth=2096&e=1758781314&playlistlength=5&shift=0&sid=coder_53&token=cea9e3ca5b078cda0df3f56d12fa601a&user=37076
+Space TV,http://149.255.152.199/space.m3u8?bandwidth=6096&e=1758781309&playlistlength=5&shift=0&sid=coder_75&token=58d24a13c9fe221393a026fc08e1510f&user=37076
+Xezer TV,http://149.255.152.199/xazer.m3u8?bandwidth=2096&e=1758781305&playlistlength=5&shift=0&sid=coder_53&token=1c845f2b8658feb3c15563de15431fd0&user=37076
+ARB Gunes,http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1758781321&playlistlength=5&shift=0&sid=coder_52&token=3565b764b314cdadd594f1945db67dfb&user=37076
