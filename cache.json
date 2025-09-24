@@ -713,5 +713,11 @@
   "ALJAZEERA-DOCUMENTRY": null,
   "KEMAL-SUNAL-TV": null,
   "YESILCAM-TV": null,
-  "YOL-TV": null
+  "YOL-TV": null,
+  "Br": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8d37869ebc7af08a31df14fe3f48bee2.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8d37869ebc7af08a31df14fe3f48bee2.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8d37869ebc7af08a31df14fe3f48bee2.webp"
+  },
+  "Saarland Fernsehen 1": null
 }
