@@ -249,6 +249,8 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/1080p-cc/index.m3
 https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQ1ODI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy96ZGZpbmZvaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiODE1YWM3OWUzNTc5YWU5NCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6WzQ4XX0=.zOrdBqFkiOEN4D0RmLE_CL17oqc2Q85qWoX4YIV8xsK4SaVhrCj8A3EpCFTSMuMh8M1JTxoDPuPWzaVtk5-EPQ==/live/eds/zdfinfohd/browser-HLS8/zdfinfohd-avc1_4000000=6.m3u8
 #EXTINF:-1 group-title="Almanya" ,ZDFneo
 https://cache1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQ1ODc1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy96ZGZuZW9oZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJhYTRjZjA5ZWU1Y2YwNTExIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzgiLCJzb3VyY2VzIjpbODRdfQ==.WjKOTems949iHSpew2-exghovXYhDORDdHZPExhx0F6P6VuR8nh5ZPZnF_41dH4NG7BqD93ZlmJHarX2HI5jZg==/live/eds/zdfneohd/browser-HLS8/zdfneohd-avc1_4000000=10000.m3u8
+#EXTINF:-1 group-title="Almanya" ,VOX (chtoken)
+https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQ1OTIwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy92b3gvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiN2M4N2FmZTU3ZGY5MWVlNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjIiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6Wzg0XX0=.7uTxqn2mShB8vrzKLxpAWy2BaQ-3Q2EDHqPvnZIc0XKD-8oSrPrjpO5pBzTtyh2UPqxlHYOx8rkCHL8PWj7EGQ==/live/eds/vox/browser-HLS8/vox-avc1_2500000=2.m3u8
 #EXTINF:-1 group-title="Belarus" ,BELARUS24
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
@@ -353,28 +355,10 @@ http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b8b5089c70ae62534970e2d8aa67e96d.webp",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,FX(2)
-https://kablosistem.vercel.app/index.m3u8?id=120
 #EXTINF:-1 group-title="Turkiye" ,LIFE-TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,FILM-SCREEN
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Turkiye" ,FILM-SCREEN(2)
-https://kablosistem.vercel.app/index.m3u8?id=122
-#EXTINF:-1 group-title="Turkiye" ,EPİC-DRAMA
-https://kablosistem.vercel.app/index.m3u8?id=121
-#EXTINF:-1 group-title="Turkiye" ,SINEMA-TV
-https://kablosistem.vercel.app/index.m3u8?id=2
-#EXTINF:-1 group-title="Turkiye" ,SINEMA-AKSIYON
-https://kablosistem.vercel.app/index.m3u8?id=3
-#EXTINF:-1 group-title="Turkiye" ,SINEMA-YERLI
-https://kablosistem.vercel.app/index.m3u8?id=4
-#EXTINF:-1 group-title="Turkiye" ,SINEMA-AILE
-https://kablosistem.vercel.app/index.m3u8?id=5
-#EXTINF:-1 group-title="Turkiye" ,SINEMA-1001
-https://kablosistem.vercel.app/index.m3u8?id=6
-#EXTINF:-1 group-title="Turkiye" ,SINEMA-KOMEDI
-https://kablosistem.vercel.app/index.m3u8?id=7
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/eb1c46d851c7415a7e3160c1bab256fd.webp",360-TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5d81f37c6cff843d8ed60f3b5e7312a6.webp",SOZCU-TV
@@ -398,7 +382,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ab8f5789d340620b89a3ace8eb2fee47.webp",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,CNN-TURK
-https://kablosistem.vercel.app/index.m3u8?id=42
+
 #EXTINF:-1 group-title="Turkiye" ,KANAL-24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TGRT-HABER
@@ -406,49 +390,31 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BLOOMBERG-HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,EKOTURK-TV
-https://kablosistem.vercel.app/index.m3u8?id=62
+
 #EXTINF:-1 group-title="Turkiye" ,ULUSAL-TV
-https://kablosistem.vercel.app/index.m3u8?id=25
+
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/640e65b0ed9238a849a3857bce2f57a8.webp",AHABER
-https://kablosistem.vercel.app/index.m3u8?id=40
+
 #EXTINF:-1 group-title="Turkiye" ,ULKE-TV
-https://kablosistem.vercel.app/index.m3u8?id=47
+
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c28d8ba9a64e86ef36509a4d30d5ee9d.webp",TVNET
-https://kablosistem.vercel.app/index.m3u8?id=48
+
 #EXTINF:-1 group-title="Turkiye" ,AKIT-TV
-https://kablosistem.vercel.app/index.m3u8?id=49
+
 #EXTINF:-1 group-title="Turkiye" ,TH-TURKHABER
-https://kablosistem.vercel.app/index.m3u8?id=59
+
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/eaa333234f37d7663ef2fb1f10e3c151.webp",TV100
-https://kablosistem.vercel.app/index.m3u8?id=23
+
 #EXTINF:-1 group-title="Turkiye" ,YOL-TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,B-IZ-TV
 http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
-#EXTINF:-1 group-title="Turkiye" ,TARIH-TV
-https://kablosistem.vercel.app/index.m3u8?id=36
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f5be5d6686f2b4da516564958f23fbbe.webp",DISCOVERY
-https://kablosistem.vercel.app/index.m3u8?id=85
-#EXTINF:-1 group-title="Turkiye" ,VIASAT-HISTORY
-https://kablosistem.vercel.app/index.m3u8?id=87
 #EXTINF:-1 group-title="Turkiye" ,VIASAT-EXPLORE
 https://kablosistem.vercel.app/index.m3u8?id=90
-#EXTINF:-1 group-title="Turkiye" ,LOVE-NATURE
-https://kablosistem.vercel.app/index.m3u8?id=88
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b718adec73e04ce3ec720dd11a06a308.webp",ID
-https://kablosistem.vercel.app/index.m3u8?id=86
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e73929e61cdd0e09f89f9b81ac2ae85f.webp",DOCUSCREEN
-https://kablosistem.vercel.app/index.m3u8?id=89
 #EXTINF:-1 group-title="Turkiye" ,NAT-GEO-CHANNEL
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,NAT-GEO-CHANNEL(2)
-https://kablosistem.vercel.app/index.m3u8?id=83
 #EXTINF:-1 group-title="Turkiye" ,NAT-GEO-WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,NAT-GEO-WILD(2)
-https://kablosistem.vercel.app/index.m3u8?id=84
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/59789966a1a64898ea31dafc7bf1cee2.webp",DA-VINCI
-https://kablosistem.vercel.app/index.m3u8?id=137
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,DMAX
@@ -457,16 +423,10 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1882152028.m3u8?hash=2bece92a3c67865eef19d8509a254589
 #EXTINF:-1 group-title="Turkiye" ,CGTN-DOCUMENTRY
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 group-title="Turkiye" ,CGTN-DOC
-https://kablosistem.vercel.app/index.m3u8?id=91
 #EXTINF:-1 group-title="Turkiye" ,VIZI-BELGESEL
 https://goldvod.org/tv/uyanik?id=96
 #EXTINF:-1 group-title="Turkiye" ,YAZ-TV
 https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4211ef9b0c6fa843e4f93c1de716cb71.webp",KITCHEN-TV
-https://kablosistem.vercel.app/index.m3u8?id=123
-#EXTINF:-1 group-title="Turkiye" ,MYZEN-TV
-https://kablosistem.vercel.app/index.m3u8?id=124
 #EXTINF:-1 group-title="Turkiye" ,TGRT-BELGESEL
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 group-title="Turkiye" ,CİFTCİ-TV
@@ -484,7 +444,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/df13ed57843877b21ad969184ab6888f.webp",ATV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,A2-TV
-https://kablosistem.vercel.app/index.m3u8?id=17
+
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4fe208d489f2f088c19d0d8bc4e1e448.webp",TV-8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4fe208d489f2f088c19d0d8bc4e1e448.webp",TV-8
@@ -508,23 +468,19 @@ http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 group-title="Turkiye" ,KKTC-TV
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,KANAL-B
-https://kablosistem.vercel.app/index.m3u8?id=28
+
 #EXTINF:-1 group-title="Turkiye" ,BRT1
-https://kablosistem.vercel.app/index.m3u8?id=50
+
 #EXTINF:-1 group-title="Turkiye" ,TV42
-https://kablosistem.vercel.app/index.m3u8?id=63
+
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/900d3af3790b57d677db0b857b372c3b.webp",TV5
-https://kablosistem.vercel.app/index.m3u8?id=64
+
 #EXTINF:-1 group-title="Turkiye" ,AS-TV
-https://kablosistem.vercel.app/index.m3u8?id=67
+
 #EXTINF:-1 group-title="Turkiye" ,EUROSPORT-1
 https://seven.4928d54d950ee70q27.lat/yayineu1.m3u8
-#EXTINF:-1 group-title="Turkiye" ,EUROSPORT-1(2)
-https://kablosistem.vercel.app/index.m3u8?id=107
 #EXTINF:-1 group-title="Turkiye" ,EUROSPORT-2
 https://seven.4928d54d950ee70q27.lat/yayineu2.m3u8
-#EXTINF:-1 group-title="Turkiye" ,EUROSPORT-2(2)
-https://kablosistem.vercel.app/index.m3u8?id=108
 #EXTINF:-1 group-title="Turkiye" ,TIVIBU-SPOR1
 https://seven.4928d54d950ee70q27.lat/yayineu2.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TIVIBU-SPOR2
@@ -539,12 +495,8 @@ https://seven.4928d54d950ee70q27.lat/yayinsmarts.m3u8
 https://seven.4928d54d950ee70q27.lat/yayinsms2.m3u8
 #EXTINF:-1 group-title="Turkiye" ,SSPORT
 https://seven.4928d54d950ee70q27.lat/yayinss.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SSPORT(2)
-https://kablosistem.vercel.app/index.m3u8?id=113
 #EXTINF:-1 group-title="Turkiye" ,SSPORT2
 https://seven.4928d54d950ee70q27.lat/yayinss2.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SSPORT2(2)
-https://kablosistem.vercel.app/index.m3u8?id=114
 #EXTINF:-1 group-title="Turkiye" ,B-SPORT1
 https://p0.4928d54d950ee70q16.lat/yayinzirve.m3u8
 #EXTINF:-1 group-title="Turkiye" ,B-SPORT1(2)
@@ -582,13 +534,11 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TABII-SPOR6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkiye" ,B-SPORT-HABER
-https://kablosistem.vercel.app/index.m3u8?id=105
+
 #EXTINF:-1 group-title="Turkiye" ,ASPOR
 http://95.174.71.114:80/TR-A-SPOR/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ASPOR(2)
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4OTMwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjM3MmZmZmU0IiwicCI6IjM3MmZmZmU0ZGUxNDliZWQiLCJjIjoiMjg2IiwidCI6ImI1MDJjMjBiNWRlODlkODhjNDkyZjczODExZjdjNGI2IiwiZCI6IjE4MTI2MyIsInIiOiIxODQ4MTIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg5MzAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,ASPOR(3)
-https://kablosistem.vercel.app/index.m3u8?id=106
 #EXTINF:-1 group-title="Turkiye" ,HT-SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,HT-SPOR(2)
@@ -597,86 +547,22 @@ http://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,FB-TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Turkiye" ,FB-TV(2)
-https://kablosistem.vercel.app/index.m3u8?id=119
-#EXTINF:-1 group-title="Turkiye" ,TRACE-SPORTS-STAR
-https://kablosistem.vercel.app/index.m3u8?id=110
-#EXTINF:-1 group-title="Turkiye" ,COSMO-SPORTS
-https://kablosistem.vercel.app/index.m3u8?id=111
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0b907a68bd513118631a24aea2ebc93d.webp",W-SPORT
-https://kablosistem.vercel.app/index.m3u8?id=116
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aed0cae3f5c248b83a4827e0055dcfd0.webp",SPORTS-TV
-https://kablosistem.vercel.app/index.m3u8?id=118
+
 #EXTINF:-1 group-title="Turkiye" ,DISNEY-JUNIOR
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,DISNEY-JUNIOR(2)
-https://kablosistem.vercel.app/index.m3u8?id=132
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25316e82fcbb632375d1299047c31c99.webp",BABY-TV
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,BABY-TV(2)
-https://kablosistem.vercel.app/index.m3u8?id=131
 #EXTINF:-1 group-title="Turkiye" ,MINIKA-COCUK
-https://kablosistem.vercel.app/index.m3u8?id=126
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,MINIKA-GO
-https://kablosistem.vercel.app/index.m3u8?id=127
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c0e4608ad3b3b4a2f9da5a13705b45e6.webp",AZOOMEE
-https://kablosistem.vercel.app/index.m3u8?id=130
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7b14c41031075bac0a2cbeb9e821e809.webp",CARTOON-NETWORK
-https://kablosistem.vercel.app/index.m3u8?id=133
+
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c1df3fa41b39c27c160f284354d0bb26.webp",SPACETOON
-https://kablosistem.vercel.app/index.m3u8?id=129
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f9106687096a5c8e36bde4860fb29dd8.webp",MOONBUG
-https://kablosistem.vercel.app/index.m3u8?id=134
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3c74f43baccb994fdb5d29eb85ae88a5.webp",DUCK-TV
-https://kablosistem.vercel.app/index.m3u8?id=135
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3a4ac0d9b593b0e60652935d4e3028b6.webp",ENGLISH-CLUB
-https://kablosistem.vercel.app/index.m3u8?id=136
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/82d656b3698ea98238fd261fbd26790f.webp",LANGLAB
-https://kablosistem.vercel.app/index.m3u8?id=138
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c814e3d96e46bbd5057fc7c9188169f1.webp",TINYTEEN
-https://kablosistem.vercel.app/index.m3u8?id=140
-#EXTINF:-1 group-title="Turkiye" ,LINGOTOONS
-https://kablosistem.vercel.app/index.m3u8?id=139
-#EXTINF:-1 group-title="Turkiye" ,MEZZO
-https://kablosistem.vercel.app/index.m3u8?id=37
-#EXTINF:-1 group-title="Turkiye" ,CLASSICAL-HARMONY
-https://kablosistem.vercel.app/index.m3u8?id=38
-#EXTINF:-1 group-title="Turkiye" ,TRACE-URBAN
-https://kablosistem.vercel.app/index.m3u8?id=148
+
 #EXTINF:-1 group-title="Turkiye" ,TURKMENELI-TV
-https://kablosistem.vercel.app/index.m3u8?id=93
-#EXTINF:-1 group-title="Turkiye" ,AZ-TV
-https://kablosistem.vercel.app/index.m3u8?id=92
-#EXTINF:-1 group-title="Turkiye" ,BIR-TV
-https://kablosistem.vercel.app/index.m3u8?id=97
-#EXTINF:-1 group-title="Turkiye" ,HAYAT2
-https://kablosistem.vercel.app/index.m3u8?id=98
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f309f23d0eba44a192873cd8ed9af93.webp",CGTN
-https://kablosistem.vercel.app/index.m3u8?id=80
-#EXTINF:-1 group-title="Turkiye" ,TV5-MONDE
-https://kablosistem.vercel.app/index.m3u8?id=94
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c05a594b68692bbb5d09e966469540c8.webp",CCTV4
-https://kablosistem.vercel.app/index.m3u8?id=95
-#EXTINF:-1 group-title="Turkiye" ,CNN-INT
-https://kablosistem.vercel.app/index.m3u8?id=72
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cceec7b0966ad709d3174d84911d3637.webp",DW-TV
-https://kablosistem.vercel.app/index.m3u8?id=77
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/40b0165992c508339b5053c63ae02629.webp",FRANCE24
-https://kablosistem.vercel.app/index.m3u8?id=78
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ceac23a39b103594140a1f7c6641ad38.webp",RUSSIA24
-https://kablosistem.vercel.app/index.m3u8?id=81
-#EXTINF:-1 group-title="Turkiye" ,PLANETA-RTR
-https://kablosistem.vercel.app/index.m3u8?id=99
-#EXTINF:-1 group-title="Turkiye" ,KBS-WORLD
-https://kablosistem.vercel.app/index.m3u8?id=100
-#EXTINF:-1 group-title="Turkiye" ,NHK-WORLD
-https://kablosistem.vercel.app/index.m3u8?id=101
-#EXTINF:-1 group-title="Turkiye" ,ARRIANG
-https://kablosistem.vercel.app/index.m3u8?id=102
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bbb61d886531b250428d19a0f5d53261.webp",FREEDOM
-https://kablosistem.vercel.app/index.m3u8?id=103
-#EXTINF:-1 group-title="Turkiye" ,SAUDI-TV
-https://kablosistem.vercel.app/index.m3u8?id=96
+
 #EXTINF:-1 group-title="Ermenistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ermenistan" ,1TV-News
