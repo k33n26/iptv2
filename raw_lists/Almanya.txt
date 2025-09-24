@@ -12,6 +12,13 @@ Allgau TV,https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream
 Augsburg,https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_b3628000.m3u8
 Baden TV,https://cdn.icu.de/rtplive/btv.stream/chunklist_w336307585.m3u8
 Baden Tv Sud,https://cdn.icu.de/rtplive/smil:btvsued.smil/chunklist_w802393217_b914000_sldeu.m3u8
+Das Erste,https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master1080p5000.m3u8
+ems TV,https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/chunklist_w1186211973.m3u8
+Erz-TV Stollberg,https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/chunklist_w1642449910.m3u8
+Filstalwelle,https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/chunklist_w993586443.m3u8
+Franken Fernsehen,https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/chunks.m3u8?nimblesessionid=1109943727
+
+
 
 
 
