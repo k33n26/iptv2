@@ -1,5 +1,4 @@
 3SAT,https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-3SAT(2),https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8
 WELT,https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 RTL Super,https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 Br,https://mcdn.br.de/br/fs/bfs_sued/hls/int/master1080p5000.m3u8
@@ -9,6 +8,8 @@ TG24,https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/m
 WDR,https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/master_3328.m3u8
 RiC TV,https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8?nimblesessionid=383380552
 Alpha Tv,https://mcdn.br.de/br/fs/ard_alpha/hls/int/master_1920p_5000.m3u8
+Allgau TV,https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/chunklist_b3628000.m3u8
+Augsburg,https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_b3628000.m3u8
 
 
 
