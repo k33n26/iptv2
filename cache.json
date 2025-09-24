@@ -741,5 +741,11 @@
   },
   "WDR": null,
   "RiC TV": null,
-  "Alpha Tv": null
+  "Alpha Tv": null,
+  "Allgau TV": null,
+  "Augsburg": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/21dba34d74f8b1cb8d42e34579c40946.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/21dba34d74f8b1cb8d42e34579c40946.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/21dba34d74f8b1cb8d42e34579c40946.webp"
+  }
 }

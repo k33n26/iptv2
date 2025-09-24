@@ -183,8 +183,6 @@ https://am8.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=517
 https://am8.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=5178638&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDI6Mjg6NTQgUE0maGFzaF92YWx1ZT1GNG5YMExoOUpJTElMNCtjaE5LY1NnPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/088f47d27aca1053823567d22df3a168.webp",3SAT
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 group-title="Almanya" ,3SAT(2)
-https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef9a847178d6115213d30a23cec021cd.webp",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 group-title="Almanya" ,RTL Super
@@ -203,6 +201,10 @@ https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/master_3328
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8?nimblesessionid=383380552
 #EXTINF:-1 group-title="Almanya" ,Alpha Tv
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master_1920p_5000.m3u8
+#EXTINF:-1 group-title="Almanya" ,Allgau TV
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/chunklist_b3628000.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/21dba34d74f8b1cb8d42e34579c40946.webp",Augsburg
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_b3628000.m3u8
 #EXTINF:-1 group-title="Belarus" ,BELARUS24
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1116384447_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MjA6NTAgUE0maGFzaF92YWx1ZT1oTkFvcjdlZ3Q1UU01ODJwaTRKcDhBPT0mdmFsaWRtaW51dGVzPTEyMA%3D%3D
 #EXTINF:-1 group-title="Ingiltere" ,BBC-3
