@@ -5,4 +5,5 @@ RTL Super,https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrt
 Br,https://mcdn.br.de/br/fs/bfs_sued/hls/int/master1080p5000.m3u8
 Saarland Fernsehen 1,https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/chunks.m3u8?nimblesessionid=1109933290
 SR,https://srfs.akamaized.net/hls/live/689649-b/srfsgeo/master-720p-3328.m3u8
+TG24,https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
 
