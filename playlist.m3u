@@ -69,6 +69,12 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 #EXTINF:-1 group-title="Fransa" ,TV5MONDE-VOYAGE(2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f633e5e80cdba1fc3dccfe17715c4a63.webp",Cherie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/1/media.m3u8
+#EXTINF:-1 group-title="Fransa" ,France 2 (chtoken)
+https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzUyMTM4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UyaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYWE1OGZiYWU0NDAwYTFkNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjExIiwic291cmNlcyI6WzQ4XX0=.3D_EztdY8KDQHnLnYAgdqAD9lWB8Cx8vEa6GHBvI6lFPnAnwjJFNJiMwFb_arkcMhInd-l-BfuD8J4QUYojFvA==/live/eds/france2hd/browser-HLS8/france2hd-avc1_4500000=10009.m3u8
+#EXTINF:-1 group-title="Fransa" ,France 3 (chtoken)
+https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzUyMTg2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UzaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiOWEzY2ExYjFiMjJiNTJiMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMiLCJzb3VyY2VzIjpbMzhdfQ==.NM9KQNLmSgxSskSs-uMQgQVxDQqyiyQVJVQNOcgphFZx7fJB5Nryk79nYD2qbJ5Mhl734swhmDZZJW79vL9etw==/live/eds/france3hd/browser-HLS8/france3hd-avc1_4500000=10000.m3u8
 #EXTINF:-1 group-title="Romanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25e20053ed7a0b71110207f5481bbe96.webp",TVR
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1 group-title="Romanya" ,DIGI-SPORT1

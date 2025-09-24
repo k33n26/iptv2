@@ -853,5 +853,12 @@
   },
   "Yle Teema & Fem": null,
   "Yle TV1": null,
-  "Yle TV2": null
+  "Yle TV2": null,
+  "Cherie 25": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f633e5e80cdba1fc3dccfe17715c4a63.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f633e5e80cdba1fc3dccfe17715c4a63.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f633e5e80cdba1fc3dccfe17715c4a63.webp"
+  },
+  "France 2 (chtoken)": null,
+  "France 3 (chtoken)": null
 }
