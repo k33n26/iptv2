@@ -559,6 +559,8 @@ https://stream-135962.castr.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9c
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ermenistan" ,1TV-News
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ermenistan" ,1TV-News
+https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ermenistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0e92a34bd2c0a81b3e842712f7ac3986.webp",SONG-TV
 https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Polonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5193bdfb64ae26e83f832ffd1985f85d.webp",TVP Polonia
