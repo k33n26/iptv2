@@ -997,5 +997,31 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/48531a5c8b19b3163a58f3fdcd76d0da.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/48531a5c8b19b3163a58f3fdcd76d0da.webp"
   },
-  "RIKSAT(2)": null
+  "RIKSAT(2)": null,
+  "RTP-INT": null,
+  "TVI": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c452921331e3bc580fe768285811bce9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c452921331e3bc580fe768285811bce9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c452921331e3bc580fe768285811bce9.webp"
+  },
+  "TVI-INT": null,
+  "TVI-V+": null,
+  "TVI-FICCAO": null,
+  "TVI-REALITY": null,
+  "TVI-AFRICA": null,
+  "SIC": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8cd3ac70db7ac318cf9a0e01333940a4.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8cd3ac70db7ac318cf9a0e01333940a4.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8cd3ac70db7ac318cf9a0e01333940a4.webp"
+  },
+  "SIC-NOTICIAS": null,
+  "SIC-REPLAY": null,
+  "SIC-ALTA-DEFINIÇÃO": null,
+  "CNN-PORTUGAL": null,
+  "PORTO-CANAL": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b4476115a486821ef608058987404c1a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b4476115a486821ef608058987404c1a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b4476115a486821ef608058987404c1a.webp"
+  },
+  "RTP-TV-PORTUGUESA": null
 }

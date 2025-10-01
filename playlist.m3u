@@ -675,6 +675,34 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/48531a5c8b19b3163a58f3fdcd76d0da.webp",BLUESKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 group-title="Portekiz" ,RTP-INT
+http://78.128.125.60:9981/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Portekiz" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c452921331e3bc580fe768285811bce9.webp",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 group-title="Portekiz" ,TVI-INT
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+#EXTINF:-1 group-title="Portekiz" ,TVI-V+
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:-1 group-title="Portekiz" ,TVI-FICCAO
+https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 group-title="Portekiz" ,TVI-REALITY
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 group-title="Portekiz" ,TVI-AFRICA
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 group-title="Portekiz" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8cd3ac70db7ac318cf9a0e01333940a4.webp",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 group-title="Portekiz" ,SIC-NOTICIAS
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="Portekiz" ,SIC-REPLAY
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 group-title="Portekiz" ,SIC-ALTA-DEFINIÇÃO
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 group-title="Portekiz" ,CNN-PORTUGAL
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:-1 group-title="Portekiz" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b4476115a486821ef608058987404c1a.webp",PORTO-CANAL
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 group-title="Portekiz" ,RTP-TV-PORTUGUESA
+https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,BAKU-TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,CBC-TV
