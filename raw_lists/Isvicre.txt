@@ -9,3 +9,6 @@ TeleBarn,https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebae
 SRF 2,https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 SRF 1,https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 SRF info,https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+TVM3,https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+CANAL 9,https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
+CANAL ALPHA,https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
