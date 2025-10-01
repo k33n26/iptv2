@@ -10,11 +10,18 @@ NATURE-TIME,https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/pl
 NATURE-TIME(2),https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 TV5MONDE-VOYAGE,https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 TV5MONDE-VOYAGE(2),https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
+TV5MONDE-CHEF,https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
 Cherie 25,https://cherie25.nrjaudio.fm/hls/live/2038375/c25/1/media.m3u8
 France 2 (chtoken),https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzUyMTM4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UyaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYWE1OGZiYWU0NDAwYTFkNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjExIiwic291cmNlcyI6WzQ4XX0=.3D_EztdY8KDQHnLnYAgdqAD9lWB8Cx8vEa6GHBvI6lFPnAnwjJFNJiMwFb_arkcMhInd-l-BfuD8J4QUYojFvA==/live/eds/france2hd/browser-HLS8/france2hd-avc1_4500000=10009.m3u8
 France 3 (chtoken),https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzUyMTg2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UzaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiOWEzY2ExYjFiMjJiNTJiMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMiLCJzb3VyY2VzIjpbMzhdfQ==.NM9KQNLmSgxSskSs-uMQgQVxDQqyiyQVJVQNOcgphFZx7fJB5Nryk79nYD2qbJ5Mhl734swhmDZZJW79vL9etw==/live/eds/france3hd/browser-HLS8/france3hd-avc1_4500000=10000.m3u8
 Monaco.Info,https://webtv.monacoinfo.com/live/prod/index.m3u8
 CGTN-Francais,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-
-
-
+i24 News,
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+France-Info,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+TV5 Monde-Info,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+France 24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+BFM2,https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+20 Minutes TV,https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+VOYAGES+,https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
+TV-MONACO,https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
