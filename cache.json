@@ -976,5 +976,25 @@
   "K+tv": null,
   "TV-8-BUCUK": null,
   "TV-8-INT": null,
-  "KANAL AVRUPA": null
+  "KANAL AVRUPA": null,
+  "ACTION-24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/588fbf7c0f06b150f968dd62dedcf979.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/588fbf7c0f06b150f968dd62dedcf979.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/588fbf7c0f06b150f968dd62dedcf979.webp"
+  },
+  "GROOVY-TV": null,
+  "NEA CRETE TV": null,
+  "BARAZA RELAXING TV": null,
+  "START-TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5164dc3e37de063f2f2cfce4f289c6e0.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5164dc3e37de063f2f2cfce4f289c6e0.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5164dc3e37de063f2f2cfce4f289c6e0.webp"
+  },
+  "HIGH-TV": null,
+  "CORFU": null,
+  "BLUESKY": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/48531a5c8b19b3163a58f3fdcd76d0da.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/48531a5c8b19b3163a58f3fdcd76d0da.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/48531a5c8b19b3163a58f3fdcd76d0da.webp"
+  }
 }
