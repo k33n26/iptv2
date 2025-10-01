@@ -31,9 +31,12 @@ RIZETURK-TV,https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 ISVICRE-TV,https://i41.ozelip.com:3269/hybrid/play.m3u8
 AKTIF-TV,https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
 VIYANA-TV,https://radyotelekomtv.com/player/m3u8/f822defe91bc1ef8b8444d512d234354/chunklist_w1886573229.m3u8
+VIYANA-TV(2),http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 PLAY-TV,https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 BALKAN-TURK,http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 HOCWAN-TV,https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+FRT-FETHIYE,https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+K+tv,https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 FX,https://saran-live.ercdn.net/fx/index.m3u8
 LIFE-TV,https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 FILM-SCREEN,https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
@@ -46,7 +49,7 @@ EKOL-TV,http://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 FLASHHABER-TV,http://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 LIDERHABER-TV,http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 HABERTURK,https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
-HABERGLOBAL,https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+HABERGLOBAL,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Haber_Global_TV.m3u8
 NTV,https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 CNN-TURK,https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 KANAL-24,https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
@@ -81,7 +84,8 @@ SHOW-TV,https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 ATV,http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 A2-TV,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 TV-8,https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-TV-8,5,https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+TV-8-BUCUK,https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+TV-8-INT,http://162.212.179.33/dvrfl05/gin-tv8int/index.m3u8
 BEYAZ-TV,https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 TEVE2,https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
@@ -91,29 +95,8 @@ KANAL7,https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 LALEGUL-TV,https://lbl.netmedya.net/hls/lalegultv.m3u8
 KASTAMONU-TV,http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 KKTC-TV,https://old.kuzeykibris.tv/m3u8/kktv.m3u8
-TV5,https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Q41Tge14J47e0I55IKtbnya1l9zq2AV92fc9jcxyHqAKi0ToVQO0CV1eOsG5IgrePn_E2zvKW4cF4b2OZvqrcQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/playlist_16688349304119608988.m3u8?type=replay
+ADA-TV,https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 AS-TV,https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8?nimblesessionid=1076240240
-EUROSPORT-1,https://seven.4928d54d950ee70q27.lat/yayineu1.m3u8
-EUROSPORT-2,https://seven.4928d54d950ee70q27.lat/yayineu2.m3u8
-TIVIBU-SPOR1,https://seven.4928d54d950ee70q27.lat/yayineu2.m3u8
-TIVIBU-SPOR2,https://seven.4928d54d950ee70q27.lat/yayint2.m3u8
-TIVIBU-SPOR3,https://seven.4928d54d950ee70q27.lat/yayint3.m3u8
-TIVIBU-SPOR4,https://seven.4928d54d950ee70q27.lat/yayint4.m3u8
-SPOR-SMART,https://seven.4928d54d950ee70q27.lat/yayinsmarts.m3u8
-SPOR-SMART2,https://seven.4928d54d950ee70q27.lat/yayinsms2.m3u8
-SSPORT,https://seven.4928d54d950ee70q27.lat/yayinss.m3u8
-SSPORT2,https://seven.4928d54d950ee70q27.lat/yayinss2.m3u8
-B-SPORT1,https://p0.4928d54d950ee70q16.lat/yayinzirve.m3u8
-B-SPORT1(2),http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
-B-SPORT2,https://seven.4928d54d950ee70q27.lat/yayinb2.m3u8
-B-SPORT2(2),http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
-B-SPORT3,https://seven.4928d54d950ee70q27.lat/yayinb3.m3u8
-B-SPORT3(2),http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
-B-SPORT4,https://seven.4928d54d950ee70q27.lat/yayinb4.m3u8
-B-SPORT4(2),http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
-B-SPORT5,https://seven.4928d54d950ee70q27.lat/yayinb5.m3u8
-B-SPORTMAX,https://seven.4928d54d950ee70q27.lat/yayinbm1.m3u8
-B-SPORTMAX2,https://seven.4928d54d950ee70q27.lat/yayinbm2.m3u8
 TABII-SPOR,https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 TABII-SPOR1,https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
 TABII-SPOR2,https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
@@ -135,4 +118,6 @@ BABY-TV,https://saran-live.ercdn.net/babytv/index.m3u8
 MINIKA-COCUK,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 MINIKA-GO,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 TURKMENELI-TV,https://stream-135962.castr.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/tracks-v1/index.fmp4.m3u8
+KANAL AVRUPA,http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
+
 
