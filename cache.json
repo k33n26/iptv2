@@ -1048,5 +1048,23 @@
   "CANAL-EXTRAMADURA": null,
   "TVG-GALICIA-EU": null,
   "RIOJA-COCINA": null,
-  "TELESUR": null
+  "TELESUR": null,
+  "2M MONDE": null,
+  "TELE-MAROC": null,
+  "CHADA-TV": null,
+  "MEDI1-FR": null,
+  "AL AOULA LAÂYOUNE": null,
+  "AL AOULA INT": null,
+  "ARRYADIA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8132f1c96e7e62f07a502a8af968d3db.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8132f1c96e7e62f07a502a8af968d3db.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8132f1c96e7e62f07a502a8af968d3db.webp"
+  },
+  "ATHAQAFIA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a1819c382fed939527952f1aa76920c5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a1819c382fed939527952f1aa76920c5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a1819c382fed939527952f1aa76920c5.webp"
+  },
+  "ASSADISSA": null,
+  "TAMAZIGHT": null
 }

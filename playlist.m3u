@@ -807,6 +807,26 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Fas" ,Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1 group-title="Fas" ,2M MONDE
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 group-title="Fas" ,TELE-MAROC
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
+#EXTINF:-1 group-title="Fas" ,CHADA-TV
+https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
+#EXTINF:-1 group-title="Fas" ,MEDI1-FR
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fas" ,AL AOULA LAÂYOUNE
+https://oppomu.serv00.net/laayoune.php?m3u8
+#EXTINF:-1 group-title="Fas" ,AL AOULA INT
+https://xddrts.alwaysdata.net/aloula.php?m3u8
+#EXTINF:-1 group-title="Fas" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8132f1c96e7e62f07a502a8af968d3db.webp",ARRYADIA
+https://oppomu.serv00.net/arry.php?m3u8
+#EXTINF:-1 group-title="Fas" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a1819c382fed939527952f1aa76920c5.webp",ATHAQAFIA
+https://oppomu.serv00.net/arrabia.php?m3u8
+#EXTINF:-1 group-title="Fas" ,ASSADISSA
+https://xddrts.alwaysdata.net/assadi.php?m3u8
+#EXTINF:-1 group-title="Fas" ,TAMAZIGHT
+https://cdnet.alwaysdata.net/tamaz.php?m3u8
 #EXTINF:-1 group-title="Romanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25e20053ed7a0b71110207f5481bbe96.webp",TVR
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1 group-title="Romanya" ,DIGI-SPORT1
