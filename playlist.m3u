@@ -107,12 +107,18 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,VIYANA-TV
 https://radyotelekomtv.com/player/m3u8/f822defe91bc1ef8b8444d512d234354/chunklist_w1886573229.m3u8
+#EXTINF:-1 group-title="Turkiye" ,VIYANA-TV(2)
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,PLAY-TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BALKAN-TURK
 http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" ,HOCWAN-TV
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+#EXTINF:-1 group-title="Turkiye" ,FRT-FETHIYE
+https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Turkiye" ,K+tv
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b8b5089c70ae62534970e2d8aa67e96d.webp",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,LIFE-TV
@@ -138,7 +144,7 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4d181199df1df39c27dc9f4682d78d02.webp",HABERTURK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a91c74859a87b987bc6cb87c3970f0a8.webp",HABERGLOBAL
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Haber_Global_TV.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ab8f5789d340620b89a3ace8eb2fee47.webp",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,CNN-TURK
@@ -207,8 +213,10 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4fe208d489f2f088c19d0d8bc4e1e448.webp",TV-8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4fe208d489f2f088c19d0d8bc4e1e448.webp",TV-8
-5,https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 group-title="Turkiye" ,TV-8-BUCUK
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+#EXTINF:-1 group-title="Turkiye" ,TV-8-INT
+http://162.212.179.33/dvrfl05/gin-tv8int/index.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2ea57bb57a200a42bf7f4be994948bf3.webp",BEYAZ-TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c8c33abedb1068b67bfc9bf5eae0a916.webp",TEVE2
@@ -227,52 +235,10 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 group-title="Turkiye" ,KKTC-TV
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/900d3af3790b57d677db0b857b372c3b.webp",TV5
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Q41Tge14J47e0I55IKtbnya1l9zq2AV92fc9jcxyHqAKi0ToVQO0CV1eOsG5IgrePn_E2zvKW4cF4b2OZvqrcQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/playlist_16688349304119608988.m3u8?type=replay
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/009234703749e69a5194f91e538c5f26.webp",ADA-TV
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,AS-TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8?nimblesessionid=1076240240
-#EXTINF:-1 group-title="Turkiye" ,EUROSPORT-1
-https://seven.4928d54d950ee70q27.lat/yayineu1.m3u8
-#EXTINF:-1 group-title="Turkiye" ,EUROSPORT-2
-https://seven.4928d54d950ee70q27.lat/yayineu2.m3u8
-#EXTINF:-1 group-title="Turkiye" ,TIVIBU-SPOR1
-https://seven.4928d54d950ee70q27.lat/yayineu2.m3u8
-#EXTINF:-1 group-title="Turkiye" ,TIVIBU-SPOR2
-https://seven.4928d54d950ee70q27.lat/yayint2.m3u8
-#EXTINF:-1 group-title="Turkiye" ,TIVIBU-SPOR3
-https://seven.4928d54d950ee70q27.lat/yayint3.m3u8
-#EXTINF:-1 group-title="Turkiye" ,TIVIBU-SPOR4
-https://seven.4928d54d950ee70q27.lat/yayint4.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SPOR-SMART
-https://seven.4928d54d950ee70q27.lat/yayinsmarts.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SPOR-SMART2
-https://seven.4928d54d950ee70q27.lat/yayinsms2.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SSPORT
-https://seven.4928d54d950ee70q27.lat/yayinss.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SSPORT2
-https://seven.4928d54d950ee70q27.lat/yayinss2.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT1
-https://p0.4928d54d950ee70q16.lat/yayinzirve.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT1(2)
-http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT2
-https://seven.4928d54d950ee70q27.lat/yayinb2.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT2(2)
-http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT3
-https://seven.4928d54d950ee70q27.lat/yayinb3.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT3(2)
-http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT4
-https://seven.4928d54d950ee70q27.lat/yayinb4.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT4(2)
-http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORT5
-https://seven.4928d54d950ee70q27.lat/yayinb5.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORTMAX
-https://seven.4928d54d950ee70q27.lat/yayinbm1.m3u8
-#EXTINF:-1 group-title="Turkiye" ,B-SPORTMAX2
-https://seven.4928d54d950ee70q27.lat/yayinbm2.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TABII-SPOR
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TABII-SPOR1
@@ -315,6 +281,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_48
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TURKMENELI-TV
 https://stream-135962.castr.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Turkiye" ,KANAL AVRUPA
+http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,This-is-Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,AGRO-TV
