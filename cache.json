@@ -959,5 +959,16 @@
   "BFM2": null,
   "20 Minutes TV": null,
   "VOYAGES+": null,
-  "TV-MONACO": null
+  "TV-MONACO": null,
+  "TVM3": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/83a2c76edf2bc677f382d01df27c932d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/83a2c76edf2bc677f382d01df27c932d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/83a2c76edf2bc677f382d01df27c932d.webp"
+  },
+  "CANAL 9": null,
+  "CANAL ALPHA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1f7633494f31093bc68479609c7abe8c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1f7633494f31093bc68479609c7abe8c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1f7633494f31093bc68479609c7abe8c.webp"
+  }
 }

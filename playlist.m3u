@@ -593,6 +593,12 @@ https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 #EXTINF:-1 group-title="Isvicre" ,SRF info
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+#EXTINF:-1 group-title="Isvicre" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/83a2c76edf2bc677f382d01df27c932d.webp",TVM3
+https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+#EXTINF:-1 group-title="Isvicre" ,CANAL 9
+https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
+#EXTINF:-1 group-title="Isvicre" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1f7633494f31093bc68479609c7abe8c.webp",CANAL ALPHA
+https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 group-title="Kosova" ,RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 #EXTINF:-1 group-title="Ermenistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
