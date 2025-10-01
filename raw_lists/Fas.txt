@@ -1,1 +1,11 @@
 Al Maghribia,https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+2M MONDE,https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+TELE-MAROC,https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
+CHADA-TV,https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
+MEDI1-FR,https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+AL AOULA LAÂYOUNE,https://oppomu.serv00.net/laayoune.php?m3u8
+AL AOULA INT,https://xddrts.alwaysdata.net/aloula.php?m3u8
+ARRYADIA,https://oppomu.serv00.net/arry.php?m3u8
+ATHAQAFIA,https://oppomu.serv00.net/arrabia.php?m3u8
+ASSADISSA,https://xddrts.alwaysdata.net/assadi.php?m3u8
+TAMAZIGHT,https://cdnet.alwaysdata.net/tamaz.php?m3u8
