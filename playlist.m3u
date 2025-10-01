@@ -503,6 +503,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.is
 https://w-live-edge1.kringvarp.fo/kvf-2_utland/_definst_/smil:kvf-2_utland.smil/chunklist_w1361134068_b6000000_slfao.m3u8
 #EXTINF:-1 group-title="G.Kibris" ,RIKSAT
 https://am8.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=5178585
+#EXTINF:-1 group-title="G.Kibris" ,RIKSAT(2)
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="G.Kibris" ,APLHA-TV
 https://am8.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=5178638&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDI6Mjg6NTQgUE0maGFzaF92YWx1ZT1GNG5YMExoOUpJTElMNCtjaE5LY1NnPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 group-title="Arnavutluk" ,Tropoja-Tv
