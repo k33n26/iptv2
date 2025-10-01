@@ -421,6 +421,8 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 #EXTINF:-1 group-title="Fransa" ,TV5MONDE-VOYAGE(2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
+#EXTINF:-1 group-title="Fransa" ,TV5MONDE-CHEF
+https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f633e5e80cdba1fc3dccfe17715c4a63.webp",Cherie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/1/media.m3u8
 #EXTINF:-1 group-title="Fransa" ,France 2 (chtoken)
@@ -431,6 +433,22 @@ https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiO
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 group-title="Fransa" ,CGTN-Francais
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f77d4f187cda0ed26b5b68f300919cff.webp",i24 News
+
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca2eaa0270b078a73b9c6a90378964eb.webp",France-Info
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+#EXTINF:-1 group-title="Fransa" ,TV5 Monde-Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/799ba4ba150df4b98eac68c63273ac04.webp",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Fransa" ,BFM2
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+#EXTINF:-1 group-title="Fransa" ,20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="Fransa" ,VOYAGES+
+https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" ,TV-MONACO
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/088f47d27aca1053823567d22df3a168.webp",3SAT
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef9a847178d6115213d30a23cec021cd.webp",WELT

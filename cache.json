@@ -938,5 +938,26 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/097b8cd0207e8544b2c92dde55cf1919.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/097b8cd0207e8544b2c92dde55cf1919.webp"
   },
-  "CGTN-Francais": null
+  "CGTN-Francais": null,
+  "TV5MONDE-CHEF": null,
+  "i24 News": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f77d4f187cda0ed26b5b68f300919cff.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f77d4f187cda0ed26b5b68f300919cff.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f77d4f187cda0ed26b5b68f300919cff.webp"
+  },
+  "France-Info": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ca2eaa0270b078a73b9c6a90378964eb.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca2eaa0270b078a73b9c6a90378964eb.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ca2eaa0270b078a73b9c6a90378964eb.webp"
+  },
+  "TV5 Monde-Info": null,
+  "France 24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/799ba4ba150df4b98eac68c63273ac04.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/799ba4ba150df4b98eac68c63273ac04.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/799ba4ba150df4b98eac68c63273ac04.webp"
+  },
+  "BFM2": null,
+  "20 Minutes TV": null,
+  "VOYAGES+": null,
+  "TV-MONACO": null
 }
