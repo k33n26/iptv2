@@ -1,2 +1,3 @@
 RIKSAT,https://am8.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=5178585
+RIKSAT(2),http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 APLHA-TV,https://am8.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=5178638&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDI6Mjg6NTQgUE0maGFzaF92YWx1ZT1GNG5YMExoOUpJTElMNCtjaE5LY1NnPT0mdmFsaWRtaW51dGVzPTMw
