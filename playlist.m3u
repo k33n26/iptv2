@@ -106,8 +106,6 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,AKTIF-TV
 https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,VIYANA-TV
-https://radyotelekomtv.com/player/m3u8/f822defe91bc1ef8b8444d512d234354/chunklist_w1886573229.m3u8
-#EXTINF:-1 group-title="Turkiye" ,VIYANA-TV(2)
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,PLAY-TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
