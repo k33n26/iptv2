@@ -717,7 +717,11 @@
   "ALJAZEERA-DOCUMENTRY": null,
   "KEMAL-SUNAL-TV": null,
   "YESILCAM-TV": null,
-  "YOL-TV": null,
+  "YOL-TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f5bb736d17abccc3e11c880b13009b82.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f5bb736d17abccc3e11c880b13009b82.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f5bb736d17abccc3e11c880b13009b82.webp"
+  },
   "Br": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8d37869ebc7af08a31df14fe3f48bee2.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8d37869ebc7af08a31df14fe3f48bee2.webp",
@@ -740,7 +744,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8f1791c9b730baba59b844ec9d657f5b.webp"
   },
   "WDR": null,
-  "RiC TV": null,
+  "RiC TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8ed1b34eef7f01c41331510d453152cd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8ed1b34eef7f01c41331510d453152cd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8ed1b34eef7f01c41331510d453152cd.webp"
+  },
   "Alpha Tv": null,
   "Allgau TV": null,
   "Augsburg": {
@@ -864,7 +872,11 @@
   "Acheloos TV": null,
   "ART TV": null,
   "Ionian TV": null,
-  "Kontra Channel": null,
+  "Kontra Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/dfeb6daa1e2aeeb9901d34f9a0ab5508.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dfeb6daa1e2aeeb9901d34f9a0ab5508.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/dfeb6daa1e2aeeb9901d34f9a0ab5508.webp"
+  },
   "One Channel": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6b5fe11cf755a1b9b31ac196ea1957e0.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6b5fe11cf755a1b9b31ac196ea1957e0.webp",
@@ -920,5 +932,10 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4377ec7dc8eda73bea5cb1fa59737417.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4377ec7dc8eda73bea5cb1fa59737417.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4377ec7dc8eda73bea5cb1fa59737417.webp"
+  },
+  "Monaco.Info": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/097b8cd0207e8544b2c92dde55cf1919.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/097b8cd0207e8544b2c92dde55cf1919.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/097b8cd0207e8544b2c92dde55cf1919.webp"
   }
 }
