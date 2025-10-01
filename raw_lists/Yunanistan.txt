@@ -38,6 +38,16 @@ ALFA,https://av.hellasnet.tv/rst/alf/main_stream.m3u8
 IRIDA,https://av.hellasnet.tv/rst/iri/main_stream.m3u8
 AELOS,https://cdn.istoikona.com/aeolostv/live/chunks.m3u8?nimblesessionid=234985203
 Faros TV',https://s1.cystream.net/live/faros2/chunks.m3u8?nimblesessionid=128374610
+ACTION-24,https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+GROOVY-TV,http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+NEA CRETE TV,https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+BARAZA RELAXING TV,https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+START-TV,https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+HIGH-TV,http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+CORFU,https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+BLUESKY,https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+
+
 
 
 
