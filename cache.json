@@ -1168,5 +1168,14 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/789bda28167518411da4c3592304714e.webp"
   },
   "M-Net Sport": null,
-  "Sky Folk TV": null
+  "Sky Folk TV": null,
+  "Parliament TV": null,
+  "Juice TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ebea151efc45f16032ac41ba6d860c00.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ebea151efc45f16032ac41ba6d860c00.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ebea151efc45f16032ac41ba6d860c00.webp"
+  },
+  "Bravo": null,
+  "Kordia TV": null,
+  "Wairarapa TV": null
 }

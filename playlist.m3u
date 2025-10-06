@@ -955,6 +955,16 @@ https://cdnet.alwaysdata.net/tamaz.php?m3u8
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1 group-title="Romanya" ,DIGI-SPORT1
 http://109.73.128.27/tk
+#EXTINF:-1 group-title="Yeni.Zelanda" ,Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index_4.m3u8
+#EXTINF:-1 group-title="Yeni.Zelanda" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ebea151efc45f16032ac41ba6d860c00.webp",Juice TV
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 group-title="Yeni.Zelanda" ,Bravo
+https://mediapackage-bravo-plus-1-source.fullscreen.nz/index_9.m3u8
+#EXTINF:-1 group-title="Yeni.Zelanda" ,Kordia TV
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index_2.m3u8
+#EXTINF:-1 group-title="Yeni.Zelanda" ,Wairarapa TV
+https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 #EXTINF:-1 group-title="K.Kibris" ,BRT1
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist_w78971976.m3u8
 #EXTINF:-1 group-title="K.Kibris" ,BRT2
