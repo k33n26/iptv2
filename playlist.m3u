@@ -425,6 +425,14 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
 #EXTINF:-1 group-title="Fransa" ,TV-MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 group-title="Letonya" ,TV Jurmala
+https://air.star.lv/TV_Jurmala_multistream/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Letonya" ,Vidusdaugavas Televizija
+https://straume.vdtv.lv/vdtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Letonya" ,Re TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/chunklist_b4500000_vo_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Letonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c28d8ba9a64e86ef36509a4d30d5ee9d.webp",TVNET
+https://player.tvnet.lv/stream/amlst:61659/chunklist_w453417690_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/088f47d27aca1053823567d22df3a168.webp",3SAT
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef9a847178d6115213d30a23cec021cd.webp",WELT
@@ -837,14 +845,6 @@ http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1758781321&playlistlength=
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Vietnam" ,BBC-LifeStyle
 https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
-#EXTINF:-1 group-title="Litvanya" ,TV Jurmala
-https://air.star.lv/TV_Jurmala_multistream/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Litvanya" ,Vidusdaugavas Televizija
-https://straume.vdtv.lv/vdtv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Litvanya" ,Re TV
-https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/chunklist_b4500000_vo_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Litvanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c28d8ba9a64e86ef36509a4d30d5ee9d.webp",TVNET
-https://player.tvnet.lv/stream/amlst:61659/chunklist_w453417690_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Italya" ,BOING HD
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c5357b63bd7b3f64ac8e17680aa532b7.webp",IUNIOR TV
