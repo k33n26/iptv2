@@ -34,6 +34,7 @@ VIYANA-TV,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 PLAY-TV,https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 BALKAN-TURK,http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 HOCWAN-TV,https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+YANSIMA-SINEMA,http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 FRT-FETHIYE,https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 K+tv,https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 FX,https://saran-live.ercdn.net/fx/index.m3u8
@@ -76,6 +77,7 @@ YAZ-TV,https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.
 TGRT-BELGESEL,https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 CİFTCİ-TV,https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 STAR-TV,https://dogus-live.daioncdn.net/startv/startv.m3u8
+EURO-STAR,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 NOW-TV,https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 KANAL-D,https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 EURO-D,https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
@@ -95,7 +97,10 @@ LALEGUL-TV,https://lbl.netmedya.net/hls/lalegultv.m3u8
 KASTAMONU-TV,http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 KKTC-TV,https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 ADA-TV,https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+TORBA-TV,https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 AS-TV,https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8?nimblesessionid=1076240240
+ANADOLUDOST,https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
+ESPIYE-TV,https://cdn-espiyetv.yayin.com.tr/espiyetv/espiyetv/playlist.m3u8
 TABII-SPOR,https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 TABII-SPOR1,https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
 TABII-SPOR2,https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
