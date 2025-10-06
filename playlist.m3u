@@ -373,7 +373,7 @@ https://live.tv-m.net/hls/stream.m3u8
 https://pluslive.rtrs.tv/plus/plus/chunklist_w1964455045.m3u8
 #EXTINF:-1 group-title="Sirbistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/47e4dbed638f2371adb075c824da6c5c.webp",HAPPY-TV
 https://stream1.happytv.rs/Happytv/myStream/chunklist_w1509443843.m3u8
-#EXTINF:-1 group-title="Fransa" ,Leman Bleu
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1fe2bc843b912222e0b30f4ce108e70b.webp",Leman Bleu
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d7a625277de4970b77e868e3b20b0979.webp",RMC Story
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
@@ -499,6 +499,38 @@ https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIx
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 #EXTINF:-1 group-title="Katar" ,ALJAZEERA-DOCUMENTRY
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Abai-Tv
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/54bc92b17b65cab4969327a201c7df12.webp",Aqtobe
+https://stream.kaztrk.kz/regional/aktobetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Atyray
+https://stream.kaztrk.kz/regional/atyrautv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Ertis
+https://stream.kaztrk.kz/regional/pavlodartv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7fad75fc0e14d10d8e41d3a107b18022.webp",Kokshe
+https://stream.kaztrk.kz/regional/kokshetautv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bb6ec0d5a62a1f2ec11e327964026dc5.webp",KTK
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w525249521_b6128000_slrus.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Semei
+https://stream.kaztrk.kz/regional/semeytv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Alau Tv
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Ontustik
+https://stream.kaztrk.kz/regional/shymkenttv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Qazaqstan
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" ,Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1aa4a55d27f0edad5b1b8bebdabd6cae.webp",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Danimarka" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3754385271c4f2a2648b471683d21149.webp",DR
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/6.m3u8
 #EXTINF:-1 group-title="Danimarka" ,TV2-NORD
@@ -613,7 +645,7 @@ https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
 #EXTINF:-1 group-title="Isvicre" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dc3dd92513f1fc839fd642e39368c26d.webp",TV 24
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
-#EXTINF:-1 group-title="Isvicre" ,TeleBarn
+#EXTINF:-1 group-title="Isvicre" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d3bfcf462c583bcd703f72ab89f5ae5a.webp",TeleBarn
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
 #EXTINF:-1 group-title="Isvicre" ,SRF 2
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8

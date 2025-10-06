@@ -43,7 +43,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/344b85e14839932bf8b647489dc4cba8.webp"
   },
   "BBC-LifeStyle": null,
-  "Leman Bleu": null,
+  "Leman Bleu": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1fe2bc843b912222e0b30f4ce108e70b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1fe2bc843b912222e0b30f4ce108e70b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1fe2bc843b912222e0b30f4ce108e70b.webp"
+  },
   "RMC Story": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d7a625277de4970b77e868e3b20b0979.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d7a625277de4970b77e868e3b20b0979.webp",
@@ -88,7 +92,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dc3dd92513f1fc839fd642e39368c26d.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/dc3dd92513f1fc839fd642e39368c26d.webp"
   },
-  "TeleBarn": null,
+  "TeleBarn": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d3bfcf462c583bcd703f72ab89f5ae5a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d3bfcf462c583bcd703f72ab89f5ae5a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d3bfcf462c583bcd703f72ab89f5ae5a.webp"
+  },
   "SRF 2": null,
   "SRF 1": null,
   "SRF info": null,
@@ -1096,5 +1104,37 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/254888c2af333f8f1dc8b91768c6503d.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/254888c2af333f8f1dc8b91768c6503d.webp"
   },
-  "ESPIYE-TV": null
+  "ESPIYE-TV": null,
+  "Abai-Tv": null,
+  "Aqtobe": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/54bc92b17b65cab4969327a201c7df12.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/54bc92b17b65cab4969327a201c7df12.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/54bc92b17b65cab4969327a201c7df12.webp"
+  },
+  "Atyray": null,
+  "Ertis": null,
+  "Kokshe": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7fad75fc0e14d10d8e41d3a107b18022.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7fad75fc0e14d10d8e41d3a107b18022.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7fad75fc0e14d10d8e41d3a107b18022.webp"
+  },
+  "KTK": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bb6ec0d5a62a1f2ec11e327964026dc5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bb6ec0d5a62a1f2ec11e327964026dc5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bb6ec0d5a62a1f2ec11e327964026dc5.webp"
+  },
+  "Qazaqstan International": null,
+  "Semei": null,
+  "Balapan": null,
+  "Alau Tv": null,
+  "Ontustik": null,
+  "Qazaqstan": null,
+  "Qostanai": null,
+  "Qyzyljar": null,
+  "Qyzylorda": null,
+  "Saryarqa": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1aa4a55d27f0edad5b1b8bebdabd6cae.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1aa4a55d27f0edad5b1b8bebdabd6cae.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1aa4a55d27f0edad5b1b8bebdabd6cae.webp"
+  }
 }
