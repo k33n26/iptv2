@@ -1,1 +1,6 @@
 RTL9,https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+Apart TV,https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/chunklist.m3u8
+Dudelange TV,https://streamer20.multimedia.blue/Eltrona/DudelangeTV/chunklist_w481382086.m3u8
+Mamer TV,https://streamer20.multimedia.blue/Eltrona/MamerTV/chunklist_w2072753570.m3u8
+RTL Tele Letzebuerg,https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
+RTL Zwee,https://stream.rtl.lu/data/live/tele/channel2/720p.m3u8
