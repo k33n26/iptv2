@@ -661,6 +661,18 @@ https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 group-title="Kosova" ,RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+#EXTINF:-1 group-title="Kosova" ,RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kosova" ,TV Arberia 1
+https://yayin30.haber100.com/live/rtvarberia/chunklist_w576006062.m3u8
+#EXTINF:-1 group-title="Kosova" ,RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Kosova" ,T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kosova" ,TV Prizreni
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kosova" ,TV Syri
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ermenistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ermenistan" ,1TV-News
