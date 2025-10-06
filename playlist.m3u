@@ -863,6 +863,12 @@ https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 group-title="Italya" ,Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Norvec" ,Canal Motor TV
+https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Norvec" ,Frikanalen
+https://frikanalen.no/stream/stream_1.m3u8
+#EXTINF:-1 group-title="Norvec" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/789bda28167518411da4c3592304714e.webp",TV Ostfold
+https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 group-title="Israil" ,KAN11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 group-title="Israil" ,KAN26
