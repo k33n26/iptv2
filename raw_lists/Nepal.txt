@@ -1,0 +1,5 @@
+Capital TV,https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
+Indigenous Television,https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/chunks.m3u8?nimblesessionid=4397270
+Kantipur TV,https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8?nimblesessionid=2106878
+Kantipur Max,https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/kantipurmaxgeo/match1_1080/chunks.m3u8?nimblesessionid=2106891
+
