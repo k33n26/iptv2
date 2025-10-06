@@ -18,5 +18,6 @@ MULOQOT.TV,https://stream9.itv.uz/t/T6SBycjwQuta4ow0xThKdA/e/1759837189/1285/tra
 LIVE TV,https://stream9.itv.uz/t/n5JrwkmbeACGfSDfXef95A/e/1759837228/1475/tracks-v1a1/timeshift_rel-2429.m3u8
 MAKON TV,https://stream9.itv.uz/t/K6mAa_2Vd_ZJ0e_YqJI7ng/e/1759837250/1497/tracks-v2a1/timeshift_rel-2451.m3u8
 DENOV TV,https://stream9.itv.uz/t/pMpAGyvvk_Dzc29N8RZCFw/e/1759837272/1499/tracks-v1a1/timeshift_rel-2473.m3u8
+MY5,https://st.my5.media/hls/hd/tracks-v1a1/mono.m3u8
 
 
