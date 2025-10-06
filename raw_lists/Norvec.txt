@@ -1,0 +1,3 @@
+Canal Motor TV,https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
+Frikanalen,https://frikanalen.no/stream/stream_1.m3u8
+TV Ostfold,https://streamnorge.com:8088/hls/tvo.m3u8
