@@ -1177,5 +1177,30 @@
   },
   "Bravo": null,
   "Kordia TV": null,
-  "Wairarapa TV": null
+  "Wairarapa TV": null,
+  "Jin TV": null,
+  "Salto 1": null,
+  "Salto 2": null,
+  "BEATTV": null,
+  "MaLive": null,
+  "1AlmereTV": null,
+  "1TwenteTV": null,
+  "A1 TV": null,
+  "Assen TV": null,
+  "AT5": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7076ed920adb4370f18ae1c221e1c059.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7076ed920adb4370f18ae1c221e1c059.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7076ed920adb4370f18ae1c221e1c059.webp"
+  },
+  "Dit Is Helmond": null,
+  "DTV Den Bosch": null,
+  "NH": null,
+  "Insight TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c876d29edc6b375c672b7c81cb1502e9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c876d29edc6b375c672b7c81cb1502e9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c876d29edc6b375c672b7c81cb1502e9.webp"
+  },
+  "Altena TV": null,
+  "BredaNu TV": null,
+  "BVN": null
 }
