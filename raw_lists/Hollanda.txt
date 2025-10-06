@@ -1,0 +1,19 @@
+Jin TV,https://live.jintv.org/medialive/jintv.m3u8
+Salto 1,https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/video-1280x720p25-3000/index.m3u8
+Salto 2,https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/video-1280x720p25-3000/index.m3u8
+BEATTV,https://tv.beatfm.nl/live.m3u8
+MaLive,https://live.salto.nl/hls/malive_high.m3u8?hls_ctx=up6g86vv
+1AlmereTV,https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/video-1280x720p25-3000/index.m3u8
+1TwenteTV,https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+A1 TV,https://www.a1mediagroep.nl/hls/a1tv.m3u8
+Assen TV,https://n2.cdn.jetstre.am/session/e0d3cca4270c21a743750bf38637bb6c/sz/OmroepAssen/webdav/live/OmroepAssenTV/720p.m3u8
+AT5,https://fl-global.airflow.jetstre.am/session/00000000000000000000000000000000/sz/atvijf/wowza4/live/live/chunklist.m3u8
+Dit Is Helmond,https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/chunklist_w607547740_b1894400_slNLD.m3u8
+DTV Den Bosch,https://w1.cdn.jetstre.am/session/1bb9c79393ce314ac60a6c2bb5832c65/vod/_definst_/sz/VDO-X-404.mp4/chunklist.m3u8
+NH,https://n2.cdn.jetstre.am/session/2fdc637e6ba0ba1f265eb908cb1d856b/sz/nhnieuws/wowza4/live/live/chunklist.m3u8
+Insight TV,https://insighttv-samsung-canada.amagi.tv/720p/index.m3u8
+Altena TV,https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/video-1280x720p25-3000/index.m3u8
+BredaNu TV,https://01.tv.streaming.bredanu.nl/hls/2/stream.m3u8
+BVN,https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5Nzk0MzU5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9idm4vYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNDFkNmM5MzUwMTZmMmRjOSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjIiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6Wzg0XX0=.0Ay6kWWSqhfGl4YQCKzTRxp4rYRFHEMDZQlRNEXYNjm308re9iqcOaj04_JrZ_Gx5QFggrRb2tuxK17AWjpL4w==/live/eds/bvn/browser-HLS8/bvn-avc1_2500000=2.m3u8
+
+
