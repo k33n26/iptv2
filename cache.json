@@ -1137,10 +1137,17 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1aa4a55d27f0edad5b1b8bebdabd6cae.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1aa4a55d27f0edad5b1b8bebdabd6cae.webp"
   },
-  "RTK 3": null,
+  "RTK 3": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/25387b14dc8ccafb1bac9638b55928fb.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25387b14dc8ccafb1bac9638b55928fb.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/25387b14dc8ccafb1bac9638b55928fb.webp"
+  },
   "TV Arberia 1": null,
   "RTV21": null,
   "T7": null,
   "TV Prizreni": null,
-  "TV Syri": null
+  "TV Syri": null,
+  "TV Jurmala": null,
+  "Vidusdaugavas Televizija": null,
+  "Re TV": null
 }

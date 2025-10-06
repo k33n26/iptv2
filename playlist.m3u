@@ -661,7 +661,7 @@ https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 group-title="Kosova" ,RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
-#EXTINF:-1 group-title="Kosova" ,RTK 3
+#EXTINF:-1 group-title="Kosova" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25387b14dc8ccafb1bac9638b55928fb.webp",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kosova" ,TV Arberia 1
 https://yayin30.haber100.com/live/rtvarberia/chunklist_w576006062.m3u8
@@ -837,6 +837,14 @@ http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1758781321&playlistlength=
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Vietnam" ,BBC-LifeStyle
 https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
+#EXTINF:-1 group-title="Litvanya" ,TV Jurmala
+https://air.star.lv/TV_Jurmala_multistream/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Litvanya" ,Vidusdaugavas Televizija
+https://straume.vdtv.lv/vdtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Litvanya" ,Re TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/chunklist_b4500000_vo_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c28d8ba9a64e86ef36509a4d30d5ee9d.webp",TVNET
+https://player.tvnet.lv/stream/amlst:61659/chunklist_w453417690_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Italya" ,BOING HD
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c5357b63bd7b3f64ac8e17680aa532b7.webp",IUNIOR TV
