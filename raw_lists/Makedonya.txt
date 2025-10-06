@@ -1,0 +1,3 @@
+M-Net Sport,https://live.mnet.mk/hls/mnet-sport.m3u8
+Sky Folk TV,https://eu.live.skyfolk.mk/live.m3u8
+
