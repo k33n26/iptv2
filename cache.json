@@ -1354,5 +1354,45 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6d3ccd4df7641e2da51d167ae8a16ccd.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6d3ccd4df7641e2da51d167ae8a16ccd.webp"
   },
-  "ZABB CHANNEL": null
+  "ZABB CHANNEL": null,
+  "ITV Cinema": null,
+  "Ozbekiston24": null,
+  "Ozbekiston1": null,
+  "YOSHLAR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d680f45e0ee6347837af3230cab76359.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d680f45e0ee6347837af3230cab76359.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d680f45e0ee6347837af3230cab76359.webp"
+  },
+  "TOSHKENT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f744f167d51aa312b72c9a021bc1ac07.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f744f167d51aa312b72c9a021bc1ac07.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f744f167d51aa312b72c9a021bc1ac07.webp"
+  },
+  "SPORT UZ": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b344ce5698ca6e5c26fcd6b392aecce7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b344ce5698ca6e5c26fcd6b392aecce7.webp"
+  },
+  "BOLAJON": null,
+  "MADANIYAT VA MA'RIFAT": null,
+  "MAHALLA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c4dade9589871e099326cd64dd2b6a2d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c4dade9589871e099326cd64dd2b6a2d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c4dade9589871e099326cd64dd2b6a2d.webp"
+  },
+  "KINOTEATR": null,
+  "O'BEKISTON TARIXI": null,
+  "DUNYA BOYLOB": null,
+  "GOLD TV": null,
+  "NURAFSHON TV": null,
+  "RUXOR TV": null,
+  "JASLAR TV": null,
+  "MULOQOT.TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/fb03d36ad8bd70dd319312b62c961212.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fb03d36ad8bd70dd319312b62c961212.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/fb03d36ad8bd70dd319312b62c961212.webp"
+  },
+  "LIVE TV": null,
+  "MAKON TV": null,
+  "DENOV TV": null
 }
