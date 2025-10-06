@@ -1154,5 +1154,10 @@
   "Dudelange TV": null,
   "Mamer TV": null,
   "RTL Tele Letzebuerg": null,
-  "RTL Zwee": null
+  "RTL Zwee": null,
+  "Delfi TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d2be8aac53b5ede84c0d6f09dc4f11c6.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d2be8aac53b5ede84c0d6f09dc4f11c6.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d2be8aac53b5ede84c0d6f09dc4f11c6.webp"
+  }
 }

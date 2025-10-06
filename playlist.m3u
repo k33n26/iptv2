@@ -855,6 +855,8 @@ http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1758781321&playlistlength=
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Vietnam" ,BBC-LifeStyle
 https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
+#EXTINF:-1 group-title="Litvanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d2be8aac53b5ede84c0d6f09dc4f11c6.webp",Delfi TV
+https://player.tvnet.lv/stream/amlst:61659/chunklist_w453417690_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Italya" ,BOING HD
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c5357b63bd7b3f64ac8e17680aa532b7.webp",IUNIOR TV
