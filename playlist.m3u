@@ -963,6 +963,14 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
+#EXTINF:-1 group-title="Nepal" ,Capital TV
+https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
+#EXTINF:-1 group-title="Nepal" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2a0968ec0b1996615fa466af6328b928.webp",Indigenous Television
+https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/chunks.m3u8?nimblesessionid=4397270
+#EXTINF:-1 group-title="Nepal" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1d6e55de6c7b3e4f6bf304886d963a3d.webp",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8?nimblesessionid=2106878
+#EXTINF:-1 group-title="Nepal" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/893d580502bc57791b47d5a1cbfe45b8.webp",Kantipur Max
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/kantipurmaxgeo/match1_1080/chunks.m3u8?nimblesessionid=2106891
 #EXTINF:-1 group-title="Fas" ,Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 group-title="Fas" ,2M MONDE

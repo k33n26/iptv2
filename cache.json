@@ -1202,5 +1202,21 @@
   },
   "Altena TV": null,
   "BredaNu TV": null,
-  "BVN": null
+  "BVN": null,
+  "Capital TV": null,
+  "Indigenous Television": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2a0968ec0b1996615fa466af6328b928.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2a0968ec0b1996615fa466af6328b928.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2a0968ec0b1996615fa466af6328b928.webp"
+  },
+  "Kantipur TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1d6e55de6c7b3e4f6bf304886d963a3d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1d6e55de6c7b3e4f6bf304886d963a3d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1d6e55de6c7b3e4f6bf304886d963a3d.webp"
+  },
+  "Kantipur Max": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/893d580502bc57791b47d5a1cbfe45b8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/893d580502bc57791b47d5a1cbfe45b8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/893d580502bc57791b47d5a1cbfe45b8.webp"
+  }
 }
