@@ -979,6 +979,34 @@ https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Israil" ,SHELANU-GOD-IL
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,Badakhshon
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/598b379b1cd6ddb572482fb064024b26.webp",Dushanbe
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,Jahonnamo
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,Khatlon
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/15c42a36053d894fef1a225ce99a3a2b.webp",TMT
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/92fa0efc30f9f142fcd024c73ee0d5a5.webp",Tojikiston
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,TV Kulob
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,TV Sugd
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,TV Bahoriston
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,Ilm Va Tabiat
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,Futbol
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,TV Safina
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 group-title="Tacikistan" ,TV Sinamo
+https://live.teleradiocom.tj/6/3m.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
