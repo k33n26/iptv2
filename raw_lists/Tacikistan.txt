@@ -1,0 +1,14 @@
+Badakhshon,https://live.teleradiocom.tj/11/3m.m3u8
+Dushanbe,https://live.teleradiocom.tj/7/3m.m3u8
+Jahonnamo,https://live.teleradiocom.tj/4/3m.m3u8
+Khatlon,https://live.teleradiocom.tj/10/3m.m3u8
+TMT,https://live.teleradiocom.tj/9/3m.m3u8
+Tojikiston,https://live.teleradiocom.tj/1/3m.m3u8
+TV Kulob,https://live.teleradiocom.tj/12/3m.m3u8
+TV Sugd,https://live.teleradiocom.tj/14/3m.m3u8
+TV Bahoriston,https://live.teleradiocom.tj/3/3m.m3u8
+Ilm Va Tabiat,https://live.teleradiocom.tj/15/3m.m3u8
+Futbol,https://live.teleradiocom.tj/8/3m.m3u8
+TV Sayohi,https://live.teleradiocom.tj/16/3m.m3u8
+TV Safina,https://live.teleradiocom.tj/2/3m.m3u8
+TV Sinamo,https://live.teleradiocom.tj/6/3m.m3u8
