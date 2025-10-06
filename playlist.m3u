@@ -911,6 +911,96 @@ http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1758781321&playlistlength=
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Vietnam" ,BBC-LifeStyle
 https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b933f40a49249bb74144a4209e33cd51.webp",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fc5d90e1833b1e31fde07df7c638f176.webp",DLTV1
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w1459397362_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV2
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-02-adaptive.smil/chunklist_w136041087_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV3
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-03-adaptive.smil/chunklist_w1847237179_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV4
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-04-adaptive.smil/chunklist_w2026800457_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV5
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-05-adaptive.smil/chunklist_w1334303752_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV6
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-06-adaptive.smil/chunklist_w808025954_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV7
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-07-adaptive.smil/chunklist_w1392811753_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV8
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-08-adaptive.smil/chunklist_w847104684_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV9
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-09-adaptive.smil/chunklist_w567713750_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV10
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-10-adaptive.smil/chunklist_w1510296408_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV11
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-11-adaptive.smil/chunklist_w1862816456_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV12
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-12-adaptive.smil/chunklist_w1030505711_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV13
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-13-adaptive.smil/chunklist_w1381848658_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV14
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-14-adaptive.smil/chunklist_w1010386806_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,DLTV15
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/chunklist_w1786842664_b3128000_slth.m3u8
+#EXTINF:-1 group-title="Tayland" ,ESAN TV
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2780db0c8aed532b8510ff958387eba1.webp",MONO29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+#EXTINF:-1 group-title="Tayland" ,MONO29(2)
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cdfc4100a0eb94dd42906e32213031b2.webp",3HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/790cb2d39b98fb4f9298c4af3f4642c6.webp",CHANNEL 5
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0fb34704f5a74f7e477afc0083adb208.webp",CHANNEL 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4cf030cb57043c348a361444b826ae8d.webp",CHANNEL 8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
+#EXTINF:-1 group-title="Tayland" ,G-MM25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+#EXTINF:-1 group-title="Tayland" ,MCOT
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ccbd8dc34e7228744d9dc6465bba6fbd.webp",NBT CENTRAL
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1534462777_b3128000.m3u8?null
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7937a06e2d9849acc5e0bb0998eb1ead.webp",NBT2
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w426850531_b3128000.m3u8?null
+#EXTINF:-1 group-title="Tayland" ,NBT NORTHEAST
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w389351088_b1328000.m3u8?null
+#EXTINF:-1 group-title="Tayland" ,NBT SOUTH
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w217616764_b1328000.m3u8?null
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5e2186600f6e182329c61cba8ec37493.webp",ONE31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/profile_0/997a4ebd915343b795d140257b754661/chunklist_ssaiV.m3u8
+#EXTINF:-1 group-title="Tayland" ,13 Siam Thai
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:-1 group-title="Tayland" ,JKN18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:-1 group-title="Tayland" ,DRAMA CHANNEL
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+#EXTINF:-1 group-title="Tayland" ,T SPORTS7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+#EXTINF:-1 group-title="Tayland" ,LANTHUNG TV
+https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1967636112.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4302d6d40e6be1d9e5f309eeab5c461d.webp",POLICE TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/chunklist_w940027118.m3u8
+#EXTINF:-1 group-title="Tayland" ,SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist_w1173159331.m3u8
+#EXTINF:-1 group-title="Tayland" ,STOU CHANNEL
+https://stream1.stou.ac.th/live/stou_720p/chunklist_w1947947743.m3u8
+#EXTINF:-1 group-title="Tayland" ,THAIBAN83
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+#EXTINF:-1 group-title="Tayland" ,THAI CHAIYO
+https://live-iptv.thaichaiyo.tv/tcy/live-transmux.m3u8
+#EXTINF:-1 group-title="Tayland" ,THAIRATH TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+#EXTINF:-1 group-title="Tayland" ,TNN16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/024d213639e02605c65f371f3081d830.webp",TRUE4U
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6d3ccd4df7641e2da51d167ae8a16ccd.webp",WORKPOINT TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+#EXTINF:-1 group-title="Tayland" ,ZABB CHANNEL
+https://vdo.plathong.net/flash7057/flash7057/chunklist_w1096515942.m3u8
 #EXTINF:-1 group-title="Litvanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d2be8aac53b5ede84c0d6f09dc4f11c6.webp",Delfi TV
 https://player.tvnet.lv/stream/amlst:61659/chunklist_w453417690_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Italya" ,BOING HD

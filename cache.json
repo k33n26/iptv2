@@ -1257,5 +1257,102 @@
   "Futbol": null,
   "TV Sayohi": null,
   "TV Safina": null,
-  "TV Sinamo": null
+  "TV Sinamo": null,
+  "ALTV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b933f40a49249bb74144a4209e33cd51.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b933f40a49249bb74144a4209e33cd51.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b933f40a49249bb74144a4209e33cd51.webp"
+  },
+  "DLTV1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/fc5d90e1833b1e31fde07df7c638f176.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fc5d90e1833b1e31fde07df7c638f176.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/fc5d90e1833b1e31fde07df7c638f176.webp"
+  },
+  "DLTV2": null,
+  "DLTV3": null,
+  "DLTV4": null,
+  "DLTV5": null,
+  "DLTV6": null,
+  "DLTV7": null,
+  "DLTV8": null,
+  "DLTV9": null,
+  "DLTV10": null,
+  "DLTV11": null,
+  "DLTV12": null,
+  "DLTV13": null,
+  "DLTV14": null,
+  "DLTV15": null,
+  "ESAN TV": null,
+  "MONO29": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2780db0c8aed532b8510ff958387eba1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2780db0c8aed532b8510ff958387eba1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2780db0c8aed532b8510ff958387eba1.webp"
+  },
+  "MONO29(2)": null,
+  "3HD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/cdfc4100a0eb94dd42906e32213031b2.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cdfc4100a0eb94dd42906e32213031b2.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/cdfc4100a0eb94dd42906e32213031b2.webp"
+  },
+  "CHANNEL 5": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/790cb2d39b98fb4f9298c4af3f4642c6.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/790cb2d39b98fb4f9298c4af3f4642c6.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/790cb2d39b98fb4f9298c4af3f4642c6.webp"
+  },
+  "CHANNEL 7": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0fb34704f5a74f7e477afc0083adb208.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0fb34704f5a74f7e477afc0083adb208.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0fb34704f5a74f7e477afc0083adb208.webp"
+  },
+  "CHANNEL 8": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4cf030cb57043c348a361444b826ae8d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4cf030cb57043c348a361444b826ae8d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4cf030cb57043c348a361444b826ae8d.webp"
+  },
+  "G-MM25": null,
+  "MCOT": null,
+  "NBT CENTRAL": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ccbd8dc34e7228744d9dc6465bba6fbd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ccbd8dc34e7228744d9dc6465bba6fbd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ccbd8dc34e7228744d9dc6465bba6fbd.webp"
+  },
+  "NBT2": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7937a06e2d9849acc5e0bb0998eb1ead.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7937a06e2d9849acc5e0bb0998eb1ead.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7937a06e2d9849acc5e0bb0998eb1ead.webp"
+  },
+  "NBT NORTHEAST": null,
+  "NBT SOUTH": null,
+  "ONE31": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5e2186600f6e182329c61cba8ec37493.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5e2186600f6e182329c61cba8ec37493.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5e2186600f6e182329c61cba8ec37493.webp"
+  },
+  "13 Siam Thai": null,
+  "JKN18": null,
+  "DRAMA CHANNEL": null,
+  "T SPORTS7": null,
+  "LANTHUNG TV": null,
+  "POLICE TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4302d6d40e6be1d9e5f309eeab5c461d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4302d6d40e6be1d9e5f309eeab5c461d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4302d6d40e6be1d9e5f309eeab5c461d.webp"
+  },
+  "SBB TV": null,
+  "STOU CHANNEL": null,
+  "THAIBAN83": null,
+  "THAI CHAIYO": null,
+  "THAIRATH TV": null,
+  "TNN16": null,
+  "TRUE4U": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/024d213639e02605c65f371f3081d830.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/024d213639e02605c65f371f3081d830.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/024d213639e02605c65f371f3081d830.webp"
+  },
+  "WORKPOINT TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6d3ccd4df7641e2da51d167ae8a16ccd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6d3ccd4df7641e2da51d167ae8a16ccd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6d3ccd4df7641e2da51d167ae8a16ccd.webp"
+  },
+  "ZABB CHANNEL": null
 }
