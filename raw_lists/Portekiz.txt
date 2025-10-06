@@ -1,4 +1,11 @@
+RTP1,https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b1290000_slpor.m3u8
+RTP2,https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/chunklist_b1290000_slpor.m3u8
+RTP3,https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b1290000_slpor.m3u8
 RTP-INT,http://78.128.125.60:9981/play/a00k/index.m3u8
+RTP Africa,https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b340000_slpt.m3u8
+RTP Acores,https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/chunklist_b1290000_slpor.m3u8
+RTP Madeira,https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b340000_slpt.m3u8
+RTP Memoria,https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8
 TVI,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 TVI-INT,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 TVI-V+,https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
@@ -7,6 +14,7 @@ TVI-REALITY,https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_se
 TVI-AFRICA,https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 SIC,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 SIC-NOTICIAS,https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+SIC-NOTICIAS(2),https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_3.m3u8
 SIC-REPLAY,https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 SIC-ALTA-DEFINIÇÃO,https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 CNN-PORTUGAL,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
