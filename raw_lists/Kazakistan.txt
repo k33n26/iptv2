@@ -1,0 +1,16 @@
+Abai-Tv,https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
+Aqtobe,https://stream.kaztrk.kz/regional/aktobetv/tracks-v1a1/mono.ts.m3u8
+Atyray,https://stream.kaztrk.kz/regional/atyrautv/tracks-v1a1/mono.ts.m3u8
+Ertis,https://stream.kaztrk.kz/regional/pavlodartv/tracks-v1a1/mono.ts.m3u8
+Kokshe,https://stream.kaztrk.kz/regional/kokshetautv/tracks-v1a1/mono.ts.m3u8
+KTK,https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w525249521_b6128000_slrus.m3u8
+Qazaqstan International,https://qazaqstantv-stream.qazcdn.com/international/international/tracks-v1a1/mono.ts.m3u8
+Semei,https://stream.kaztrk.kz/regional/semeytv/tracks-v1a1/mono.ts.m3u8
+Balapan,https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8
+Alau Tv,https://otv.wotom.net/alau/stream.m3u8
+Ontustik,https://stream.kaztrk.kz/regional/shymkenttv/tracks-v1a1/mono.ts.m3u8
+Qazaqstan,https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
+Qostanai,https://stream.kaztrk.kz/regional/kostanaytv/tracks-v1a1/mono.ts.m3u8
+Qyzyljar,https://stream.kaztrk.kz/regional/petropavltv/tracks-v1a1/mono.ts.m3u8
+Qyzylorda,https://stream.kaztrk.kz/regional/kyzylordatv/tracks-v1a1/mono.ts.m3u8
+Saryarqa,https://stream.kaztrk.kz/regional/karagandytv/tracks-v1a1/mono.ts.m3u8
