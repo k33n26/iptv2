@@ -1219,5 +1219,17 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/893d580502bc57791b47d5a1cbfe45b8.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/893d580502bc57791b47d5a1cbfe45b8.webp"
   },
-  "TVP1(2)": null
+  "TVP1(2)": null,
+  "RTP1": null,
+  "RTP2": null,
+  "RTP3": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/989f24b42f52e82fba50e319ed528b5e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/989f24b42f52e82fba50e319ed528b5e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/989f24b42f52e82fba50e319ed528b5e.webp"
+  },
+  "RTP Africa": null,
+  "RTP Acores": null,
+  "RTP Madeira": null,
+  "RTP Memoria": null,
+  "SIC-NOTICIAS(2)": null
 }
