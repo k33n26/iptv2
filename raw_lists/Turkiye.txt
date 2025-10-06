@@ -16,6 +16,7 @@ TRT-EBA,https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 MECLIS-TV,https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 SUPERTURK-MAX,http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+NOW PLAY,http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 KEMAL-SUNAL-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
 YESILCAM-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
 TABII-TV,https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
@@ -28,6 +29,7 @@ CINE6-MAX,https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 CINE5,https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist.m3u8
 ONS-TV,https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 RIZETURK-TV,https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+KuzeyMax,http://75.119.144.48/kuzeymaxtv_hd/index.m3u8
 ISVICRE-TV,https://i41.ozelip.com:3269/hybrid/play.m3u8
 AKTIF-TV,https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
 VIYANA-TV,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
