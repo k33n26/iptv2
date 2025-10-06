@@ -113,6 +113,8 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" ,HOCWAN-TV
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+#EXTINF:-1 group-title="Turkiye" ,YANSIMA-SINEMA
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 group-title="Turkiye" ,FRT-FETHIYE
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Turkiye" ,K+tv
@@ -197,6 +199,8 @@ https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,STAR-TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 group-title="Turkiye" ,EURO-STAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5581acdcdaba2b1c8edf5631ce485969.webp",NOW-TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,KANAL-D
@@ -235,8 +239,14 @@ http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/009234703749e69a5194f91e538c5f26.webp",ADA-TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye" ,TORBA-TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 #EXTINF:-1 group-title="Turkiye" ,AS-TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8?nimblesessionid=1076240240
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/254888c2af333f8f1dc8b91768c6503d.webp",ANADOLUDOST
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
+#EXTINF:-1 group-title="Turkiye" ,ESPIYE-TV
+https://cdn-espiyetv.yayin.com.tr/espiyetv/espiyetv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TABII-SPOR
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TABII-SPOR1
