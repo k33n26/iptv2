@@ -1397,5 +1397,52 @@
   "DENOV TV": null,
   "MY5": null,
   "NOW PLAY": null,
-  "KuzeyMax": null
+  "KuzeyMax": null,
+  "Asharq News": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1cf52e012549575e6ac93e1119fab0b7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1cf52e012549575e6ac93e1119fab0b7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1cf52e012549575e6ac93e1119fab0b7.webp"
+  },
+  "Asharq Bloomberg": null,
+  "Rotana Classic": null,
+  "Saudi Thaqafiya TV": null,
+  "Asharq Discovery": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ae527640daa99aceaa6658119c4364bc.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ae527640daa99aceaa6658119c4364bc.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ae527640daa99aceaa6658119c4364bc.webp"
+  },
+  "Asharq Documentry": null,
+  "Al Saudiya": null,
+  "SBC": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bffa5fdccaddd449a210c2ef473f59f1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bffa5fdccaddd449a210c2ef473f59f1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bffa5fdccaddd449a210c2ef473f59f1.webp"
+  },
+  "Aflam": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/11a25926ce15c1941695ef40426ff39d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/11a25926ce15c1941695ef40426ff39d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/11a25926ce15c1941695ef40426ff39d.webp"
+  },
+  "MBC+ Drama": null,
+  "Movies Action": null,
+  "Movies Thriller": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4627c4edff8efe4a66fea85ed1471075.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4627c4edff8efe4a66fea85ed1471075.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4627c4edff8efe4a66fea85ed1471075.webp"
+  },
+  "Al Ekhbariya": null,
+  "Al Hadath": null,
+  "Bab Al Hara": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2cf6c1e0a0970efb1cc04a5e791aa191.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2cf6c1e0a0970efb1cc04a5e791aa191.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2cf6c1e0a0970efb1cc04a5e791aa191.webp"
+  },
+  "Maraya": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/62fcda2e6e1b04952f9b2e29762ae10f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/62fcda2e6e1b04952f9b2e29762ae10f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/62fcda2e6e1b04952f9b2e29762ae10f.webp"
+  },
+  "MBC Masr Drama": null,
+  "Al Saudiya Alaan": null,
+  "Big Time Plus": null
 }

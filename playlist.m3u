@@ -589,6 +589,44 @@ https://w-live-edge2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chun
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/live-video=6499968.m3u8
 #EXTINF:-1 group-title="Danimarka" ,KVF2
 https://w-live-edge1.kringvarp.fo/kvf-2_utland/_definst_/smil:kvf-2_utland.smil/chunklist_w1361134068_b6000000_slfao.m3u8
+#EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1cf52e012549575e6ac93e1119fab0b7.webp",Asharq News
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Asharq Bloomberg
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_720p/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Rotana Classic
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanazaman/streams/sessions/8e0ca53e0109496596aeae3a85625763/media/playlist-orig.m3u8/0.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Saudi Thaqafiya TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ae527640daa99aceaa6658119c4364bc.webp",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Asharq Documentry
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Al Saudiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bffa5fdccaddd449a210c2ef473f59f1.webp",SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/11a25926ce15c1941695ef40426ff39d.webp",Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
+#EXTINF:-1 group-title="Arabistan" ,MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
+#EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4627c4edff8efe4a66fea85ed1471075.webp",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Al Ekhbariya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2cf6c1e0a0970efb1cc04a5e791aa191.webp",Bab Al Hara
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index_1.m3u8
+#EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/62fcda2e6e1b04952f9b2e29762ae10f.webp",Maraya
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_1.m3u8
+#EXTINF:-1 group-title="Arabistan" ,MBC Masr Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_4.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1 group-title="Arabistan" ,Big Time Plus
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/manifest/video/1080p2400kbps/video.m3u8
 #EXTINF:-1 group-title="G.Kibris" ,RIKSAT
 https://am8.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=5178585
 #EXTINF:-1 group-title="G.Kibris" ,RIKSAT(2)
