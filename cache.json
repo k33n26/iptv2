@@ -1463,5 +1463,15 @@
   },
   "TV Hram": null,
   "TV Pirot": null,
-  "RTV Novi Pazar": null
+  "RTV Novi Pazar": null,
+  "STV2": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7f44328c378ae9b931d2dfe8a6427d95.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7f44328c378ae9b931d2dfe8a6427d95.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7f44328c378ae9b931d2dfe8a6427d95.webp"
+  },
+  "STV24": null,
+  "Markiza Krimi": null,
+  "MTR": null,
+  "Televizia Mocenok": null,
+  "TVT": null
 }

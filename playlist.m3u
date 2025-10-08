@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="Slovakya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7f44328c378ae9b931d2dfe8a6427d95.webp",STV2
+https://n16.stv.livebox.sk/stv-tv/038c1a1853367811d1eeb9ab4d9491d2/stv2.smil/chunklist_b2691072.m3u8
+#EXTINF:-1 group-title="Slovakya" ,STV24
+https://n15.stv.livebox.sk/stv-tv/cc304ff51377049235cff8a0de78744f/stv3.smil/chunklist_b2691072.m3u8
+#EXTINF:-1 group-title="Slovakya" ,Markiza Krimi
+https://cdnsk003.panaccess.com/local/Markiza_krimi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Slovakya" ,MTR
+https://cdnsk003.panaccess.com/local/Ruzomberok/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Slovakya" ,Televizia Mocenok
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/chunklist_w1768861797.m3u8
+#EXTINF:-1 group-title="Slovakya" ,TVT
+https://5ca49f2417d90.streamlock.net/live/turzovka/chunklist_w1426185184.m3u8
 #EXTINF:-1 group-title="Saint Kitts ve Nevis" ,Television Caribbean
 https://live.kingdom-tv.com:3545/stream/play.m3u8
 #EXTINF:-1 group-title="Avusturya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/973b050c50fc6ac0cc62ffa7a942c657.webp",ORF
