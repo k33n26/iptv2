@@ -1,1 +1,12 @@
 HAPPY-TV,https://stream1.happytv.rs/Happytv/myStream/chunklist_w1509443843.m3u8
+SOS Kanal Plus,https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/chunklist_w1832620913.m3u8
+Narodna TV,https://edge8.pink.rs/narodnatv/chunklist_w1509007523.m3u8
+Pink,https://edge8.pink.rs/pinktv/chunklist_w1931081554.m3u8
+Rock&Roll,https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
+RTS1,https://webtvstream.bhtelecom.ba/hls19/rts1_1200.m3u8
+RTS2,https://webtvstream.bhtelecom.ba/hls9/rts2_1200.m3u8
+RTV Bap,https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/chunklist_w248413741.m3u8
+TV AS,https://de1.dstvmultimedia.com/TVAS/tracks-v1a1/mono.ts.m3u8
+TV Hram,https://vod1.laki.eu/live/hram/index.m3u8
+TV Pirot,https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w8815639.m3u8
+RTV Novi Pazar,https://tv.rtvnp.rs/stream.m3u8
