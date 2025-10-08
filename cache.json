@@ -1444,5 +1444,24 @@
   },
   "MBC Masr Drama": null,
   "Al Saudiya Alaan": null,
-  "Big Time Plus": null
+  "Big Time Plus": null,
+  "SOS Kanal Plus": null,
+  "Narodna TV": null,
+  "Pink": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8dc5344bc0746e1cc5abf896ca03bbdf.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8dc5344bc0746e1cc5abf896ca03bbdf.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8dc5344bc0746e1cc5abf896ca03bbdf.webp"
+  },
+  "Rock&Roll": null,
+  "RTS1": null,
+  "RTS2": null,
+  "RTV Bap": null,
+  "TV AS": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d3e44e9bdae05466664d616d696ff2da.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d3e44e9bdae05466664d616d696ff2da.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d3e44e9bdae05466664d616d696ff2da.webp"
+  },
+  "TV Hram": null,
+  "TV Pirot": null,
+  "RTV Novi Pazar": null
 }

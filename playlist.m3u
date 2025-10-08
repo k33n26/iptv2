@@ -413,6 +413,28 @@ https://live.tv-m.net/hls/stream.m3u8
 https://pluslive.rtrs.tv/plus/plus/chunklist_w1964455045.m3u8
 #EXTINF:-1 group-title="Sirbistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/47e4dbed638f2371adb075c824da6c5c.webp",HAPPY-TV
 https://stream1.happytv.rs/Happytv/myStream/chunklist_w1509443843.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/chunklist_w1832620913.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,Narodna TV
+https://edge8.pink.rs/narodnatv/chunklist_w1509007523.m3u8
+#EXTINF:-1 group-title="Sirbistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8dc5344bc0746e1cc5abf896ca03bbdf.webp",Pink
+https://edge8.pink.rs/pinktv/chunklist_w1931081554.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,RTS1
+https://webtvstream.bhtelecom.ba/hls19/rts1_1200.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,RTS2
+https://webtvstream.bhtelecom.ba/hls9/rts2_1200.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,RTV Bap
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/chunklist_w248413741.m3u8
+#EXTINF:-1 group-title="Sirbistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d3e44e9bdae05466664d616d696ff2da.webp",TV AS
+https://de1.dstvmultimedia.com/TVAS/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w8815639.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1fe2bc843b912222e0b30f4ce108e70b.webp",Leman Bleu
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d7a625277de4970b77e868e3b20b0979.webp",RMC Story
