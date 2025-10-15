@@ -191,6 +191,14 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/TV_100.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,B-IZ-TV
 http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/16d2b386b2034b9488996466aaae0b57.webp",History
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196835&extension=m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d271b5bbda93ca0b69ecd1a79650c6b5.webp",IDX
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e4af10b205f09c7257b6d2961e19f2a3.webp",Yaban TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+#EXTINF:-1 group-title="Turkiye" ,NatureTime
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,VIASAT-EXPLORE
 https://kablosistem.vercel.app/index.m3u8?id=90
 #EXTINF:-1 group-title="Turkiye" ,NAT-GEO-CHANNEL
@@ -307,6 +315,50 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 https://stream-135962.castr.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Turkiye" ,KANAL AVRUPA
 http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Tatlı.Intikam
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Dizi TV
+http://193.27.209.122/dizi/index.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cd00d38edd0dcc502e615b892ca072f5.webp",FusionTV
+http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye" ,FilmBox Comedy
+http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Fil Tv
+https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Ufkum TV
+https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Lebih TV
+https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Yesilcam1 TV
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Yesilcam2 TV
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Yesilcam3 TV
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv3/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/da69f5650152d69dc0e968b33311f8cd.webp",Fifa TV
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Recep.Ivedik.1
+https://vidmody.com/mm/tt1193516/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Recep.Ivedik.2
+https://vidmody.com/mm/tt1373215/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Recep.Ivedik.3
+https://vidmody.com/mm/tt1577061/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Recep.Ivedik.4
+https://vidmody.com/mm/tt3477064/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Recep.Ivedik.5
+https://vidmody.com/mm/tt6439558/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Recep.Ivedik.6
+https://vidmody.com/mm/tt7399138/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Recep.Ivedik.7
+https://vidmody.com/mm/tt19759204/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Kolpacino.1
+https://vidmody.com/mm/tt1523486/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Kolpacino.2
+https://vidmody.com/mm/tt1862472/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Kolpacino.3
+https://vidmody.com/mm/tt5505316/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Kolpacino.4
+https://vidmody.com/mm/tt29454492/main/index.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,This-is-Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,AGRO-TV

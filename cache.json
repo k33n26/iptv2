@@ -1473,5 +1473,51 @@
   "Markiza Krimi": null,
   "MTR": null,
   "Televizia Mocenok": null,
-  "TVT": null
+  "TVT": null,
+  "History": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/16d2b386b2034b9488996466aaae0b57.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/16d2b386b2034b9488996466aaae0b57.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/16d2b386b2034b9488996466aaae0b57.webp"
+  },
+  "IDX": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d271b5bbda93ca0b69ecd1a79650c6b5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d271b5bbda93ca0b69ecd1a79650c6b5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d271b5bbda93ca0b69ecd1a79650c6b5.webp"
+  },
+  "Yaban TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e4af10b205f09c7257b6d2961e19f2a3.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e4af10b205f09c7257b6d2961e19f2a3.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e4af10b205f09c7257b6d2961e19f2a3.webp"
+  },
+  "NatureTime": null,
+  "Tatlı.Intikam": null,
+  "Dizi TV": null,
+  "FusionTV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/cd00d38edd0dcc502e615b892ca072f5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cd00d38edd0dcc502e615b892ca072f5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/cd00d38edd0dcc502e615b892ca072f5.webp"
+  },
+  "FilmBox Comedy": null,
+  "Fil Tv": null,
+  "Ufkum TV": null,
+  "Lebih TV": null,
+  "Yesilcam1 TV": null,
+  "Yesilcam2 TV": null,
+  "Yesilcam3 TV": null,
+  "Fifa TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/da69f5650152d69dc0e968b33311f8cd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/da69f5650152d69dc0e968b33311f8cd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/da69f5650152d69dc0e968b33311f8cd.webp"
+  },
+  "Recep.Ivedik.1": null,
+  "Recep.Ivedik.2": null,
+  "Recep.Ivedik.3": null,
+  "Recep.Ivedik.4": null,
+  "Recep.Ivedik.5": null,
+  "Recep.Ivedik.6": null,
+  "Recep.Ivedik.7": null,
+  "Kolpacino.1": null,
+  "Kolpacino.2": null,
+  "Kolpacino.3": null,
+  "Kolpacino.4": null
 }
