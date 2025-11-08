@@ -1131,6 +1131,8 @@ http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1758781321&playlistlength=
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Vietnam" ,BBC-LifeStyle
 https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,RTG
+http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b933f40a49249bb74144a4209e33cd51.webp",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fc5d90e1833b1e31fde07df7c638f176.webp",DLTV1
