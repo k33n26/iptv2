@@ -1598,5 +1598,11 @@
   "ViasatHistory": null,
   "Ilke-TV": null,
   "SABANTV": null,
-  "RTG": null
+  "RTG": null,
+  "TON-TV": null,
+  "TREK": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c66d8346ba72813b015cbe73c4e3a9ea.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c66d8346ba72813b015cbe73c4e3a9ea.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c66d8346ba72813b015cbe73c4e3a9ea.webp"
+  }
 }
