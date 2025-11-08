@@ -25,3 +25,4 @@ BFM2,https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_se
 20 Minutes TV,https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 VOYAGES+,https://streams2.sofast.tv/ptnr-limex/title-VOYAGES-FRE_LIMEX/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c30aa0d0-fb77-4f9b-8acf-b156ab5b969b/manifest.m3u8
 TV-MONACO,https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+TREK,https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
