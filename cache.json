@@ -925,7 +925,11 @@
   },
   "AELOS": null,
   "Faros TV'": null,
-  "2TV": null,
+  "2TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a369368e07f40aa8fc35de01b87fa9c5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a369368e07f40aa8fc35de01b87fa9c5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a369368e07f40aa8fc35de01b87fa9c5.webp"
+  },
   "Imedi TV": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e66a3305b1dc9685e069329ebdbf763d.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e66a3305b1dc9685e069329ebdbf763d.webp",
@@ -1128,7 +1132,11 @@
   "Balapan": null,
   "Alau Tv": null,
   "Ontustik": null,
-  "Qazaqstan": null,
+  "Qazaqstan": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/58ef1ceaa7a75d3a1193c70192ace819.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/58ef1ceaa7a75d3a1193c70192ace819.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/58ef1ceaa7a75d3a1193c70192ace819.webp"
+  },
   "Qostanai": null,
   "Qyzyljar": null,
   "Qyzylorda": null,
@@ -1144,7 +1152,11 @@
   },
   "TV Arberia 1": null,
   "RTV21": null,
-  "T7": null,
+  "T7": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f44f8f3058a58f0b67af7248b72bb833.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f44f8f3058a58f0b67af7248b72bb833.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f44f8f3058a58f0b67af7248b72bb833.webp"
+  },
   "TV Prizreni": null,
   "TV Syri": null,
   "TV Jurmala": null,
@@ -1182,7 +1194,11 @@
   "Salto 1": null,
   "Salto 2": null,
   "BEATTV": null,
-  "MaLive": null,
+  "MaLive": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/68bf8a8283458c3b397a34d504ba9e92.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/68bf8a8283458c3b397a34d504ba9e92.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/68bf8a8283458c3b397a34d504ba9e92.webp"
+  },
   "1AlmereTV": null,
   "1TwenteTV": null,
   "A1 TV": null,
@@ -1329,7 +1345,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5e2186600f6e182329c61cba8ec37493.webp"
   },
   "13 Siam Thai": null,
-  "JKN18": null,
+  "JKN18": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b77a7871cd180d65bba5890b84d192bd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b77a7871cd180d65bba5890b84d192bd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b77a7871cd180d65bba5890b84d192bd.webp"
+  },
   "DRAMA CHANNEL": null,
   "T SPORTS7": null,
   "LANTHUNG TV": null,
@@ -1519,5 +1539,6 @@
   "Kolpacino.1": null,
   "Kolpacino.2": null,
   "Kolpacino.3": null,
-  "Kolpacino.4": null
+  "Kolpacino.4": null,
+  "BIZIM-EV-TV": null
 }

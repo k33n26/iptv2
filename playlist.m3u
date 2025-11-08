@@ -87,8 +87,8 @@ https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SUPERTURK-MAX
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,BIZIM-EV-TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,NOW PLAY
 http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" ,KEMAL-SUNAL-TV
@@ -391,7 +391,7 @@ https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/video-1280x720p25-3
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/video-1280x720p25-3000/index.m3u8
 #EXTINF:-1 group-title="Hollanda" ,BEATTV
 https://tv.beatfm.nl/live.m3u8
-#EXTINF:-1 group-title="Hollanda" ,MaLive
+#EXTINF:-1 group-title="Hollanda" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/68bf8a8283458c3b397a34d504ba9e92.webp",MaLive
 https://live.salto.nl/hls/malive_high.m3u8?hls_ctx=up6g86vv
 #EXTINF:-1 group-title="Hollanda" ,1AlmereTV
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/video-1280x720p25-3000/index.m3u8
@@ -655,7 +655,7 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8
 https://otv.wotom.net/alau/stream.m3u8
 #EXTINF:-1 group-title="Kazakistan" ,Ontustik
 https://stream.kaztrk.kz/regional/shymkenttv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Kazakistan" ,Qazaqstan
+#EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/58ef1ceaa7a75d3a1193c70192ace819.webp",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan" ,Qostanai
 https://stream.kaztrk.kz/regional/kostanaytv/tracks-v1a1/mono.ts.m3u8
@@ -735,7 +735,7 @@ https://live.mnet.mk/hls/mnet-sport.m3u8
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gurcistan" ,2TV
+#EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a369368e07f40aa8fc35de01b87fa9c5.webp",2TV
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e66a3305b1dc9685e069329ebdbf763d.webp",Imedi TV
 https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
@@ -895,7 +895,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/tracks-v3a1/mono.
 https://yayin30.haber100.com/live/rtvarberia/chunklist_w576006062.m3u8
 #EXTINF:-1 group-title="Kosova" ,RTV21
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Kosova" ,T7
+#EXTINF:-1 group-title="Kosova" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f44f8f3058a58f0b67af7248b72bb833.webp",T7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kosova" ,TV Prizreni
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/tracks-v2a1/mono.ts.m3u8
@@ -1143,7 +1143,7 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chun
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/profile_0/997a4ebd915343b795d140257b754661/chunklist_ssaiV.m3u8
 #EXTINF:-1 group-title="Tayland" ,13 Siam Thai
 https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
-#EXTINF:-1 group-title="Tayland" ,JKN18
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b77a7871cd180d65bba5890b84d192bd.webp",JKN18
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 group-title="Tayland" ,DRAMA CHANNEL
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
