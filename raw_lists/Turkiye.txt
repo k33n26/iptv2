@@ -29,6 +29,7 @@ CINE6-MAX,https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 CINE5,https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist.m3u8
 ONS-TV,https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 RIZETURK-TV,https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+Ilke-TV,https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 KuzeyMax,http://75.119.144.48/kuzeymaxtv_hd/index.m3u8
 ISVICRE-TV,https://i41.ozelip.com:3269/hybrid/play.m3u8
 AKTIF-TV,https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
