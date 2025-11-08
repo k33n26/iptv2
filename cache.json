@@ -300,7 +300,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/236f9271b2b5d7bbf81e5644d0ebf9d6.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/236f9271b2b5d7bbf81e5644d0ebf9d6.webp"
   },
-  "SHOW-TV": null,
+  "SHOW-TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/73a53b1a942904c28deee2f6f9fb880a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/73a53b1a942904c28deee2f6f9fb880a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/73a53b1a942904c28deee2f6f9fb880a.webp"
+  },
   "ATV": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/df13ed57843877b21ad969184ab6888f.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/df13ed57843877b21ad969184ab6888f.webp",
@@ -847,7 +851,11 @@
   },
   "AB3 (chtoken)": null,
   "HLN Live": null,
-  "LN24": null,
+  "LN24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c6ad53805a5be7d59adf8032d3133bcb.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c6ad53805a5be7d59adf8032d3133bcb.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c6ad53805a5be7d59adf8032d3133bcb.webp"
+  },
   "VTM": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/64c28aaf48b05cf27697aeb6afe2910d.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/64c28aaf48b05cf27697aeb6afe2910d.webp",
@@ -1473,7 +1481,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8dc5344bc0746e1cc5abf896ca03bbdf.webp"
   },
   "Rock&Roll": null,
-  "RTS1": null,
+  "RTS1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/89a79919832e8ea82bc243d7183198c5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/89a79919832e8ea82bc243d7183198c5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/89a79919832e8ea82bc243d7183198c5.webp"
+  },
   "RTS2": null,
   "RTV Bap": null,
   "TV AS": {
@@ -1540,5 +1552,11 @@
   "Kolpacino.2": null,
   "Kolpacino.3": null,
   "Kolpacino.4": null,
-  "BIZIM-EV-TV": null
+  "BIZIM-EV-TV": null,
+  "SOMINE-TV": null,
+  "CIZGI-FIM.TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/60031bba9b50014edf25357cff3c5a11.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/60031bba9b50014edf25357cff3c5a11.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/60031bba9b50014edf25357cff3c5a11.webp"
+  }
 }

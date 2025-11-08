@@ -213,8 +213,8 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1882152028.m3u8?hash=2bece92a3c67865eef19d8509a254589
 #EXTINF:-1 group-title="Turkiye" ,CGTN-DOCUMENTRY
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 group-title="Turkiye" ,VIZI-BELGESEL
-https://goldvod.org/tv/uyanik?id=96
+#EXTINF:-1 group-title="Turkiye" ,SOMINE-TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Somine_TV.m3u8
 #EXTINF:-1 group-title="Turkiye" ,YAZ-TV
 https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TGRT-BELGESEL
@@ -231,7 +231,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/236f9271b2b5d7bbf81e5644d0ebf9d6.webp",EURO-D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SHOW-TV
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/73a53b1a942904c28deee2f6f9fb880a.webp",SHOW-TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/df13ed57843877b21ad969184ab6888f.webp",ATV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
@@ -311,6 +311,8 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,MINIKA-GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/60031bba9b50014edf25357cff3c5a11.webp",CIZGI-FIM.TV
+http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TURKMENELI-TV
 https://stream-135962.castr.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Turkiye" ,KANAL AVRUPA
@@ -435,7 +437,7 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 https://cache1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzQ5NDYwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9hYjMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiMzNjNzg2YzczNTQ5ODk2OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjM4Iiwic291cmNlcyI6WzM4XX0=.XgepUWKrHYQfI9e0qTwA-ngqV_8_iYotLEA7ip5ffGbtCBBgKW8masO3NnIQch3ZAQzd-EBf7zM5pFxerYHZNQ==/live/eds/ab3/browser-HLS8/ab3-avc1_4000000=10004.m3u8
 #EXTINF:-1 group-title="Belcika" ,HLN Live
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
-#EXTINF:-1 group-title="Belcika" ,LN24
+#EXTINF:-1 group-title="Belcika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c6ad53805a5be7d59adf8032d3133bcb.webp",LN24
 https://live-ln24.digiteka.com/1911668011/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Belcika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/64c28aaf48b05cf27697aeb6afe2910d.webp",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1_305_720p.m3u8
@@ -485,7 +487,7 @@ https://edge8.pink.rs/narodnatv/chunklist_w1509007523.m3u8
 https://edge8.pink.rs/pinktv/chunklist_w1931081554.m3u8
 #EXTINF:-1 group-title="Sirbistan" ,Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
-#EXTINF:-1 group-title="Sirbistan" ,RTS1
+#EXTINF:-1 group-title="Sirbistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/89a79919832e8ea82bc243d7183198c5.webp",RTS1
 https://webtvstream.bhtelecom.ba/hls19/rts1_1200.m3u8
 #EXTINF:-1 group-title="Sirbistan" ,RTS2
 https://webtvstream.bhtelecom.ba/hls9/rts2_1200.m3u8
