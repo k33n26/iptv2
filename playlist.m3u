@@ -115,6 +115,8 @@ https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist.m3u8
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" ,RIZETURK-TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Ilke-TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 group-title="Turkiye" ,KuzeyMax
 http://75.119.144.48/kuzeymaxtv_hd/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ISVICRE-TV
