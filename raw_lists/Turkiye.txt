@@ -127,6 +127,7 @@ DISNEY-JUNIOR,https://saran-live.ercdn.net/disneyjunior/index.m3u8
 BABY-TV,https://saran-live.ercdn.net/babytv/index.m3u8
 MINIKA-COCUK,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 MINIKA-GO,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+CIZGI-FIM.TV,http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 TURKMENELI-TV,https://stream-135962.castr.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/tracks-v1/index.fmp4.m3u8
 KANAL AVRUPA,http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 Tatlı.Intikam,https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
