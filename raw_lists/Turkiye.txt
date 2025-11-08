@@ -152,6 +152,28 @@ Kolpacino.1,https://vidmody.com/mm/tt1523486/main/index.m3u8
 Kolpacino.2,https://vidmody.com/mm/tt1862472/main/index.m3u8
 Kolpacino.3,https://vidmody.com/mm/tt5505316/main/index.m3u8
 Kolpacino.4,https://vidmody.com/mm/tt29454492/main/index.m3u8
+MoviSmartTURK,http://65.108.239.207:80/mvturk/index.m3u8
+SinemaTV,http://65.108.239.207:80/sinema/index.m3u8
+SinemaTV-2,http://65.108.239.207:80/sinema2/index.m3u8
+Sinema1001,http://65.108.239.207:80/sinema1001/index.m3u8
+Sinema1002,http://65.108.239.207:80/sinema1002/index.m3u8
+SinemaAksiyon,http://65.108.239.207:80/sinemaaksiyon/index.m3u8
+SinemaAksiyon2,http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
+SinemaAile,http://65.108.239.207:80/sinemaaile/index.m3u8
+SinemaKomedi,http://65.108.239.207:80/sinemakomedi/index.m3u8
+SinemaYerli,http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
+SinemaYerli2,http://65.108.239.207:80/sinemayerli2/index.m3u8
+Sinevizyon1,http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/index.m3u8
+Sinevizyon2,http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/index.m3u8
+Sinevizyon3,http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/index.m3u8
+BBCEarth,http://65.108.239.207:80/bbc/index.m3u8
+Discovery,http://65.108.239.207:80/discovery/index.m3u8
+DiscoveryID,http://65.108.239.207:80/discs/index.m3u8
+DocuScreen,http://65.108.239.207:80/docubox/index.m3u8
+History,http://65.108.239.207:80/history/index.m3u8
+LoveNature,http://65.108.239.207:80/lovenature/index.m3u8
+Tarih-TV,http://65.108.239.207:80/tarihtv/index.m3u8
+ViasatHistory,http://65.108.239.207:80/viasathistory/index.m3u8
 
 
 
