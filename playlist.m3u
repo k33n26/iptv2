@@ -361,6 +361,50 @@ https://vidmody.com/mm/tt1862472/main/index.m3u8
 https://vidmody.com/mm/tt5505316/main/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,Kolpacino.4
 https://vidmody.com/mm/tt29454492/main/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,MoviSmartTURK
+http://65.108.239.207:80/mvturk/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SinemaTV
+http://65.108.239.207:80/sinema/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SinemaTV-2
+http://65.108.239.207:80/sinema2/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Sinema1001
+http://65.108.239.207:80/sinema1001/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Sinema1002
+http://65.108.239.207:80/sinema1002/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SinemaAksiyon
+http://65.108.239.207:80/sinemaaksiyon/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SinemaAksiyon2
+http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SinemaAile
+http://65.108.239.207:80/sinemaaile/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SinemaKomedi
+http://65.108.239.207:80/sinemakomedi/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SinemaYerli
+http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SinemaYerli2
+http://65.108.239.207:80/sinemayerli2/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Sinevizyon1
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Sinevizyon2
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Sinevizyon3
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/index.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/eebc3d31b233133f14f744284b507f42.webp",BBCEarth
+http://65.108.239.207:80/bbc/index.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a1c4eb450799cb3f30c400d0201414e7.webp",Discovery
+http://65.108.239.207:80/discovery/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,DiscoveryID
+http://65.108.239.207:80/discs/index.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/926dce422a96052375172bd0be729c24.webp",DocuScreen
+http://65.108.239.207:80/docubox/index.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/16d2b386b2034b9488996466aaae0b57.webp",History
+http://65.108.239.207:80/history/index.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aacfccad6a8d12e0438ba45f1852c081.webp",LoveNature
+http://65.108.239.207:80/lovenature/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Tarih-TV
+http://65.108.239.207:80/tarihtv/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,ViasatHistory
+http://65.108.239.207:80/viasathistory/index.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,This-is-Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,AGRO-TV

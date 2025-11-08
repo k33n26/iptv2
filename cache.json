@@ -1558,5 +1558,42 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/60031bba9b50014edf25357cff3c5a11.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/60031bba9b50014edf25357cff3c5a11.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/60031bba9b50014edf25357cff3c5a11.webp"
-  }
+  },
+  "MoviSmartTURK": null,
+  "SinemaTV": null,
+  "SinemaTV-2": null,
+  "Sinema1001": null,
+  "Sinema1002": null,
+  "SinemaAksiyon": null,
+  "SinemaAksiyon2": null,
+  "SinemaAile": null,
+  "SinemaKomedi": null,
+  "SinemaYerli": null,
+  "SinemaYerli2": null,
+  "Sinevizyon1": null,
+  "Sinevizyon2": null,
+  "Sinevizyon3": null,
+  "BBCEarth": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/eebc3d31b233133f14f744284b507f42.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/eebc3d31b233133f14f744284b507f42.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/eebc3d31b233133f14f744284b507f42.webp"
+  },
+  "Discovery": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a1c4eb450799cb3f30c400d0201414e7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a1c4eb450799cb3f30c400d0201414e7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a1c4eb450799cb3f30c400d0201414e7.webp"
+  },
+  "DiscoveryID": null,
+  "DocuScreen": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/926dce422a96052375172bd0be729c24.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/926dce422a96052375172bd0be729c24.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/926dce422a96052375172bd0be729c24.webp"
+  },
+  "LoveNature": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/aacfccad6a8d12e0438ba45f1852c081.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aacfccad6a8d12e0438ba45f1852c081.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/aacfccad6a8d12e0438ba45f1852c081.webp"
+  },
+  "Tarih-TV": null,
+  "ViasatHistory": null
 }
