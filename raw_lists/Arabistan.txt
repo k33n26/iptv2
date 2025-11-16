@@ -17,3 +17,4 @@ Maraya,https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a5
 MBC Masr Drama,https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_4.m3u8
 Al Saudiya Alaan,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/manifest/video/1080p2400kbps/video.m3u8
 Big Time Plus,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/manifest/video/1080p2400kbps/video.m3u8
+CH4TEEN-DOCU,http://ch14.tv/live/ch4teendoc/playlist.m3u8
