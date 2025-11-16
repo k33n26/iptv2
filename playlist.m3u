@@ -819,6 +819,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/manifest/video/1080p2400kbps/video.m3u8
 #EXTINF:-1 group-title="Arabistan" ,CH4TEEN-DOCU
 http://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1 group-title="Arabistan" ,CH4TEEN-KIDS
+http://ch14.tv/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1 group-title="G.Kibris" ,RIKSAT
 https://am8.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=5178585
 #EXTINF:-1 group-title="G.Kibris" ,RIKSAT(2)
