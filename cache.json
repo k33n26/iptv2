@@ -1109,7 +1109,11 @@
   "MUSAYOF": null,
   "SHELANU-GOD-IL": null,
   "YANSIMA-SINEMA": null,
-  "EURO-STAR": null,
+  "EURO-STAR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/196b658ffd93ab4c678d8503fbe1adf3.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/196b658ffd93ab4c678d8503fbe1adf3.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/196b658ffd93ab4c678d8503fbe1adf3.webp"
+  },
   "TORBA-TV": null,
   "ANADOLUDOST": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/254888c2af333f8f1dc8b91768c6503d.webp",
@@ -1605,5 +1609,6 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c66d8346ba72813b015cbe73c4e3a9ea.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c66d8346ba72813b015cbe73c4e3a9ea.webp"
   },
-  "Vilayet TV": null
+  "Vilayet TV": null,
+  "Tarım-TV": null
 }
