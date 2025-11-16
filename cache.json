@@ -592,7 +592,11 @@
   "GENC-TV": null,
   "KANAL-T": null,
   "KANAL-SIM": null,
-  "BELARUS24": null,
+  "BELARUS24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/279c9f138d7452a40d054c590b43a97e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/279c9f138d7452a40d054c590b43a97e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/279c9f138d7452a40d054c590b43a97e.webp"
+  },
   "This-is-Bulgaria": null,
   "AGRO-TV": null,
   "Travel-TV": null,
@@ -1610,5 +1614,32 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c66d8346ba72813b015cbe73c4e3a9ea.webp"
   },
   "Vilayet TV": null,
-  "Tarım-TV": null
+  "Tarım-TV": null,
+  "TRT-4K": null,
+  "Sporsmart": null,
+  "Filmax-Sener.Sen": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/412ad1987a6d3414a30dbb6f5d8c1cfe.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/412ad1987a6d3414a30dbb6f5d8c1cfe.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/412ad1987a6d3414a30dbb6f5d8c1cfe.webp"
+  },
+  "Filmax-Zeki.Metin": null,
+  "Filmax-Kemal.Sunal1": null,
+  "Filmax-Kemal.Sunal2": null,
+  "Filmax-Kemal.Sunal3": null,
+  "Filmax-Yesilcam1": null,
+  "Filmax-Yesilcam2": null,
+  "Filmax-Yesilcam3": null,
+  "Filmax-Yesilcam4": null,
+  "Filmax-Yesilcam5": null,
+  "Filmax-Yesilcam6": null,
+  "Filmax-Yesilcam7": null,
+  "Filmax-Yesilcam8": null,
+  "Filmax-Yesilcam9": null,
+  "Filmax-Yesilcam10": null,
+  "Filmax-Yesilcam11": null,
+  "Filmax-Yesilcam12": null,
+  "Filmax-Yesilcam13": null,
+  "Filmax-Yesilcam14": null,
+  "Filmax-Yesilcam15": null,
+  "DiziAX-Sidika": null
 }
