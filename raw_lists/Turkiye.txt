@@ -17,11 +17,17 @@ TRT-4K,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/244
 MECLIS-TV,https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 BIZIM-EV-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
-NOW PLAY,http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
+BIZIM-EV-TV(2),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/bizimevtv.m3u8
+DIZIMAX,http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 KEMAL-SUNAL-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
 KEMAL-SUNAL-TV(2),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
+KEMAL-SUNAL-TV(3),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/kemal-sunal-filmleri.m3u8
 YESILCAM-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
-SABANTV,https://canlitvme.ismailturret.workers.dev/sabantv.m3u8
+FILM-ATOLYESI,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/film-atolyesi.m3u8
+GULDUR-GULDUR,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/guldur-guldur.m3u8
+GULSAH-FILM,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/gulsah-film.m3u8
+TURK-FILMLERI,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/turk-filmleri.m3u8
+INCI-TANELERI,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/inci-taneleri.m3u8
 TABII-TV,https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 Bİ-KANAL,https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 CINE1,https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -70,6 +76,7 @@ AKIT-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Akit_T
 TH-TURKHABER,https://clvd26.socialsmart.tv/turkhaber/bant1/chunks.m3u8?nimblesessionid=122711875
 TV100,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/TV_100.m3u8
 YOL-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
+TELENEWS-TV,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/yerel/telenews-tv.m3u8
 TON-TV,https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 B-IZ-TV,http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
 History,http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196835&extension=m3u8
