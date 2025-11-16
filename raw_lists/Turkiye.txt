@@ -13,6 +13,7 @@ TRT-WORLD,https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 TRT-ARABI,https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 TRT-KURDI,https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 TRT-EBA,https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+TRT-4K,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/244
 MECLIS-TV,https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 BIZIM-EV-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
@@ -118,6 +119,7 @@ TABII-SPOR3,https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
 TABII-SPOR4,https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 TABII-SPOR5,https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 TABII-SPOR6,https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+Sporsmart,
 B-SPORT-HABER,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 ASPOR,http://95.174.71.114:80/TR-A-SPOR/index.m3u8
 ASPOR(2),http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4OTMwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjM3MmZmZmU0IiwicCI6IjM3MmZmZmU0ZGUxNDliZWQiLCJjIjoiMjg2IiwidCI6ImI1MDJjMjBiNWRlODlkODhjNDkyZjczODExZjdjNGI2IiwiZCI6IjE4MTI2MyIsInIiOiIxODQ4MTIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg5MzAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
@@ -178,9 +180,27 @@ History,http://65.108.239.207:80/history/index.m3u8
 LoveNature,http://65.108.239.207:80/lovenature/index.m3u8
 Tarih-TV,http://65.108.239.207:80/tarihtv/index.m3u8
 ViasatHistory,http://65.108.239.207:80/viasathistory/index.m3u8
-
-
-
+Filmax-Sener.Sen,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586239
+Filmax-Zeki.Metin,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587057
+Filmax-Kemal.Sunal1,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586235
+Filmax-Kemal.Sunal2,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586236
+Filmax-Kemal.Sunal3,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586237
+Filmax-Yesilcam1,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586238
+Filmax-Yesilcam2,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586320
+Filmax-Yesilcam3,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586321
+Filmax-Yesilcam4,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586839
+Filmax-Yesilcam5,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586840
+Filmax-Yesilcam6,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586841
+Filmax-Yesilcam7,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586842
+Filmax-Yesilcam8,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586843
+Filmax-Yesilcam9,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587202
+Filmax-Yesilcam10,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587203
+Filmax-Yesilcam11,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587220
+Filmax-Yesilcam12,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587221
+Filmax-Yesilcam13,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587222
+Filmax-Yesilcam14,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587223
+Filmax-Yesilcam15,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587224
+DiziAX-Sidika,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/550131
 
 
 
