@@ -1644,5 +1644,18 @@
   "DiziAX-Sidika": null,
   "KEMAL-SUNAL-TV(2)": null,
   "CH4TEEN-DOCU": null,
-  "CH4TEEN-KIDS": null
+  "CH4TEEN-KIDS": null,
+  "BIZIM-EV-TV(2)": null,
+  "DIZIMAX": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/56aa08de7b1ad95a8e2c7e407d9a5db1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/56aa08de7b1ad95a8e2c7e407d9a5db1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/56aa08de7b1ad95a8e2c7e407d9a5db1.webp"
+  },
+  "KEMAL-SUNAL-TV(3)": null,
+  "FILM-ATOLYESI": null,
+  "GULDUR-GULDUR": null,
+  "GULSAH-FILM": null,
+  "TURK-FILMLERI": null,
+  "INCI-TANELERI": null,
+  "TELENEWS-TV": null
 }

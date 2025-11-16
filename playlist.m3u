@@ -91,16 +91,28 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIM-EV-TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
-#EXTINF:-1 group-title="Turkiye" ,NOW PLAY
+#EXTINF:-1 group-title="Turkiye" ,BIZIM-EV-TV(2)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/bizimevtv.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/56aa08de7b1ad95a8e2c7e407d9a5db1.webp",DIZIMAX
 http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" ,KEMAL-SUNAL-TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,KEMAL-SUNAL-TV(2)
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
+#EXTINF:-1 group-title="Turkiye" ,KEMAL-SUNAL-TV(3)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/kemal-sunal-filmleri.m3u8
 #EXTINF:-1 group-title="Turkiye" ,YESILCAM-TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
-#EXTINF:-1 group-title="Turkiye" ,SABANTV
-https://canlitvme.ismailturret.workers.dev/sabantv.m3u8
+#EXTINF:-1 group-title="Turkiye" ,FILM-ATOLYESI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/film-atolyesi.m3u8
+#EXTINF:-1 group-title="Turkiye" ,GULDUR-GULDUR
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/guldur-guldur.m3u8
+#EXTINF:-1 group-title="Turkiye" ,GULSAH-FILM
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/gulsah-film.m3u8
+#EXTINF:-1 group-title="Turkiye" ,TURK-FILMLERI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/turk-filmleri.m3u8
+#EXTINF:-1 group-title="Turkiye" ,INCI-TANELERI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/inci-taneleri.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TABII-TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,Bİ-KANAL
@@ -197,6 +209,8 @@ https://clvd26.socialsmart.tv/turkhaber/bant1/chunks.m3u8?nimblesessionid=122711
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/TV_100.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f5bb736d17abccc3e11c880b13009b82.webp",YOL-TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
+#EXTINF:-1 group-title="Turkiye" ,TELENEWS-TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/yerel/telenews-tv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TON-TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,B-IZ-TV
