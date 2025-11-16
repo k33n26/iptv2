@@ -73,6 +73,7 @@ B-IZ-TV,http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
 History,http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196835&extension=m3u8
 IDX,http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=m3u8
 Yaban TV,https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+Tarım-TV,https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 NatureTime,https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 VIASAT-EXPLORE,https://kablosistem.vercel.app/index.m3u8?id=90
 NAT-GEO-CHANNEL,https://saran-live.ercdn.net/natgeohd/index.m3u8
