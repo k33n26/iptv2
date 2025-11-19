@@ -1,0 +1,29 @@
+National Geographic,https://saran-live.ercdn.net/natgeohd/index.m3u8
+National Geographic WILD,https://saran-live.ercdn.net/natgeowild/index.m3u8
+TLC,https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
+TRT Belgesel,https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+Nature Time Turkce,https://streams.uzunmuhalefet.com/stream/ec36d9c3-9cc2-4d79-ad94-16af00c95bf4.m3u8
+TGRT Belgesel,https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+Yaban TV,https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
+Tarim Tv,https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
+Ciftci TV,https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?nimblesessionid=1556473660
+Toprak TV,https://streams.uzunmuhalefet.com/stream/54fd8806-0142-4839-930e-aa1d662ad866.m3u8
+Koy TV,https://streams.uzunmuhalefet.com/stream/7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3u8
+Travel Xp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+Travel Xp Fr,https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+Travel Xp Deu,https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+Travel Xp New Zeland,https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+4K Travel,https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
+Al JAZEERA Documentary,https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+ASHARQ Documentary,https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+ASHARQ DISCOVERY,https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+RAKUTEN TV Documentários,https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
+CGTN Documentary,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+Nature Time,https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+Ch4Teen Documentary,http://ch14.tv/live/ch4teendoc/playlist.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
+Anixe HD,https://wow.anixa.tv/live/anixehd2/chunklist_w1184028604.m3u8
+This is Bulgaria,https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
+RTTR TV,https://rttr.fluid.stream/RTTRlive/livestream/chunklist_w192814590.m3u8
+TV5 Linares,https://v1.tustreaming.cl/tv5linares/tracks-v1a1/mono.m3u8
