@@ -1657,5 +1657,68 @@
   "GULSAH-FILM": null,
   "TURK-FILMLERI": null,
   "INCI-TANELERI": null,
-  "TELENEWS-TV": null
+  "TELENEWS-TV": null,
+  "National Geographic": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e08dd4627a3cf468a30d8a357956d6f8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e08dd4627a3cf468a30d8a357956d6f8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e08dd4627a3cf468a30d8a357956d6f8.webp"
+  },
+  "National Geographic WILD": null,
+  "TRT Belgesel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e1d999b94116621b7ae3a5e21d4630dd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e1d999b94116621b7ae3a5e21d4630dd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e1d999b94116621b7ae3a5e21d4630dd.webp"
+  },
+  "Nature Time Turkce": null,
+  "TGRT Belgesel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b805249a7de9642205fb6d3bd616a388.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b805249a7de9642205fb6d3bd616a388.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b805249a7de9642205fb6d3bd616a388.webp"
+  },
+  "Tarim Tv": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/28d55bd2ee4a6094ba87cb2c120c623a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/28d55bd2ee4a6094ba87cb2c120c623a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/28d55bd2ee4a6094ba87cb2c120c623a.webp"
+  },
+  "Ciftci TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/805eb38a4b588273495274fcfa0ae07f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/805eb38a4b588273495274fcfa0ae07f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/805eb38a4b588273495274fcfa0ae07f.webp"
+  },
+  "Toprak TV": null,
+  "Koy TV": null,
+  "Travel Xp": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f55370aa211c431f5c67dd29cc4fe770.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f55370aa211c431f5c67dd29cc4fe770.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f55370aa211c431f5c67dd29cc4fe770.webp"
+  },
+  "Travel Xp Fr": null,
+  "Travel Xp Deu": null,
+  "Travel Xp New Zeland": null,
+  "4K Travel": null,
+  "Al JAZEERA Documentary": null,
+  "ASHARQ Documentary": null,
+  "ASHARQ DISCOVERY": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/aada6ac5496e32fe1c2a4fd7de4984d7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aada6ac5496e32fe1c2a4fd7de4984d7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/aada6ac5496e32fe1c2a4fd7de4984d7.webp"
+  },
+  "RAKUTEN TV Documentários": null,
+  "CGTN Documentary": null,
+  "Love Nature": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c09fda9f0080fe694a1537f42f5c2807.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c09fda9f0080fe694a1537f42f5c2807.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c09fda9f0080fe694a1537f42f5c2807.webp"
+  },
+  "Nature Time": null,
+  "Ch4Teen Documentary": null,
+  "Taiwan Plus": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/81e2f6058c7f28a3117f05f239f2b527.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/81e2f6058c7f28a3117f05f239f2b527.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/81e2f6058c7f28a3117f05f239f2b527.webp"
+  },
+  "Anixe HD": null,
+  "This is Bulgaria": null,
+  "RTTR TV": null,
+  "TV5 Linares": null
 }
