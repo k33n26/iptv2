@@ -1720,5 +1720,22 @@
   "Anixe HD": null,
   "This is Bulgaria": null,
   "RTTR TV": null,
-  "TV5 Linares": null
+  "TV5 Linares": null,
+  "Agro TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/21c4af3ea089f238c6ab8ce5e962a806.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/21c4af3ea089f238c6ab8ce5e962a806.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/21c4af3ea089f238c6ab8ce5e962a806.webp"
+  },
+  "Travel Tv": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ef3479088e69dc6f8d3c178af6b2fd8c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef3479088e69dc6f8d3c178af6b2fd8c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ef3479088e69dc6f8d3c178af6b2fd8c.webp"
+  },
+  "TV5Monde Voyage": null,
+  "Turismo Andalucia": null,
+  "Xplore": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5f920ca22802242d86bd125782604a88.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5f920ca22802242d86bd125782604a88.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5f920ca22802242d86bd125782604a88.webp"
+  }
 }
