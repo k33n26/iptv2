@@ -27,3 +27,12 @@ Anixe HD,https://wow.anixa.tv/live/anixehd2/chunklist_w1184028604.m3u8
 This is Bulgaria,https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 RTTR TV,https://rttr.fluid.stream/RTTRlive/livestream/chunklist_w192814590.m3u8
 TV5 Linares,https://v1.tustreaming.cl/tv5linares/tracks-v1a1/mono.m3u8
+Agro TV,https://restr2.bgtv.bg/agro/hls/agro.m3u8
+Travel Tv,https://streamer103.neterra.tv/travel/travel_SD.m3u8
+Animaux,https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
+TV5Monde Voyage,https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+TREK,https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+Turismo Andalucia,https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+Xplore,http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+RTG,http://194.143.148.28:8080/RTG_HD/index.m3u8
+Ilm Va Tabiat,https://live.teleradiocom.tj/15/3m.m3u8
