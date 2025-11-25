@@ -234,9 +234,9 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+https://dogus-live.daioncdn.net/dmax/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,YABAN-TV
-https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1882152028.m3u8?hash=2bece92a3c67865eef19d8509a254589
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1328772523.m3u8
 #EXTINF:-1 group-title="Turkiye" ,CGTN-DOCUMENTRY
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,SOMINE-TV
@@ -475,6 +475,8 @@ http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587223
 http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587224
 #EXTINF:-1 group-title="Turkiye" ,DiziAX-Sidika
 http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/550131
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f54894f4f7e8e84d672e1614749a22c0.webp",90Plus
+https://livestreams.prdv3.dlivecdn.com/tv90plus/1764051132/src/live.m3u8?Expires=1764084499&Signature=d4b69M6OmjCetMRD6Pzh1frjX-z5WZFtK3LS63M01JwRfia237eg2gzlgDqe-EYdz1~ckfb5Xkl17gw9qGFE6aH2xbQ3sI3ySSQvhh6c-OZQMkY-t9qcGdaHatNxIcVo5Amxky8p9x-Bt1rAAZtJXRgdE2h6VGYVd1cI4SFc8XnS1hhloS1NEZ5tBD9r-Z3gjha5OKVV3TPeLMewwwHhrlv8WLoYORlOOTFPavriBciDjcKf3YDbwtn-K360ZQ4mbDPXlccAs1K4okfN-xUDi1Iju9b1rY7PpDHSwjDj1UV7EuwRIWoh5~A6Kj-exERdfzvvWD3LmTcuCZTsap15sg__&Key-Pair-Id=K2WZHW3KN5FGBZ
 #EXTINF:-1 group-title="Bulgaristan" ,This-is-Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,AGRO-TV
@@ -771,7 +773,7 @@ https://stream.kaztrk.kz/regional/semeytv/tracks-v1a1/mono.ts.m3u8
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan" ,Alau Tv
 https://otv.wotom.net/alau/stream.m3u8
-#EXTINF:-1 group-title="Kazakistan" ,Ontustik
+#EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/09c93659fbb816a6e404aa848f5e6783.webp",Ontustik
 https://stream.kaztrk.kz/regional/shymkenttv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/58ef1ceaa7a75d3a1193c70192ace819.webp",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
@@ -1195,7 +1197,7 @@ https://cdn-live.dltv.ac.th/smil:origin01-dltv-05-adaptive.smil/chunklist_w13343
 https://cdn-live.dltv.ac.th/smil:origin02-dltv-06-adaptive.smil/chunklist_w808025954_b3128000_slth.m3u8
 #EXTINF:-1 group-title="Tayland" ,DLTV7
 https://cdn-live.dltv.ac.th/smil:origin02-dltv-07-adaptive.smil/chunklist_w1392811753_b3128000_slth.m3u8
-#EXTINF:-1 group-title="Tayland" ,DLTV8
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/de8d542769b575a4208376ee8ba9bf2d.webp",DLTV8
 https://cdn-live.dltv.ac.th/smil:origin02-dltv-08-adaptive.smil/chunklist_w847104684_b3128000_slth.m3u8
 #EXTINF:-1 group-title="Tayland" ,DLTV9
 https://cdn-live.dltv.ac.th/smil:origin02-dltv-09-adaptive.smil/chunklist_w567713750_b3128000_slth.m3u8
