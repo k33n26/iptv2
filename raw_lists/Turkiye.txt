@@ -15,7 +15,8 @@ TRT-KURDI,https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 TRT-EBA,https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 TRT-4K,http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/244
 MECLIS-TV,https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-Bizimkiler,http://104.238.23.182/yt1/s/bizimkiler.m3u8
+BIZIMKILER,https://streams.uzunmuhalefet.com/stream/a76045fc-3b23-47fa-bd81-eb365b4c0e45.m3u8
+BIZIMKILER(2),http://104.238.23.182/yt1/s/bizimkiler.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 BIZIM-EV-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
 BIZIM-EV-TV(2),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/bizimevtv.m3u8
