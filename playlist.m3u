@@ -1183,6 +1183,12 @@ https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 https://nl.livekadeh.com/hls2/vilayet_src.m3u8
 #EXTINF:-1 group-title="Kore" ,Arirang Korea HD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kore" ,ABN HD
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 group-title="Kore" ,WBC TV HD
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/chunklist.m3u8
+#EXTINF:-1 group-title="Kore" ,CGN TV HD
+https://dsk1q8myiu3r0.cloudfront.net/out/v1/1e2bf6fbb462491e9f24739c4e0aa28e/index_6.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/344b85e14839932bf8b647489dc4cba8.webp",BBC EARTH
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Vietnam" ,BBC-LifeStyle
