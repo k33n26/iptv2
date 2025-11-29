@@ -1213,8 +1213,116 @@ https://tv.ddns.vn/tv/bbcearth/index.m3u8
 https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
 #EXTINF:-1 group-title="Rusya" ,RTG
 http://194.143.148.28:8080/RTG_HD/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,RTG(2)
+http://95.66.188.74/RTGHD/index.m3u8
 #EXTINF:-1 group-title="Rusya" ,Ti Vi Si HD
 https://zrnr369ssda.a.trbcdn.net/livemaster/9gkzc_live-tvstv.smil/89dab23c3500ee85def8cf9354050bf4--livemaster--rpwpuqsjap_tvstv--tracks-v1a1--mono.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f309f23d0eba44a192873cd8ed9af93.webp",CGTN
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/958fefcef8eaa671d6fdad1c192eb4fd.webp",DOMKINO.PREMIUM HD
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a70686d6e447a498c7a6391b604afd64.webp",1 HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Rusya" ,RUSSIA 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Rusya" ,NTV HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Rusya" ,TV ZVEZDA
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Rusya" ,MIRTV HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Rusya" ,VMESTE-RF
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Rusya" ,ONT HD
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Rusya" ,TSV HD
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,KINOPREMIER HD
+http://87.76.32.36:8001/kinopremyerahd
+#EXTINF:-1 group-title="Rusya" ,MOSFILM HD
+http://95.66.188.74/MosfilmHD/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,AMEDIA PREMIUM HD
+http://217.21.34.160:38007/amediapremium/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,BOLT HD
+http://84.245.224.71/BoltHD/mono.m3u8
+#EXTINF:-1 group-title="Rusya" ,GLAZMI TURISTA HD
+http://217.21.34.160:38007/glazami_turista/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,CHINA TV2
+http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,KULTURA HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,CTC HD
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="Rusya" ,TNT HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/090bfb783de4e63cd63647dd733a56cb.webp",TLC HD
+http://94.232.127.28:8080/tlc/index.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f5be5d6686f2b4da516564958f23fbbe.webp",DISCOVERY
+http://94.232.127.28:8080/discovery-east/index.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e0b4ed69e7f0e865c185fdbc1df30692.webp",TRAVEL CHANNEL
+http://94.232.127.28:8080/travel/index.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e7b24b112a44fdd9ee93bdf998c6ca0e.webp",360
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Rusya" ,ARSENAL HD
+http://95.66.188.74/Arsenal_HD/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,ZVEZDA PLUS HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d2fe5d83b755aae1d342f0572b4b2f4.webp",PLANETA HD
+http://185.46.16.239:8000/Planeta_HD
+#EXTINF:-1 group-title="Rusya" ,NAUKA 2
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,UNKNOWN RUSSIA
+http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9b4c41458777eeb05c80ae07b485be64.webp",UNKNOWN PLANET
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2b0a880e6a0a499107dc1de609ba78e2.webp",ANIMAL PLANET
+http://94.232.127.28:8080/animal-planet/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,LOVE NATURE HD
+http://95.67.12.82:9098
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f2243fb25befced1e719852ee085f8e4.webp",ONE PLANET
+http://95.67.12.82:9088
+#EXTINF:-1 group-title="Rusya" ,RTV DOC
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 group-title="Rusya" ,VIJU NATURE
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Rusya" ,VIJU HISTORY
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Rusya" ,VIJU EXPLORE
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Rusya" ,VIJU PLANET
+http://195.64.140.147:10147/147
+#EXTINF:-1 group-title="Rusya" ,360 RU
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Rusya" ,MIR24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rusya" ,DIKAYARYBALKA HD
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,BELARUS 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
+#EXTINF:-1 group-title="Rusya" ,BOKS TV HD
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
+#EXTINF:-1 group-title="Rusya" ,MATCH TV HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Rusya" ,ARENA SPORT1
+https://176.116.105.82/Arena_Sport1_HD/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,ARENA SPORT2
+https://176.116.105.82/Arena_Sport2_HD/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,EUROSPORT1
+http://87.76.32.36:8001/eurosport1hd
+#EXTINF:-1 group-title="Rusya" ,EXTREMESPORT
+http://45.11.139.43:8555/extsport/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,FAST&FUNBOX
+http://94.232.127.28:8080/fastfunboxhd/index.m3u8
+#EXTINF:-1 group-title="Rusya" ,FOX SPORTS501
+https://7pal.short.gy/fox501au
+#EXTINF:-1 group-title="Rusya" ,KHL HD
+http://84.245.224.71/KHLHD/mono.m3u8
+#EXTINF:-1 group-title="Rusya" ,PREMIER SPORT1
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="Rusya" ,PREMIER SPORT2
+https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Rusya" ,MATHUR TV
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b933f40a49249bb74144a4209e33cd51.webp",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fc5d90e1833b1e31fde07df7c638f176.webp",DLTV1
@@ -1477,6 +1585,12 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1 group-title="Belgesel" ,Ilm Va Tabiat
 https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/670e95555227739c5040988b72b883f9.webp",Adria Travel
+https://de2.dstvmultimedia.com/AdriaTravel-www/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Adria Fishing
+https://de2.dstvmultimedia.com/AdriaFishing-www/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Adria Nature
+https://de2.dstvmultimedia.com/AdriaNature-www/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV

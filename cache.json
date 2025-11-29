@@ -1781,5 +1781,99 @@
   "MNet Kids": null,
   "MNet Gourmet": null,
   "MNet Info": null,
-  "Ti Vi Si HD": null
+  "Ti Vi Si HD": null,
+  "RTG(2)": null,
+  "DOMKINO.PREMIUM HD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/958fefcef8eaa671d6fdad1c192eb4fd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/958fefcef8eaa671d6fdad1c192eb4fd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/958fefcef8eaa671d6fdad1c192eb4fd.webp"
+  },
+  "1 HD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a70686d6e447a498c7a6391b604afd64.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a70686d6e447a498c7a6391b604afd64.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a70686d6e447a498c7a6391b604afd64.webp"
+  },
+  "RUSSIA 1 HD": null,
+  "NTV HD": null,
+  "TV ZVEZDA": null,
+  "MIRTV HD": null,
+  "VMESTE-RF": null,
+  "ONT HD": null,
+  "TSV HD": null,
+  "KINOPREMIER HD": null,
+  "MOSFILM HD": null,
+  "AMEDIA PREMIUM HD": null,
+  "BOLT HD": null,
+  "GLAZMI TURISTA HD": null,
+  "CHINA TV2": null,
+  "KULTURA HD": null,
+  "CTC HD": null,
+  "TNT HD": null,
+  "TLC HD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/090bfb783de4e63cd63647dd733a56cb.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/090bfb783de4e63cd63647dd733a56cb.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/090bfb783de4e63cd63647dd733a56cb.webp"
+  },
+  "TRAVEL CHANNEL": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e0b4ed69e7f0e865c185fdbc1df30692.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e0b4ed69e7f0e865c185fdbc1df30692.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e0b4ed69e7f0e865c185fdbc1df30692.webp"
+  },
+  "360": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e7b24b112a44fdd9ee93bdf998c6ca0e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e7b24b112a44fdd9ee93bdf998c6ca0e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e7b24b112a44fdd9ee93bdf998c6ca0e.webp"
+  },
+  "ARSENAL HD": null,
+  "ZVEZDA PLUS HD": null,
+  "PLANETA HD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9d2fe5d83b755aae1d342f0572b4b2f4.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d2fe5d83b755aae1d342f0572b4b2f4.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9d2fe5d83b755aae1d342f0572b4b2f4.webp"
+  },
+  "NAUKA 2": null,
+  "UNKNOWN RUSSIA": null,
+  "UNKNOWN PLANET": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9b4c41458777eeb05c80ae07b485be64.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9b4c41458777eeb05c80ae07b485be64.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9b4c41458777eeb05c80ae07b485be64.webp"
+  },
+  "ANIMAL PLANET": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2b0a880e6a0a499107dc1de609ba78e2.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2b0a880e6a0a499107dc1de609ba78e2.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2b0a880e6a0a499107dc1de609ba78e2.webp"
+  },
+  "LOVE NATURE HD": null,
+  "ONE PLANET": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f2243fb25befced1e719852ee085f8e4.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f2243fb25befced1e719852ee085f8e4.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f2243fb25befced1e719852ee085f8e4.webp"
+  },
+  "RTV DOC": null,
+  "VIJU NATURE": null,
+  "VIJU HISTORY": null,
+  "VIJU EXPLORE": null,
+  "VIJU PLANET": null,
+  "360 RU": null,
+  "MIR24 HD": null,
+  "DIKAYARYBALKA HD": null,
+  "BOKS TV HD": null,
+  "MATCH TV HD": null,
+  "ARENA SPORT1": null,
+  "ARENA SPORT2": null,
+  "EUROSPORT1": null,
+  "EXTREMESPORT": null,
+  "FAST&FUNBOX": null,
+  "FOX SPORTS501": null,
+  "KHL HD": null,
+  "PREMIER SPORT1": null,
+  "PREMIER SPORT2": null,
+  "MATHUR TV": null,
+  "Adria Travel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/670e95555227739c5040988b72b883f9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/670e95555227739c5040988b72b883f9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/670e95555227739c5040988b72b883f9.webp"
+  },
+  "Adria Fishing": null,
+  "Adria Nature": null
 }
