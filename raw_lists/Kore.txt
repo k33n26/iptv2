@@ -1,1 +1,4 @@
 Arirang Korea HD,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+ABN HD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+WBC TV HD,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/chunklist.m3u8
+CGN TV HD,https://dsk1q8myiu3r0.cloudfront.net/out/v1/1e2bf6fbb462491e9f24739c4e0aa28e/index_6.m3u8
