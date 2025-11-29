@@ -87,6 +87,8 @@ https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/244
 #EXTINF:-1 group-title="Turkiye" ,MECLIS-TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Bizimkiler
+http://104.238.23.182/yt1/s/bizimkiler.m3u8
 #EXTINF:-1 group-title="Turkiye" ,SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIM-EV-TV
@@ -113,6 +115,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/fi
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/turk-filmleri.m3u8
 #EXTINF:-1 group-title="Turkiye" ,INCI-TANELERI
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/inci-taneleri.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/14e4e5a862a74a0e8b67086f451727dc.webp",Topkapi.Film
+http://104.238.23.182/yt1/s/topkapifilm.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TABII-TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,Bİ-KANAL
