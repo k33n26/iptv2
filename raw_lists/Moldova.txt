@@ -1,0 +1,6 @@
+M1 MOLDOVA,https://v1.trm.md/static/streaming-playlists/hls/877afe70-eef4-484d-8291-2841891bbd88/0.m3u8
+M2 MOLDOVA,https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/0.m3u8
+MOLDOVA TV,https://moldovatv.ro/live-tv/livemoldova.m3u8
+JURNAL TV,https://live1.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.ts.m3u8?token=8add84e2f4ab63655fea41ea65c86c23519e3b3e
+TV8,https://live6.cdn.tv8.md/TV7/tracks-v1a1/mono.ts.m3u8?token=6f7b5d9a1fa8b9d80bea96ac1d2e6cd91f76a930
+BUSUIOC TV,https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/3.m3u8
