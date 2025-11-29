@@ -1181,6 +1181,18 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet_src.m3u8
+#EXTINF:-1 group-title="Moldova" ,M1 MOLDOVA
+https://v1.trm.md/static/streaming-playlists/hls/877afe70-eef4-484d-8291-2841891bbd88/0.m3u8
+#EXTINF:-1 group-title="Moldova" ,M2 MOLDOVA
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/0.m3u8
+#EXTINF:-1 group-title="Moldova" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8d7ac7eb25b35f0fa46442398e48b390.webp",MOLDOVA TV
+https://moldovatv.ro/live-tv/livemoldova.m3u8
+#EXTINF:-1 group-title="Moldova" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c662ec13e6caef8aa30d9bf6f7a6497e.webp",JURNAL TV
+https://live1.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.ts.m3u8?token=8add84e2f4ab63655fea41ea65c86c23519e3b3e
+#EXTINF:-1 group-title="Moldova" ,TV8
+https://live6.cdn.tv8.md/TV7/tracks-v1a1/mono.ts.m3u8?token=6f7b5d9a1fa8b9d80bea96ac1d2e6cd91f76a930
+#EXTINF:-1 group-title="Moldova" ,BUSUIOC TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/3.m3u8
 #EXTINF:-1 group-title="Kore" ,Arirang Korea HD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kore" ,ABN HD

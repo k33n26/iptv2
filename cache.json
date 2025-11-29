@@ -1762,5 +1762,19 @@
   "Arirang Korea HD": null,
   "ABN HD": null,
   "WBC TV HD": null,
-  "CGN TV HD": null
+  "CGN TV HD": null,
+  "M1 MOLDOVA": null,
+  "M2 MOLDOVA": null,
+  "MOLDOVA TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8d7ac7eb25b35f0fa46442398e48b390.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8d7ac7eb25b35f0fa46442398e48b390.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8d7ac7eb25b35f0fa46442398e48b390.webp"
+  },
+  "JURNAL TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c662ec13e6caef8aa30d9bf6f7a6497e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c662ec13e6caef8aa30d9bf6f7a6497e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c662ec13e6caef8aa30d9bf6f7a6497e.webp"
+  },
+  "TV8": null,
+  "BUSUIOC TV": null
 }
