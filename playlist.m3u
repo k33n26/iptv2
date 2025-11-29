@@ -1181,6 +1181,8 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet_src.m3u8
+#EXTINF:-1 group-title="Kore" ,Arirang Korea HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/344b85e14839932bf8b647489dc4cba8.webp",BBC EARTH
 https://tv.ddns.vn/tv/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Vietnam" ,BBC-LifeStyle
