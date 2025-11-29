@@ -859,8 +859,14 @@ https://cdn-media-content.onestream.studio/content/hls/live/live_1529414_146hefd
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cezayir" ,El Fadjer TV
 https://stream.wsla.top/play/1.m3u8
-#EXTINF:-1 group-title="Makedonya" ,M-Net Sport
+#EXTINF:-1 group-title="Makedonya" ,MNet Sport
 https://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="Makedonya" ,MNet Kids
+https://live.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 group-title="Makedonya" ,MNet Gourmet
+https://live.mnet.mk/hls/mnet-gourmet.m3u8
+#EXTINF:-1 group-title="Makedonya" ,MNet Info
+https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 group-title="Makedonya" ,Sky Folk TV
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
