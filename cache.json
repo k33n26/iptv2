@@ -1918,5 +1918,26 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2cd67299a41449f3affd64634a31fa0f.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2cd67299a41449f3affd64634a31fa0f.webp"
   },
-  "HGTV UK": null
+  "HGTV UK": null,
+  "M1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f31e1eef20f64733a18c538073e78396.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f31e1eef20f64733a18c538073e78396.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f31e1eef20f64733a18c538073e78396.webp"
+  },
+  "M2": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9d8322530b67e2366e5b1ba67081ded9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d8322530b67e2366e5b1ba67081ded9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9d8322530b67e2366e5b1ba67081ded9.webp"
+  },
+  "DUNA TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e236c4cfef36f30086573aa362dd73b9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e236c4cfef36f30086573aa362dd73b9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e236c4cfef36f30086573aa362dd73b9.webp"
+  },
+  "M4 SPORT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d402399b901895fd88e52877c94ef65c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d402399b901895fd88e52877c94ef65c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d402399b901895fd88e52877c94ef65c.webp"
+  },
+  "TV2": null
 }

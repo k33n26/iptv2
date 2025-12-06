@@ -1219,6 +1219,18 @@ https://live1.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.ts.m3u8?token=8add84e
 https://live6.cdn.tv8.md/TV7/tracks-v1a1/mono.ts.m3u8?token=6f7b5d9a1fa8b9d80bea96ac1d2e6cd91f76a930
 #EXTINF:-1 group-title="Moldova" ,BUSUIOC TV
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/3.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f31e1eef20f64733a18c538073e78396.webp",M1
+http://dvr4.kablova.tv/M1/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d8322530b67e2366e5b1ba67081ded9.webp",M2
+http://dvr4.kablova.tv/M2/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e236c4cfef36f30086573aa362dd73b9.webp",DUNA TV
+http://dvr1.kablova.tv/DUNA/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d402399b901895fd88e52877c94ef65c.webp",M4 SPORT
+http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:-1 group-title="Macaristan" ,TV2
+http://dvr4.kablova.tv/TV2/index.m3u8
+#EXTINF:-1 group-title="Macaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/df13ed57843877b21ad969184ab6888f.webp",ATV
+http://dvr2.kablova.tv/ATV/index.m3u8
 #EXTINF:-1 group-title="Kore" ,Arirang Korea HD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kore" ,ABN HD
