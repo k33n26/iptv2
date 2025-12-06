@@ -1885,5 +1885,38 @@
   "Adria Fishing": null,
   "Adria Nature": null,
   "Premier Sport 1": null,
-  "Premier Sport 2": null
+  "Premier Sport 2": null,
+  "BBC 1": null,
+  "BBC 2": null,
+  "ITV 1": null,
+  "ITV 2": null,
+  "ITV 3": null,
+  "ITV 4": null,
+  "ITV BE": null,
+  "FILM4": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6ba33b03e76f7d70848dc963f43e918a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6ba33b03e76f7d70848dc963f43e918a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6ba33b03e76f7d70848dc963f43e918a.webp"
+  },
+  "MORE4": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c4a7038c7089938d9df14bf61a4bd07d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c4a7038c7089938d9df14bf61a4bd07d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c4a7038c7089938d9df14bf61a4bd07d.webp"
+  },
+  "E4": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2157d56d6aff208ae90c869526290656.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2157d56d6aff208ae90c869526290656.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2157d56d6aff208ae90c869526290656.webp"
+  },
+  "SYFY": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8b2b4842e5fd3db22abc12dc94470381.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8b2b4842e5fd3db22abc12dc94470381.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8b2b4842e5fd3db22abc12dc94470381.webp"
+  },
+  "4SEVEN": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2cd67299a41449f3affd64634a31fa0f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2cd67299a41449f3affd64634a31fa0f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2cd67299a41449f3affd64634a31fa0f.webp"
+  },
+  "HGTV UK": null
 }

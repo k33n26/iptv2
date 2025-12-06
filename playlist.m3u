@@ -47,12 +47,32 @@ https://edge59.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1830761472.m
 https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w1764722635_b2660000_sleng.m3u8
 #EXTINF:-1 group-title="Belarus" ,Perviy Informationniy
 https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w153537162_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Ingiltere" ,BBC-3
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:-1 group-title="Ingiltere" ,BBC-4
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ee2a1b20c48c26e3d02457160d526db4.webp",More4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#EXTINF:-1 group-title="Ingiltere" ,BBC 1
+http://92.118.251.84:8080/bbc1hd/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" ,BBC 2
+http://92.118.251.84:8080/bbc2hd/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" ,ITV 1
+http://92.118.251.84:8080/itv1hd/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" ,ITV 2
+http://92.118.251.84:8080/itv2/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" ,ITV 3
+http://92.118.251.84:8080/itv3/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" ,ITV 4
+http://92.118.251.84:8080/itv4/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" ,ITV BE
+http://92.118.251.84:8080/itvbe/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6ba33b03e76f7d70848dc963f43e918a.webp",FILM4
+http://92.118.251.84:8080/film4/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c4a7038c7089938d9df14bf61a4bd07d.webp",MORE4
+http://92.118.251.84:8080/more4/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2157d56d6aff208ae90c869526290656.webp",E4
+http://92.118.251.84:8080/e4/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8b2b4842e5fd3db22abc12dc94470381.webp",SYFY
+http://92.118.251.84:8080/syfy/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2cd67299a41449f3affd64634a31fa0f.webp",4SEVEN
+http://92.118.251.84:8080/4seven/index.m3u8
+#EXTINF:-1 group-title="Ingiltere" ,HGTV UK
+http://92.118.251.84:8080/HGTV/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TRT-1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TRT-2
