@@ -1,3 +1,13 @@
-BBC-3,https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-BBC-4,https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-More4,https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+BBC 1,http://92.118.251.84:8080/bbc1hd/index.m3u8
+BBC 2,http://92.118.251.84:8080/bbc2hd/index.m3u8
+ITV 1,http://92.118.251.84:8080/itv1hd/index.m3u8
+ITV 2,http://92.118.251.84:8080/itv2/index.m3u8
+ITV 3,http://92.118.251.84:8080/itv3/index.m3u8
+ITV 4,http://92.118.251.84:8080/itv4/index.m3u8
+ITV BE,http://92.118.251.84:8080/itvbe/index.m3u8
+FILM4,http://92.118.251.84:8080/film4/index.m3u8
+MORE4,http://92.118.251.84:8080/more4/index.m3u8
+E4,http://92.118.251.84:8080/e4/index.m3u8
+SYFY,http://92.118.251.84:8080/syfy/index.m3u8
+4SEVEN,http://92.118.251.84:8080/4seven/index.m3u8
+HGTV UK,http://92.118.251.84:8080/HGTV/index.m3u8
