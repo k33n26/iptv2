@@ -728,7 +728,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/47e4dbed638f2371adb075c824da6c5c.webp"
   },
   "3SAT(2)": null,
-  "TRAVEL-XP": null,
+  "TRAVEL-XP": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0793abeedffd6c0565bde5ef4dc71912.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0793abeedffd6c0565bde5ef4dc71912.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0793abeedffd6c0565bde5ef4dc71912.webp"
+  },
   "ALJAZEERA-ENGLISH": null,
   "ALJAZEERA-DOCUMENTRY": null,
   "KEMAL-SUNAL-TV": null,
@@ -873,7 +877,11 @@
   "Heyuan Public TV": null,
   "TV BRICS Chinese": null,
   "TV2/Bornholm": null,
-  "Onni TV": null,
+  "Onni TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a7127d15476a5615603f49384368669e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a7127d15476a5615603f49384368669e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a7127d15476a5615603f49384368669e.webp"
+  },
   "MTV Uutiset": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f7db4aaaf606a6cbc3f736dfe9d388b3.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f7db4aaaf606a6cbc3f736dfe9d388b3.webp",
@@ -1875,5 +1883,7 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/670e95555227739c5040988b72b883f9.webp"
   },
   "Adria Fishing": null,
-  "Adria Nature": null
+  "Adria Nature": null,
+  "Premier Sport 1": null,
+  "Premier Sport 2": null
 }

@@ -1623,6 +1623,10 @@ https://oppomu.serv00.net/arrabia.php?m3u8
 https://xddrts.alwaysdata.net/assadi.php?m3u8
 #EXTINF:-1 group-title="Fas" ,TAMAZIGHT
 https://cdnet.alwaysdata.net/tamaz.php?m3u8
+#EXTINF:-1 group-title="Cekya" ,Premier Sport 1
+http://185.188.188.237:5000/live/premiersport/playlist.m3u8
+#EXTINF:-1 group-title="Cekya" ,Premier Sport 2
+http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 #EXTINF:-1 group-title="Romanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25e20053ed7a0b71110207f5481bbe96.webp",TVR
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1 group-title="Romanya" ,DIGI-SPORT1
@@ -1657,9 +1661,9 @@ https://cdn-tr.tivimivi.com//streams/142/1920x1080/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 group-title="Amerika" ,TRAVEL-XP
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0793abeedffd6c0565bde5ef4dc71912.webp",TRAVEL-XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Finlandiya" ,Onni TV
+#EXTINF:-1 group-title="Finlandiya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a7127d15476a5615603f49384368669e.webp",Onni TV
 https://onnitv.digitacdn.net/live/ott/onnitv/onnitv_channel-av720p.m3u8
 #EXTINF:-1 group-title="Finlandiya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f7db4aaaf606a6cbc3f736dfe9d388b3.webp",MTV Uutiset
 https://live.streaming.a2d.tv/asset/20025962.isml/20025962-audio_0=128000-video=4499968.m3u8
