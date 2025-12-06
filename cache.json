@@ -1939,5 +1939,10 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d402399b901895fd88e52877c94ef65c.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d402399b901895fd88e52877c94ef65c.webp"
   },
-  "TV2": null
+  "TV2": null,
+  "ARTE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/185b621863f2e1688f7a6285f0a4459a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/185b621863f2e1688f7a6285f0a4459a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/185b621863f2e1688f7a6285f0a4459a.webp"
+  }
 }
