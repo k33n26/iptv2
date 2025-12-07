@@ -46,7 +46,7 @@ START-TV,https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 HIGH-TV,http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 CORFU,https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 BLUESKY,https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-
+CENTER,https://stream1.freetv.fun/cd79229566439b7c39ee399444bf09d6b0395dfdb5fd4a654c50dc09023a1cc9.m3u8
 
 
 
