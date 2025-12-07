@@ -1945,5 +1945,57 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/185b621863f2e1688f7a6285f0a4459a.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/185b621863f2e1688f7a6285f0a4459a.webp"
   },
-  "CNBC-E": null
+  "CNBC-E": null,
+  "Spektrum": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2d44349af1a57cb92ea97ac880ad86a7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2d44349af1a57cb92ea97ac880ad86a7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2d44349af1a57cb92ea97ac880ad86a7.webp"
+  },
+  "CT1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bfb2ec1a9c3083ceff0591431e29f169.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bfb2ec1a9c3083ceff0591431e29f169.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bfb2ec1a9c3083ceff0591431e29f169.webp"
+  },
+  "CT2": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b5f8130897cd0ec21f247b41bb5d8617.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b5f8130897cd0ec21f247b41bb5d8617.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b5f8130897cd0ec21f247b41bb5d8617.webp"
+  },
+  "CT24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5bb8cec3c30b4751857ccd13078ca27c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5bb8cec3c30b4751857ccd13078ca27c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5bb8cec3c30b4751857ccd13078ca27c.webp"
+  },
+  "RTVS 24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/37373c309ee46f0b9ecc58d0246aa6da.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/37373c309ee46f0b9ecc58d0246aa6da.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/37373c309ee46f0b9ecc58d0246aa6da.webp"
+  },
+  "TA3": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3ab3c4b3b3273ad672a13af7abbaefe1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3ab3c4b3b3273ad672a13af7abbaefe1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3ab3c4b3b3273ad672a13af7abbaefe1.webp"
+  },
+  "TV7": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bcbcd1d220598a2426a94075719cc204.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bcbcd1d220598a2426a94075719cc204.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bcbcd1d220598a2426a94075719cc204.webp"
+  },
+  "HGTV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2838d50de5d50d2e46ba88589f494bc7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2838d50de5d50d2e46ba88589f494bc7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2838d50de5d50d2e46ba88589f494bc7.webp"
+  },
+  "HOBBY TV": null,
+  "DOCUBOX": null,
+  "NOVA SPORT1": null,
+  "NOVA SPORT6": null,
+  "SPORT 1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ca1e06bff325f87900d6cb4216b50ce5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca1e06bff325f87900d6cb4216b50ce5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ca1e06bff325f87900d6cb4216b50ce5.webp"
+  },
+  "SPORT 2": null,
+  "JOJ SPORT": null,
+  "JOJ SPORT2": null
 }

@@ -1665,6 +1665,40 @@ https://cdnet.alwaysdata.net/tamaz.php?m3u8
 http://185.188.188.237:5000/live/premiersport/playlist.m3u8
 #EXTINF:-1 group-title="Cekya" ,Premier Sport 2
 http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2d44349af1a57cb92ea97ac880ad86a7.webp",Spektrum
+https://flexi-s1.purplecdn.xyz/Spektrum_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bfb2ec1a9c3083ceff0591431e29f169.webp",CT1
+https://flexi-s1.purplecdn.xyz/CT1_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b5f8130897cd0ec21f247b41bb5d8617.webp",CT2
+https://flexi-s1.purplecdn.xyz/CT2_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5bb8cec3c30b4751857ccd13078ca27c.webp",CT24
+https://flexi-s1.purplecdn.xyz/CT24_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/37373c309ee46f0b9ecc58d0246aa6da.webp",RTVS 24
+https://flexi-s1.purplecdn.xyz/RTVS24_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3ab3c4b3b3273ad672a13af7abbaefe1.webp",TA3
+https://flexi-s1.purplecdn.xyz/TA3_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bcbcd1d220598a2426a94075719cc204.webp",TV7
+https://flexi-s1.purplecdn.xyz/TV7_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2838d50de5d50d2e46ba88589f494bc7.webp",HGTV
+https://flexi-s1.purplecdn.xyz/HGTV_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" ,HOBBY TV
+https://flexi-s1.purplecdn.xyz/HobbyTV_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" ,DOCUBOX
+https://flexi-s1.purplecdn.xyz/DocuBox_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" ,NOVA SPORT1
+https://flexi-s1.purplecdn.xyz/Nova_Sport1_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" ,NOVA SPORT6
+https://flexi-s1.purplecdn.xyz/NovaSport6_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca1e06bff325f87900d6cb4216b50ce5.webp",SPORT 1
+https://flexi-s1.purplecdn.xyz/Sport1_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" ,SPORT 2
+https://flexi-s1.purplecdn.xyz/Sport2_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" ,JOJ SPORT
+https://flexi-s1.purplecdn.xyz/JOJSport_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" ,JOJ SPORT2
+https://flexi-s1.purplecdn.xyz/JOJSport2_HD/index.m3u8
+#EXTINF:-1 group-title="Cekya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e0b4ed69e7f0e865c185fdbc1df30692.webp",TRAVEL CHANNEL
+https://flexi-s1.purplecdn.xyz/Travel_Channel_HD/index.m3u8
 #EXTINF:-1 group-title="Romanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/25e20053ed7a0b71110207f5481bbe96.webp",TVR
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1 group-title="Romanya" ,DIGI-SPORT1
