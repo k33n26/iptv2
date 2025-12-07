@@ -1639,6 +1639,12 @@ https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/chunks.m3u8?nimblese
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8?nimblesessionid=2106878
 #EXTINF:-1 group-title="Nepal" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/893d580502bc57791b47d5a1cbfe45b8.webp",Kantipur Max
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/kantipurmaxgeo/match1_1080/chunks.m3u8?nimblesessionid=2106891
+#EXTINF:-1 group-title="Malta" ,TVM
+https://dist11.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQzNDYwNzYwLCJhdWQiOiI3OC4xNjkuMjIyLjE4NCIsImV4cCI6MTc2NTIwOTUzMX0.kaBUaNwdl9nftOYmQIwKNko61tqVr4K_oeQfCotz_wA/live/2/0/index.m3u8
+#EXTINF:-1 group-title="Malta" ,TVM+
+https://dist6.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQzNDYwNzYwLCJhdWQiOiI3OC4xNjkuMjIyLjE4NCIsImV4cCI6MTc2NTIwOTUzMX0.kaBUaNwdl9nftOYmQIwKNko61tqVr4K_oeQfCotz_wA/live/3/0/index.m3u8
+#EXTINF:-1 group-title="Malta" ,TVM SPORT+
+https://server.streammalta.com/memfs/fe8441fa-98a5-4b8d-b3ba-26ceb18864c3.m3u8
 #EXTINF:-1 group-title="Fas" ,Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 group-title="Fas" ,2M MONDE
