@@ -571,6 +571,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:-1 group-title="Hindistan" ,WION-NEWS
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="Hindistan" ,Sony Sports Ten 1
+http://51.15.7.9:2905/ten1/index.m3u8
+#EXTINF:-1 group-title="Hindistan" ,Sony Sports Ten 2
+http://51.15.7.9:2905/ten2/index.m3u8
+#EXTINF:-1 group-title="Hindistan" ,Sony Sports Ten 3
+http://51.15.7.9:2905/ten3/index.m3u8
+#EXTINF:-1 group-title="Hindistan" ,Sony Sports Ten 5
+http://51.15.7.9:2905/ten5/index.m3u8
+#EXTINF:-1 group-title="Hindistan" ,Colors HD
+http://51.15.7.9:2905/colorshd/index.m3u8
 #EXTINF:-1 group-title="Polonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5193bdfb64ae26e83f832ffd1985f85d.webp",TVP Polonia
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
 #EXTINF:-1 group-title="Polonya" ,TVP1
