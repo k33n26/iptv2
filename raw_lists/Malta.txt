@@ -1,0 +1,3 @@
+TVM,https://dist11.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQzNDYwNzYwLCJhdWQiOiI3OC4xNjkuMjIyLjE4NCIsImV4cCI6MTc2NTIwOTUzMX0.kaBUaNwdl9nftOYmQIwKNko61tqVr4K_oeQfCotz_wA/live/2/0/index.m3u8
+TVM+,https://dist6.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQzNDYwNzYwLCJhdWQiOiI3OC4xNjkuMjIyLjE4NCIsImV4cCI6MTc2NTIwOTUzMX0.kaBUaNwdl9nftOYmQIwKNko61tqVr4K_oeQfCotz_wA/live/3/0/index.m3u8
+TVM SPORT+,https://server.streammalta.com/memfs/fe8441fa-98a5-4b8d-b3ba-26ceb18864c3.m3u8
