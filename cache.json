@@ -2057,5 +2057,23 @@
   },
   "Ora News": null,
   "Report TV HD": null,
-  "Setenta Sports": null
+  "Setenta Sports": null,
+  "TiviBU Spor1": null,
+  "TiviBU Spor2": null,
+  "TiviBU Spor3": null,
+  "TiviBU Spor4": null,
+  "B1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c9512565ef6194ca664dc41ec0de7a53.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c9512565ef6194ca664dc41ec0de7a53.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c9512565ef6194ca664dc41ec0de7a53.webp"
+  },
+  "B2": null,
+  "B4": null,
+  "B5": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2a1ab298edf0162a3305e599b47cbeee.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2a1ab298edf0162a3305e599b47cbeee.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2a1ab298edf0162a3305e599b47cbeee.webp"
+  },
+  "SSport1": null,
+  "SSport2": null
 }

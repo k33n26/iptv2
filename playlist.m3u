@@ -461,50 +461,26 @@ http://65.108.239.207:80/lovenature/index.m3u8
 http://65.108.239.207:80/tarihtv/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ViasatHistory
 http://65.108.239.207:80/viasathistory/index.m3u8
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/412ad1987a6d3414a30dbb6f5d8c1cfe.webp",Filmax-Sener.Sen
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586239
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Zeki.Metin
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587057
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Kemal.Sunal1
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586235
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Kemal.Sunal2
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586236
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Kemal.Sunal3
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586237
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam1
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586238
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam2
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586320
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam3
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586321
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam4
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586839
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam5
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586840
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam6
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586841
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam7
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586842
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam8
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/586843
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam9
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587202
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam10
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587203
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam11
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587220
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam12
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587221
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam13
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587222
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam14
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587223
-#EXTINF:-1 group-title="Turkiye" ,Filmax-Yesilcam15
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587224
-#EXTINF:-1 group-title="Turkiye" ,DiziAX-Sidika
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/550131
-#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f54894f4f7e8e84d672e1614749a22c0.webp",90Plus
-https://livestreams.prdv3.dlivecdn.com/tv90plus/1764051132/src/live.m3u8?Expires=1764084499&Signature=d4b69M6OmjCetMRD6Pzh1frjX-z5WZFtK3LS63M01JwRfia237eg2gzlgDqe-EYdz1~ckfb5Xkl17gw9qGFE6aH2xbQ3sI3ySSQvhh6c-OZQMkY-t9qcGdaHatNxIcVo5Amxky8p9x-Bt1rAAZtJXRgdE2h6VGYVd1cI4SFc8XnS1hhloS1NEZ5tBD9r-Z3gjha5OKVV3TPeLMewwwHhrlv8WLoYORlOOTFPavriBciDjcKf3YDbwtn-K360ZQ4mbDPXlccAs1K4okfN-xUDi1Iju9b1rY7PpDHSwjDj1UV7EuwRIWoh5~A6Kj-exERdfzvvWD3LmTcuCZTsap15sg__&Key-Pair-Id=K2WZHW3KN5FGBZ
+#EXTINF:-1 group-title="Turkiye" ,TiviBU Spor1
+http://176.123.10.77:8480/t1/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,TiviBU Spor2
+http://176.123.10.77:8480/t2/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,TiviBU Spor3
+http://176.123.10.77:8480/t3/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,TiviBU Spor4
+http://176.123.10.77:8480/t4/index.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c9512565ef6194ca664dc41ec0de7a53.webp",B1
+http://176.123.10.77:8480/b1/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,B2
+http://176.123.10.77:8480/b2/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,B4
+http://176.123.10.77:8480/b4/index.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2a1ab298edf0162a3305e599b47cbeee.webp",B5
+http://176.123.10.77:8480/b5/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SSport1
+http://176.123.10.77:8480/s1/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,SSport2
+http://176.123.10.77:8480/s2/index.m3u8
 #EXTINF:-1 group-title="Karadag" ,RTCG 1
 http://23.88.66.93/RTCG_1/index.m3u8
 #EXTINF:-1 group-title="Karadag" ,RTCG 2
