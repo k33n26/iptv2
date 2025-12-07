@@ -1,2 +1,19 @@
 Premier Sport 1,http://185.188.188.237:5000/live/premiersport/playlist.m3u8
 Premier Sport 2,http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
+Spektrum,https://flexi-s1.purplecdn.xyz/Spektrum_HD/index.m3u8
+CT1,https://flexi-s1.purplecdn.xyz/CT1_HD/index.m3u8
+CT2,https://flexi-s1.purplecdn.xyz/CT2_HD/index.m3u8
+CT24,https://flexi-s1.purplecdn.xyz/CT24_HD/index.m3u8
+RTVS 24,https://flexi-s1.purplecdn.xyz/RTVS24_HD/index.m3u8
+TA3,https://flexi-s1.purplecdn.xyz/TA3_HD/index.m3u8
+TV7,https://flexi-s1.purplecdn.xyz/TV7_HD/index.m3u8
+HGTV,https://flexi-s1.purplecdn.xyz/HGTV_HD/index.m3u8
+HOBBY TV,https://flexi-s1.purplecdn.xyz/HobbyTV_HD/index.m3u8
+DOCUBOX,https://flexi-s1.purplecdn.xyz/DocuBox_HD/index.m3u8
+NOVA SPORT1,https://flexi-s1.purplecdn.xyz/Nova_Sport1_HD/index.m3u8
+NOVA SPORT6,https://flexi-s1.purplecdn.xyz/NovaSport6_HD/index.m3u8
+SPORT 1,https://flexi-s1.purplecdn.xyz/Sport1_HD/index.m3u8
+SPORT 2,https://flexi-s1.purplecdn.xyz/Sport2_HD/index.m3u8
+JOJ SPORT,https://flexi-s1.purplecdn.xyz/JOJSport_HD/index.m3u8
+JOJ SPORT2,https://flexi-s1.purplecdn.xyz/JOJSport2_HD/index.m3u8
+TRAVEL CHANNEL,https://flexi-s1.purplecdn.xyz/Travel_Channel_HD/index.m3u8
