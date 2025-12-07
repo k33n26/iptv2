@@ -505,6 +505,10 @@ http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/587224
 http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/550131
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f54894f4f7e8e84d672e1614749a22c0.webp",90Plus
 https://livestreams.prdv3.dlivecdn.com/tv90plus/1764051132/src/live.m3u8?Expires=1764084499&Signature=d4b69M6OmjCetMRD6Pzh1frjX-z5WZFtK3LS63M01JwRfia237eg2gzlgDqe-EYdz1~ckfb5Xkl17gw9qGFE6aH2xbQ3sI3ySSQvhh6c-OZQMkY-t9qcGdaHatNxIcVo5Amxky8p9x-Bt1rAAZtJXRgdE2h6VGYVd1cI4SFc8XnS1hhloS1NEZ5tBD9r-Z3gjha5OKVV3TPeLMewwwHhrlv8WLoYORlOOTFPavriBciDjcKf3YDbwtn-K360ZQ4mbDPXlccAs1K4okfN-xUDi1Iju9b1rY7PpDHSwjDj1UV7EuwRIWoh5~A6Kj-exERdfzvvWD3LmTcuCZTsap15sg__&Key-Pair-Id=K2WZHW3KN5FGBZ
+#EXTINF:-1 group-title="Karadag" ,RTCG 1
+http://23.88.66.93/RTCG_1/index.m3u8
+#EXTINF:-1 group-title="Karadag" ,RTCG 2
+http://23.88.66.93/RTCG_2/index.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,This-is-Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,AGRO-TV
