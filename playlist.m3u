@@ -953,14 +953,8 @@ https://live.mnet.mk/hls/mnet-info.m3u8
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46e79786ef47f689af797142c0bd103a.webp",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a369368e07f40aa8fc35de01b87fa9c5.webp",2TV
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e66a3305b1dc9685e069329ebdbf763d.webp",Imedi TV
-https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/313a6a3d25aa041ee3dc3cbd65d4f22b.webp",Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Gurcistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4377ec7dc8eda73bea5cb1fa59737417.webp",Palitra News
-https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 group-title="Gurcistan" ,Setenta Sports
+http://2.57.217.85:8000/playlist.m3u8
 #EXTINF:-1 group-title="Ispanya" ,TVE-INT
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
 #EXTINF:-1 group-title="Ispanya" ,TVE-LA1
