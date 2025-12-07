@@ -1,0 +1,5 @@
+J Sports 1,https://nl.utako.moe/js1/index.m3u8
+J Sports 2,https://nl.utako.moe/js2/index.m3u8
+J Sports 3,https://nl.utako.moe/js3/index.m3u8
+J Sports 4,https://nl.utako.moe/js4/index.m3u8
+NHK,https://nl.utako.moe/NHK_G/index.m3u8
