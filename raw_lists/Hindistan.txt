@@ -1,3 +1,8 @@
 9X Jalwa,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 Chumbak TV,https://cdn-1.pishow.tv/live/1451/master.m3u8
 WION-NEWS,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+Sony Sports Ten 1,http://51.15.7.9:2905/ten1/index.m3u8
+Sony Sports Ten 2,http://51.15.7.9:2905/ten2/index.m3u8
+Sony Sports Ten 3,http://51.15.7.9:2905/ten3/index.m3u8
+Sony Sports Ten 5,http://51.15.7.9:2905/ten5/index.m3u8
+Colors HD,http://51.15.7.9:2905/colorshd/index.m3u8
