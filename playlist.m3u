@@ -915,6 +915,8 @@ http://178.33.34.186:15151/live/news24ott/playlist.m3u8
 http://178.33.34.186:15151/live/oranewspp1/playlist.m3u8
 #EXTINF:-1 group-title="Arnavutluk" ,Report TV HD
 http://178.33.34.186:15151/live/reportott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Euronews Albania(2)
+http://217.73.139.200:5443/play/a007
 #EXTINF:-1 group-title="Cezayir" ,El Fadjer TV
 https://stream.wsla.top/play/1.m3u8
 #EXTINF:-1 group-title="Makedonya" ,MNet Sport
