@@ -1195,6 +1195,8 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/48531a5c8b19b3163a58f3fdcd76d0da.webp",BLUESKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c397289ee45877be0cd49811fe245b4e.webp",CENTER
+https://stream1.freetv.fun/cd79229566439b7c39ee399444bf09d6b0395dfdb5fd4a654c50dc09023a1cc9.m3u8
 #EXTINF:-1 group-title="Portekiz" ,RTP1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b1290000_slpor.m3u8
 #EXTINF:-1 group-title="Portekiz" ,RTP2

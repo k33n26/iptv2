@@ -2076,5 +2076,10 @@
   },
   "SSport1": null,
   "SSport2": null,
-  "Euronews Albania(2)": null
+  "Euronews Albania(2)": null,
+  "CENTER": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c397289ee45877be0cd49811fe245b4e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c397289ee45877be0cd49811fe245b4e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c397289ee45877be0cd49811fe245b4e.webp"
+  }
 }
