@@ -1,4 +1,30 @@
-Tropoja-Tv,https://live.prostream.al/al/smil:tropojatv.smil/chunklist_w829554787_b262800_sleng.m3u8
-Vizionplus-Tv,https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-Scan-Tv,https://cdn-media-content.onestream.studio/content/hls/live/live_1529414_146hefdi9/hls.m3u8
-NTV Televizion,https://protokolldns.xyz/ntv.l.i.v.e5547892023/tracks-v1a1/mono.m3u8
+Klan TV,http://178.33.34.186:15151/live/klanhdott/playlist.m3u8
+Klan Plus,http://178.33.34.186:15151/live/klanplusott/playlist.m3u8
+RTSH Shqip,http://178.33.34.186:15151/live/rtshshqip/playlist.m3u8
+RTSH Plus,http://178.33.34.186:15151/live/rtshplusott/playlist.m3u8
+RTSH Femije,http://178.33.34.186:15151/live/rtshfemijeott/playlist.m3u8
+RTSH Film,http://178.33.34.186:15151/live/rtshfilmott/playlist.m3u8
+ABC,http://178.33.34.186:15151/live/abcnewsott/playlist.m3u8
+RTV Ora,http://178.33.34.186:15151/live/rtvoraott/playlist.m3u8
+Scan TV,http://178.33.34.186:15151/live/scanott/playlist.m3u8
+Syri TV,http://178.33.34.186:15151/live/syritvott/playlist.m3u8
+MCN TV,http://178.33.34.186:15151/live/mcnpp1/playlist.m3u8
+RTK 1,http://178.33.34.186:15151/live/rtk1/playlist.m3u8
+RTSH 1,http://178.33.34.186:15151/live/rtsh1ott/playlist.m3u8
+RTSH 2 HD,http://178.33.34.186:15151/live/rtsh2/playlist.m3u8
+Klan Macedonia,http://178.33.34.186:15151/live/klanmacedoniaott/playlist.m3u8
+Teuta TV,http://178.33.34.186:15151/live/rtvteutaott/playlist.m3u8
+BBF,http://178.33.34.186:15151/live/bbfott/playlist.m3u8
+Klan Music HD,http://178.33.34.186:15151/live/klanmusicott/playlist.m3u8
+Folklorit,http://178.33.34.186:15151/live/folklorit/playlist.m3u8
+INTV HD,http://178.33.34.186:15151/live/intvpp1/playlist.m3u8
+RTSH Sport,http://178.33.34.186:15151/live/rtshsport/playlist.m3u8
+FSHF TV HD,http://178.33.34.186:15151/live/fshfott/playlist.m3u8
+Partizani TV,http://138.201.120.59:1935/partizanitv/partizanitv/playlist.m3u8
+CNA TV,http://178.33.34.186:15151/live/cnaott/playlist.m3u8
+Euronews Albania,http://178.33.34.186:15151/live/euronewsott/playlist.m3u8
+Fax News,http://178.33.34.186:15151/live/faxnewsott/playlist.m3u8
+Klan News,http://178.33.34.186:15151/live/klannewsott/playlist.m3u8
+News 24,http://178.33.34.186:15151/live/news24ott/playlist.m3u8
+Ora News,http://178.33.34.186:15151/live/oranewspp1/playlist.m3u8
+Report TV HD,http://178.33.34.186:15151/live/reportott/playlist.m3u8
