@@ -1,0 +1,2 @@
+RTCG 1,http://23.88.66.93/RTCG_1/index.m3u8
+RTCG 2,http://23.88.66.93/RTCG_2/index.m3u8
