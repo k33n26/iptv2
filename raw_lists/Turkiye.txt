@@ -70,6 +70,7 @@ CNN-TURK,https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/pla
 KANAL-24,https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 TGRT-HABER,https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 BLOOMBERG-HT,https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+CNBC-E,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 EKOTURK-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Eko_Turk.m3u8
 ULUSAL-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ulusal_Kanal.m3u8
 AHABER,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_haber.m3u8
