@@ -2007,5 +2007,54 @@
   "J Sports 4": null,
   "NHK": null,
   "RTCG 1": null,
-  "RTCG 2": null
+  "RTCG 2": null,
+  "Klan TV": null,
+  "Klan Plus": null,
+  "RTSH Shqip": null,
+  "RTSH Plus": null,
+  "RTSH Femije": null,
+  "RTSH Film": null,
+  "ABC": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/902fbdd2b1df0c4f70b4a5d23525e932.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/902fbdd2b1df0c4f70b4a5d23525e932.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/902fbdd2b1df0c4f70b4a5d23525e932.webp"
+  },
+  "RTV Ora": null,
+  "Scan TV": null,
+  "Syri TV": null,
+  "MCN TV": null,
+  "RTSH 1": null,
+  "RTSH 2 HD": null,
+  "Klan Macedonia": null,
+  "Teuta TV": null,
+  "BBF": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a6578b1d95742defe6d4b4acf2330505.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a6578b1d95742defe6d4b4acf2330505.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a6578b1d95742defe6d4b4acf2330505.webp"
+  },
+  "Klan Music HD": null,
+  "Folklorit": null,
+  "INTV HD": null,
+  "RTSH Sport": null,
+  "FSHF TV HD": null,
+  "Partizani TV": null,
+  "CNA TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9d393add4f183d2e1445ff09cdfd8dd9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d393add4f183d2e1445ff09cdfd8dd9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9d393add4f183d2e1445ff09cdfd8dd9.webp"
+  },
+  "Euronews Albania": null,
+  "Fax News": null,
+  "Klan News": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/68c9caa7b28516516a4d1b61417d53ee.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/68c9caa7b28516516a4d1b61417d53ee.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/68c9caa7b28516516a4d1b61417d53ee.webp"
+  },
+  "News 24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/33c1ae67633aef6b1d2e0f584a11c9c5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/33c1ae67633aef6b1d2e0f584a11c9c5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/33c1ae67633aef6b1d2e0f584a11c9c5.webp"
+  },
+  "Ora News": null,
+  "Report TV HD": null
 }

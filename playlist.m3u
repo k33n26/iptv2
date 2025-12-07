@@ -879,14 +879,66 @@ https://am8.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=517
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="G.Kibris" ,APLHA-TV
 https://am8.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=5178638&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDI6Mjg6NTQgUE0maGFzaF92YWx1ZT1GNG5YMExoOUpJTElMNCtjaE5LY1NnPT0mdmFsaWRtaW51dGVzPTMw
-#EXTINF:-1 group-title="Arnavutluk" ,Tropoja-Tv
-https://live.prostream.al/al/smil:tropojatv.smil/chunklist_w829554787_b262800_sleng.m3u8
-#EXTINF:-1 group-title="Arnavutluk" ,Vizionplus-Tv
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6d36065d6eb185d0018db6b86fa7c649.webp",Scan-Tv
-https://cdn-media-content.onestream.studio/content/hls/live/live_1529414_146hefdi9/hls.m3u8
-#EXTINF:-1 group-title="Arnavutluk" ,NTV Televizion
-https://protokolldns.xyz/ntv.l.i.v.e5547892023/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Klan TV
+http://178.33.34.186:15151/live/klanhdott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Klan Plus
+http://178.33.34.186:15151/live/klanplusott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTSH Shqip
+http://178.33.34.186:15151/live/rtshshqip/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTSH Plus
+http://178.33.34.186:15151/live/rtshplusott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTSH Femije
+http://178.33.34.186:15151/live/rtshfemijeott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTSH Film
+http://178.33.34.186:15151/live/rtshfilmott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/902fbdd2b1df0c4f70b4a5d23525e932.webp",ABC
+http://178.33.34.186:15151/live/abcnewsott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTV Ora
+http://178.33.34.186:15151/live/rtvoraott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Scan TV
+http://178.33.34.186:15151/live/scanott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Syri TV
+http://178.33.34.186:15151/live/syritvott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,MCN TV
+http://178.33.34.186:15151/live/mcnpp1/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTK 1
+http://178.33.34.186:15151/live/rtk1/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTSH 1
+http://178.33.34.186:15151/live/rtsh1ott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTSH 2 HD
+http://178.33.34.186:15151/live/rtsh2/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Klan Macedonia
+http://178.33.34.186:15151/live/klanmacedoniaott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Teuta TV
+http://178.33.34.186:15151/live/rtvteutaott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a6578b1d95742defe6d4b4acf2330505.webp",BBF
+http://178.33.34.186:15151/live/bbfott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Klan Music HD
+http://178.33.34.186:15151/live/klanmusicott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Folklorit
+http://178.33.34.186:15151/live/folklorit/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,INTV HD
+http://178.33.34.186:15151/live/intvpp1/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,RTSH Sport
+http://178.33.34.186:15151/live/rtshsport/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,FSHF TV HD
+http://178.33.34.186:15151/live/fshfott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Partizani TV
+http://138.201.120.59:1935/partizanitv/partizanitv/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d393add4f183d2e1445ff09cdfd8dd9.webp",CNA TV
+http://178.33.34.186:15151/live/cnaott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Euronews Albania
+http://178.33.34.186:15151/live/euronewsott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Fax News
+http://178.33.34.186:15151/live/faxnewsott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/68c9caa7b28516516a4d1b61417d53ee.webp",Klan News
+http://178.33.34.186:15151/live/klannewsott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/33c1ae67633aef6b1d2e0f584a11c9c5.webp",News 24
+http://178.33.34.186:15151/live/news24ott/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Ora News
+http://178.33.34.186:15151/live/oranewspp1/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" ,Report TV HD
+http://178.33.34.186:15151/live/reportott/playlist.m3u8
 #EXTINF:-1 group-title="Cezayir" ,El Fadjer TV
 https://stream.wsla.top/play/1.m3u8
 #EXTINF:-1 group-title="Makedonya" ,MNet Sport
