@@ -217,6 +217,8 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BLOOMBERG-HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="Turkiye" ,CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="Turkiye" ,EKOTURK-TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Eko_Turk.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ULUSAL-TV
