@@ -55,6 +55,7 @@ KHL HD,http://84.245.224.71/KHLHD/mono.m3u8
 PREMIER SPORT1,https://7pal.short.gy/prsport1
 PREMIER SPORT2,https://7pal.short.gy/prsport2
 MATHUR TV,http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+RT DOCUMENTARY,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
 
 
