@@ -51,7 +51,7 @@ https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunkli
 http://92.118.251.84:8080/bbc1hd/index.m3u8
 #EXTINF:-1 group-title="Ingiltere" ,BBC 2
 http://92.118.251.84:8080/bbc2hd/index.m3u8
-#EXTINF:-1 group-title="Ingiltere" ,ITV 1
+#EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/86a9d33fc11a37b0f0d603f106459632.webp",ITV 1
 http://92.118.251.84:8080/itv1hd/index.m3u8
 #EXTINF:-1 group-title="Ingiltere" ,ITV 2
 http://92.118.251.84:8080/itv2/index.m3u8
@@ -1663,6 +1663,8 @@ https://de2.dstvmultimedia.com/AdriaTravel-www/tracks-v1a1/mono.m3u8
 https://de2.dstvmultimedia.com/AdriaFishing-www/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel" ,Adria Nature
 https://de2.dstvmultimedia.com/AdriaNature-www/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,RT DOCUMENTARY
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV

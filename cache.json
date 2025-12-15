@@ -1888,7 +1888,11 @@
   "Premier Sport 2": null,
   "BBC 1": null,
   "BBC 2": null,
-  "ITV 1": null,
+  "ITV 1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/86a9d33fc11a37b0f0d603f106459632.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/86a9d33fc11a37b0f0d603f106459632.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/86a9d33fc11a37b0f0d603f106459632.webp"
+  },
   "ITV 2": null,
   "ITV 3": null,
   "ITV 4": null,
@@ -2087,5 +2091,6 @@
   "Sony Sports Ten 3": null,
   "Sony Sports Ten 5": null,
   "Colors HD": null,
-  "BIZIMKILER(3)": null
+  "BIZIMKILER(3)": null,
+  "RT DOCUMENTARY": null
 }
