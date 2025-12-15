@@ -589,7 +589,7 @@ https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
 https://dokko1new.newkso.ru/dokko1/premium560/mono.m3u8
 #EXTINF:-1 group-title="Polonya" ,TVP1(2)
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/v0-121.m3u8
-#EXTINF:-1 group-title="Polonya" ,TVP2
+#EXTINF:-1 group-title="Polonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f04469478b82941b642cb2d50ddc8149.webp",TVP2
 https://dokko1new.newkso.ru/dokko1/premium561/mono.m3u8
 #EXTINF:-1 group-title="Polonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/acf93349a496b825bdde306eb527d1e7.webp",TVN
 https://dokko1new.newkso.ru/dokko1/premium565/mono.m3u8
@@ -1395,6 +1395,8 @@ https://7pal.short.gy/prsport1
 https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Rusya" ,MATHUR TV
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Rusya" ,RT DOCUMENTARY
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b933f40a49249bb74144a4209e33cd51.webp",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fc5d90e1833b1e31fde07df7c638f176.webp",DLTV1

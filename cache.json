@@ -705,7 +705,11 @@
   "TV5MONDE-VOYAGE": null,
   "TV5MONDE-VOYAGE(2)": null,
   "TVP1": null,
-  "TVP2": null,
+  "TVP2": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f04469478b82941b642cb2d50ddc8149.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f04469478b82941b642cb2d50ddc8149.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f04469478b82941b642cb2d50ddc8149.webp"
+  },
   "TVN": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/acf93349a496b825bdde306eb527d1e7.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/acf93349a496b825bdde306eb527d1e7.webp",
