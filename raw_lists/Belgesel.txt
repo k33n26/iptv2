@@ -39,3 +39,4 @@ Ilm Va Tabiat,https://live.teleradiocom.tj/15/3m.m3u8
 Adria Travel,https://de2.dstvmultimedia.com/AdriaTravel-www/tracks-v1a1/mono.m3u8
 Adria Fishing,https://de2.dstvmultimedia.com/AdriaFishing-www/tracks-v1a1/mono.m3u8
 Adria Nature,https://de2.dstvmultimedia.com/AdriaNature-www/tracks-v1a1/mono.m3u8
+RT DOCUMENTARY,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
