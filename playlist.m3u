@@ -1667,6 +1667,32 @@ https://de2.dstvmultimedia.com/AdriaFishing-www/tracks-v1a1/mono.m3u8
 https://de2.dstvmultimedia.com/AdriaNature-www/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel" ,RT DOCUMENTARY
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/54ef4f95447fd2410d510981ac5b318c.webp",DRONE TV
+https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Documentary+
+https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,DOCSTORY
+https://jmp2.uk/stvp-FR1200001N2
+#EXTINF:-1 group-title="Belgesel" ,TAHITI TV
+https://jmp2.uk/stvp-FRBB49000059E
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/85bf91c6b42f624b440a4f66cfbd5ad1.webp",Destination Nature
+https://jmp2.uk/stvp-FRBC4000001IO
+#EXTINF:-1 group-title="Belgesel" ,Cap Terre
+https://jmp2.uk/stvp-FRBC3900004DS
+#EXTINF:-1 group-title="Belgesel" ,Invitation au voyage
+https://jmp2.uk/stvp-FR3700004HZ
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cff2135449d5952764d425777a55f79b.webp",Wilder Planet
+https://jmp2.uk/stvp-ATBA3300031VR
+#EXTINF:-1 group-title="Belgesel" ,One Terra
+https://jmp2.uk/stvp-ATBA1500021SL
+#EXTINF:-1 group-title="Belgesel" ,Terra Mater WILD
+https://jmp2.uk/stvp-ATBD2700001KY
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a122c985a7abd2c6a3c023da4a79e5b6.webp",Tierwelt
+https://jmp2.uk/stvp-ATAJ0500427A
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5f920ca22802242d86bd125782604a88.webp",Xplore
+https://jmp2.uk/stvp-ATAJ0500428A
+#EXTINF:-1 group-title="Belgesel" ,Documentary+CA
+https://jmp2.uk/stvp-CABC2300019UD
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
