@@ -40,3 +40,18 @@ Adria Travel,https://de2.dstvmultimedia.com/AdriaTravel-www/tracks-v1a1/mono.m3u
 Adria Fishing,https://de2.dstvmultimedia.com/AdriaFishing-www/tracks-v1a1/mono.m3u8
 Adria Nature,https://de2.dstvmultimedia.com/AdriaNature-www/tracks-v1a1/mono.m3u8
 RT DOCUMENTARY,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+DRONE TV,https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
+Documentary+,https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+DOCSTORY,https://jmp2.uk/stvp-FR1200001N2
+TAHITI TV,https://jmp2.uk/stvp-FRBB49000059E
+Destination Nature,https://jmp2.uk/stvp-FRBC4000001IO
+Cap Terre,https://jmp2.uk/stvp-FRBC3900004DS
+Invitation au voyage,https://jmp2.uk/stvp-FR3700004HZ
+Wilder Planet,https://jmp2.uk/stvp-ATBA3300031VR
+One Terra,https://jmp2.uk/stvp-ATBA1500021SL
+Terra Mater WILD,https://jmp2.uk/stvp-ATBD2700001KY
+Tierwelt,https://jmp2.uk/stvp-ATAJ0500427A
+Xplore,https://jmp2.uk/stvp-ATAJ0500428A
+Documentary+CA,https://jmp2.uk/stvp-CABC2300019UD
+
+
