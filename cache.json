@@ -2118,11 +2118,21 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/cff2135449d5952764d425777a55f79b.webp"
   },
   "One Terra": null,
-  "Terra Mater WILD": null,
+  "Terra Mater WILD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f01be5773238ecc3ebdf7f4e5a824f15.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f01be5773238ecc3ebdf7f4e5a824f15.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f01be5773238ecc3ebdf7f4e5a824f15.webp"
+  },
   "Tierwelt": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a122c985a7abd2c6a3c023da4a79e5b6.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a122c985a7abd2c6a3c023da4a79e5b6.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a122c985a7abd2c6a3c023da4a79e5b6.webp"
   },
-  "Documentary+CA": null
+  "Documentary+CA": null,
+  "The Design Network": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/865dd0ef042f732da037f59432018bf9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/865dd0ef042f732da037f59432018bf9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/865dd0ef042f732da037f59432018bf9.webp"
+  },
+  "Stingray Naturescape": null
 }
