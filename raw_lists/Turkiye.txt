@@ -19,6 +19,7 @@ BIZIMKILER,https://streams.uzunmuhalefet.com/stream/a76045fc-3b23-47fa-bd81-eb36
 BIZIMKILER(2),http://104.238.23.182/yt1/s/bizimkiler.m3u8
 BIZIMKILER(3),http://87.121.104.29:145/trtnostalji/stream.m3u8
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+ARTI-TV,http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
 BIZIM-EV-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
 BIZIM-EV-TV(2),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/bizimevtv.m3u8
 DIZIMAX,http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
@@ -38,6 +39,7 @@ CINE1,https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 SDM-SINEMA,https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 SDM-BELGESEL,https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 TIVI6,https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+TV BEGEN,https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 CINE6-MAX,https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 CINE5,https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist.m3u8
 ONS-TV,https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
@@ -45,6 +47,7 @@ RIZETURK-TV,https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 Ilke-TV,https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 KuzeyMax,http://75.119.144.48/kuzeymaxtv_hd/index.m3u8
 ISVICRE-TV,https://i41.ozelip.com:3269/hybrid/play.m3u8
+1TVTR,http://cdn4.yayin.com.tr/1tvtr/tracks-v1a1/mono.m3u8
 AKTIF-TV,https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
 VIYANA-TV,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 PLAY-TV,https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
