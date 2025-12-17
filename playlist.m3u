@@ -115,6 +115,8 @@ http://104.238.23.182/yt1/s/bizimkiler.m3u8
 http://87.121.104.29:145/trtnostalji/stream.m3u8
 #EXTINF:-1 group-title="Turkiye" ,SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,ARTI-TV
+http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIM-EV-TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIM-EV-TV(2)
@@ -153,6 +155,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/35c8ef6cfbf59c954c5ee5d6250a6a5f.webp",TIVI6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 group-title="Turkiye" ,TV BEGEN
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,CINE6-MAX
 https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ecccbeec7437703f9a11ebc91e906499.webp",CINE5
@@ -167,6 +171,8 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 http://75.119.144.48/kuzeymaxtv_hd/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ISVICRE-TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="Turkiye" ,1TVTR
+http://cdn4.yayin.com.tr/1tvtr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" ,AKTIF-TV
 https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,VIYANA-TV
