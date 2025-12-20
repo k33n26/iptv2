@@ -600,7 +600,11 @@
   "This-is-Bulgaria": null,
   "AGRO-TV": null,
   "Travel-TV": null,
-  "NOVA-TV": null,
+  "NOVA-TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/192790436e0766d1cad1ad77dbfca84d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/192790436e0766d1cad1ad77dbfca84d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/192790436e0766d1cad1ad77dbfca84d.webp"
+  },
   "NOVA-NEWS": null,
   "BNT4": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a1a9d155c9ed902bfcb922470fc9ccbf.webp",
@@ -2145,5 +2149,10 @@
   "NatureVision": null,
   "ARTI-TV": null,
   "TV BEGEN": null,
-  "1TVTR": null
+  "1TVTR": null,
+  "Gem Nature": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/56e71d452eb7caf80141da9fe10901a0.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/56e71d452eb7caf80141da9fe10901a0.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/56e71d452eb7caf80141da9fe10901a0.webp"
+  }
 }

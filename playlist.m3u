@@ -499,7 +499,7 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,Travel-TV
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
-#EXTINF:-1 group-title="Bulgaristan" ,NOVA-TV
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/192790436e0766d1cad1ad77dbfca84d.webp",NOVA-TV
 https://e20-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTEzODg7QT0xO0s9MztQPTAxMTEwO1M9MTE3MmQ4YjhkNjcwMGRhY2RlYzdiOGEzY2RlMzJhNGViZjNiOTY4ZA==/chunklist.m3u8
 #EXTINF:-1 group-title="Bulgaristan" ,NOVA-NEWS
 https://e112-ts.cdn.bg/ntv/fls/NNHD.stream/at=O0M9MzEuMjA2Ljg3LjEzMztFPTE3NTU4OTE0NjI7QT0xO0s9MztQPTAxMTEwO1M9ZTEwMGJmYTYxMmQxMmQxYmIyNTA5YzI4ZDgyOWNkNTM4NTJmNWFjOA==/chunklist.m3u8
@@ -1711,6 +1711,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://jmp2.uk/stvp-ESBC4700002TD
 #EXTINF:-1 group-title="Belgesel" ,NatureVision
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992449&ads.csid=lgchannels_[COUNTRY]_NatureVision_ssai&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=tv-g&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=0&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992449&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/56e71d452eb7caf80141da9fe10901a0.webp",Gem Nature
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
