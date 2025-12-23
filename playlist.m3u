@@ -1057,6 +1057,814 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master1080p.m3
 https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 group-title="China" ,TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="China" ,CCTV-1
+http://156.239.254.7:5555/smt.php?id=cctv1
+#EXTINF:-1 group-title="China" ,CCTV-2
+http://156.239.254.7:5555/smt.php?id=cctv2
+#EXTINF:-1 group-title="China" ,CCTV-3
+http://156.239.254.7:5555/smt.php?id=cctv3
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f47550e52781a20ff074028df2c4f1f0.webp",CCTV-4
+http://156.239.254.7:5555/smt.php?id=Cctv4
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f47550e52781a20ff074028df2c4f1f0.webp",CCTV-4
+http://156.239.254.7:5555/smt.php?id=cctv4
+#EXTINF:-1 group-title="China" ,CCTV-5
+http://156.239.254.7:5555/smt.php?id=cctv5
+#EXTINF:-1 group-title="China" ,CCTV-6
+http://156.239.254.7:5555/smt.php?id=cctv6
+#EXTINF:-1 group-title="China" ,CCTV-7
+http://156.239.254.7:5555/smt.php?id=cctv7
+#EXTINF:-1 group-title="China" ,CCTV-8
+http://156.239.254.7:5555/smt.php?id=cctv8hd
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/93b8e95fbcf8cfe0d76d0ec140a2d5da.webp",CCTV-9
+http://156.239.254.7:5555/smt.php?id=cctv9hd
+#EXTINF:-1 group-title="China" ,CCTV-10
+http://156.239.254.7:5555/smt.php?id=cctv10hd
+#EXTINF:-1 group-title="China" ,CCTV-11
+http://156.239.254.7:5555/smt.php?id=cctv11
+#EXTINF:-1 group-title="China" ,CCTV-12
+http://156.239.254.7:5555/smt.php?id=cctv12
+#EXTINF:-1 group-title="China" ,CCTV-13
+http://156.239.254.7:5555/smt.php?id=cctv13
+#EXTINF:-1 group-title="China" ,CCTV-14
+http://156.239.254.7:5555/smt.php?id=cctv14
+#EXTINF:-1 group-title="China" ,CCTV-15
+http://156.239.254.7:5555/smt.php?id=cctv15
+#EXTINF:-1 group-title="China" ,CCTV-16
+http://156.239.254.7:5555/smt.php?id=cctv16
+#EXTINF:-1 group-title="China" ,CCTV-17
+http://156.239.254.7:5555/smt.php?id=cctv17
+#EXTINF:-1 group-title="China" ,CCTV-5+
+http://156.239.254.7:5555/smt.php?id=cctv5plus
+#EXTINF:-1 group-title="China" ,CCTV-6
+http://156.239.254.7:5555/smt.php?id=cctv6
+#EXTINF:-1 group-title="China" ,湖南卫视
+http://156.239.254.7:5555/smt.php?id=hunan_twn
+#EXTINF:-1 group-title="China" ,浙江卫视
+http://156.239.254.7:5555/smt.php?id=zhejiang_twn
+#EXTINF:-1 group-title="China" ,江苏卫视
+http://156.239.254.7:5555/smt.php?id=jiangsu_twn
+#EXTINF:-1 group-title="China" ,东方卫视
+http://156.239.254.7:5555/smt.php?id=dongfangweishi_twn
+#EXTINF:-1 group-title="China" ,北京卫视
+http://156.239.254.7:5555/smt.php?id=beijing
+#EXTINF:-1 group-title="China" ,深圳卫视
+http://156.239.254.7:5555/smt.php?id=shenzhen
+#EXTINF:-1 group-title="China" ,广东卫视
+http://156.239.254.7:5555/smt.php?id=guangdongweishi_twn
+#EXTINF:-1 group-title="China" ,大湾区卫视
+http://156.239.254.7:5555/smt.php?id=nanfang_twn
+#EXTINF:-1 group-title="China" ,珠江台
+http://156.239.254.7:5555/smt.php?id=zhujiang
+#EXTINF:-1 group-title="China" ,东南卫视
+http://156.239.254.7:5555/smt.php?id=fujian
+#EXTINF:-1 group-title="China" ,广西卫视
+http://156.239.254.7:5555/smt.php?id=guangxi
+#EXTINF:-1 group-title="China" ,湖北卫视
+http://156.239.254.7:5555/smt.php?id=hubei
+#EXTINF:-1 group-title="China" ,四川卫视
+http://156.239.254.7:5555/smt.php?id=sichuan_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f309f23d0eba44a192873cd8ed9af93.webp",CGTN
+http://156.239.254.7:5555/smt.php?id=CGTN
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2197cb071d222130bf2099e8709d1cd5.webp",AXN Taiwan
+http://156.239.254.7:5555/smt.php?id=axn_twn
+#EXTINF:-1 group-title="China" ,HBO_HD
+http://156.239.254.7:5555/smt.php?id=hbohd_twn
+#EXTINF:-1 group-title="China" ,HBO_HITS
+http://156.239.254.7:5555/smt.php?id=hbohit_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ea561c74560f38d405a67622947bae32.webp",CINEMAX
+http://156.239.254.7:5555/smt.php?id=cinemax_twn
+#EXTINF:-1 group-title="China" ,好萊塢電影台
+http://156.239.254.7:5555/smt.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="China" ,东森电影
+http://156.239.254.7:5555/smt.php?id=ettvmovie
+#EXTINF:-1 group-title="China" ,东森洋片
+http://156.239.254.7:5555/smt.php?id=ettvwestern
+#EXTINF:-1 group-title="China" ,龙华电影
+http://156.239.254.7:5555/smt.php?id=xingwei_movie
+#EXTINF:-1 group-title="China" ,龙华洋片
+http://156.239.254.7:5555/smt.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="China" ,龙祥时代
+http://156.239.254.7:5555/smt.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="China" ,美亚电影
+http://156.239.254.7:5555/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="China" ,卫视电影台
+http://156.239.254.7:5555/smt.php?id=weishimovie_twn
+#EXTINF:-1 group-title="China" ,天映频道
+http://156.239.254.7:5555/smt.php?id=Celestial
+#EXTINF:-1 group-title="China" ,天映频道
+http://156.239.254.7:5555/smt.php?id=Celestialindo
+#EXTINF:-1 group-title="China" ,天映经典
+http://156.239.254.7:5555/smt.php?id=Celestial2
+#EXTINF:-1 group-title="China" ,Animax
+http://156.239.254.7:5555/smt.php?id=Animax
+#EXTINF:-1 group-title="China" ,Movies Now HD
+http://156.239.254.7:5555/smt.php?id=moviesnow_raj
+#EXTINF:-1 group-title="China" ,Star Movies HD
+http://156.239.254.7:5555/smt.php?id=starmovies_raj
+#EXTINF:-1 group-title="China" ,Hits
+http://156.239.254.7:5555/smt.php?id=Hits
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cc843ad3ec4652d15d171ce35be3b59d.webp",Warner TV
+http://156.239.254.7:5555/smt.php?id=WarnerTV
+#EXTINF:-1 group-title="China" ,HBO HD
+http://156.239.254.7:5555/smt.php?id=Hbo
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a42674dcc0ef7cae6e9c4916951aa1d3.webp",HBO Signature
+http://156.239.254.7:5555/smt.php?id=Hbosignature
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1ed954e561f5a45908a012b533fbfeae.webp",HBO Family
+http://156.239.254.7:5555/smt.php?id=Hbofamily
+#EXTINF:-1 group-title="China" ,HBO Hits
+http://156.239.254.7:5555/smt.php?id=Hbohitshd
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/156313ed0e9462c9a84fe4cf60ba4f7d.webp",Cinemax
+http://156.239.254.7:5555/smt.php?id=Cinemax
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c048cd0e34331df6f4bf4a4d786b2edf.webp",Dreamworks
+http://156.239.254.7:5555/smt.php?id=Dreamworks
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/616842b667c02164dda634d846884093.webp",SCM
+http://156.239.254.7:5555/smt.php?id=Weishimovie
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a5f799ea7465e196f726736ff8551980.webp",Thrill
+http://156.239.254.7:5555/smt.php?id=Thrill
+#EXTINF:-1 group-title="China" ,Hits Movie
+http://156.239.254.7:5555/smt.php?id=Hitsmovie
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/06c2cea18679d64399783748fa367bdd.webp",One
+http://156.239.254.7:5555/smt.php?id=One
+#EXTINF:-1 group-title="China" ,tvN Movie
+http://156.239.254.7:5555/smt.php?id=Tvnmovie
+#EXTINF:-1 group-title="China" ,Axn HD
+http://156.239.254.7:5555/smt.php?id=Axn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/94d29a0d4682f088ab8c7ad6efc34b64.webp",Paramount Network
+http://156.239.254.7:5555/smt.php?id=Paramountnetwork
+#EXTINF:-1 group-title="China" ,Astrol Kplus
+http://156.239.254.7:5555/smt.php?id=Kplus
+#EXTINF:-1 group-title="China" ,Rock Actions
+http://156.239.254.7:5555/smt.php?id=Rockaction
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4407c4e0d9bd72553170e97d88399e9e.webp",Rock Entertainment
+http://156.239.254.7:5555/smt.php?id=Rockentertain
+#EXTINF:-1 group-title="China" ,Natgeo_HD
+http://156.239.254.7:5555/smt.php?id=natgeohd_twn
+#EXTINF:-1 group-title="China" ,NatGeo_Wild HD
+http://156.239.254.7:5555/smt.php?id=natgeowild_twn
+#EXTINF:-1 group-title="China" ,Animal_Planet
+http://156.239.254.7:5555/smt.php?id=animalplanet_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/113d4ca3d149111a1eea983884e14664.webp",Discovery Asia
+http://156.239.254.7:5555/smt.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3ba0f40775d6d6ace27ef929f5be3cdf.webp",CI
+http://156.239.254.7:5555/smt.php?id=ci_twn
+#EXTINF:-1 group-title="China" ,Asia Travel
+http://156.239.254.7:5555/smt.php?id=asiatravel_twn
+#EXTINF:-1 group-title="China" ,Discovery HD
+http://156.239.254.7:5555/smt.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="China" ,亚洲美食
+http://156.239.254.7:5555/smt.php?id=afc_twn
+#EXTINF:-1 group-title="China" ,美食星球
+http://156.239.254.7:5555/smt.php?id=foodplanet_twn
+#EXTINF:-1 group-title="China" ,亚洲TLC
+http://156.239.254.7:5555/smt.php?id=tlc_twn
+#EXTINF:-1 group-title="China" ,NatGeo HD
+http://156.239.254.7:5555/smt.php?id=Natgeo
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/43151260943da1adc32057346a36c6fc.webp",Fashion TV
+http://156.239.254.7:5555/smt.php?id=fashiontv_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/16d2b386b2034b9488996466aaae0b57.webp",History
+http://156.239.254.7:5555/smt.php?id=History
+#EXTINF:-1 group-title="China" ,BBC Earth HD
+http://156.239.254.7:5555/smt.php?id=bbcearth_twn
+#EXTINF:-1 group-title="China" ,BBC Earth Lifestyle
+http://156.239.254.7:5555/smt.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cfb45489c712c89db5a0b7963b318e35.webp",MTV Live
+http://156.239.254.7:5555/smt.php?id=mtvhd_twn
+#EXTINF:-1 group-title="China" ,NatGeo Wild HD
+http://156.239.254.7:5555/smt.php?id=Natgeowild
+#EXTINF:-1 group-title="China" ,Animal Planet (Eng)
+http://156.239.254.7:5555/smt.php?id=AnimalPlanet
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",TLC
+http://156.239.254.7:5555/smt.php?id=Tlc
+#EXTINF:-1 group-title="China" ,Foodnetwork Hd
+http://156.239.254.7:5555/smt.php?id=Foodnetwork
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2838d50de5d50d2e46ba88589f494bc7.webp",HGTV
+http://156.239.254.7:5555/smt.php?id=HGTV
+#EXTINF:-1 group-title="China" ,亚洲旅游台
+http://156.239.254.7:5555/smt.php?id=asiatravel_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ec9d99105dfdd9bb1ca3d1b5b0502788.webp",Skynews
+http://156.239.254.7:5555/smt.php?id=skynews_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e54c7327740ee1e5123e3408fbf8394b.webp",ABC News
+http://156.239.254.7:5555/smt.php?id=abcnews_glo
+#EXTINF:-1 group-title="China" ,东森财经新闻
+http://156.239.254.7:5555/smt.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/104c427903a33e532ba52852e6ccf649.webp",CBS HD
+http://156.239.254.7:5555/smt.php?id=cbshd_glo
+#EXTINF:-1 group-title="China" ,CBSN HD
+http://156.239.254.7:5555/smt.php?id=cbsn_glo
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/799ba4ba150df4b98eac68c63273ac04.webp",France 24
+http://156.239.254.7:5555/smt.php?id=france24_twn
+#EXTINF:-1 group-title="China" ,DW (Deutsch)
+http://156.239.254.7:5555/smt.php?id=dw_twn
+#EXTINF:-1 group-title="China" ,NHK World
+http://156.239.254.7:5555/smt.php?id=nhkworld_japan
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a17f645b0056b6b69b84d2dddbf75a6c.webp",Fox News
+http://156.239.254.7:5555/smt.php?id=foxnews_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f309f23d0eba44a192873cd8ed9af93.webp",CGTN
+http://156.239.254.7:5555/smt.php?id=CGTN
+#EXTINF:-1 group-title="China" ,CNN International
+http://156.239.254.7:5555/smt.php?id=Cnn
+#EXTINF:-1 group-title="China" ,CNN backup
+http://156.239.254.7:5555/smt.php?id=cnn_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",CNBC
+http://156.239.254.7:5555/smt.php?id=cnbc_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/68b3177cae966fde225c197ecb4fd253.webp",CNA
+http://156.239.254.7:5555/smt.php?id=cna
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dd267a14f6bc8fa0b6f3f9edabd41c58.webp",BBC World News
+http://156.239.254.7:5555/smt.php?id=bbcnews_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dd267a14f6bc8fa0b6f3f9edabd41c58.webp",BBC World News
+http://156.239.254.7:5555/smt.php?id=Bbcnews
+#EXTINF:-1 group-title="China" ,Bloomberg News
+http://156.239.254.7:5555/smt.php?id=bloomberg_twn
+#EXTINF:-1 group-title="China" ,Al-Jazeera
+http://156.239.254.7:5555/smt.php?id=aljazeera_twn
+#EXTINF:-1 group-title="China" ,Baby TV Eng
+http://156.239.254.7:5555/smt.php?id=Babytv
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d4cf2f16302ff3c40178b1940f59bf8a.webp",CBeebies
+http://156.239.254.7:5555/smt.php?id=Cbeebies
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c701f1f4c3951e4683ac24fcc2429850.webp",Kids TV
+http://156.239.254.7:5555/smt.php?id=KidsTV
+#EXTINF:-1 group-title="China" ,Momo TV
+http://156.239.254.7:5555/smt.php?id=momo1_twn
+#EXTINF:-1 group-title="China" ,Animax
+http://156.239.254.7:5555/smt.php?id=Animax
+#EXTINF:-1 group-title="China" ,Baby TV
+http://156.239.254.7:5555/smt.php?id=babytv_twn
+#EXTINF:-1 group-title="China" ,MiaoMi
+http://156.239.254.7:5555/smt.php?id=MiaoMi
+#EXTINF:-1 group-title="China" ,靖天卡通
+http://156.239.254.7:5555/smt.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="China" ,东森幼幼
+http://156.239.254.7:5555/smt.php?id=yoyo_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8be5e3f6156a6b2108a2d8b9cc5d5d7c.webp",Cartoon Network
+http://156.239.254.7:5555/smt.php?id=Cn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b11cc9ad84502b27a63fa7a8d813ef6a.webp",Nickelodeon
+http://156.239.254.7:5555/smt.php?id=Nickelodeon
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4a6ddb6cf5c34fbc975e6a282f63ff93.webp",Nick Jr
+http://156.239.254.7:5555/smt.php?id=Nickjr
+#EXTINF:-1 group-title="China" ,Astro Premier League 1
+http://156.239.254.7:5555/smt.php?id=go_assp1
+#EXTINF:-1 group-title="China" ,Astro EPL 1 backup
+http://156.239.254.7:5555/smt.php?id=go_assp1x
+#EXTINF:-1 group-title="China" ,Astro Premier League 2
+http://156.239.254.7:5555/smt.php?id=go_assp2
+#EXTINF:-1 group-title="China" ,Astro Grandstand
+http://156.239.254.7:5555/smt.php?id=go_assp3
+#EXTINF:-1 group-title="China" ,Astro Football
+http://156.239.254.7:5555/smt.php?id=go_assp4
+#EXTINF:-1 group-title="China" ,Astro Sports Plus
+http://156.239.254.7:5555/smt.php?id=go_sportsplus
+#EXTINF:-1 group-title="China" ,Astro Badminton 1
+http://156.239.254.7:5555/smt.php?id=go_badminton1
+#EXTINF:-1 group-title="China" ,Astro Badminton 2
+http://156.239.254.7:5555/smt.php?id=go_badminton2
+#EXTINF:-1 group-title="China" ,Astro W-Sports
+http://156.239.254.7:5555/smt.php?id=go_assp5
+#EXTINF:-1 group-title="China" ,Supersports 1
+http://156.239.254.7:5555/smt.php?id=Assp1
+#EXTINF:-1 group-title="China" ,Supersports 2
+http://156.239.254.7:5555/smt.php?id=Assp2
+#EXTINF:-1 group-title="China" ,Supersports 3
+http://156.239.254.7:5555/smt.php?id=Assp3
+#EXTINF:-1 group-title="China" ,Supersports 4
+http://156.239.254.7:5555/smt.php?id=Assp4
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/eb9330e15ec873951dc79e74e2224a65.webp",WWE
+http://156.239.254.7:5555/smt.php?id=Wwe
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6355ea90b00d68edeb0b2e81bad4198b.webp",Fight Sports
+http://156.239.254.7:5555/smt.php?id=Fs
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ac36a3696ec781ba88e1469447723040.webp",NBA TV
+http://156.239.254.7:5555/smt.php?id=Nba
+#EXTINF:-1 group-title="China" ,Astro Cricket
+http://156.239.254.7:5555/smt.php?id=Acricket
+#EXTINF:-1 group-title="China" ,Astro Golf
+http://156.239.254.7:5555/smt.php?id=Agolf
+#EXTINF:-1 group-title="China" ,Tnt Sports 1
+http://156.239.254.7:5555/smt.php?id=6fac0aaead
+#EXTINF:-1 group-title="China" ,TNT Sports 2
+http://156.239.254.7:5555/smt.php?id=d9a76a79cc
+#EXTINF:-1 group-title="China" ,TNT Sports 3
+http://156.239.254.7:5555/smt.php?id=5fea4d73db
+#EXTINF:-1 group-title="China" ,TNT Sports 4
+http://156.239.254.7:5555/smt.php?id=tntsport4
+#EXTINF:-1 group-title="China" ,Sony Ten 1
+http://156.239.254.7:5555/smt.php?id=ten1_raj
+#EXTINF:-1 group-title="China" ,Sony Ten 2
+http://156.239.254.7:5555/smt.php?id=ten2_raj
+#EXTINF:-1 group-title="China" ,Sony Ten 3
+http://156.239.254.7:5555/smt.php?id=ten3_raj
+#EXTINF:-1 group-title="China" ,SPOTV 1 HD
+http://156.239.254.7:5555/smt.php?id=go_spotv
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/83d04152e83e4b317cfd13ce2bb2cdd4.webp",SPO TV 2
+http://156.239.254.7:5555/smt.php?id=go_spotv2
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/648cae038734bad4d88754761c11bdd9.webp",Skysports F1
+http://156.239.254.7:5555/smt.php?id=tiankongf1
+#EXTINF:-1 group-title="China" ,Skysports Cricket
+http://156.239.254.7:5555/smt.php?id=tiankongcricket
+#EXTINF:-1 group-title="China" ,Skysports EPL
+http://156.239.254.7:5555/smt.php?id=tiankongepl
+#EXTINF:-1 group-title="China" ,Skysports Main Event
+http://156.239.254.7:5555/smt.php?id=tiankongmain
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/207b635df5bf2e51acccc983805c9cf5.webp",Skysports News
+http://156.239.254.7:5555/smt.php?id=tiankongnews
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7d59fbb2b6b6858c03af710e148228f7.webp",Skysports Mix
+http://156.239.254.7:5555/smt.php?id=tiankongmix
+#EXTINF:-1 group-title="China" ,CCTV-5 体育频道
+http://156.239.254.7:5555/smt.php?id=cctv5
+#EXTINF:-1 group-title="China" ,CCTV-5+ 体育赛事 HD
+http://156.239.254.7:5555/smt.php?id=cctv5plus
+#EXTINF:-1 group-title="China" ,爱尔达体育2台
+http://156.239.254.7:5555/smt.php?id=eltasport2_twn
+#EXTINF:-1 group-title="China" ,爱尔达体育3台
+http://156.239.254.7:5555/smt.php?id=eltasport3_twn
+#EXTINF:-1 group-title="China" ,Rugby Pass TV
+http://156.239.254.7:5555/smt.php?id=Rugbypasstv
+#EXTINF:-1 group-title="China" ,RTM Sports HD
+http://156.239.254.7:5555/smt.php?id=Rtmsport
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6fa3f3daa9f9a6282d58c913b73b8dc4.webp",Arena
+http://156.239.254.7:5555/smt.php?id=Arena
+#EXTINF:-1 group-title="China" ,Arena 2
+http://156.239.254.7:5555/smt.php?id=Arena2
+#EXTINF:-1 group-title="China" ,BolaArena 1
+http://156.239.254.7:5555/smt.php?id=Bolaarena1
+#EXTINF:-1 group-title="China" ,BolaArena 2
+http://156.239.254.7:5555/smt.php?id=Bolaarena2
+#EXTINF:-1 group-title="China" ,Astro Beinsports 1
+http://156.239.254.7:5555/smt.php?id=Astrobein1
+#EXTINF:-1 group-title="China" ,Astro Beinsports 2
+http://156.239.254.7:5555/smt.php?id=Astrobein2
+#EXTINF:-1 group-title="China" ,Astro Beinsports 3
+http://156.239.254.7:5555/smt.php?id=Astrobein3
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5c2e49e212275e83ce788e1a6da3c438.webp",Channel 5
+http://156.239.254.7:5555/smt.php?id=Channel5HD
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d08484f5769ace65aeab2a0fca9dc41d.webp",Channel 8
+http://156.239.254.7:5555/smt.php?id=Channel8HD
+#EXTINF:-1 group-title="China" ,Suria
+http://156.239.254.7:5555/smt.php?id=Suria
+#EXTINF:-1 group-title="China" ,Channel U
+http://156.239.254.7:5555/smt.php?id=ChannelU
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/728faa48e8c610fe577d9fc857407ba6.webp",Vasantham
+http://156.239.254.7:5555/smt.php?id=Vasantham
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/68b3177cae966fde225c197ecb4fd253.webp",CNA
+http://156.239.254.7:5555/smt.php?id=cna
+#EXTINF:-1 group-title="China" ,CNA backup
+http://156.239.254.7:5555/smt.php?id=cna_twn
+#EXTINF:-1 group-title="China" ,MeWatch Ch 5
+http://156.239.254.7:5555/smt.php?id=Mewatch_ch5
+#EXTINF:-1 group-title="China" ,MeWatch Ch 8
+http://156.239.254.7:5555/smt.php?id=Mewatch_ch8
+#EXTINF:-1 group-title="China" ,MeWatch Ch U
+http://156.239.254.7:5555/smt.php?id=Mewatch_chU
+#EXTINF:-1 group-title="China" ,MeWatch Suria
+http://156.239.254.7:5555/smt.php?id=Mewatch_Suria
+#EXTINF:-1 group-title="China" ,MeWatch Vasantham
+http://156.239.254.7:5555/smt.php?id=Mewatch_Vasantham
+#EXTINF:-1 group-title="China" ,MeWatch CNA
+http://156.239.254.7:5555/smt.php?id=Mewatch_cna
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aaa972549319a1940b35a26a15f963aa.webp",TV1
+http://156.239.254.7:5555/smt.php?id=TV1
+#EXTINF:-1 group-title="China" ,TV1 backup
+http://156.239.254.7:5555/smt.php?id=TV1_backup
+#EXTINF:-1 group-title="China" ,TV2
+http://156.239.254.7:5555/smt.php?id=TV2
+#EXTINF:-1 group-title="China" ,TV3
+http://156.239.254.7:5555/smt.php?id=TV3
+#EXTINF:-1 group-title="China" ,TV3 SD
+http://156.239.254.7:5555/smt.php?id=TV3_mega
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e8cf76eca676bcc20e8d63fe519cc6bc.webp",NTV7
+http://156.239.254.7:5555/smt.php?id=NTV7
+#EXTINF:-1 group-title="China" ,TV8
+http://156.239.254.7:5555/smt.php?id=TV8
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e8c12d36a8a95eb8c5dce51428cfd70f.webp",TV9
+http://156.239.254.7:5555/smt.php?id=TV9
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d80546105349521353a8e5ffe28d2f81.webp",Ria
+http://156.239.254.7:5555/smt.php?id=Ria-0
+#EXTINF:-1 group-title="China" ,Ria-3
+http://156.239.254.7:5555/smt.php?id=Ria_backup
+#EXTINF:-1 group-title="China" ,Al-Hijrah
+http://156.239.254.7:5555/smt.php?id=Alhijrah
+#EXTINF:-1 group-title="China" ,Al-Hijrah backup
+http://156.239.254.7:5555/smt.php?id=Alhijrah_backup
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/eb093c6fec238d0aa8043f31b67a7f36.webp",Awani
+http://156.239.254.7:5555/smt.php?id=Awani
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e66b202a743e252e45e0a62ec028814a.webp",Bernama
+http://156.239.254.7:5555/smt.php?id=Bernama
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5fa4b38c4cfa1805ef1a4d27f3d00e7e.webp",Prima
+http://156.239.254.7:5555/smt.php?id=Prima-0
+#EXTINF:-1 group-title="China" ,Prima backup
+http://156.239.254.7:5555/smt.php?id=AAprima1
+#EXTINF:-1 group-title="China" ,Prima backup 2
+http://156.239.254.7:5555/smt.php?id=AAprima
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/acacfbe9511b8b6061871637dc2487a5.webp",Ceria
+http://156.239.254.7:5555/smt.php?id=Ceria
+#EXTINF:-1 group-title="China" ,Astro MTV
+http://156.239.254.7:5555/smt.php?id=AstroMTV
+#EXTINF:-1 group-title="China" ,Mecca Live HD
+http://156.239.254.7:5555/smt.php?id=quran_mido
+#EXTINF:-1 group-title="China" ,Madinah HD
+http://156.239.254.7:5555/smt.php?id=sunnah_mido
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0454236a66b299894fc9ee3f5e8fc6b6.webp",Oasis
+http://156.239.254.7:5555/smt.php?id=Oasis
+#EXTINF:-1 group-title="China" ,HBO HD
+http://156.239.254.7:5555/smt.php?id=Hbo
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a42674dcc0ef7cae6e9c4916951aa1d3.webp",HBO Signature
+http://156.239.254.7:5555/smt.php?id=Hbosignature
+#EXTINF:-1 group-title="China" ,HBO Hits
+http://156.239.254.7:5555/smt.php?id=Hbohitshd
+#EXTINF:-1 group-title="China" ,NatGeo Wild HD
+http://156.239.254.7:5555/smt.php?id=Natgeowild
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8be5e3f6156a6b2108a2d8b9cc5d5d7c.webp",Cartoon Network
+http://156.239.254.7:5555/smt.php?id=Cn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b11cc9ad84502b27a63fa7a8d813ef6a.webp",Nickelodeon
+http://156.239.254.7:5555/smt.php?id=Nickelodeon
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4a6ddb6cf5c34fbc975e6a282f63ff93.webp",Nick Jr
+http://156.239.254.7:5555/smt.php?id=Nickjr
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c048cd0e34331df6f4bf4a4d786b2edf.webp",Dreamworks
+http://156.239.254.7:5555/smt.php?id=Dreamworks
+#EXTINF:-1 group-title="China" ,Siar
+http://156.239.254.7:5555/smt.php?id=Siar
+#EXTINF:-1 group-title="China" ,Citra
+http://156.239.254.7:5555/smt.php?id=AAcitra
+#EXTINF:-1 group-title="China" ,Citra backup
+http://156.239.254.7:5555/smt.php?id=AAcitra1
+#EXTINF:-1 group-title="China" ,Sensasi
+http://156.239.254.7:5555/smt.php?id=Sensasi
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6ed3cf13906dc93a2f205a19e122c640.webp",Aura
+http://156.239.254.7:5555/smt.php?id=Aura
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3a2fda08afe1a4fc2e894905da9fde9f.webp",Rania
+http://156.239.254.7:5555/smt.php?id=Rania
+#EXTINF:-1 group-title="China" ,KBS World
+http://156.239.254.7:5555/smt.php?id=KBS
+#EXTINF:-1 group-title="China" ,Boo
+http://156.239.254.7:5555/smt.php?id=Boo
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/88aa685bf215d5624b7d83e0802531d9.webp",Awesome TV
+http://156.239.254.7:5555/smt.php?id=Dsangat
+#EXTINF:-1 group-title="China" ,Astro Sonypix
+http://156.239.254.7:5555/smt.php?id=Asonypix
+#EXTINF:-1 group-title="China" ,Sony HD
+http://156.239.254.7:5555/smt.php?id=SetOne
+#EXTINF:-1 group-title="China" ,TvN
+http://156.239.254.7:5555/smt.php?id=TVN
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/970c17a0d8df46e95e6f48a19a2aae54.webp",AEC
+http://156.239.254.7:5555/smt.php?id=AEC
+#EXTINF:-1 group-title="China" ,华丽台 HD （Wah Lai Toi）
+http://156.239.254.7:5555/smt.php?id=Wlt
+#EXTINF:-1 group-title="China" ,欢喜台 HD （Hua Hee Tai）
+http://156.239.254.7:5555/smt.php?id=Huahee
+#EXTINF:-1 group-title="China" ,Astro QJ
+http://156.239.254.7:5555/smt.php?id=Quanjia
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/27241ef617b536eac79b4b386559208b.webp",TVB Jade
+http://156.239.254.7:5555/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1a8b36424472536b4bce79604f83f4a9.webp",TVB Asia
+http://156.239.254.7:5555/smt.php?id=Tvbasia
+#EXTINF:-1 group-title="China" ,TVB Entertainment
+http://156.239.254.7:5555/smt.php?id=Tvbentertainment
+#EXTINF:-1 group-title="China" ,TVB Classic
+http://156.239.254.7:5555/smt.php?id=Tvbclassic
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5156155c837896ea6f477674f0d26e23.webp",AOD
+http://156.239.254.7:5555/smt.php?id=Aodhd
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/06c2cea18679d64399783748fa367bdd.webp",One
+http://156.239.254.7:5555/smt.php?id=One
+#EXTINF:-1 group-title="China" ,TVB 星河台 Xing He
+http://156.239.254.7:5555/smt.php?id=Xinhe
+#EXTINF:-1 group-title="China" ,爱奇艺 iQiyi
+http://156.239.254.7:5555/smt.php?id=Qiyi
+#EXTINF:-1 group-title="China" ,Animal Planet (Eng)
+http://156.239.254.7:5555/smt.php?id=AnimalPlanet
+#EXTINF:-1 group-title="China" ,tvN Movie
+http://156.239.254.7:5555/smt.php?id=Tvnmovie
+#EXTINF:-1 group-title="China" ,CNN backup
+http://156.239.254.7:5555/smt.php?id=cnn_twn
+#EXTINF:-1 group-title="China" ,Celestial Classic
+http://156.239.254.7:5555/smt.php?id=Celestial2
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",CNBC
+http://156.239.254.7:5555/smt.php?id=cnbc_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",TLC
+http://156.239.254.7:5555/smt.php?id=Tlc
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/68b3177cae966fde225c197ecb4fd253.webp",CNA
+http://156.239.254.7:5555/smt.php?id=cna
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dd267a14f6bc8fa0b6f3f9edabd41c58.webp",BBC World News
+http://156.239.254.7:5555/smt.php?id=bbcnews_twn
+#EXTINF:-1 group-title="China" ,Foodnetwork Hd
+http://156.239.254.7:5555/smt.php?id=Foodnetwork
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2838d50de5d50d2e46ba88589f494bc7.webp",HGTV
+http://156.239.254.7:5555/smt.php?id=HGTV
+#EXTINF:-1 group-title="China" ,Goshop
+http://156.239.254.7:5555/smt.php?id=Goshop
+#EXTINF:-1 group-title="China" ,Celestial Movies HD
+http://156.239.254.7:5555/smt.php?id=Celestial
+#EXTINF:-1 group-title="China" ,Axn HD
+http://156.239.254.7:5555/smt.php?id=Axn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/94d29a0d4682f088ab8c7ad6efc34b64.webp",Paramount Network
+http://156.239.254.7:5555/smt.php?id=Paramountnetwork
+#EXTINF:-1 group-title="China" ,Astrol Kplus
+http://156.239.254.7:5555/smt.php?id=Kplus
+#EXTINF:-1 group-title="China" ,AFC 亚洲旅游台
+http://156.239.254.7:5555/smt.php?id=asiatravel_twn
+#EXTINF:-1 group-title="China" ,Rock Actions
+http://156.239.254.7:5555/smt.php?id=Rockaction
+#EXTINF:-1 group-title="China" ,Bloomberg News
+http://156.239.254.7:5555/smt.php?id=bloomberg_twn
+#EXTINF:-1 group-title="China" ,Al-Jazeera
+http://156.239.254.7:5555/smt.php?id=aljazeera_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4407c4e0d9bd72553170e97d88399e9e.webp",Rock Entertainment
+http://156.239.254.7:5555/smt.php?id=Rockentertain
+#EXTINF:-1 group-title="China" ,RTM Sports HD
+http://156.239.254.7:5555/smt.php?id=Rtmsport
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6fa3f3daa9f9a6282d58c913b73b8dc4.webp",Arena
+http://156.239.254.7:5555/smt.php?id=Arena
+#EXTINF:-1 group-title="China" ,Arena 2
+http://156.239.254.7:5555/smt.php?id=Arena2
+#EXTINF:-1 group-title="China" ,BolaArena 1
+http://156.239.254.7:5555/smt.php?id=Bolaarena1
+#EXTINF:-1 group-title="China" ,BolaArena 2
+http://156.239.254.7:5555/smt.php?id=Bolaarena2
+#EXTINF:-1 group-title="China" ,Astro LOL
+http://156.239.254.7:5555/smt.php?id=Astro_lol
+#EXTINF:-1 group-title="China" ,Astro Rusi
+http://156.239.254.7:5555/smt.php?id=Rusi
+#EXTINF:-1 group-title="China" ,WION
+http://156.239.254.7:5555/smt.php?id=Wion
+#EXTINF:-1 group-title="China" ,RTM Asean
+http://156.239.254.7:5555/smt.php?id=Rtmasean
+#EXTINF:-1 group-title="China" ,TVRI National
+http://156.239.254.7:5555/smt.php?id=TVRI
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1f28071dc2db8af7339bdd083f502e41.webp",RCTI
+http://156.239.254.7:5555/smt.php?id=Rcti
+#EXTINF:-1 group-title="China" ,Kompass TV
+http://156.239.254.7:5555/smt.php?id=Kompass
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ec3aca9e7a6f3a441e21534a157b682e.webp",Berita Satu
+http://156.239.254.7:5555/smt.php?id=BeritaSatu_eko
+#EXTINF:-1 group-title="China" ,Indosiar HD
+http://156.239.254.7:5555/smt.php?id=Indosiar
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b4bb71458619293c2a343bd91fe73beb.webp",AnTV
+http://156.239.254.7:5555/smt.php?id=Antv
+#EXTINF:-1 group-title="China" ,MNC TV
+http://156.239.254.7:5555/smt.php?id=Mnctv
+#EXTINF:-1 group-title="China" ,Trans 7
+http://156.239.254.7:5555/smt.php?id=Trans7_eko
+#EXTINF:-1 group-title="China" ,Transtv
+http://156.239.254.7:5555/smt.php?id=Transtv
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3885957f21709a00740b68b57ed21560.webp",JTV
+http://156.239.254.7:5555/smt.php?id=JTV_eko
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/57d1ad4c5f75f653547b77353ffe05b3.webp",Metro TV
+http://156.239.254.7:5555/smt.php?id=metrotv_eko
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/156313ed0e9462c9a84fe4cf60ba4f7d.webp",Cinemax
+http://156.239.254.7:5555/smt.php?id=Cinemax
+#EXTINF:-1 group-title="China" ,SCTV
+http://156.239.254.7:5555/smt.php?id=SCTV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/448886cc49e795d76728e85f434cde9f.webp",Tvone
+http://156.239.254.7:5555/smt.php?id=Tvone
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cff8e95208eda90ef2ba823d80e884c2.webp",TVMU
+http://156.239.254.7:5555/smt.php?id=TVMU_eko
+#EXTINF:-1 group-title="China" ,GTV
+http://156.239.254.7:5555/smt.php?id=Gtv
+#EXTINF:-1 group-title="China" ,RTV
+http://156.239.254.7:5555/smt.php?id=Rtv
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b67397d75906ab0f44f7361aab4994a8.webp",Jak TV
+http://156.239.254.7:5555/smt.php?id=JakTV
+#EXTINF:-1 group-title="China" ,iNews TV
+http://156.239.254.7:5555/smt.php?id=Inewstv
+#EXTINF:-1 group-title="China" ,Daai TV
+http://156.239.254.7:5555/smt.php?id=DaaiTV
+#EXTINF:-1 group-title="China" ,Net TV
+http://156.239.254.7:5555/smt.php?id=NetTV
+#EXTINF:-1 group-title="China" ,Animax
+http://156.239.254.7:5555/smt.php?id=Animax
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/40dbd2460c336f980951da0f456e729f.webp",EWTN
+http://156.239.254.7:5555/smt.php?id=Ewtn
+#EXTINF:-1 group-title="China" ,AlQuran AlKareem
+http://156.239.254.7:5555/smt.php?id=AlQuran
+#EXTINF:-1 group-title="China" ,Tawaf TV
+http://156.239.254.7:5555/smt.php?id=TawafTV
+#EXTINF:-1 group-title="China" ,Vision Prime
+http://156.239.254.7:5555/smt.php?id=VisionPrime
+#EXTINF:-1 group-title="China" ,Muslim TV
+http://156.239.254.7:5555/smt.php?id=MuslimTV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5fad6027f8ebdf9c33061c21b03a3130.webp",Music TV
+http://156.239.254.7:5555/smt.php?id=MusicTV
+#EXTINF:-1 group-title="China" ,Lifestyle&Fashion
+http://156.239.254.7:5555/smt.php?id=Lifestyle
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0329b56c0d8211526e27301a3fe27aaa.webp",Entertain
+http://156.239.254.7:5555/smt.php?id=Entertain
+#EXTINF:-1 group-title="China" ,Hits
+http://156.239.254.7:5555/smt.php?id=Hits
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cc843ad3ec4652d15d171ce35be3b59d.webp",Warner TV
+http://156.239.254.7:5555/smt.php?id=WarnerTV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/616842b667c02164dda634d846884093.webp",SCM
+http://156.239.254.7:5555/smt.php?id=Weishimovie
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a5f799ea7465e196f726736ff8551980.webp",Thrill
+http://156.239.254.7:5555/smt.php?id=Thrill
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6355ea90b00d68edeb0b2e81bad4198b.webp",Fight Sports
+http://156.239.254.7:5555/smt.php?id=Fs
+#EXTINF:-1 group-title="China" ,Hits Movie
+http://156.239.254.7:5555/smt.php?id=Hitsmovie
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/06c2cea18679d64399783748fa367bdd.webp",One
+http://156.239.254.7:5555/smt.php?id=One
+#EXTINF:-1 group-title="China" ,tvN Movie
+http://156.239.254.7:5555/smt.php?id=Tvnmovie
+#EXTINF:-1 group-title="China" ,Celestial Movies HD
+http://156.239.254.7:5555/smt.php?id=Celestialindo
+#EXTINF:-1 group-title="China" ,Rock Actions
+http://156.239.254.7:5555/smt.php?id=Rockaction
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4407c4e0d9bd72553170e97d88399e9e.webp",Rock Entertainment
+http://156.239.254.7:5555/smt.php?id=Rockentertain
+#EXTINF:-1 group-title="China" ,GPT-印度
+#genre#
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c4bdbd64fe2c195588574b14fde18db2.webp",Sun TV HD
+http://156.239.254.7:5555/smt.php?id=Suntv
+#EXTINF:-1 group-title="China" ,Star Vijay
+http://156.239.254.7:5555/smt.php?id=Starvijay
+#EXTINF:-1 group-title="China" ,Colors Tamil
+http://156.239.254.7:5555/smt.php?id=Colorstam
+#EXTINF:-1 group-title="China" ,Sun Music
+http://156.239.254.7:5555/smt.php?id=Sunmusic
+#EXTINF:-1 group-title="China" ,Astro Sunlife
+http://156.239.254.7:5555/smt.php?id=Sunlife
+#EXTINF:-1 group-title="China" ,Astro Vaanavil
+http://156.239.254.7:5555/smt.php?id=Vaanavil
+#EXTINF:-1 group-title="China" ,Zee Tamil
+http://156.239.254.7:5555/smt.php?id=Zeetamil
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bbb26ea55a5b782dd33c2990388b3bee.webp",Zee Business
+http://156.239.254.7:5555/smt.php?id=Zeebusiness
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0a5443b583999c372e68567c9a74a849.webp",News 18 Tamil
+http://156.239.254.7:5555/smt.php?id=news18tamil_raj
+#EXTINF:-1 group-title="China" ,Adithya
+http://156.239.254.7:5555/smt.php?id=Adithya
+#EXTINF:-1 group-title="China" ,Makkal TV
+http://156.239.254.7:5555/smt.php?id=Makkaltv
+#EXTINF:-1 group-title="China" ,Zee Action
+http://156.239.254.7:5555/smt.php?id=Zeeaction
+#EXTINF:-1 group-title="China" ,Astro KTV
+http://156.239.254.7:5555/smt.php?id=Astroktv
+#EXTINF:-1 group-title="China" ,Zee TV HD
+http://156.239.254.7:5555/smt.php?id=Zeetvhd
+#EXTINF:-1 group-title="China" ,Zee Cinema HD
+http://156.239.254.7:5555/smt.php?id=Zeecinemahd
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3f045508f2383f96dcdf89cbd92d3da8.webp",Color HD
+http://156.239.254.7:5555/smt.php?id=Colorhd
+#EXTINF:-1 group-title="China" ,Starplus HD
+http://156.239.254.7:5555/smt.php?id=Starplushd
+#EXTINF:-1 group-title="China" ,Picture HD
+http://156.239.254.7:5555/smt.php?id=Npicture
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9415ed0883aefffe198d806263f50641.webp",Zee News
+http://156.239.254.7:5555/smt.php?id=Zeenews
+#EXTINF:-1 group-title="China" ,Asianet
+http://156.239.254.7:5555/smt.php?id=asianet_raj
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4b8126d789ff1a6cc1a07e942b8e6255.webp",Asianet News
+http://156.239.254.7:5555/smt.php?id=asianetnews_raj
+#EXTINF:-1 group-title="China" ,Discovery World Tamil
+http://156.239.254.7:5555/smt.php?id=discoveryworldtam_raj
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca4d7ee4248df9ae336bf7c471b3aeec.webp",History Tamil
+http://156.239.254.7:5555/smt.php?id=historytam_raj
+#EXTINF:-1 group-title="China" ,NatGeo Tamil
+http://156.239.254.7:5555/smt.php?id=natgeotamil_raj
+#EXTINF:-1 group-title="China" ,Natgeo Wild Tamil
+http://156.239.254.7:5555/smt.php?id=natgeowildtamil_raj
+#EXTINF:-1 group-title="China" ,Astro Sonypix
+http://156.239.254.7:5555/smt.php?id=Asonypix
+#EXTINF:-1 group-title="China" ,Discovery Kids Tamil
+http://156.239.254.7:5555/smt.php?id=discoverykidtamil_raj
+#EXTINF:-1 group-title="China" ,Discovery Tamil
+http://156.239.254.7:5555/smt.php?id=discoverytamil_raj
+#EXTINF:-1 group-title="China" ,Sony Yay Tamil
+http://156.239.254.7:5555/smt.php?id=sonyyaytam_raj
+#EXTINF:-1 group-title="China" ,Sun TV India
+http://156.239.254.7:5555/smt.php?id=suntv_raj
+#EXTINF:-1 group-title="China" ,Starmaa HD
+http://156.239.254.7:5555/smt.php?id=starmaa_raj
+#EXTINF:-1 group-title="China" ,Starmaa Movies HD
+http://156.239.254.7:5555/smt.php?id=starmaamovies_raj
+#EXTINF:-1 group-title="China" ,Bollyone
+http://156.239.254.7:5555/smt.php?id=Bollyone
+#EXTINF:-1 group-title="China" ,Astro Sunmusic
+http://156.239.254.7:5555/smt.php?id=Sunmusic
+#EXTINF:-1 group-title="China" ,Vijay Super
+http://156.239.254.7:5555/smt.php?id=vijaysuper_raj
+#EXTINF:-1 group-title="China" ,Vellithirai
+http://156.239.254.7:5555/smt.php?id=Vellithirai
+#EXTINF:-1 group-title="China" ,Channel 3 Thailand
+http://156.239.254.7:5555/smt.php?id=ch3_pat
+#EXTINF:-1 group-title="China" ,Channel 5 Thailand
+http://156.239.254.7:5555/smt.php?id=ch5_pat
+#EXTINF:-1 group-title="China" ,Channel 7 Thailand
+http://156.239.254.7:5555/smt.php?id=ch7_pat
+#EXTINF:-1 group-title="China" ,MCOT HD Thailand-1
+http://156.239.254.7:5555/smt.php?id=mcot_pat
+#EXTINF:-1 group-title="China" ,PPTV Thailand1
+http://156.239.254.7:5555/smt.php?id=pptv_pat
+#EXTINF:-1 group-title="China" ,Thai Thai
+http://156.239.254.7:5555/smt.php?id=thaithai_pat
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b4d2669bf368aaf787b71ae1ae1a16bb.webp",Amarin
+http://156.239.254.7:5555/smt.php?id=amarin_pat
+#EXTINF:-1 group-title="China" ,Ch 8
+http://156.239.254.7:5555/smt.php?id=ch8_pat
+#EXTINF:-1 group-title="China" ,GmmOne
+http://156.239.254.7:5555/smt.php?id=gmmone_pat
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5d9b47bd3b65072e0d5daf55f01da086.webp",Mono
+http://156.239.254.7:5555/smt.php?id=mono_pat
+#EXTINF:-1 group-title="China" ,Thairath
+http://156.239.254.7:5555/smt.php?id=thairath_pat
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dfd9cc0c187ad2f237336f2d996d08bb.webp",tpbs
+http://156.239.254.7:5555/smt.php?id=tpbs_pat
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/39cf0fabf736d44e1ab26e24a1388991.webp",Workpoint
+http://156.239.254.7:5555/smt.php?id=workpoint_pat
+#EXTINF:-1 group-title="China" ,Gmm Channel
+http://156.239.254.7:5555/smt.php?id=gmmchannel_pat
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7a71eba5cab8e4f1df9944395977a971.webp",Nation
+http://156.239.254.7:5555/smt.php?id=nation_pat
+#EXTINF:-1 group-title="China" ,Tnn24
+http://156.239.254.7:5555/smt.php?id=tnn24_pat
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3e15f75235aa119874394f86156f92a1.webp",Nbt
+http://156.239.254.7:5555/smt.php?id=nbt_pat
+#EXTINF:-1 group-title="China" ,New
+http://156.239.254.7:5555/smt.php?id=new_pat
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/707591255035861933491b8a565a0f68.webp",TPTV
+http://156.239.254.7:5555/smt.php?id=tptv_pat
+#EXTINF:-1 group-title="China" ,BBC 1
+http://156.239.254.7:5555/smt.php?id=bbc1_antik
+#EXTINF:-1 group-title="China" ,BBC 2
+http://156.239.254.7:5555/smt.php?id=bbc2_antik
+#EXTINF:-1 group-title="China" ,CBBC
+http://156.239.254.7:5555/smt.php?id=cbbc_antik
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ee2a1b20c48c26e3d02457160d526db4.webp",More4
+http://156.239.254.7:5555/smt.php?id=more4_antik
+#EXTINF:-1 group-title="China" ,Freesports
+http://156.239.254.7:5555/smt.php?id=freesports_antik
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ec9d99105dfdd9bb1ca3d1b5b0502788.webp",Skynews
+http://156.239.254.7:5555/smt.php?id=skynews_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bdc9c09f2224535f59d27de43365b7da.webp",Pick TV
+http://156.239.254.7:5555/smt.php?id=picktv_antik
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cb0128f3ce99f10fb2653f9dc6b444e9.webp",itv 1
+http://156.239.254.7:5555/smt.php?id=itv1_antik
+#EXTINF:-1 group-title="China" ,itv 2
+http://156.239.254.7:5555/smt.php?id=itv2_antik
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0184e252b5a7e44bd0340e93665c47c7.webp",Euronews
+http://156.239.254.7:5555/smt.php?id=euronews_antik
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e77d2afa4363dad35c713745802d7bee.webp",Channel 4
+http://156.239.254.7:5555/smt.php?id=channel4_antik
+#EXTINF:-1 group-title="China" ,NatGeo HD
+http://156.239.254.7:5555/smt.php?id=Natgeo
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d4cf2f16302ff3c40178b1940f59bf8a.webp",CBeebies
+http://156.239.254.7:5555/smt.php?id=Cbeebies
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/16d2b386b2034b9488996466aaae0b57.webp",History
+http://156.239.254.7:5555/smt.php?id=History
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c701f1f4c3951e4683ac24fcc2429850.webp",Kids TV
+http://156.239.254.7:5555/smt.php?id=KidsTV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/799ba4ba150df4b98eac68c63273ac04.webp",France 24
+http://156.239.254.7:5555/smt.php?id=france24_twn
+#EXTINF:-1 group-title="China" ,DW (Deutsch)
+http://156.239.254.7:5555/smt.php?id=dw_twn
+#EXTINF:-1 group-title="China" ,BBC Earth HD
+http://156.239.254.7:5555/smt.php?id=bbcearth_twn
+#EXTINF:-1 group-title="China" ,BBC Earth Lifestyle
+http://156.239.254.7:5555/smt.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cfb45489c712c89db5a0b7963b318e35.webp",MTV Live
+http://156.239.254.7:5555/smt.php?id=mtvhd_twn
+#EXTINF:-1 group-title="China" ,Star Movies HD
+http://156.239.254.7:5555/smt.php?id=starmovies_raj
+#EXTINF:-1 group-title="China" ,NHK World
+http://156.239.254.7:5555/smt.php?id=nhkworld_japan
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cc843ad3ec4652d15d171ce35be3b59d.webp",Warner TV
+http://156.239.254.7:5555/smt.php?id=WarnerTV
+#EXTINF:-1 group-title="China" ,HBO HD
+http://156.239.254.7:5555/smt.php?id=Hbo
+#EXTINF:-1 group-title="China" ,NatGeo Wild HD
+http://156.239.254.7:5555/smt.php?id=Natgeowild
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b11cc9ad84502b27a63fa7a8d813ef6a.webp",Nickelodeon
+http://156.239.254.7:5555/smt.php?id=Nickelodeon
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4a6ddb6cf5c34fbc975e6a282f63ff93.webp",Nick Jr
+http://156.239.254.7:5555/smt.php?id=Nickjr
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a5f799ea7465e196f726736ff8551980.webp",Thrill
+http://156.239.254.7:5555/smt.php?id=Thrill
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f309f23d0eba44a192873cd8ed9af93.webp",CGTN
+http://156.239.254.7:5555/smt.php?id=CGTN
+#EXTINF:-1 group-title="China" ,Hits Movie
+http://156.239.254.7:5555/smt.php?id=Hitsmovie
+#EXTINF:-1 group-title="China" ,Animal Planet (Eng)
+http://156.239.254.7:5555/smt.php?id=AnimalPlanet
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",CNBC
+http://156.239.254.7:5555/smt.php?id=cnbc_twn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",TLC
+http://156.239.254.7:5555/smt.php?id=Tlc
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dd267a14f6bc8fa0b6f3f9edabd41c58.webp",BBC World News
+http://156.239.254.7:5555/smt.php?id=bbcworldnews_antik
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2838d50de5d50d2e46ba88589f494bc7.webp",HGTV
+http://156.239.254.7:5555/smt.php?id=HGTV
+#EXTINF:-1 group-title="China" ,Axn HD
+http://156.239.254.7:5555/smt.php?id=Axn
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/648cae038734bad4d88754761c11bdd9.webp",Skysports F1
+http://156.239.254.7:5555/smt.php?id=tiankongf1
+#EXTINF:-1 group-title="China" ,Skysports Cricket
+http://156.239.254.7:5555/smt.php?id=tiankongcricket
+#EXTINF:-1 group-title="China" ,Bloomberg News
+http://156.239.254.7:5555/smt.php?id=bloomberg_twn
+#EXTINF:-1 group-title="China" ,Skysports EPL
+http://156.239.254.7:5555/smt.php?id=tiankongepl
+#EXTINF:-1 group-title="China" ,Skysports Main Event
+http://156.239.254.7:5555/smt.php?id=tiankongmain
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/207b635df5bf2e51acccc983805c9cf5.webp",Skysports News
+http://156.239.254.7:5555/smt.php?id=tiankongnews
+#EXTINF:-1 group-title="China" ,Al-Jazeera
+http://156.239.254.7:5555/smt.php?id=aljazeera_twn
 #EXTINF:-1 group-title="Ozbekistan" ,ITV Cinema
 https://stream9.itv.uz/t/4o59KxM0h-Vu5Mu8i22SNw/e/1759836132/4000/tracks-v2a1/timeshift_rel-132.m3u8
 #EXTINF:-1 group-title="Ozbekistan" ,Ozbekiston24
