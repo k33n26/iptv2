@@ -163,7 +163,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b8b5089c70ae62534970e2d8aa67e96d.webp"
   },
   "FX(2)": null,
-  "LIFE-TV": null,
+  "LIFE-TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ea4ed9b635dccf3d437f9c0373777dde.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ea4ed9b635dccf3d437f9c0373777dde.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ea4ed9b635dccf3d437f9c0373777dde.webp"
+  },
   "FILM-SCREEN": null,
   "FILM-SCREEN(2)": null,
   "EPİC-DRAMA": null,
@@ -2154,5 +2158,26 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/56e71d452eb7caf80141da9fe10901a0.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/56e71d452eb7caf80141da9fe10901a0.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/56e71d452eb7caf80141da9fe10901a0.webp"
-  }
+  },
+  "CINE6": null,
+  "CINE6-PREMIER": null,
+  "CINE6-AKSIYON": null,
+  "CINE6-TURK": null,
+  "CINE6-VIZYON": null,
+  "FILM-CLUB": null,
+  "FILM-CLUB-KOMEDI": null,
+  "FILM-CLUB-AKSIYON": null,
+  "FILM-CLUB-FAMILY": null,
+  "VIZON-PRIME": null,
+  "VIZON-GOLD": null,
+  "VIZON-TURK": null,
+  "VIZON-DIZI": null,
+  "VIZON-WILD": null,
+  "S-ADRENALIN": null,
+  "S-PREMIUM": null,
+  "S-YERLI": null,
+  "FILMBOX-AKSIYON": null,
+  "FILMBOX-VIZYON": null,
+  "FILMBOX-STARS": null,
+  "TV-PLATFORMLARI": null
 }
