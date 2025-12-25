@@ -2153,7 +2153,11 @@
   "NatureVision": null,
   "ARTI-TV": null,
   "TV BEGEN": null,
-  "1TVTR": null,
+  "1TVTR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/36a9cc0c5adb5c0df208571dacfcaf1b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/36a9cc0c5adb5c0df208571dacfcaf1b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/36a9cc0c5adb5c0df208571dacfcaf1b.webp"
+  },
   "Gem Nature": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/56e71d452eb7caf80141da9fe10901a0.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/56e71d452eb7caf80141da9fe10901a0.webp",
@@ -2614,7 +2618,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1f28071dc2db8af7339bdd083f502e41.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1f28071dc2db8af7339bdd083f502e41.webp"
   },
-  "Kompass TV": null,
+  "Kompass TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e76d6c7ca9d74204b1193edcf73084a7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e76d6c7ca9d74204b1193edcf73084a7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e76d6c7ca9d74204b1193edcf73084a7.webp"
+  },
   "Berita Satu": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ec3aca9e7a6f3a441e21534a157b682e.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ec3aca9e7a6f3a441e21534a157b682e.webp",
@@ -2812,5 +2820,10 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e77d2afa4363dad35c713745802d7bee.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e77d2afa4363dad35c713745802d7bee.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e77d2afa4363dad35c713745802d7bee.webp"
+  },
+  "Lazio Tv": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9f2099a75dda116f4cdf46abfac46753.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9f2099a75dda116f4cdf46abfac46753.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9f2099a75dda116f4cdf46abfac46753.webp"
   }
 }

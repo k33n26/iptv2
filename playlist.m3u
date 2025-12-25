@@ -211,7 +211,7 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 http://75.119.144.48/kuzeymaxtv_hd/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ISVICRE-TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 group-title="Turkiye" ,1TVTR
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/36a9cc0c5adb5c0df208571dacfcaf1b.webp",1TVTR
 http://cdn4.yayin.com.tr/1tvtr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiye" ,AKTIF-TV
 https://ip100.radyotelekomtv.com:3438/stream/play.m3u8
@@ -1589,7 +1589,7 @@ http://156.239.254.7:5555/smt.php?id=Rtmasean
 http://156.239.254.7:5555/smt.php?id=TVRI
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1f28071dc2db8af7339bdd083f502e41.webp",RCTI
 http://156.239.254.7:5555/smt.php?id=Rcti
-#EXTINF:-1 group-title="China" ,Kompass TV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e76d6c7ca9d74204b1193edcf73084a7.webp",Kompass TV
 http://156.239.254.7:5555/smt.php?id=Kompass
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ec3aca9e7a6f3a441e21534a157b682e.webp",Berita Satu
 http://156.239.254.7:5555/smt.php?id=BeritaSatu_eko
@@ -2349,6 +2349,8 @@ https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 group-title="Italya" ,Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9f2099a75dda116f4cdf46abfac46753.webp",Lazio Tv
+https://streaming.softwarecreation.it/LazioTv/LazioTv/chunklist_w1132639510.m3u8
 #EXTINF:-1 group-title="Norvec" ,Canal Motor TV
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Norvec" ,Frikanalen
