@@ -29,3 +29,4 @@ News 24,http://178.33.34.186:15151/live/news24ott/playlist.m3u8
 Ora News,http://178.33.34.186:15151/live/oranewspp1/playlist.m3u8
 Report TV HD,http://178.33.34.186:15151/live/reportott/playlist.m3u8
 Euronews Albania(2),http://217.73.139.200:5443/play/a007
+Alb Dreams,http://live.albavision.net:1123/live/albdreams.m3u8
