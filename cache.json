@@ -2319,7 +2319,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3ba0f40775d6d6ace27ef929f5be3cdf.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3ba0f40775d6d6ace27ef929f5be3cdf.webp"
   },
-  "Asia Travel": null,
+  "Asia Travel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/29c3de5225a24490aec38ef1aaad0e9e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/29c3de5225a24490aec38ef1aaad0e9e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/29c3de5225a24490aec38ef1aaad0e9e.webp"
+  },
   "Discovery HD": null,
   "亚洲美食": null,
   "美食星球": null,
@@ -2835,5 +2839,11 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/17a649a447ada87806f55d5c30cbfb3a.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/17a649a447ada87806f55d5c30cbfb3a.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/17a649a447ada87806f55d5c30cbfb3a.webp"
-  }
+  },
+  "Alb Dreams": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/85a7d91ac09cb6c4f92fb891c2207666.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/85a7d91ac09cb6c4f92fb891c2207666.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/85a7d91ac09cb6c4f92fb891c2207666.webp"
+  },
+  "Eagle News": null
 }

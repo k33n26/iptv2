@@ -967,6 +967,8 @@ http://178.33.34.186:15151/live/oranewspp1/playlist.m3u8
 http://178.33.34.186:15151/live/reportott/playlist.m3u8
 #EXTINF:-1 group-title="Arnavutluk" ,Euronews Albania(2)
 http://217.73.139.200:5443/play/a007
+#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/85a7d91ac09cb6c4f92fb891c2207666.webp",Alb Dreams
+http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 group-title="Cezayir" ,El Fadjer TV
 https://stream.wsla.top/play/1.m3u8
 #EXTINF:-1 group-title="Makedonya" ,MNet Sport
@@ -1033,6 +1035,8 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108
 #EXTINF:-1 group-title="Ispanya" ,TELESUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="Mogolistan" ,Eagle News
+https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
 #EXTINF:-1 group-title="Luksemburg" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9f09594706f0260bb0316ff55b5b1a60.webp",RTL9
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 group-title="Luksemburg" ,Apart TV
@@ -1207,7 +1211,7 @@ http://156.239.254.7:5555/smt.php?id=animalplanet_twn
 http://156.239.254.7:5555/smt.php?id=discoverytwn_twn
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3ba0f40775d6d6ace27ef929f5be3cdf.webp",CI
 http://156.239.254.7:5555/smt.php?id=ci_twn
-#EXTINF:-1 group-title="China" ,Asia Travel
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/29c3de5225a24490aec38ef1aaad0e9e.webp",Asia Travel
 http://156.239.254.7:5555/smt.php?id=asiatravel_twn
 #EXTINF:-1 group-title="China" ,Discovery HD
 http://156.239.254.7:5555/smt.php?id=discoveryhd_twn
