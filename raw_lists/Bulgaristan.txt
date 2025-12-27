@@ -10,3 +10,21 @@ TV-SHUMEN,https://www.tvshumen.tv/hls/stream1.m3u8
 RM-TV,https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 DTV,http://130.185.192.2/n/dtv/index.m3u8?st=GZQaCAXO75iEa37BP7LGNg&e=1755873846
 TVART,https://cdn2.invivo.bg/artfrwbsitfrnglpvlv/tracks-v1a1/mono.m3u8
+BHT2,http://pl.online24.pm/play/6801/5FD91ED329C33F6/video.m3u8
+BHT4,http://pl.online24.pm/play/6802/5FD91ED329C33F6/video.m3u8
+bTV,http://pl.online24.pm/play/6804/5FD91ED329C33F6/video.m3u8
+KINONOVA,http://pl.online24.pm/play/6807/5FD91ED329C33F6/video.m3u8
+DIEMA,http://pl.online24.pm/play/6808/5FD91ED329C33F6/video.m3u8
+NOVA SPORT,http://pl.online24.pm/play/6827/5FD91ED329C33F6/video.m3u8
+AUTO MOTO SPORT,http://pl.online24.pm/play/6893/5FD91ED329C33F6/video.m3u8
+DIEMA SPORT,http://pl.online24.pm/play/6830/5FD91ED329C33F6/video.m3u8
+DIEMA SPORT2,http://pl.online24.pm/play/6831/5FD91ED329C33F6/video.m3u8
+DIEMA SPORT3,http://pl.online24.pm/play/6832/5FD91ED329C33F6/video.m3u8
+MAX SPORT1,http://pl.online24.pm/play/6875/5FD91ED329C33F6/video.m3u8
+MAX SPORT2,http://pl.online24.pm/play/6876/5FD91ED329C33F6/video.m3u8
+MAX SPORT3,http://pl.online24.pm/play/6877/5FD91ED329C33F6/video.m3u8
+MAX SPORT4,http://pl.online24.pm/play/6878/5FD91ED329C33F6/video.m3u8
+PLANETA HD,http://pl.online24.pm/play/6853/5FD91ED329C33F6/video.m3u8
+MAGIC TV,http://pl.online24.pm/play/6865/5FD91ED329C33F6/video.m3u8
+BALKANIKA TV,http://pl.online24.pm/play/6858/5FD91ED329C33F6/video.m3u8
+FEN TV,http://pl.online24.pm/play/6855/5FD91ED329C33F6/video.m3u8
