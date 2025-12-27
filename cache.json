@@ -2845,5 +2845,57 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/85a7d91ac09cb6c4f92fb891c2207666.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/85a7d91ac09cb6c4f92fb891c2207666.webp"
   },
-  "Eagle News": null
+  "Eagle News": null,
+  "VTM2": null,
+  "VTM3": null,
+  "VTM4": null,
+  "VTM GOLD": null,
+  "VTM XMAS": null,
+  "BBC NL": null,
+  "LOVE NATURE NL": null,
+  "MTV NL": null,
+  "NET5": null,
+  "NPO1": null,
+  "NPO2": null,
+  "NPO3": null,
+  "NGC NL": null,
+  "NGC WILD NL": null,
+  "ONS": null,
+  "RTL Z": null,
+  "RTL4": null,
+  "RTL7": null,
+  "RTL8": null,
+  "SBS6": null,
+  "STAR CHANNEL": null,
+  "TV ORANJE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a14cb410e4e57b0167dd7613a5f431af.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a14cb410e4e57b0167dd7613a5f431af.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a14cb410e4e57b0167dd7613a5f431af.webp"
+  },
+  "TRAVEL XP BNL": null,
+  "VRT1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c380076e3c46603f31b4d54b62bf50a1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c380076e3c46603f31b4d54b62bf50a1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c380076e3c46603f31b4d54b62bf50a1.webp"
+  },
+  "SBS9": null,
+  "ESPN": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7b0ef842a6a1233a8a86a8533063a1a1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7b0ef842a6a1233a8a86a8533063a1a1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7b0ef842a6a1233a8a86a8533063a1a1.webp"
+  },
+  "ESPN2": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2b08df484abe36bfddad540d3894a8c6.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2b08df484abe36bfddad540d3894a8c6.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2b08df484abe36bfddad540d3894a8c6.webp"
+  },
+  "ESPN4": null,
+  "ZIGGO SPORT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f39c01bea54bd95a75790dfaaaa491c5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f39c01bea54bd95a75790dfaaaa491c5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f39c01bea54bd95a75790dfaaaa491c5.webp"
+  },
+  "ZIGGO SPORT2": null,
+  "ZIGGO SPORT6": null,
+  "TV5Monde Asia": null
 }
