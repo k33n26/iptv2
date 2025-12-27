@@ -110,7 +110,7 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIMKILER
 https://streams.uzunmuhalefet.com/stream/a76045fc-3b23-47fa-bd81-eb365b4c0e45.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIMKILER(2)
-http://104.238.23.182/yt1/s/bizimkiler.m3u8
+http://5.178.103.239:82/yt1/s/bizimkiler.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIMKILER(3)
 http://87.121.104.29:145/trtnostalji/stream.m3u8
 #EXTINF:-1 group-title="Turkiye" ,SUPERTURK-TV
