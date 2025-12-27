@@ -28,3 +28,4 @@ TV-MONACO,https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-
 TREK,https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 MEZZO,http://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 ARTE,http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/417
+TV5Monde Asia,https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
