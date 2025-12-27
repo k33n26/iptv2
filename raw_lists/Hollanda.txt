@@ -15,5 +15,39 @@ Insight TV,https://insighttv-samsung-canada.amagi.tv/720p/index.m3u8
 Altena TV,https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/video-1280x720p25-3000/index.m3u8
 BredaNu TV,https://01.tv.streaming.bredanu.nl/hls/2/stream.m3u8
 BVN,https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5Nzk0MzU5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9idm4vYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNDFkNmM5MzUwMTZmMmRjOSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjIiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6Wzg0XX0=.0Ay6kWWSqhfGl4YQCKzTRxp4rYRFHEMDZQlRNEXYNjm308re9iqcOaj04_JrZ_Gx5QFggrRb2tuxK17AWjpL4w==/live/eds/bvn/browser-HLS8/bvn-avc1_2500000=2.m3u8
+VTM,http://pl.online24.pm/play/8013/5FD91ED329C33F6/video.m3u8
+VTM2,http://pl.online24.pm/play/8009/5FD91ED329C33F6/video.m3u8
+VTM3,http://pl.online24.pm/play/8010/5FD91ED329C33F6/video.m3u8
+VTM4,http://pl.online24.pm/play/8011/5FD91ED329C33F6/video.m3u8
+VTM GOLD,http://pl.online24.pm/play/8012/5FD91ED329C33F6/video.m3u8
+VTM XMAS,http://pl.online24.pm/play/8036/5FD91ED329C33F6/video.m3u8
+BBC NL,http://pl.online24.pm/play/8031/5FD91ED329C33F6/video.m3u8
+LOVE NATURE NL,http://pl.online24.pm/play/8043/5FD91ED329C33F6/video.m3u8
+MTV NL,http://pl.online24.pm/play/8044/5FD91ED329C33F6/video.m3u8
+NET5,http://pl.online24.pm/play/8045/5FD91ED329C33F6/video.m3u8
+NPO1,http://pl.online24.pm/play/8047/5FD91ED329C33F6/video.m3u8
+NPO2,http://pl.online24.pm/play/8048/5FD91ED329C33F6/video.m3u8
+NPO3,http://pl.online24.pm/play/8049/5FD91ED329C33F6/video.m3u8
+NGC NL,http://pl.online24.pm/play/8046/5FD91ED329C33F6/video.m3u8
+NGC WILD NL,http://pl.online24.pm/play/8050/5FD91ED329C33F6/video.m3u8
+ONS,http://pl.online24.pm/play/8052/5FD91ED329C33F6/video.m3u8
+RTL Z,http://pl.online24.pm/play/8057/5FD91ED329C33F6/video.m3u8
+RTL4,http://pl.online24.pm/play/8059/5FD91ED329C33F6/video.m3u8
+RTL7,http://pl.online24.pm/play/8060/5FD91ED329C33F6/video.m3u8
+RTL8,http://pl.online24.pm/play/8061/5FD91ED329C33F6/video.m3u8
+SBS6,http://pl.online24.pm/play/8062/5FD91ED329C33F6/video.m3u8
+STAR CHANNEL,http://pl.online24.pm/play/8063/5FD91ED329C33F6/video.m3u8
+TV ORANJE,http://pl.online24.pm/play/8067/5FD91ED329C33F6/video.m3u8
+TRAVEL XP BNL,http://pl.online24.pm/play/8068/5FD91ED329C33F6/video.m3u8
+VRT1,http://pl.online24.pm/play/8069/5FD91ED329C33F6/video.m3u8
+SBS9,http://pl.online24.pm/play/8072/5FD91ED329C33F6/video.m3u8
+ESPN,http://pl.online24.pm/play/1139/5FD91ED329C33F6/video.m3u8
+ESPN2,http://pl.online24.pm/play/1140/5FD91ED329C33F6/video.m3u8
+ESPN4,http://pl.online24.pm/play/1141/5FD91ED329C33F6/video.m3u8
+ZIGGO SPORT,http://pl.online24.pm/play/1142/5FD91ED329C33F6/video.m3u8
+ZIGGO SPORT2,http://pl.online24.pm/play/1143/5FD91ED329C33F6/video.m3u8
+ZIGGO SPORT6,http://pl.online24.pm/play/1144/5FD91ED329C33F6/video.m3u8
+
+
 
 
