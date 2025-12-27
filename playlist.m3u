@@ -2765,6 +2765,8 @@ https://flexi-s1.purplecdn.xyz/Travel_Channel_HD/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1 group-title="Romanya" ,DIGI-SPORT1
 http://109.73.128.27/tk
+#EXTINF:-1 group-title="Romanya" ,Prima Sport3
+http://176.97.112.25:8880/primasport3/index.m3u8
 #EXTINF:-1 group-title="Yeni.Zelanda" ,Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index_4.m3u8
 #EXTINF:-1 group-title="Yeni.Zelanda" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ebea151efc45f16032ac41ba6d860c00.webp",Juice TV
