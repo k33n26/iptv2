@@ -2897,5 +2897,42 @@
   },
   "ZIGGO SPORT2": null,
   "ZIGGO SPORT6": null,
-  "TV5Monde Asia": null
+  "TV5Monde Asia": null,
+  "BHT2": null,
+  "BHT4": null,
+  "bTV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f24588d108cbe68ac5de709764b4bbbb.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f24588d108cbe68ac5de709764b4bbbb.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f24588d108cbe68ac5de709764b4bbbb.webp"
+  },
+  "KINONOVA": null,
+  "DIEMA": null,
+  "NOVA SPORT": null,
+  "AUTO MOTO SPORT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/95d574100fe9b3e53f1b3142f9cb468b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95d574100fe9b3e53f1b3142f9cb468b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/95d574100fe9b3e53f1b3142f9cb468b.webp"
+  },
+  "DIEMA SPORT": null,
+  "DIEMA SPORT2": null,
+  "DIEMA SPORT3": null,
+  "MAX SPORT1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5ecf44a269e86c2c14cbf9fccfe69705.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5ecf44a269e86c2c14cbf9fccfe69705.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5ecf44a269e86c2c14cbf9fccfe69705.webp"
+  },
+  "MAX SPORT2": null,
+  "MAX SPORT3": null,
+  "MAX SPORT4": null,
+  "MAGIC TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f2edb36bbb03b707733fc5af2e6fb1ef.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f2edb36bbb03b707733fc5af2e6fb1ef.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f2edb36bbb03b707733fc5af2e6fb1ef.webp"
+  },
+  "BALKANIKA TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/28cecd1d9069891ad1171768b7d4e226.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/28cecd1d9069891ad1171768b7d4e226.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/28cecd1d9069891ad1171768b7d4e226.webp"
+  },
+  "FEN TV": null
 }

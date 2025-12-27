@@ -557,6 +557,42 @@ https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 http://130.185.192.2/n/dtv/index.m3u8?st=GZQaCAXO75iEa37BP7LGNg&e=1755873846
 #EXTINF:-1 group-title="Bulgaristan" ,TVART
 https://cdn2.invivo.bg/artfrwbsitfrnglpvlv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,BHT2
+http://pl.online24.pm/play/6801/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,BHT4
+http://pl.online24.pm/play/6802/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f24588d108cbe68ac5de709764b4bbbb.webp",bTV
+http://pl.online24.pm/play/6804/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,KINONOVA
+http://pl.online24.pm/play/6807/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,DIEMA
+http://pl.online24.pm/play/6808/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,NOVA SPORT
+http://pl.online24.pm/play/6827/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95d574100fe9b3e53f1b3142f9cb468b.webp",AUTO MOTO SPORT
+http://pl.online24.pm/play/6893/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,DIEMA SPORT
+http://pl.online24.pm/play/6830/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,DIEMA SPORT2
+http://pl.online24.pm/play/6831/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,DIEMA SPORT3
+http://pl.online24.pm/play/6832/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5ecf44a269e86c2c14cbf9fccfe69705.webp",MAX SPORT1
+http://pl.online24.pm/play/6875/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,MAX SPORT2
+http://pl.online24.pm/play/6876/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,MAX SPORT3
+http://pl.online24.pm/play/6877/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,MAX SPORT4
+http://pl.online24.pm/play/6878/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d2fe5d83b755aae1d342f0572b4b2f4.webp",PLANETA HD
+http://pl.online24.pm/play/6853/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f2edb36bbb03b707733fc5af2e6fb1ef.webp",MAGIC TV
+http://pl.online24.pm/play/6865/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/28cecd1d9069891ad1171768b7d4e226.webp",BALKANIKA TV
+http://pl.online24.pm/play/6858/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Bulgaristan" ,FEN TV
+http://pl.online24.pm/play/6855/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1 group-title="Hollanda" ,Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 group-title="Hollanda" ,Salto 1
