@@ -2469,6 +2469,12 @@ https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" ,Travel Xp New Zeland
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/da1fe277478bc9b868eec81e9cc30407.webp",BBC Lifestyle
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/17a649a447ada87806f55d5c30cbfb3a.webp",BBC Earth
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/113d4ca3d149111a1eea983884e14664.webp",Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 group-title="Belgesel" ,4K Travel
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
 #EXTINF:-1 group-title="Belgesel" ,Al JAZEERA Documentary
