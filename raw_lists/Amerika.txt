@@ -1,4 +1,183 @@
+BBC AMERICA,https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 BLOOMBERG TV,https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 CNBC,https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 TRAVEL-XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Animal Planet,https://fl61.moveonjoy.com/Animal_Planet/tracks-v1a1/mono.ts.m3u8
+Discovery Family,https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.ts.m3u8
+National Geographic,https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
+TLC,https://fl61.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8
+ABC East,https://fl61.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.ts.m3u8
+CBS,https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/tracks-v1a1/mono.m3u8
+NBC,https://fl61.moveonjoy.com/FL_Tampa_NBC/tracks-v1a1/mono.ts.m3u8
+Bravo,https://fl7.moveonjoy.com/BRAVO/tracks-v1a1/mono.ts.m3u8
+BRAVO,https://fl1.moveonjoy.com/BRAVO/index.m3u8
+BRAVO VAULT,https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+CW8,https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+CW15,https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+CW18,https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+CW29,https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+CW44,https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+FOX4,https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+FOX22,https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+FOX29,https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+CBS13,https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+NBC4,https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.m3u8
+NBC6,https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
+NBC8,https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+NBC Comedy,https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+NBC LX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+Telemundo Accion,https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+Telemundo Noticias,https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+Telemundo Romance,https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+AMC East,https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+AMC+,https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+AMC All Weddings,https://amc-allweddings-1-us.plex.wurl.tv/4300.m3u8
+AMC Presents,https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
+Antenna TV,https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+Artflix Movie Classics,https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+Aspire,https://fl1.moveonjoy.com/Aspire/index.m3u8
+AXS TV,https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+BET East,https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+BET Gospel,https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+BET Her East,https://fl1.moveonjoy.com/BET_HER/index.m3u8
+BIZ TV,https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+Bounce TV,https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+Caribbean World Channel,https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-da1ba36f-39ba-4347-acce-c3a31de907f3/index.m3u8
+Cinevault Classics,https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
+Cinevault Murder and Mayhem,https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+Circle Country,https://circle-vizio.amagi.tv/playlist.m3u8
+CLEO TV,https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+CMT East,https://fl1.moveonjoy.com/CMT/index.m3u8
+Comedy Central East,https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+Comedy TV,https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+COURT TV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+Cozi TV,https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+Crime + Investigation,https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+Disney Jr,https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+Disney XD,http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+E!,https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+FUSE,https://fl1.moveonjoy.com/FUSE/index.m3u8
+FX,https://fl1.moveonjoy.com/FX/index.m3u8
+FXM,https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+FXX,https://fl1.moveonjoy.com/FXX/index.m3u8
+FYI,https://fl1.moveonjoy.com/FYI/index.m3u8
+Great American Country,https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
+GRIT TV,https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+GRIT XTRA,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+Grjngo Western Movies,https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+Hallmark Channel,https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+Hallmark Drama,https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+Hallmark Movies Mysteries,https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+History Channel,https://fl1.moveonjoy.com/history_channel/index.m3u8
+ion,https://fl1.moveonjoy.com/ION_TV/index.m3u8
+Lifetime Movies,https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+Maverick Black Cinema,https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+MeTV,https://fl1.moveonjoy.com/ME_TV/index.m3u8
+MGM+,https://fl1.moveonjoy.com/EPIX/index.m3u8
+MGM+ Marquee,https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+Military History,https://fl1.moveonjoy.com/Military_History/index.m3u8
+MTV,https://fl1.moveonjoy.com/MTV/index.m3u8
+MTV 2,https://fl1.moveonjoy.com/MTV_2/index.m3u8
+MTV CLASSIC,https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+MTV LIVE,https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+MUCH,https://fl1.moveonjoy.com/MUCH/index.m3u8
+My Time Movie Network,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+National Geographic US,https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+National Geographic Wild US,https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+Nautical Channel,https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+Nautical Channel(2),https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+NICK JR,https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+OUTDOOR AMERICA,https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+OXYGEN,https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+Paramount Network,https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+SHOWTIME,https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+SHOWTIME-2,https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+SHOWTIME WEST,https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+SHOWTIME NEXT,https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+SHOWTIME WOMEN,https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+SONY CHANNEL SPANISH,https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+SONY CHANNEL,https://fl41.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+STARZ East,https://fl1.moveonjoy.com/STARZ/index.m3u8
+STARZ West,https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+STARZ ENCORE CLASSIC,https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+AMC by STORİES,http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+SUNDANCE TV,https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+SYFY,https://fl1.moveonjoy.com/SYFY/index.m3u8
+Cowboy Channel,https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+The Design Network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+TV Land,https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+TV ONE,https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+Universal Action,https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+Universal Crime,https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+Universal Monsters,https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
+Universal Westerns,https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+USA Network,http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+VH1,https://fl1.moveonjoy.com/VH1/index.m3u8
+VICE TV,https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+W Network,https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+we TV,https://fl1.moveonjoy.com/WE_TV/index.m3u8
+ABC NEWS,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+AccuWeather Now,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN INT,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+FOX WEATHER,https://247wlive.foxweather.com/stream/index.m3u8
+TYT,https://tyt-samsungus.amagi.tv/playlist.m3u8
+WEATHER SPY,https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+BEIN SPORT USA,http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+BEIN SPORTS XTRA,https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+CBC SPORTS,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
