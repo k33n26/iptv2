@@ -2936,5 +2936,341 @@
   },
   "FEN TV": null,
   "Prima Sport3": null,
-  "HTV": null
+  "HTV": null,
+  "History Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d4a4950b7b7267417aa0b9733f30b6fe.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d4a4950b7b7267417aa0b9733f30b6fe.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d4a4950b7b7267417aa0b9733f30b6fe.webp"
+  },
+  "National Geographic US": null,
+  "National Geographic Wild US": null,
+  "Nautical Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a57e84261f4183e1a328ec82e8340026.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a57e84261f4183e1a328ec82e8340026.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a57e84261f4183e1a328ec82e8340026.webp"
+  },
+  "Nautical Channel(2)": null,
+  "OUTDOOR AMERICA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c281795f9c295c9aa6134d4e5c3abb98.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c281795f9c295c9aa6134d4e5c3abb98.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c281795f9c295c9aa6134d4e5c3abb98.webp"
+  },
+  "BBC AMERICA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d914854be83545d3585d53946b669c1f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d914854be83545d3585d53946b669c1f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d914854be83545d3585d53946b669c1f.webp"
+  },
+  "Animal Planet": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/52d1df7fff7b1ba3ac317b98ef2fdb80.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/52d1df7fff7b1ba3ac317b98ef2fdb80.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/52d1df7fff7b1ba3ac317b98ef2fdb80.webp"
+  },
+  "Discovery Family": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d8c5d6ea2654d99dfc9654fd62333a09.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d8c5d6ea2654d99dfc9654fd62333a09.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d8c5d6ea2654d99dfc9654fd62333a09.webp"
+  },
+  "ABC East": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bf8195bd32553e1d4dc80b2b96c75e8e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bf8195bd32553e1d4dc80b2b96c75e8e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bf8195bd32553e1d4dc80b2b96c75e8e.webp"
+  },
+  "CBS": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/250c51527f347066847969f002be67a2.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/250c51527f347066847969f002be67a2.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/250c51527f347066847969f002be67a2.webp"
+  },
+  "NBC": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/89b7abacbe0cefbadf6ad5c5ccb4ae15.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/89b7abacbe0cefbadf6ad5c5ccb4ae15.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/89b7abacbe0cefbadf6ad5c5ccb4ae15.webp"
+  },
+  "BRAVO": null,
+  "BRAVO VAULT": null,
+  "CW8": null,
+  "CW15": null,
+  "CW18": null,
+  "CW29": null,
+  "CW44": null,
+  "FOX4": null,
+  "FOX22": null,
+  "FOX29": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/18f871b9d1dc485d94f2616057c97e97.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/18f871b9d1dc485d94f2616057c97e97.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/18f871b9d1dc485d94f2616057c97e97.webp"
+  },
+  "CBS13": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e6aca71fa4368799cf5384eea7aa135c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e6aca71fa4368799cf5384eea7aa135c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e6aca71fa4368799cf5384eea7aa135c.webp"
+  },
+  "NBC4": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/959deadbd3ad2fd596a05985735c96bb.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/959deadbd3ad2fd596a05985735c96bb.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/959deadbd3ad2fd596a05985735c96bb.webp"
+  },
+  "NBC6": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/97e44ede4b153cea79dc81ba405f15db.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/97e44ede4b153cea79dc81ba405f15db.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/97e44ede4b153cea79dc81ba405f15db.webp"
+  },
+  "NBC8": null,
+  "NBC Comedy": null,
+  "NBC LX": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3be27266f56375b0233a81ee1c1393f7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3be27266f56375b0233a81ee1c1393f7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3be27266f56375b0233a81ee1c1393f7.webp"
+  },
+  "Telemundo Accion": null,
+  "Telemundo Noticias": null,
+  "Telemundo Romance": null,
+  "AMC East": null,
+  "AMC+": null,
+  "AMC Absolute Reality": null,
+  "AMC All Weddings": null,
+  "AMC Presents": null,
+  "Antenna TV": null,
+  "Artflix Movie Classics": null,
+  "Aspire": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d80590035c13589acfbdd2b2dcb60773.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d80590035c13589acfbdd2b2dcb60773.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d80590035c13589acfbdd2b2dcb60773.webp"
+  },
+  "AXS TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0f9e9e2afc05990353de2ee15740eb65.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f9e9e2afc05990353de2ee15740eb65.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0f9e9e2afc05990353de2ee15740eb65.webp"
+  },
+  "BET East": null,
+  "BET Gospel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/40937cee04fea54dc921702a29517d0f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/40937cee04fea54dc921702a29517d0f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/40937cee04fea54dc921702a29517d0f.webp"
+  },
+  "BET Her East": null,
+  "BIZ TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/cf2f12604c08db42b8cdca32a75d3a2a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cf2f12604c08db42b8cdca32a75d3a2a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/cf2f12604c08db42b8cdca32a75d3a2a.webp"
+  },
+  "Bounce TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9c4a9d49ecb0ec3a97b38308084abb98.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9c4a9d49ecb0ec3a97b38308084abb98.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9c4a9d49ecb0ec3a97b38308084abb98.webp"
+  },
+  "Caribbean World Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4b674889b6874a77c21e28596af5c55e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4b674889b6874a77c21e28596af5c55e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4b674889b6874a77c21e28596af5c55e.webp"
+  },
+  "Cinevault Classics": null,
+  "Cinevault Murder and Mayhem": null,
+  "Circle Country": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/467f87e3cb764da4f6fc52c6b985cbc7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/467f87e3cb764da4f6fc52c6b985cbc7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/467f87e3cb764da4f6fc52c6b985cbc7.webp"
+  },
+  "CLEO TV": null,
+  "CMT East": null,
+  "Comedy Central East": null,
+  "Comedy TV": null,
+  "COURT TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7163bf6d7f2abd6d2f692f37d8297e69.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7163bf6d7f2abd6d2f692f37d8297e69.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7163bf6d7f2abd6d2f692f37d8297e69.webp"
+  },
+  "Cozi TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/360890bd0cae05f41ded42ed85b072c1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/360890bd0cae05f41ded42ed85b072c1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/360890bd0cae05f41ded42ed85b072c1.webp"
+  },
+  "Crime + Investigation": null,
+  "Disney Jr": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/374e6ec1ae4b54ee9a9e8be180ead2c1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/374e6ec1ae4b54ee9a9e8be180ead2c1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/374e6ec1ae4b54ee9a9e8be180ead2c1.webp"
+  },
+  "Disney XD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c8c584218a3b3036c001e7e440b63c28.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c8c584218a3b3036c001e7e440b63c28.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c8c584218a3b3036c001e7e440b63c28.webp"
+  },
+  "E!": null,
+  "FUSE": null,
+  "FXM": null,
+  "FXX": null,
+  "FYI": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/89a0ec69fae5a63c6724cc9b146971a0.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/89a0ec69fae5a63c6724cc9b146971a0.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/89a0ec69fae5a63c6724cc9b146971a0.webp"
+  },
+  "Great American Country": null,
+  "GRIT TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e342caf900de91bf87adda31c2c1f525.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e342caf900de91bf87adda31c2c1f525.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e342caf900de91bf87adda31c2c1f525.webp"
+  },
+  "GRIT XTRA": null,
+  "Grjngo Western Movies": null,
+  "Hallmark Channel": null,
+  "Hallmark Drama": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/368c501cbcb2b8a370cf7a73852ef8dc.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/368c501cbcb2b8a370cf7a73852ef8dc.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/368c501cbcb2b8a370cf7a73852ef8dc.webp"
+  },
+  "Hallmark Movies Mysteries": null,
+  "ion": null,
+  "Lifetime Movies": null,
+  "Maverick Black Cinema": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3abab14f10896b7f40b168582a1406a8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3abab14f10896b7f40b168582a1406a8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3abab14f10896b7f40b168582a1406a8.webp"
+  },
+  "MeTV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7efde0b906fb6738865964ed2f5f5597.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7efde0b906fb6738865964ed2f5f5597.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7efde0b906fb6738865964ed2f5f5597.webp"
+  },
+  "MGM+": null,
+  "MGM+ Marquee": null,
+  "Military History": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f35f3c7f361227658cf7347146e0dbcc.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f35f3c7f361227658cf7347146e0dbcc.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f35f3c7f361227658cf7347146e0dbcc.webp"
+  },
+  "MTV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b49882eae96bb41a7fa1feb6aa7acc18.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b49882eae96bb41a7fa1feb6aa7acc18.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b49882eae96bb41a7fa1feb6aa7acc18.webp"
+  },
+  "MTV 2": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/cf5dc28ae3b185f3e97a4422c1bbee9a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cf5dc28ae3b185f3e97a4422c1bbee9a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/cf5dc28ae3b185f3e97a4422c1bbee9a.webp"
+  },
+  "MTV CLASSIC": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1bb59460b7fbad6395dc19422de681eb.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1bb59460b7fbad6395dc19422de681eb.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1bb59460b7fbad6395dc19422de681eb.webp"
+  },
+  "MTV LIVE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/91e1747c1229a43ec9dd84674ff6b4f8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/91e1747c1229a43ec9dd84674ff6b4f8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/91e1747c1229a43ec9dd84674ff6b4f8.webp"
+  },
+  "MUCH": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8be16ef68a81c567c3245142b1eff3dd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8be16ef68a81c567c3245142b1eff3dd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8be16ef68a81c567c3245142b1eff3dd.webp"
+  },
+  "My Time Movie Network": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/75293f6a7592db3c75e2e2520c24e51b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/75293f6a7592db3c75e2e2520c24e51b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/75293f6a7592db3c75e2e2520c24e51b.webp"
+  },
+  "NICK JR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/633dafe1fb7248043e6e72b3521582dd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/633dafe1fb7248043e6e72b3521582dd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/633dafe1fb7248043e6e72b3521582dd.webp"
+  },
+  "OXYGEN": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b29e2234a9590929c50d9d7335138e7b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b29e2234a9590929c50d9d7335138e7b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b29e2234a9590929c50d9d7335138e7b.webp"
+  },
+  "SHOWTIME": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/12e2a908fbcbdd51db7a5055040d128c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/12e2a908fbcbdd51db7a5055040d128c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/12e2a908fbcbdd51db7a5055040d128c.webp"
+  },
+  "SHOWTIME-2": null,
+  "SHOWTIME WEST": null,
+  "SHOWTIME NEXT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/10a65eab26e1c8eb1f3bd8331c7b5093.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/10a65eab26e1c8eb1f3bd8331c7b5093.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/10a65eab26e1c8eb1f3bd8331c7b5093.webp"
+  },
+  "SHOWTIME WOMEN": null,
+  "SONY CHANNEL SPANISH": null,
+  "SONY CHANNEL": null,
+  "STARZ East": null,
+  "STARZ West": null,
+  "STARZ ENCORE CLASSIC": null,
+  "AMC by STORİES": null,
+  "SUNDANCE TV": null,
+  "Cowboy Channel": null,
+  "TV Land": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e7e72372f731275cc829069c76c8cc48.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e7e72372f731275cc829069c76c8cc48.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e7e72372f731275cc829069c76c8cc48.webp"
+  },
+  "TV ONE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/aff7e8aa12b3c4812577460f7fa77e9b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aff7e8aa12b3c4812577460f7fa77e9b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/aff7e8aa12b3c4812577460f7fa77e9b.webp"
+  },
+  "Universal Action": null,
+  "Universal Crime": null,
+  "Universal Monsters": null,
+  "Universal Westerns": null,
+  "USA Network": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6e41f30f946d9327c3322a05250735a7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6e41f30f946d9327c3322a05250735a7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6e41f30f946d9327c3322a05250735a7.webp"
+  },
+  "VH1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/84a46a26239e7d4e251c495ca351b6d6.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/84a46a26239e7d4e251c495ca351b6d6.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/84a46a26239e7d4e251c495ca351b6d6.webp"
+  },
+  "VICE TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b750947ed9e1284224bd2baa14dcceab.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b750947ed9e1284224bd2baa14dcceab.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b750947ed9e1284224bd2baa14dcceab.webp"
+  },
+  "W Network": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ad35c4b5d0785dd31a1ec9e7af0ce917.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ad35c4b5d0785dd31a1ec9e7af0ce917.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ad35c4b5d0785dd31a1ec9e7af0ce917.webp"
+  },
+  "we TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6fe77a4ff6e2327728f487f54ceb9229.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6fe77a4ff6e2327728f487f54ceb9229.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6fe77a4ff6e2327728f487f54ceb9229.webp"
+  },
+  "ABC NEWS": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8c088ef55b7c390000de92ef26b57622.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8c088ef55b7c390000de92ef26b57622.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8c088ef55b7c390000de92ef26b57622.webp"
+  },
+  "AccuWeather Now": null,
+  "CNN USA": null,
+  "CNN INT": null,
+  "FOX WEATHER": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/95549216e457c43570995ad2efd120b3.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95549216e457c43570995ad2efd120b3.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/95549216e457c43570995ad2efd120b3.webp"
+  },
+  "TYT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/da59b2df230f4e07c859371ffd91f740.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/da59b2df230f4e07c859371ffd91f740.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/da59b2df230f4e07c859371ffd91f740.webp"
+  },
+  "WEATHER SPY": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/de1049eb1bd487a27ef516dae30902fe.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/de1049eb1bd487a27ef516dae30902fe.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/de1049eb1bd487a27ef516dae30902fe.webp"
+  },
+  "BEIN SPORT USA": null,
+  "BEIN SPORTS XTRA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/df70e922bac196da9a55dadb61bf558a.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/df70e922bac196da9a55dadb61bf558a.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/df70e922bac196da9a55dadb61bf558a.webp"
+  },
+  "CBC SPORTS": null,
+  "ESPN NEWS": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ca5b2d60a0188cff550a35ed07583d9c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca5b2d60a0188cff550a35ed07583d9c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ca5b2d60a0188cff550a35ed07583d9c.webp"
+  }
 }

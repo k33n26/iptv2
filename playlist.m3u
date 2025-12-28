@@ -2677,6 +2677,18 @@ https://jmp2.uk/stvp-ESBC4700002TD
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992449&ads.csid=lgchannels_[COUNTRY]_NatureVision_ssai&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=tv-g&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=0&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992449&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/56e71d452eb7caf80141da9fe10901a0.webp",Gem Nature
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d4a4950b7b7267417aa0b9733f30b6fe.webp",History Channel
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,National Geographic US
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,National Geographic Wild US
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a57e84261f4183e1a328ec82e8340026.webp",Nautical Channel
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Nautical Channel(2)
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c281795f9c295c9aa6134d4e5c3abb98.webp",OUTDOOR AMERICA
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
@@ -2795,12 +2807,266 @@ https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w1313138945.m3u8?hash
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist_w561528257.m3u8
 #EXTINF:-1 group-title="K.Kibris" ,KANAL-SIM
 https://cdn-tr.tivimivi.com//streams/142/1920x1080/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d914854be83545d3585d53946b669c1f.webp",BBC AMERICA
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Amerika" ,BLOOMBERG TV
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aa11677d237b2c2b435fd7decac0d7ad.webp",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0793abeedffd6c0565bde5ef4dc71912.webp",TRAVEL-XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/52d1df7fff7b1ba3ac317b98ef2fdb80.webp",Animal Planet
+https://fl61.moveonjoy.com/Animal_Planet/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d8c5d6ea2654d99dfc9654fd62333a09.webp",Discovery Family
+https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e08dd4627a3cf468a30d8a357956d6f8.webp",National Geographic
+https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",TLC
+https://fl61.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bf8195bd32553e1d4dc80b2b96c75e8e.webp",ABC East
+https://fl61.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/250c51527f347066847969f002be67a2.webp",CBS
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/89b7abacbe0cefbadf6ad5c5ccb4ae15.webp",NBC
+https://fl61.moveonjoy.com/FL_Tampa_NBC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Amerika" ,Bravo
+https://fl7.moveonjoy.com/BRAVO/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Amerika" ,BRAVO
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,BRAVO VAULT
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" ,CW8
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 group-title="Amerika" ,CW15
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+#EXTINF:-1 group-title="Amerika" ,CW18
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,CW29
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 group-title="Amerika" ,CW44
+https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,FOX4
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1 group-title="Amerika" ,FOX22
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/18f871b9d1dc485d94f2616057c97e97.webp",FOX29
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e6aca71fa4368799cf5384eea7aa135c.webp",CBS13
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/959deadbd3ad2fd596a05985735c96bb.webp",NBC4
+https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/97e44ede4b153cea79dc81ba405f15db.webp",NBC6
+https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,NBC8
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,NBC Comedy
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3be27266f56375b0233a81ee1c1393f7.webp",NBC LX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="Amerika" ,Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" ,Telemundo Noticias
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" ,Telemundo Romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" ,AMC East
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,AMC All Weddings
+https://amc-allweddings-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 group-title="Amerika" ,AMC Presents
+https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Artflix Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d80590035c13589acfbdd2b2dcb60773.webp",Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f9e9e2afc05990353de2ee15740eb65.webp",AXS TV
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,BET East
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/40937cee04fea54dc921702a29517d0f.webp",BET Gospel
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,BET Her East
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cf2f12604c08db42b8cdca32a75d3a2a.webp",BIZ TV
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9c4a9d49ecb0ec3a97b38308084abb98.webp",Bounce TV
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4b674889b6874a77c21e28596af5c55e.webp",Caribbean World Channel
+https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-da1ba36f-39ba-4347-acce-c3a31de907f3/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Cinevault Classics
+https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,Cinevault Murder and Mayhem
+https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/467f87e3cb764da4f6fc52c6b985cbc7.webp",Circle Country
+https://circle-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,CLEO TV
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,CMT East
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Comedy Central East
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7163bf6d7f2abd6d2f692f37d8297e69.webp",COURT TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/360890bd0cae05f41ded42ed85b072c1.webp",Cozi TV
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Crime + Investigation
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/374e6ec1ae4b54ee9a9e8be180ead2c1.webp",Disney Jr
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c8c584218a3b3036c001e7e440b63c28.webp",Disney XD
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,E!
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,FUSE
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b8b5089c70ae62534970e2d8aa67e96d.webp",FX
+https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,FXM
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/89a0ec69fae5a63c6724cc9b146971a0.webp",FYI
+https://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Great American Country
+https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e342caf900de91bf87adda31c2c1f525.webp",GRIT TV
+https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,GRIT XTRA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,Grjngo Western Movies
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,Hallmark Channel
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/368c501cbcb2b8a370cf7a73852ef8dc.webp",Hallmark Drama
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Hallmark Movies Mysteries
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d4a4950b7b7267417aa0b9733f30b6fe.webp",History Channel
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,ion
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Lifetime Movies
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3abab14f10896b7f40b168582a1406a8.webp",Maverick Black Cinema
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7efde0b906fb6738865964ed2f5f5597.webp",MeTV
+https://fl1.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,MGM+
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,MGM+ Marquee
+https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f35f3c7f361227658cf7347146e0dbcc.webp",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b49882eae96bb41a7fa1feb6aa7acc18.webp",MTV
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cf5dc28ae3b185f3e97a4422c1bbee9a.webp",MTV 2
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1bb59460b7fbad6395dc19422de681eb.webp",MTV CLASSIC
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/91e1747c1229a43ec9dd84674ff6b4f8.webp",MTV LIVE
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8be16ef68a81c567c3245142b1eff3dd.webp",MUCH
+https://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/75293f6a7592db3c75e2e2520c24e51b.webp",My Time Movie Network
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,National Geographic US
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,National Geographic Wild US
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a57e84261f4183e1a328ec82e8340026.webp",Nautical Channel
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Nautical Channel(2)
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/633dafe1fb7248043e6e72b3521582dd.webp",NICK JR
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c281795f9c295c9aa6134d4e5c3abb98.webp",OUTDOOR AMERICA
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b29e2234a9590929c50d9d7335138e7b.webp",OXYGEN
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/94d29a0d4682f088ab8c7ad6efc34b64.webp",Paramount Network
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/12e2a908fbcbdd51db7a5055040d128c.webp",SHOWTIME
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,SHOWTIME-2
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,SHOWTIME WEST
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/10a65eab26e1c8eb1f3bd8331c7b5093.webp",SHOWTIME NEXT
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,SHOWTIME WOMEN
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,SONY CHANNEL SPANISH
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,SONY CHANNEL
+https://fl41.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,STARZ East
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,STARZ West
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,STARZ ENCORE CLASSIC
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,AMC by STORİES
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,SUNDANCE TV
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8b2b4842e5fd3db22abc12dc94470381.webp",SYFY
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/865dd0ef042f732da037f59432018bf9.webp",The Design Network
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e7e72372f731275cc829069c76c8cc48.webp",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/aff7e8aa12b3c4812577460f7fa77e9b.webp",TV ONE
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="Amerika" ,Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" ,Universal Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" ,Universal Monsters
+https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" ,Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6e41f30f946d9327c3322a05250735a7.webp",USA Network
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/84a46a26239e7d4e251c495ca351b6d6.webp",VH1
+https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b750947ed9e1284224bd2baa14dcceab.webp",VICE TV
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ad35c4b5d0785dd31a1ec9e7af0ce917.webp",W Network
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6fe77a4ff6e2327728f487f54ceb9229.webp",we TV
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8c088ef55b7c390000de92ef26b57622.webp",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="Amerika" ,AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Amerika" ,CNN INT
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95549216e457c43570995ad2efd120b3.webp",FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/da59b2df230f4e07c859371ffd91f740.webp",TYT
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/de1049eb1bd487a27ef516dae30902fe.webp",WEATHER SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,BEIN SPORT USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/df70e922bac196da9a55dadb61bf558a.webp",BEIN SPORTS XTRA
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" ,CBC SPORTS
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca5b2d60a0188cff550a35ed07583d9c.webp",ESPN NEWS
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="Finlandiya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a7127d15476a5615603f49384368669e.webp",Onni TV
 https://onnitv.digitacdn.net/live/ott/onnitv/onnitv_channel-av720p.m3u8
 #EXTINF:-1 group-title="Finlandiya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f7db4aaaf606a6cbc3f736dfe9d388b3.webp",MTV Uutiset
