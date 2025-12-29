@@ -148,7 +148,7 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,HTV
 https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,Bİ-KANAL
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+https://stream-hls.castr.net/68a8677ab2d7fc28a02e928d/live_a85875d0dc1c11f0852d474dddcbf0da/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f9d202160d0574f2586c32faaad8c3b4.webp",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 group-title="Turkiye" ,SDM-SINEMA
