@@ -35,7 +35,7 @@ INCI-TANELERI,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/he
 Topkapi.Film,http://104.238.23.182/yt1/s/topkapifilm.m3u8
 TABII-TV,https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 HTV,https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
-Bİ-KANAL,https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+Bİ-KANAL,https://stream-hls.castr.net/68a8677ab2d7fc28a02e928d/live_a85875d0dc1c11f0852d474dddcbf0da/tracks-v1/index.fmp4.m3u8
 CINE1,https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 SDM-SINEMA,https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 SDM-BELGESEL,https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
