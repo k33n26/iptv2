@@ -113,6 +113,8 @@ https://streams.uzunmuhalefet.com/stream/a76045fc-3b23-47fa-bd81-eb365b4c0e45.m3
 http://5.178.103.239:82/yt1/s/bizimkiler.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIMKILER(3)
 http://87.121.104.29:145/trtnostalji/stream.m3u8
+#EXTINF:-1 group-title="Turkiye" ,BIZIMKILER(4)
+http://104.238.23.221/yt1.php?v=jvC6-s5exnI
 #EXTINF:-1 group-title="Turkiye" ,SUPERTURK-TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ARTI-TV
@@ -2943,7 +2945,7 @@ https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 #EXTINF:-1 group-title="Amerika" ,Grjngo Western Movies
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika" ,Hallmark Channel
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7ef6e1e46dd4ef3d029aeef2641f88f5.webp",Hallmark Channel
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/368c501cbcb2b8a370cf7a73852ef8dc.webp",Hallmark Drama
 https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8

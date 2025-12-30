@@ -3112,7 +3112,11 @@
   },
   "GRIT XTRA": null,
   "Grjngo Western Movies": null,
-  "Hallmark Channel": null,
+  "Hallmark Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7ef6e1e46dd4ef3d029aeef2641f88f5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7ef6e1e46dd4ef3d029aeef2641f88f5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7ef6e1e46dd4ef3d029aeef2641f88f5.webp"
+  },
   "Hallmark Drama": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/368c501cbcb2b8a370cf7a73852ef8dc.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/368c501cbcb2b8a370cf7a73852ef8dc.webp",
@@ -3272,5 +3276,6 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ca5b2d60a0188cff550a35ed07583d9c.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca5b2d60a0188cff550a35ed07583d9c.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ca5b2d60a0188cff550a35ed07583d9c.webp"
-  }
+  },
+  "BIZIMKILER(4)": null
 }
