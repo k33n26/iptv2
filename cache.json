@@ -3293,5 +3293,16 @@
   },
   "Bielros": null,
   "Canal 2 de Ushuaia": null,
-  "Canal 9 Litoral": null
+  "Canal 9 Litoral": null,
+  "ABC TV Brisbane": null,
+  "ABC TV Entertains": null,
+  "ABC TV Family": null,
+  "ABC TV Kids": null,
+  "ABC News Australia": null,
+  "ABC News Australia(2)": null,
+  "Trace Sports": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1512b9ea8071466692f36be470a86ed5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1512b9ea8071466692f36be470a86ed5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1512b9ea8071466692f36be470a86ed5.webp"
+  }
 }
