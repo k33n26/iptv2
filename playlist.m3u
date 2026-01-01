@@ -2725,6 +2725,8 @@ https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c281795f9c295c9aa6134d4e5c3abb98.webp",OUTDOOR AMERICA
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,6 Wise Tv
+https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
