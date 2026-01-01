@@ -14,3 +14,4 @@ Qostanai,https://stream.kaztrk.kz/regional/kostanaytv/tracks-v1a1/mono.ts.m3u8
 Qyzyljar,https://stream.kaztrk.kz/regional/petropavltv/tracks-v1a1/mono.ts.m3u8
 Qyzylorda,https://stream.kaztrk.kz/regional/kyzylordatv/tracks-v1a1/mono.ts.m3u8
 Saryarqa,https://stream.kaztrk.kz/regional/karagandytv/tracks-v1a1/mono.ts.m3u8
+24KZ,https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
