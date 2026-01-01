@@ -987,6 +987,8 @@ https://stream.kaztrk.kz/regional/petropavltv/tracks-v1a1/mono.ts.m3u8
 https://stream.kaztrk.kz/regional/kyzylordatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1aa4a55d27f0edad5b1b8bebdabd6cae.webp",Saryarqa
 https://stream.kaztrk.kz/regional/karagandytv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kazakistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95c50fbb932aabf451184d45528ade28.webp",24KZ
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 group-title="Danimarka" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3754385271c4f2a2648b471683d21149.webp",DR
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/6.m3u8
 #EXTINF:-1 group-title="Danimarka" ,TV2-NORD

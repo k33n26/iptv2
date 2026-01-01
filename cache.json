@@ -3313,5 +3313,10 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a6bd726199505ff8126cdc1edea2e7b1.webp"
   },
   "13 Cultura": null,
-  "8NTV": null
+  "8NTV": null,
+  "24KZ": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/95c50fbb932aabf451184d45528ade28.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95c50fbb932aabf451184d45528ade28.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/95c50fbb932aabf451184d45528ade28.webp"
+  }
 }
