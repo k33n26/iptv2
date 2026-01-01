@@ -1,0 +1,4 @@
+ETV,https://sb.err.ee/live/etv.m3u8
+ETV 2,https://sb.err.ee/live/etv2.m3u8
+ETV+,https://sb.err.ee/live/etvpluss.m3u8
+Life Tv,https://lifetv.bitflip.ee/live/stream1.m3u8
