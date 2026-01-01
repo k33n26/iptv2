@@ -2727,6 +2727,8 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" ,6 Wise Tv
 https://live.enhdtv.com:8081/8150/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,7 STORIA
+https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
