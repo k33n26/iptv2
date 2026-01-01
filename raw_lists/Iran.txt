@@ -1,0 +1,57 @@
+IRIB 4K,https://live-azd1116.telewebion.com/ek/faratar/live/2160p/index.m3u8
+IRIB 1,https://live-azd1112.telewebion.com/ek/tv1/live/1080p/index.m3u8
+IRIB 2,https://live-azd1103.telewebion.com/ek/tv2/live/1080p/index.m3u8
+IRIB 4,https://live-azd1122.telewebion.com/ek/tv4/live/576p/index.m3u8
+IRIB 5 Tehran,https://ncdn.telewebion.com/tehran/live/playlist.m3u8
+IRIB Abadan,https://live-azd1109.telewebion.com/ek/abadan/live/576p/index.m3u8
+IRIB Aflak,https://live-azd1117.telewebion.com/ek/aflak/live/576p/index.m3u8
+IRIB Aftab,https://live-azd1122.telewebion.com/ek/aftab/live/576p/index.m3u8
+IRIB Alborz,https://live-azd1116.telewebion.com/ek/alborz/live/576p/index.m3u8
+IRIB Alborz(2),https://ncdn.telewebion.com/alborz/live/playlist.m3u8
+IRIB Atrak,https://ncdn.telewebion.com/atrak/live/playlist.m3u8
+IRIB Ara,https://ncdn.telewebion.com/ara/live/playlist.m3u8
+IRIB Baran,https://live-azd1107.telewebion.com/ek/baran/live/576p/index.m3u8
+IRIB Bushehr,https://ncdn.telewebion.com/bushehr/live/playlist.m3u8
+IRIB Dena,https://ncdn.telewebion.com/dena/live/playlist.m3u8
+IRIB Esfahan,https://live-azd1111.telewebion.com/ek/esfahan/live/576p/index.m3u8
+IRIB Eshragh,https://ncdn.telewebion.com/eshragh/live/playlist.m3u8
+IRIB Habib,https://ncdn.telewebion.com/habib/live/playlist.m3u8
+IRIB Hamedan,https://ncdn.telewebion.com/sina/live/playlist.m3u8
+IRIB Hamoon,https://ncdn.telewebion.com/hamoon/live/playlist.m3u8
+IRIB IFilm,https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
+IRIB Ilam,https://ncdn.telewebion.com/ilam/live/playlist.m3u8
+IRIB Irinn,https://ncdn.telewebion.com/irinn/live/playlist.m3u8
+IRIB Irinn 2,https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+IRIB Jahanbin,https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8
+IRIB Javaneh,https://live-azd1117.telewebion.com/ek/javaneh/live/720p/index.m3u8
+IRIB Kermanshah,https://live-azd1121.telewebion.com/ek/zagros/live/576p/index.m3u8
+IRIB Kh.Jonoobi,https://live-azd1118.telewebion.com/ek/khavaran/live/576p/index.m3u8
+IRIB Kh.Razavi,https://live-azd1113.telewebion.com/ek/khorasanrazavi/live/576p/index.m3u8
+IRIB Kh.Shomali,https://live-azd1108.telewebion.com/ek/atrak/live/576p/index.m3u8
+IRIB Khalij-e Fars,https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8
+IRIB Khavaran,https://ncdn.telewebion.com/khavaran/live/playlist.m3u8
+IRIB Khoozestan,https://live-azd1121.telewebion.com/ek/khoozestan/live/576p/index.m3u8
+IRIB Khorasan Razavi,https://ncdn.telewebion.com/khorasanrazavi/live/playlist.m3u8
+IRIB Kish,https://ncdn.telewebion.com/kish/live/playlist.m3u8
+IRIB Mahabad,https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
+IRIB Nava,https://ncdn.telewebion.com/nava/live/playlist.m3u8
+IRIB Noor,https://ncdn.telewebion.com/noor/live/playlist.m3u8
+IRIB Sabalan,https://ncdn.telewebion.com/sabalan/live/playlist.m3u8
+IRIB Sabz,https://ncdn.telewebion.com/sabz/live/playlist.m3u8
+IRIB Semnan,https://ncdn.telewebion.com/semnan/live/playlist.m3u8
+IRIB Tabarestan,https://ncdn.telewebion.com/tabarestan/live/playlist.m3u8
+Press TV English,https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+4U TV,https://hls.4utv.live/hls/stream.m3u8
+AVA Family,https://familyhls.avatv.live/hls/stream.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
