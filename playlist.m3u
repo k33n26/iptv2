@@ -1081,6 +1081,96 @@ https://w-live-edge2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chun
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/live-video=6499968.m3u8
 #EXTINF:-1 group-title="Danimarka" ,KVF2
 https://w-live-edge1.kringvarp.fo/kvf-2_utland/_definst_/smil:kvf-2_utland.smil/chunklist_w1361134068_b6000000_slfao.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB 4K
+https://live-azd1116.telewebion.com/ek/faratar/live/2160p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB 1
+https://live-azd1112.telewebion.com/ek/tv1/live/1080p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB 2
+https://live-azd1103.telewebion.com/ek/tv2/live/1080p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB 4
+https://live-azd1122.telewebion.com/ek/tv4/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB 5 Tehran
+https://ncdn.telewebion.com/tehran/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Abadan
+https://live-azd1109.telewebion.com/ek/abadan/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Aflak
+https://live-azd1117.telewebion.com/ek/aflak/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Aftab
+https://live-azd1122.telewebion.com/ek/aftab/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Alborz
+https://live-azd1116.telewebion.com/ek/alborz/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Alborz(2)
+https://ncdn.telewebion.com/alborz/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Atrak
+https://ncdn.telewebion.com/atrak/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Ara
+https://ncdn.telewebion.com/ara/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Baran
+https://live-azd1107.telewebion.com/ek/baran/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Bushehr
+https://ncdn.telewebion.com/bushehr/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Dena
+https://ncdn.telewebion.com/dena/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Esfahan
+https://live-azd1111.telewebion.com/ek/esfahan/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Eshragh
+https://ncdn.telewebion.com/eshragh/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Habib
+https://ncdn.telewebion.com/habib/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Hamedan
+https://ncdn.telewebion.com/sina/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Hamoon
+https://ncdn.telewebion.com/hamoon/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB IFilm
+https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Ilam
+https://ncdn.telewebion.com/ilam/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Irinn
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Irinn 2
+https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Jahanbin
+https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Javaneh
+https://live-azd1117.telewebion.com/ek/javaneh/live/720p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Kermanshah
+https://live-azd1121.telewebion.com/ek/zagros/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Kh.Jonoobi
+https://live-azd1118.telewebion.com/ek/khavaran/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Kh.Razavi
+https://live-azd1113.telewebion.com/ek/khorasanrazavi/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Kh.Shomali
+https://live-azd1108.telewebion.com/ek/atrak/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Khalij-e Fars
+https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Khavaran
+https://ncdn.telewebion.com/khavaran/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Khoozestan
+https://live-azd1121.telewebion.com/ek/khoozestan/live/576p/index.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Khorasan Razavi
+https://ncdn.telewebion.com/khorasanrazavi/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Kish
+https://ncdn.telewebion.com/kish/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Mahabad
+https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Nava
+https://ncdn.telewebion.com/nava/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Noor
+https://ncdn.telewebion.com/noor/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Sabalan
+https://ncdn.telewebion.com/sabalan/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Sabz
+https://ncdn.telewebion.com/sabz/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Semnan
+https://ncdn.telewebion.com/semnan/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,IRIB Tabarestan
+https://ncdn.telewebion.com/tabarestan/live/playlist.m3u8
+#EXTINF:-1 group-title="Iran" ,Press TV English
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8b27d9abe76451d90cae4eaa49c7baef.webp",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1cf52e012549575e6ac93e1119fab0b7.webp",Asharq News
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8
 #EXTINF:-1 group-title="Arabistan" ,Asharq Bloomberg
