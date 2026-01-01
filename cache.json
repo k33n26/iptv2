@@ -3306,5 +3306,10 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1512b9ea8071466692f36be470a86ed5.webp"
   },
   "6 Wise Tv": null,
-  "7 STORIA": null
+  "7 STORIA": null,
+  "8 La Marina TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a6bd726199505ff8126cdc1edea2e7b1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a6bd726199505ff8126cdc1edea2e7b1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a6bd726199505ff8126cdc1edea2e7b1.webp"
+  }
 }
