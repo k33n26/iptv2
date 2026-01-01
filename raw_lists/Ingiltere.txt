@@ -1,13 +1,63 @@
 BBC 1,http://92.118.251.84:8080/bbc1hd/index.m3u8
 BBC 2,http://92.118.251.84:8080/bbc2hd/index.m3u8
+BBC 2(2),https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+BBC 3 CBBC,https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+BBC 3 CBBC(2),http://161.123.116.21:8080/Clarence/Clarence1/401796
+BBC 4 CBEEBIES,https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+BBC 4,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+BBC ARABIC,https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC News Europe,https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+BBC Persian,https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
+BBC Doctor Who Classic,https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+BBC Impossible Quiz Show,https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
+BBC Silent Witness New Tricks,https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playlist.m3u8
 ITV 1,http://92.118.251.84:8080/itv1hd/index.m3u8
 ITV 2,http://92.118.251.84:8080/itv2/index.m3u8
+ITV 2(2),https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 ITV 3,http://92.118.251.84:8080/itv3/index.m3u8
+ITV 3(2),https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 ITV 4,http://92.118.251.84:8080/itv4/index.m3u8
+ITV 4(2),https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 ITV BE,http://92.118.251.84:8080/itvbe/index.m3u8
 FILM4,http://92.118.251.84:8080/film4/index.m3u8
+FILM4(2),https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 MORE4,http://92.118.251.84:8080/more4/index.m3u8
 E4,http://92.118.251.84:8080/e4/index.m3u8
 SYFY,http://92.118.251.84:8080/syfy/index.m3u8
 4SEVEN,http://92.118.251.84:8080/4seven/index.m3u8
 HGTV UK,http://92.118.251.84:8080/HGTV/index.m3u8
+CHANNEL 4,https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+CHANNEL 5,https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+EuroNews English,https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+GB News,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+News World,https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+SKY News Arabia,https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+SKY News International,https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+SKY News Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+4K Travel TV,https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+AFROBEATS,https://stream.ecable.tv/afrobeats/index.m3u8
+Banijay Mr Bean Classic,https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+Huna London TV,https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+Lego Channel,https%3a//jmp2.uk/stvp-GBBC4300005AL
+Moonbug Kids,https://moonbug-rokuus.amagi.tv/playlist.m3u8
+Tennis Channel UK,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+Trace Urban,https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+Travel XP,https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+Wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+YAAAS!,https://jmp2.uk/stvp-GB340000289
+
+
+
+
+
+
+
+
+
+
+
+
+
