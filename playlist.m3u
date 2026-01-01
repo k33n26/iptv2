@@ -2731,6 +2731,8 @@ https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 group-title="Belgesel" ,7 STORIA
 https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
@@ -2853,6 +2855,8 @@ https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w1313138945.m3u8?hash
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist_w561528257.m3u8
 #EXTINF:-1 group-title="K.Kibris" ,KANAL-SIM
 https://cdn-tr.tivimivi.com//streams/142/1920x1080/index.m3u8
+#EXTINF:-1 group-title="Meksika" ,8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d914854be83545d3585d53946b669c1f.webp",BBC AMERICA
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Amerika" ,BLOOMBERG TV
