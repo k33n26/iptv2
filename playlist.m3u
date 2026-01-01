@@ -167,6 +167,14 @@ https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Ingiltere" ,YAAAS!
 https://jmp2.uk/stvp-GB340000289
+#EXTINF:-1 group-title="Estonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0104cf8e4f143aeb231025bc8e36ed26.webp",ETV
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 group-title="Estonya" ,ETV 2
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 group-title="Estonya" ,ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 group-title="Estonya" ,Life Tv
+https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TRT-1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TRT-2

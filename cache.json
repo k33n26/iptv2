@@ -3401,5 +3401,13 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/905b58ee28fd586c8870ce6c8af1f6cc.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/905b58ee28fd586c8870ce6c8af1f6cc.webp"
   },
-  "YAAAS!": null
+  "YAAAS!": null,
+  "ETV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0104cf8e4f143aeb231025bc8e36ed26.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0104cf8e4f143aeb231025bc8e36ed26.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0104cf8e4f143aeb231025bc8e36ed26.webp"
+  },
+  "ETV 2": null,
+  "ETV+": null,
+  "Life Tv": null
 }
