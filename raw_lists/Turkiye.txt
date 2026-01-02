@@ -19,8 +19,10 @@ BIZIMKILER,https://streams.uzunmuhalefet.com/stream/a76045fc-3b23-47fa-bd81-eb36
 BIZIMKILER(2),http://5.178.103.239:82/yt1/s/bizimkiler.m3u8
 BIZIMKILER(3),http://87.121.104.29:145/trtnostalji/stream.m3u8
 BIZIMKILER(4),http://104.238.23.221/yt1.php?v=jvC6-s5exnI
+BIZIMKILER(5),https://live.mp4-youtube.workers.dev/?ID=jvC6-s5exnI
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 ARTI-TV,http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
+BONCUK TV,http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 BIZIM-EV-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
 BIZIM-EV-TV(2),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/bizimevtv.m3u8
 DIZIMAX,http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
@@ -29,11 +31,30 @@ KEMAL-SUNAL-TV(2),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/ref
 KEMAL-SUNAL-TV(3),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/kemal-sunal-filmleri.m3u8
 YESILCAM-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
 FILM-ATOLYESI,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/film-atolyesi.m3u8
+FILM-ATOLYESI(2),http://104.238.23.221/yt1.php?v=pdyq7lixkPI
 GULDUR-GULDUR,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/guldur-guldur.m3u8
 GULSAH-FILM,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/gulsah-film.m3u8
 TURK-FILMLERI,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/turk-filmleri.m3u8
 INCI-TANELERI,https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/inci-taneleri.m3u8
 Topkapi.Film,http://104.238.23.182/yt1/s/topkapifilm.m3u8
+Yesilcam 7/24,http://104.238.23.221/yt1.php?v=Pq7ndgZHjjE
+Eski Turk Filmleri,http://104.238.23.221/yt1.php?v=fC-Iom4mRvI
+Kemal Sunal Fimleri,http://104.238.23.221/yt1.php?v=_pRHXDSK8sA
+Kemal Sunal Filmleri 2,http://104.238.23.221/yt1.php?v=VkB9S_nInbA
+Zeki-Metin Filmleri,http://104.238.23.221/yt1.php?v=RK5GCwb-d4Y
+Guldur-guldur,http://104.238.23.221/yt1.php?v=jNMe50AHZMc
+Cicek Taksi,http://104.238.23.221/yt1.php?v=h7AQN7Z3Zmg
+Leyla ile Mecnun,http://104.238.23.221/yt1.php?v=3nlND4audLg
+Avrupanın En Guzel Yerleri,http://104.238.23.221/yt1.php?v=SYQ2X8GWOWM
+Turkiyenin En Guzel Yerleri,http://104.238.23.221/yt1.php?v=TPSG2Xmnu5A
+Dunya Turu 7/24,http://104.238.23.221/yt1.php?v=OMz7Pdp8t48
+Kuba Walking Tours,http://104.238.23.221/yt1.php?v=6KxfBupXmQA
+Osa Street Tour,http://104.238.23.221/yt1.php?v=M3lRpAgpiGM
+Tram Drivers View,http://104.238.23.221/yt1.php?v=F_JwmmbBA6I
+Rain Journey,http://104.238.23.221/yt1.php?v=tim2BqlZIxA
+Helsinki Walks,http://104.238.23.221/yt1.php?v=9h42Y9gHqnI
+Korea Live,http://104.238.23.221/yt1.php?v=gNokLzvfjJc
+Bangkok Tour Live,http://104.238.23.221/yt1.php?v=OkQ0utdxwBY
 TABII-TV,https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 HTV,https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 Bİ-KANAL,https://stream-hls.castr.net/68a8677ab2d7fc28a02e928d/live_a85875d0dc1c11f0852d474dddcbf0da/tracks-v1/index.fmp4.m3u8
