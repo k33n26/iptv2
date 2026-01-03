@@ -1,4 +1,5 @@
 TVE-INT,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
+TVE-INT(2),https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 TVE-LA1,https://ztnr.rtve.es/ztnr/1688877.m3u8
 TVE-LA2,https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 TVE-24H,https://ztnr.rtve.es/ztnr/1694255.m3u8
