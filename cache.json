@@ -3667,7 +3667,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/046c183f4f6e980aa3ca6d6105002fcb.webp"
   },
   "LA TELE": null,
-  "LCP": null,
+  "LCP": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5936c61a9f71fdd7e0cfd388a4c37353.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5936c61a9f71fdd7e0cfd388a4c37353.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5936c61a9f71fdd7e0cfd388a4c37353.webp"
+  },
   "L EQUIPE": null,
   "M6": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/fc1df6307a9c4971569997963dcc8b08.webp",
@@ -3755,5 +3759,26 @@
   "RSI LA 2": null,
   "DUNA TV(2)": null,
   "RTCG": null,
-  "DM SAT": null
+  "DM SAT": null,
+  "FOOD NETWORK": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b0e7eb6bbedb91ec85734ca5a940718e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b0e7eb6bbedb91ec85734ca5a940718e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b0e7eb6bbedb91ec85734ca5a940718e.webp"
+  },
+  "SERVUS TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2f748a310fdc45471d21e3072b906626.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2f748a310fdc45471d21e3072b906626.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2f748a310fdc45471d21e3072b906626.webp"
+  },
+  "ANIXE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b9252c318cca08ddc30a151c36f8e6de.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b9252c318cca08ddc30a151c36f8e6de.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b9252c318cca08ddc30a151c36f8e6de.webp"
+  },
+  "RBB": null,
+  "RIC": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9421539b960fe6c40130e16792b2db90.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9421539b960fe6c40130e16792b2db90.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9421539b960fe6c40130e16792b2db90.webp"
+  }
 }

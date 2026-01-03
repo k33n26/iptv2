@@ -175,6 +175,8 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fb48ab4ba4a960e45336c16ba8ec5749.webp",FASHION TV
 https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
+#EXTINF:-1 group-title="Ingiltere" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b0e7eb6bbedb91ec85734ca5a940718e.webp",FOOD NETWORK
+https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwork.m3u8
 #EXTINF:-1 group-title="Estonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0104cf8e4f143aeb231025bc8e36ed26.webp",ETV
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 group-title="Estonya" ,ETV 2
@@ -1067,7 +1069,7 @@ https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
 https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
 #EXTINF:-1 group-title="Fransa" ,LCI
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
-#EXTINF:-1 group-title="Fransa" ,LCP
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5936c61a9f71fdd7e0cfd388a4c37353.webp",LCP
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
 #EXTINF:-1 group-title="Fransa" ,L EQUIPE
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
@@ -1189,6 +1191,16 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
 #EXTINF:-1 group-title="Almanya" ,ZDF NEO
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2f748a310fdc45471d21e3072b906626.webp",SERVUS TV
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b9252c318cca08ddc30a151c36f8e6de.webp",ANIXE
+https://viamotionhsi.netplus.ch/live/eds/anixe/browser-HLS8/anixe.m3u8
+#EXTINF:-1 group-title="Almanya" ,RBB
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
+#EXTINF:-1 group-title="Almanya" ,DMAX
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9421539b960fe6c40130e16792b2db90.webp",RIC
+https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8d37869ebc7af08a31df14fe3f48bee2.webp",Br
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master1080p5000.m3u8
 #EXTINF:-1 group-title="Almanya" ,Saarland Fernsehen 1
