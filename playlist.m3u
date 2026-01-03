@@ -1327,6 +1327,10 @@ http://217.73.139.200:5443/play/a007
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 group-title="Cezayir" ,El Fadjer TV
 https://stream.wsla.top/play/1.m3u8
+#EXTINF:-1 group-title="Cezayir" ,Echorouk News
+https://hls-distrib-eu2.dzsecurity.net/live/EchoroukNews/chunks.m3u8?session=eJwL8HUIC6oIcIkPqa/PYinjKneNqU2sClaN5QQAdcYIfw==
+#EXTINF:-1 group-title="Cezayir" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95320395cc2d913bb08798fcc17c8f24.webp",Ennahar TV
+https://hls-distrib-eu1.dzsecurity.net/live/EnnaharTV/chunks.m3u8?session=eJwL8HUIC6oIcIkPqa/P4iziKXeIq0isCrYI4QYAddYIhg==
 #EXTINF:-1 group-title="Makedonya" ,MNet Sport
 https://live.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 group-title="Makedonya" ,MNet Kids

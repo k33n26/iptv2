@@ -3487,5 +3487,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5e55782da188287df746c5e0fc3cb38f.webp"
   },
   "Korea Live": null,
-  "Bangkok Tour Live": null
+  "Bangkok Tour Live": null,
+  "Echorouk News": null,
+  "Ennahar TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/95320395cc2d913bb08798fcc17c8f24.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95320395cc2d913bb08798fcc17c8f24.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/95320395cc2d913bb08798fcc17c8f24.webp"
+  }
 }
