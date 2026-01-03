@@ -953,6 +953,10 @@ https://vod1.laki.eu/live/hram/index.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w8815639.m3u8
 #EXTINF:-1 group-title="Sirbistan" ,RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,RTCG
+https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
+#EXTINF:-1 group-title="Sirbistan" ,DM SAT
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1fe2bc843b912222e0b30f4ce108e70b.webp",Leman Bleu
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d7a625277de4970b77e868e3b20b0979.webp",RMC Story
