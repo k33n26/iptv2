@@ -3425,6 +3425,16 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 #EXTINF:-1 group-title="Belgesel" ,TREK FR
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Adria Nature
+https://de1.adriatelekom.com/AdriaNature-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Adria Fishing
+https://de1.adriatelekom.com/AdriaFishing-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/670e95555227739c5040988b72b883f9.webp",Adria Travel
+https://de1.adriatelekom.com/AdriaTravel-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Adria Hunting
+https://de1.adriatelekom.com/AdriaHunting-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Adria Kitchen
+https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
