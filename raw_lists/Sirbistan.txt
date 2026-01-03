@@ -10,3 +10,5 @@ TV AS,https://de1.dstvmultimedia.com/TVAS/tracks-v1a1/mono.ts.m3u8
 TV Hram,https://vod1.laki.eu/live/hram/index.m3u8
 TV Pirot,https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w8815639.m3u8
 RTV Novi Pazar,https://tv.rtvnp.rs/stream.m3u8
+RTCG,https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
+DM SAT,https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
