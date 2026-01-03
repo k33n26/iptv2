@@ -1,3 +1,7 @@
 El Fadjer TV,https://stream.wsla.top/play/1.m3u8
 Echorouk News,https://hls-distrib-eu2.dzsecurity.net/live/EchoroukNews/chunks.m3u8?session=eJwL8HUIC6oIcIkPqa/PYinjKneNqU2sClaN5QQAdcYIfw==
 Ennahar TV,https://hls-distrib-eu1.dzsecurity.net/live/EnnaharTV/chunks.m3u8?session=eJwL8HUIC6oIcIkPqa/P4iziKXeIq0isCrYI4QYAddYIhg==
+Al maghribia,https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+Al arabiya,https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
+Canal Algerie,https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
+
