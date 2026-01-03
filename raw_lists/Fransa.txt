@@ -3,6 +3,7 @@ RMC Story,https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero2
 RMC-DECOUVERTE,https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
 Animaux,https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 AB 1,https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+AB 3,https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 LCI,https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 KTO,https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
 Fashion TV,https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
@@ -74,6 +75,140 @@ TV8 MONT BLANC,https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS
 TVM3,https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
 VAL TV,https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
 W9,https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+PLANETE+,https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+EUROSPORT 1,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
+EUROSPORT 2,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
+INFOSPORT+,http://212.102.60.80/Infosport/index.m3u8
+MOTORVISION TV,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+RMC MECANIC,https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
+MEN'S UP TV,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/mensuptv.m3u8
+MAISON & TRAVAUX,https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+PARAMOUNT NETWORK,https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+RTL 9,https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+RMC LIFE,https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+ENQUÊTES DE CHOC,https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8
+LE MEILLEUR D'ARTHUR,https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
+SONY ONE THE BLACKLIST,https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+MGG E-SPORT,https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+NOVELA CHANNEL,https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+POPCORN,https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+LG 1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
+LG 1:FILM,https://stream.ads.ottera.tv/playlist.m3u8?network_id=13954
+LG 1:SPOTLIGHT,https://stream.ads.ottera.tv/playlist.m3u8?network_id=13956
+TCM CINEMA,https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
+CINE NANAR,https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+CINE WESTERN,https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+EMOTION'L,https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
+FREQUENCE NOVELAS,https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+SCREAM'IN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
+SONY ONE HITS ACTION,https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+SONY ONE HITS COMEDIE,https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+SONY ONE FAVORIS,https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+SONY ONE SERIES COMEDIES,https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+SONY ONE SERIES THRILLER,https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+CARTOON NETWORK,https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
+CANAL J,https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+BFM TV GRANDS REPORTAGES,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+PUBLIC-SÉNAT 24H,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+TRACE SPORTS STARS,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+AFTER FOOT TV,https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
+SPORT EN FRANCE,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
+TENNIS CHANNEL,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/tennis-channel.m3u8
+TECH&CO,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+MY ZEN TV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+MÉLODY,https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+GÉNÉRATIONS TV,https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+TRACE URBAN,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+TRACE LATINA,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+BBLACK! AFRICA,https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+BBLACK! CARIBBEAN,https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+BBLACK! CLASSIK,https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+EUROSPORT360 1,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-1.m3u8
+EUROSPORT360 2,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-2.m3u8
+EUROSPORT360 3,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-3.m3u8
+EUROSPORT360 4,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-4.m3u8
+EUROSPORT360 5,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-5.m3u8
+EUROSPORT360 6,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
+BEL RTL,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
+LE FIGARO IDF,https://static.lefigaro.fr/secom/tnt.m3u8
+TELE NANTES,https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/telenantes.m3u8
+20 MINUTES TV IDF,https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+WÉO PICARDIE,https://live-weo.digiteka.com/1189023466/index.m3u8#EXTM3U
+Top Films - Rakuten TV,https://jmp2.uk/stvp-FR2600007CB
+Invitation au voyage,https://jmp2.uk/stvp-FR3700004HZ
+Plus belle la vie,https://jmp2.uk/stvp-FRBD37000020Y
+Vevo Noël,https://jmp2.uk/stvp-FR3500001PK
+RMC Wow,https://jmp2.uk/stvp-FR300001M1
+RMC MYSTERE,https://jmp2.uk/stvp-FR300006GF
+Motus,https://jmp2.uk/stvp-FRBB490000412
+Y'a que la vérité qui compte,https://jmp2.uk/stvp-FRBC900003KP
+Ardivision,https://jmp2.uk/stvp-FRBD300000170
+100% Comedy,https://jmp2.uk/stvp-FR3600003DS
+Juste Pour Rire,https://jmp2.uk/stvp-FRBA3300035UK
+FailArmy,https://jmp2.uk/stvp-FRBA33000234L
+People Are Awesome,https://jmp2.uk/stvp-FRBA10000029E
+ADN,https://jmp2.uk/stvp-FRBD5100001ZA
+MTV Classics,https://jmp2.uk/stvp-FRAJ3800004CC
+H2O & Friends,https://jmp2.uk/stvp-FR500003PJ
+Incroyables Fortunes,https://jmp2.uk/stvp-FR600001I2
+Epicurieux avec Jamy,https://jmp2.uk/stvp-FRBD5100003TP
+Alerte à Malibu,https://jmp2.uk/stvp-FRBC4700002RF
+Génération Sitcoms,https://jmp2.uk/stvp-FRBC4700001XG
+K-Drama+,https://jmp2.uk/stvp-FRBD41000124S
+Fréquence Novelas,https://jmp2.uk/stvp-FRBC800001X0
+Passion Novelas,https://jmp2.uk/stvp-FRBD15000024B
+Stormcast Novelas,https://jmp2.uk/stvp-FRBA3300031ZC
+Tele.Novela,https://jmp2.uk/stvp-FRBC14000010C
+Homicide,https://jmp2.uk/stvp-FRBB49000033R
+Crime - Rakuten TV,https://jmp2.uk/stvp-FR2600009UG
+IntoCrime,https://jmp2.uk/stvp-FR300032ZK
+Crimes EnquÃªtes Faits Divers,https://jmp2.uk/stvp-FR600002ZR
+J'irai dormir chez vous,https://jmp2.uk/stvp-FRBD4800001P4
+RMC alerte secours,https://jmp2.uk/stvp-FR30000271
+EnquÃªtes de Choc,https://jmp2.uk/stvp-FRBC90000220
+La Maison France 5,https://jmp2.uk/stvp-FR4200001BN
+Mission Intervention,https://jmp2.uk/stvp-FR700002UP
+Doc Story,https://jmp2.uk/stvp-FR1200001N2
+Tahiti TV,https://jmp2.uk/stvp-FRBB49000059E
+Destination Nature,https://jmp2.uk/stvp-FRBC4000001IO
+NatureTime,https://jmp2.uk/stvp-FRBB4900002D4
+Cap Terre,https://jmp2.uk/stvp-FRBC3900004DS
+Chefclub TV,https://jmp2.uk/stvp-FRBB3900001PZ
+TV5 MONDE+ Chefs,https://jmp2.uk/stvp-FR1300003HM
+TV5 Monde Voyage,https://jmp2.uk/stvp-FR1800004EP
+Le Figaro TV,https://jmp2.uk/stvp-FRBC1400002JN
+FIFA+,https://jmp2.uk/stvp-FRBA3300037Y7
+Drive TV,https://jmp2.uk/stvp-FRBD3600001BQ
+Motor Racing,https://jmp2.uk/stvp-FRBD4100013LN
+Sci-Fi - Rakuten TV,https://jmp2.uk/stvp-FR4100001D0
+Box Office Drama,https://jmp2.uk/stvp-FR3700003N4
+Box Office Thriller,https://jmp2.uk/stvp-FR3700001AG
+Shadowz,https://jmp2.uk/stvp-FR1800003VF
+Shark TV,https://jmp2.uk/stvp-FR4000002JN
+Drames - Rakuten TV,https://jmp2.uk/stvp-FR2600005LH
+Films d'action - Rakuten TV,https://jmp2.uk/stvp-FR2600002X9
+RTL tvi,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/res/rtltvi-highest.m3u8
+Deluxe Music,https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

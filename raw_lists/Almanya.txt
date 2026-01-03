@@ -68,3 +68,4 @@ KiKA,https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master-1080p-5
 Nickelodeon,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 DW,https://dwamdstream103.akamaized.net/hls/live/2015526-b/dwstream103/stream05/streamPlaylist.m3u8
 World of Freesports,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/1080p-cc/index.m3u8
+ATV,https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
