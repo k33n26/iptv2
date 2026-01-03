@@ -4010,5 +4010,10 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e583a949672d0256af240f3b3e321fb2.webp"
   },
   "Adria Hunting": null,
-  "Adria Kitchen": null
+  "Adria Kitchen": null,
+  "Prava TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/09fec330348b720e8710ca590440f177.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/09fec330348b720e8710ca590440f177.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/09fec330348b720e8710ca590440f177.webp"
+  }
 }
