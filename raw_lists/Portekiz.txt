@@ -20,3 +20,6 @@ SIC-ALTA-DEFINIÇÃO,https://production-fast-sic.content.okast.tv/fa2e8c4385712f
 CNN-PORTUGAL,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 PORTO-CANAL,https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 RTP-TV-PORTUGUESA,https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
+REDE RECORD INTERNACIONAL,https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+RTPI,https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
+Record News,https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
