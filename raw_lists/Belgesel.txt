@@ -76,6 +76,11 @@ OUTDOOR AMERICA,https://linear-600.frequency.stream/dist/xumo/600/hls/master/pla
 13 Cultura,https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 Animaux FR,https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 TREK FR,https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+Adria Nature,https://de1.adriatelekom.com/AdriaNature-www/tracks-v1a1/mono.ts.m3u8
+Adria Fishing,https://de1.adriatelekom.com/AdriaFishing-www/tracks-v1a1/mono.ts.m3u8
+Adria Travel,https://de1.adriatelekom.com/AdriaTravel-www/tracks-v1a1/mono.ts.m3u8
+Adria Hunting,https://de1.adriatelekom.com/AdriaHunting-www/tracks-v1a1/mono.ts.m3u8
+Adria Kitchen,https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
 
 
 
