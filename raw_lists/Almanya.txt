@@ -1,6 +1,40 @@
 3SAT,https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 WELT,https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 RTL Super,https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+Phoenix,https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
+BLUE ZOOM DE,https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
+BR ALPHA,https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+BR HD SUD,https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+DAS ERSTE HD,https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+DISNEY CHANNEL,https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+EUROSPORT 1,https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8 
+HR,https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
+KANAL 9,https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
+KIKA,https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
+MDR,https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
+NDR,https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
+NICK,https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+N TV,https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+ORF 1,https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+ORF 2,https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+RTL,https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+RTL 2,https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+RTL NITRO,https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+SPORT 1,https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+SRF 1,https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+SRF 2,https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
+SRF INFO,https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+SUPER RTL,https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+SWR BW,https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+TELE 5,https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
+TELE BAERN,https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
+TELEBIELINGUE,https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
+TV24,https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
+VOX,https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+WDR,https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+ZDF,https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+ZDF INFO,https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+ZDF NEO,https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 Br,https://mcdn.br.de/br/fs/bfs_sued/hls/int/master1080p5000.m3u8
 Saarland Fernsehen 1,https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/chunks.m3u8?nimblesessionid=1109933290
 SR,https://srfs.akamaized.net/hls/live/689649-b/srfsgeo/master-720p-3328.m3u8
