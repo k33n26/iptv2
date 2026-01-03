@@ -1423,6 +1423,8 @@ https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 http://2.57.217.85:8000/playlist.m3u8
 #EXTINF:-1 group-title="Ispanya" ,TVE-INT
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
+#EXTINF:-1 group-title="Ispanya" ,TVE-INT(2)
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 #EXTINF:-1 group-title="Ispanya" ,TVE-LA1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="Ispanya" ,TVE-LA2
