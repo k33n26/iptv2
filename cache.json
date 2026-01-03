@@ -4033,5 +4033,28 @@
   "Canal Anime Onegai 2": null,
   "Canal Anime Onegai 3": null,
   "Canal Anime Onegai 4": null,
-  "Canal Anime Onegai 5": null
+  "Canal Anime Onegai 5": null,
+  "RAI 1(2)": null,
+  "RAI 2(2)": null,
+  "RAI 3(2)": null,
+  "RAI NEWS(2)": null,
+  "RAI SCUOLA(2)": null,
+  "RAI STORIA(2)": null,
+  "RAI ITALIA": null,
+  "RAI ITALIA US": null,
+  "RAI ITALIA AUSTRALIA": null,
+  "RAI WORLD PREMIUM": null,
+  "LA7(2)": null,
+  "TG COM 24": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7397d0a519895403912d824d2ee49178.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7397d0a519895403912d824d2ee49178.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7397d0a519895403912d824d2ee49178.webp"
+  },
+  "MEDIASET ITALIA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5e4728c7c774145340faba0d18feb678.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5e4728c7c774145340faba0d18feb678.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5e4728c7c774145340faba0d18feb678.webp"
+  },
+  "RETE ITALIA": null,
+  "INTER TV": null
 }

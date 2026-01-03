@@ -3143,18 +3143,38 @@ https://vdo.plathong.net/flash7057/flash7057/chunklist_w1096515942.m3u8
 https://player.tvnet.lv/stream/amlst:61659/chunklist_w453417690_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI 1(2)
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI 2(2)
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI 3(2)
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI GULP
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI NEWS
+https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI NEWS(2)
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI SCUOLA
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI SCUOLA(2)
+https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI STORIA
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI STORIA(2)
+https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI ITALIA
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI ITALIA US
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI ITALIA AUSTRALIA
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI WORLD PREMIUM
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4f6556225874cefe06d6507987ce8d01.webp",CANALE 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c5144794067c5c07a46573d4c8e7e1a8.webp",ITALIA 1
@@ -3163,6 +3183,8 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8585d16efe6a89af5f02818321a599cd.webp",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 group-title="Italya" ,LA7(2)
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,LA7D
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 group-title="Italya" ,RSI LA 1
@@ -3183,6 +3205,14 @@ https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
 #EXTINF:-1 group-title="Italya" ,DMAX ITALIA
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
+#EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7397d0a519895403912d824d2ee49178.webp",TG COM 24
+https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
+#EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5e4728c7c774145340faba0d18feb678.webp",MEDIASET ITALIA
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:-1 group-title="Italya" ,RETE ITALIA
+https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
+#EXTINF:-1 group-title="Italya" ,INTER TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 group-title="Norvec" ,Canal Motor TV
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Norvec" ,Frikanalen
