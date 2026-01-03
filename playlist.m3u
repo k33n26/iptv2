@@ -981,16 +981,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
 https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f633e5e80cdba1fc3dccfe17715c4a63.webp",Cherie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/1/media.m3u8
-#EXTINF:-1 group-title="Fransa" ,France 2 (chtoken)
-https://cachehsi1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzUyMTM4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UyaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYWE1OGZiYWU0NDAwYTFkNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjExIiwic291cmNlcyI6WzQ4XX0=.3D_EztdY8KDQHnLnYAgdqAD9lWB8Cx8vEa6GHBvI6lFPnAnwjJFNJiMwFb_arkcMhInd-l-BfuD8J4QUYojFvA==/live/eds/france2hd/browser-HLS8/france2hd-avc1_4500000=10009.m3u8
-#EXTINF:-1 group-title="Fransa" ,France 3 (chtoken)
-https://cachehsi2b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU4NzUyMTg2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UzaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiOWEzY2ExYjFiMjJiNTJiMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjMiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMiLCJzb3VyY2VzIjpbMzhdfQ==.NM9KQNLmSgxSskSs-uMQgQVxDQqyiyQVJVQNOcgphFZx7fJB5Nryk79nYD2qbJ5Mhl734swhmDZZJW79vL9etw==/live/eds/france3hd/browser-HLS8/france3hd-avc1_4500000=10000.m3u8
+#EXTINF:-1 group-title="Fransa" ,Cherie 25(2)
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/097b8cd0207e8544b2c92dde55cf1919.webp",Monaco.Info
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 group-title="Fransa" ,CGTN-Francais
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f77d4f187cda0ed26b5b68f300919cff.webp",i24 News
-
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca2eaa0270b078a73b9c6a90378964eb.webp",France-Info
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 #EXTINF:-1 group-title="Fransa" ,TV5 Monde-Info
@@ -1011,8 +1007,102 @@ https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 http://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/185b621863f2e1688f7a6285f0a4459a.webp",ARTE
 http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/417
+#EXTINF:-1 group-title="Fransa" ,ARTE HD
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 group-title="Fransa" ,TV5Monde Asia
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Fransa" ,6TER
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c8a3d1e090a44adda8a87ee6dd04e2b4.webp",BFM BUSINESS
+https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c061798d64283803c29888ff899aae2d.webp",BFM TV
+https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+#EXTINF:-1 group-title="Fransa" ,BLUE ZOOM
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
+#EXTINF:-1 group-title="Fransa" ,CANAL 9
+https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
+#EXTINF:-1 group-title="Fransa" ,CANAL ALPHA JU
+https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
+#EXTINF:-1 group-title="Fransa" ,CANAL ALPHA NE
+https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f89ae94f7949ba3e5911e55e0a769335.webp",CANALNEWS
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+#EXTINF:-1 group-title="Fransa" ,CARAC 1
+https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+#EXTINF:-1 group-title="Fransa" ,CARAC 2
+https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+#EXTINF:-1 group-title="Fransa" ,CARAC 3
+https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+#EXTINF:-1 group-title="Fransa" ,CARAC 4
+https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+#EXTINF:-1 group-title="Fransa" ,CARAC 5
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+#EXTINF:-1 group-title="Fransa" ,RMC Life
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c6a237bb909425988e0f1f4e0b75d0f4.webp",CSTAR
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/91bce662dd2e03e014df0c53db5e3f1d.webp",EURONEWS
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/38a8e3e2809dbc07ee9d3eab8ba13ecb.webp",FRANCE 24
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/34eb686b57e0fdbd99dc60fb27101ad9.webp",FRANCE 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46a6ef2841b3351feceb885557c04ba1.webp",FRANCE 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 group-title="Fransa" ,FRANCE 4
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3d908480819e237e69ebc0f10c4dae05.webp",FRANCE 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 group-title="Fransa" ,FRANCE INFO
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/046c183f4f6e980aa3ca6d6105002fcb.webp",GULLI
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d98c342d91da43bdf2d7ab230a91068c.webp",KTO
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+#EXTINF:-1 group-title="Fransa" ,LA TELE
+https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
+#EXTINF:-1 group-title="Fransa" ,LCI
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 group-title="Fransa" ,LCP
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
+#EXTINF:-1 group-title="Fransa" ,L EQUIPE
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fc1df6307a9c4971569997963dcc8b08.webp",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0ad045da514ed7234f8f073849c3b793.webp",MAX TV
+https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
+#EXTINF:-1 group-title="Fransa" ,NOVO 19
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/da48b4118d45e452906c66aac30af1ae.webp",NRTV
+https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7b65376fd331ad7665075bd696b61b61.webp",RMC DECOUVERTE
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f04c8c4a2d2091a8a7e6629efb6b22be.webp",RMC STORY
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ba530a2f1c7df73188232ec2c7b53ae3.webp",RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+#EXTINF:-1 group-title="Fransa" ,RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+#EXTINF:-1 group-title="Fransa" ,T18
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+#EXTINF:-1 group-title="Fransa" ,TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 group-title="Fransa" ,TF1 SERIES
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cfc736f9d56d2ff4f535f0f0e38e3037.webp",TFX
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/60813764ee71311b6ff5dc90b2eaab94.webp",TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 group-title="Fransa" ,TV5 MONDE FBS
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/156b8f488218c9a519a440d2223d28b7.webp",TV8 MONT BLANC
+https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/83a2c76edf2bc677f382d01df27c932d.webp",TVM3
+https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/98b8d7d48f17b1dde32ac27cc66d094c.webp",VAL TV
+https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
+#EXTINF:-1 group-title="Fransa" ,W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTINF:-1 group-title="Letonya" ,TV Jurmala
 https://air.star.lv/TV_Jurmala_multistream/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Letonya" ,Vidusdaugavas Televizija
