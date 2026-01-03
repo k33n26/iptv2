@@ -3590,5 +3590,20 @@
   "DocuAX Travel": null,
   "DocuAX Life": null,
   "Animaux FR": null,
-  "TREK FR": null
+  "TREK FR": null,
+  "BLOOMBERG": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f01f7344ee3a27480cb441960d31194c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f01f7344ee3a27480cb441960d31194c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f01f7344ee3a27480cb441960d31194c.webp"
+  },
+  "CNN": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2435a45b85628172c5a47122144a7c67.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2435a45b85628172c5a47122144a7c67.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2435a45b85628172c5a47122144a7c67.webp"
+  },
+  "FASHION TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/fb48ab4ba4a960e45336c16ba8ec5749.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fb48ab4ba4a960e45336c16ba8ec5749.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/fb48ab4ba4a960e45336c16ba8ec5749.webp"
+  }
 }
