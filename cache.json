@@ -3984,5 +3984,18 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4d9e606b76e0b7c4fb127c51b5bb7d35.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4d9e606b76e0b7c4fb127c51b5bb7d35.webp"
   },
-  "DMAX ITALIA": null
+  "DMAX ITALIA": null,
+  "Canal 24 Horas": null,
+  "REDE RECORD INTERNACIONAL": null,
+  "RTPI": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/964a8e4f909dd253efb62f2f60288092.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/964a8e4f909dd253efb62f2f60288092.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/964a8e4f909dd253efb62f2f60288092.webp"
+  },
+  "Record News": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2c230b731e04e713c29989c73b1fb831.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c230b731e04e713c29989c73b1fb831.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2c230b731e04e713c29989c73b1fb831.webp"
+  },
+  "NHK WORLD": null
 }
