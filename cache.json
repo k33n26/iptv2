@@ -3997,5 +3997,16 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c230b731e04e713c29989c73b1fb831.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2c230b731e04e713c29989c73b1fb831.webp"
   },
-  "NHK WORLD": null
+  "NHK WORLD": null,
+  "Al maghribia": null,
+  "Al arabiya": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a4f1c16378829b21b489e57218d9465f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a4f1c16378829b21b489e57218d9465f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a4f1c16378829b21b489e57218d9465f.webp"
+  },
+  "Canal Algerie": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e583a949672d0256af240f3b3e321fb2.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e583a949672d0256af240f3b3e321fb2.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e583a949672d0256af240f3b3e321fb2.webp"
+  }
 }

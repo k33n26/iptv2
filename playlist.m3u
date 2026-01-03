@@ -1745,6 +1745,12 @@ https://stream.wsla.top/play/1.m3u8
 https://hls-distrib-eu2.dzsecurity.net/live/EchoroukNews/chunks.m3u8?session=eJwL8HUIC6oIcIkPqa/PYinjKneNqU2sClaN5QQAdcYIfw==
 #EXTINF:-1 group-title="Cezayir" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95320395cc2d913bb08798fcc17c8f24.webp",Ennahar TV
 https://hls-distrib-eu1.dzsecurity.net/live/EnnaharTV/chunks.m3u8?session=eJwL8HUIC6oIcIkPqa/P4iziKXeIq0isCrYI4QYAddYIhg==
+#EXTINF:-1 group-title="Cezayir" ,Al maghribia
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1 group-title="Cezayir" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a4f1c16378829b21b489e57218d9465f.webp",Al arabiya
+https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
+#EXTINF:-1 group-title="Cezayir" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e583a949672d0256af240f3b3e321fb2.webp",Canal Algerie
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
 #EXTINF:-1 group-title="Makedonya" ,MNet Sport
 https://live.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 group-title="Makedonya" ,MNet Kids
