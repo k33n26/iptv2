@@ -1,1 +1,3 @@
 El Fadjer TV,https://stream.wsla.top/play/1.m3u8
+Echorouk News,https://hls-distrib-eu2.dzsecurity.net/live/EchoroukNews/chunks.m3u8?session=eJwL8HUIC6oIcIkPqa/PYinjKneNqU2sClaN5QQAdcYIfw==
+Ennahar TV,https://hls-distrib-eu1.dzsecurity.net/live/EnnaharTV/chunks.m3u8?session=eJwL8HUIC6oIcIkPqa/P4iziKXeIq0isCrYI4QYAddYIhg==
