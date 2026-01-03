@@ -1,4 +1,16 @@
+RAI 1,https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+RAI 2,https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+RAI 3,https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+RAI GULP,https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+CANALE 5,https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+ITALIA 1,https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+RETE 4,https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+LA7,https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+LA7D,https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+RSI LA 1,https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+RSI LA 2,https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 BOING HD,https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 IUNIOR TV,https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 Bergamo TV,https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
 Lazio Tv,https://streaming.softwarecreation.it/LazioTv/LazioTv/chunklist_w1132639510.m3u8
+
