@@ -3725,5 +3725,32 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/98b8d7d48f17b1dde32ac27cc66d094c.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/98b8d7d48f17b1dde32ac27cc66d094c.webp"
   },
-  "W9": null
+  "W9": null,
+  "RAI 1": null,
+  "RAI 2": null,
+  "RAI 3": null,
+  "RAI GULP": null,
+  "CANALE 5": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4f6556225874cefe06d6507987ce8d01.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4f6556225874cefe06d6507987ce8d01.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4f6556225874cefe06d6507987ce8d01.webp"
+  },
+  "ITALIA 1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c5144794067c5c07a46573d4c8e7e1a8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c5144794067c5c07a46573d4c8e7e1a8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c5144794067c5c07a46573d4c8e7e1a8.webp"
+  },
+  "RETE 4": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ef45a5efbb1eb6b196fe64580de2b3be.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef45a5efbb1eb6b196fe64580de2b3be.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ef45a5efbb1eb6b196fe64580de2b3be.webp"
+  },
+  "LA7": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8585d16efe6a89af5f02818321a599cd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8585d16efe6a89af5f02818321a599cd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8585d16efe6a89af5f02818321a599cd.webp"
+  },
+  "LA7D": null,
+  "RSI LA 1": null,
+  "RSI LA 2": null
 }
