@@ -2653,6 +2653,8 @@ http://dvr4.kablova.tv/M1/index.m3u8
 http://dvr4.kablova.tv/M2/index.m3u8
 #EXTINF:-1 group-title="Macaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e236c4cfef36f30086573aa362dd73b9.webp",DUNA TV
 http://dvr1.kablova.tv/DUNA/index.m3u8
+#EXTINF:-1 group-title="Macaristan" ,DUNA TV(2)
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
 #EXTINF:-1 group-title="Macaristan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d402399b901895fd88e52877c94ef65c.webp",M4 SPORT
 http://dvr1.kablova.tv/M4/index.m3u8
 #EXTINF:-1 group-title="Macaristan" ,TV2
