@@ -52,6 +52,7 @@ BLOOMBERG,https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomb
 CNBC,https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 CNN,https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 FASHION TV,https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
+FOOD NETWORK,https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwork.m3u8
 
 
 
