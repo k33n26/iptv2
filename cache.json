@@ -4015,5 +4015,23 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/09fec330348b720e8710ca590440f177.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/09fec330348b720e8710ca590440f177.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/09fec330348b720e8710ca590440f177.webp"
-  }
+  },
+  "NIPPON TV": null,
+  "TBS": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c370dca571a8e9eeb48104236808fe8d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c370dca571a8e9eeb48104236808fe8d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c370dca571a8e9eeb48104236808fe8d.webp"
+  },
+  "FUJI TV": null,
+  "TV Asahi": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/11c1483a0f0db2c3b02d27ab7144c32f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/11c1483a0f0db2c3b02d27ab7144c32f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/11c1483a0f0db2c3b02d27ab7144c32f.webp"
+  },
+  "TV Tokyo": null,
+  "Canal Anime Onegai 1": null,
+  "Canal Anime Onegai 2": null,
+  "Canal Anime Onegai 3": null,
+  "Canal Anime Onegai 4": null,
+  "Canal Anime Onegai 5": null
 }

@@ -3469,6 +3469,26 @@ https://nl.utako.moe/js4/index.m3u8
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="Japonya" ,NHK WORLD
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+#EXTINF:-1 group-title="Japonya" ,NIPPON TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c370dca571a8e9eeb48104236808fe8d.webp",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
+#EXTINF:-1 group-title="Japonya" ,FUJI TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/11c1483a0f0db2c3b02d27ab7144c32f.webp",TV Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
+#EXTINF:-1 group-title="Japonya" ,TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
+#EXTINF:-1 group-title="Japonya" ,Canal Anime Onegai 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+#EXTINF:-1 group-title="Japonya" ,Canal Anime Onegai 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+#EXTINF:-1 group-title="Japonya" ,Canal Anime Onegai 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+#EXTINF:-1 group-title="Japonya" ,Canal Anime Onegai 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+#EXTINF:-1 group-title="Japonya" ,Canal Anime Onegai 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1 group-title="Fas" ,Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 group-title="Fas" ,2M MONDE
