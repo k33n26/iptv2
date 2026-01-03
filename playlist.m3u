@@ -969,6 +969,8 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouvert
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 #EXTINF:-1 group-title="Fransa" ,AB 1
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+#EXTINF:-1 group-title="Fransa" ,AB 3
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 #EXTINF:-1 group-title="Fransa" ,LCI
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d98c342d91da43bdf2d7ab230a91068c.webp",KTO
@@ -1109,6 +1111,234 @@ https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
 https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
 #EXTINF:-1 group-title="Fransa" ,W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 group-title="Fransa" ,PLANETE+
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+#EXTINF:-1 group-title="Fransa" ,EUROSPORT 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0d06e7daaef5bb54cf5563d5d69b77ba.webp",EUROSPORT 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
+#EXTINF:-1 group-title="Fransa" ,INFOSPORT+
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 group-title="Fransa" ,MOTORVISION TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 group-title="Fransa" ,RMC MECANIC
+https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
+#EXTINF:-1 group-title="Fransa" ,MEN'S UP TV
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/mensuptv.m3u8
+#EXTINF:-1 group-title="Fransa" ,MAISON & TRAVAUX
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/71435a8335975791b1cbcf2219d65037.webp",PARAMOUNT NETWORK
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2517d371aca86d32b82c1aad44136089.webp",RTL 9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+#EXTINF:-1 group-title="Fransa" ,RMC LIFE
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 group-title="Fransa" ,ENQUÊTES DE CHOC
+https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,LE MEILLEUR D'ARTHUR
+https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,SONY ONE THE BLACKLIST
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,MGG E-SPORT
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 group-title="Fransa" ,NOVELA CHANNEL
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,POPCORN
+https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ec8ceffb7d8bf675e9221b7118d50367.webp",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
+#EXTINF:-1 group-title="Fransa" ,LG 1:FILM
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13954
+#EXTINF:-1 group-title="Fransa" ,LG 1:SPOTLIGHT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13956
+#EXTINF:-1 group-title="Fransa" ,TCM CINEMA
+https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
+#EXTINF:-1 group-title="Fransa" ,CINE NANAR
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5336744916575a030a544d634b07093d.webp",CINE WESTERN
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,EMOTION'L
+https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Fransa" ,FREQUENCE NOVELAS
+https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,SCREAM'IN
+https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Fransa" ,SONY ONE HITS ACTION
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,SONY ONE HITS COMEDIE
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,SONY ONE FAVORIS
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,SONY ONE SERIES COMEDIES
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,SONY ONE SERIES THRILLER
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/993b013c251c997907cedf36e9517a9a.webp",CARTOON NETWORK
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
+#EXTINF:-1 group-title="Fransa" ,CANAL J
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 group-title="Fransa" ,BFM TV GRANDS REPORTAGES
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 group-title="Fransa" ,PUBLIC-SÉNAT 24H
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 group-title="Fransa" ,TRACE SPORTS STARS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,AFTER FOOT TV
+https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5154327eedb38b9a25ecf1d93421cf5c.webp",SPORT EN FRANCE
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/32406fcf6985d0938f76c6a63b18e06a.webp",TENNIS CHANNEL
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/tennis-channel.m3u8
+#EXTINF:-1 group-title="Fransa" ,TECH&CO
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/eafde6431ef217758a1ac43baa0d4b34.webp",MY ZEN TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,MÉLODY
+https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8ab6602b3b0bddf8c7814b3947f45511.webp",GÉNÉRATIONS TV
+https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/49a8724a430b12ef96209266014ae849.webp",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,TRACE LATINA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" ,BBLACK! AFRICA
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" ,BBLACK! CARIBBEAN
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" ,BBLACK! CLASSIK
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" ,EUROSPORT360 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-1.m3u8
+#EXTINF:-1 group-title="Fransa" ,EUROSPORT360 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-2.m3u8
+#EXTINF:-1 group-title="Fransa" ,EUROSPORT360 3
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-3.m3u8
+#EXTINF:-1 group-title="Fransa" ,EUROSPORT360 4
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-4.m3u8
+#EXTINF:-1 group-title="Fransa" ,EUROSPORT360 5
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-5.m3u8
+#EXTINF:-1 group-title="Fransa" ,EUROSPORT360 6
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
+#EXTINF:-1 group-title="Fransa" ,BEL RTL
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
+#EXTINF:-1 group-title="Fransa" ,LE FIGARO IDF
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dadc286192e39d0bd9d9f754f645abd4.webp",TELE NANTES
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/telenantes.m3u8
+#EXTINF:-1 group-title="Fransa" ,20 MINUTES TV IDF
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="Fransa" ,WÉO PICARDIE
+https://live-weo.digiteka.com/1189023466/index.m3u8#EXTM3U
+#EXTINF:-1 group-title="Fransa" ,Top Films - Rakuten TV
+https://jmp2.uk/stvp-FR2600007CB
+#EXTINF:-1 group-title="Fransa" ,Invitation au voyage
+https://jmp2.uk/stvp-FR3700004HZ
+#EXTINF:-1 group-title="Fransa" ,Plus belle la vie
+https://jmp2.uk/stvp-FRBD37000020Y
+#EXTINF:-1 group-title="Fransa" ,Vevo Noël
+https://jmp2.uk/stvp-FR3500001PK
+#EXTINF:-1 group-title="Fransa" ,RMC Wow
+https://jmp2.uk/stvp-FR300001M1
+#EXTINF:-1 group-title="Fransa" ,RMC MYSTERE
+https://jmp2.uk/stvp-FR300006GF
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e599bd43912f6dd581f359d2e1a6c62f.webp",Motus
+https://jmp2.uk/stvp-FRBB490000412
+#EXTINF:-1 group-title="Fransa" ,Y'a que la vérité qui compte
+https://jmp2.uk/stvp-FRBC900003KP
+#EXTINF:-1 group-title="Fransa" ,Ardivision
+https://jmp2.uk/stvp-FRBD300000170
+#EXTINF:-1 group-title="Fransa" ,100% Comedy
+https://jmp2.uk/stvp-FR3600003DS
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f61d90d355f96de6fb96cd30ec626d16.webp",Juste Pour Rire
+https://jmp2.uk/stvp-FRBA3300035UK
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6289ffd877750d74f419b28d80886881.webp",FailArmy
+https://jmp2.uk/stvp-FRBA33000234L
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3857dab9354e06c208c5a58f6dc335ae.webp",People Are Awesome
+https://jmp2.uk/stvp-FRBA10000029E
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/65eaf332c64df0b818bb962e3d7f0142.webp",ADN
+https://jmp2.uk/stvp-FRBD5100001ZA
+#EXTINF:-1 group-title="Fransa" ,MTV Classics
+https://jmp2.uk/stvp-FRAJ3800004CC
+#EXTINF:-1 group-title="Fransa" ,H2O & Friends
+https://jmp2.uk/stvp-FR500003PJ
+#EXTINF:-1 group-title="Fransa" ,Incroyables Fortunes
+https://jmp2.uk/stvp-FR600001I2
+#EXTINF:-1 group-title="Fransa" ,Epicurieux avec Jamy
+https://jmp2.uk/stvp-FRBD5100003TP
+#EXTINF:-1 group-title="Fransa" ,Alerte à Malibu
+https://jmp2.uk/stvp-FRBC4700002RF
+#EXTINF:-1 group-title="Fransa" ,Génération Sitcoms
+https://jmp2.uk/stvp-FRBC4700001XG
+#EXTINF:-1 group-title="Fransa" ,K-Drama+
+https://jmp2.uk/stvp-FRBD41000124S
+#EXTINF:-1 group-title="Fransa" ,Fréquence Novelas
+https://jmp2.uk/stvp-FRBC800001X0
+#EXTINF:-1 group-title="Fransa" ,Passion Novelas
+https://jmp2.uk/stvp-FRBD15000024B
+#EXTINF:-1 group-title="Fransa" ,Stormcast Novelas
+https://jmp2.uk/stvp-FRBA3300031ZC
+#EXTINF:-1 group-title="Fransa" ,Tele.Novela
+https://jmp2.uk/stvp-FRBC14000010C
+#EXTINF:-1 group-title="Fransa" ,Homicide
+https://jmp2.uk/stvp-FRBB49000033R
+#EXTINF:-1 group-title="Fransa" ,Crime - Rakuten TV
+https://jmp2.uk/stvp-FR2600009UG
+#EXTINF:-1 group-title="Fransa" ,IntoCrime
+https://jmp2.uk/stvp-FR300032ZK
+#EXTINF:-1 group-title="Fransa" ,Crimes EnquÃªtes Faits Divers
+https://jmp2.uk/stvp-FR600002ZR
+#EXTINF:-1 group-title="Fransa" ,J'irai dormir chez vous
+https://jmp2.uk/stvp-FRBD4800001P4
+#EXTINF:-1 group-title="Fransa" ,RMC alerte secours
+https://jmp2.uk/stvp-FR30000271
+#EXTINF:-1 group-title="Fransa" ,EnquÃªtes de Choc
+https://jmp2.uk/stvp-FRBC90000220
+#EXTINF:-1 group-title="Fransa" ,La Maison France 5
+https://jmp2.uk/stvp-FR4200001BN
+#EXTINF:-1 group-title="Fransa" ,Mission Intervention
+https://jmp2.uk/stvp-FR700002UP
+#EXTINF:-1 group-title="Fransa" ,Doc Story
+https://jmp2.uk/stvp-FR1200001N2
+#EXTINF:-1 group-title="Fransa" ,Tahiti TV
+https://jmp2.uk/stvp-FRBB49000059E
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/85bf91c6b42f624b440a4f66cfbd5ad1.webp",Destination Nature
+https://jmp2.uk/stvp-FRBC4000001IO
+#EXTINF:-1 group-title="Fransa" ,NatureTime
+https://jmp2.uk/stvp-FRBB4900002D4
+#EXTINF:-1 group-title="Fransa" ,Cap Terre
+https://jmp2.uk/stvp-FRBC3900004DS
+#EXTINF:-1 group-title="Fransa" ,Chefclub TV
+https://jmp2.uk/stvp-FRBB3900001PZ
+#EXTINF:-1 group-title="Fransa" ,TV5 MONDE+ Chefs
+https://jmp2.uk/stvp-FR1300003HM
+#EXTINF:-1 group-title="Fransa" ,TV5 Monde Voyage
+https://jmp2.uk/stvp-FR1800004EP
+#EXTINF:-1 group-title="Fransa" ,Le Figaro TV
+https://jmp2.uk/stvp-FRBC1400002JN
+#EXTINF:-1 group-title="Fransa" ,FIFA+
+https://jmp2.uk/stvp-FRBA3300037Y7
+#EXTINF:-1 group-title="Fransa" ,Drive TV
+https://jmp2.uk/stvp-FRBD3600001BQ
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1edc6326697cbbfc66329b3e7aaad34d.webp",Motor Racing
+https://jmp2.uk/stvp-FRBD4100013LN
+#EXTINF:-1 group-title="Fransa" ,Sci-Fi - Rakuten TV
+https://jmp2.uk/stvp-FR4100001D0
+#EXTINF:-1 group-title="Fransa" ,Box Office Drama
+https://jmp2.uk/stvp-FR3700003N4
+#EXTINF:-1 group-title="Fransa" ,Box Office Thriller
+https://jmp2.uk/stvp-FR3700001AG
+#EXTINF:-1 group-title="Fransa" ,Shadowz
+https://jmp2.uk/stvp-FR1800003VF
+#EXTINF:-1 group-title="Fransa" ,Shark TV
+https://jmp2.uk/stvp-FR4000002JN
+#EXTINF:-1 group-title="Fransa" ,Drames - Rakuten TV
+https://jmp2.uk/stvp-FR2600005LH
+#EXTINF:-1 group-title="Fransa" ,Films d'action - Rakuten TV
+https://jmp2.uk/stvp-FR2600002X9
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d2c254b86464c5ce72ab8b7a311fefd7.webp",RTL tvi
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/res/rtltvi-highest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fd3e297b200d99f39d1953a0a353fac4.webp",Deluxe Music
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
 #EXTINF:-1 group-title="Letonya" ,TV Jurmala
 https://air.star.lv/TV_Jurmala_multistream/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Letonya" ,Vidusdaugavas Televizija
@@ -1257,6 +1487,8 @@ https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 https://dwamdstream103.akamaized.net/hls/live/2015526-b/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Almanya" ,World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/df13ed57843877b21ad969184ab6888f.webp",ATV
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
 #EXTINF:-1 group-title="Katar" ,ALJAZEERA-ENGLISH
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 #EXTINF:-1 group-title="Katar" ,ALJAZEERA-DOCUMENTRY
@@ -2903,6 +3135,12 @@ https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI GULP
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI NEWS
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI SCUOLA
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+#EXTINF:-1 group-title="Italya" ,RAI STORIA
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4f6556225874cefe06d6507987ce8d01.webp",CANALE 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c5144794067c5c07a46573d4c8e7e1a8.webp",ITALIA 1
@@ -2925,6 +3163,12 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9f2099a75dda116f4cdf46abfac46753.webp",Lazio Tv
 https://streaming.softwarecreation.it/LazioTv/LazioTv/chunklist_w1132639510.m3u8
+#EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0724c7c7fdcd68c69cc98d6614b170dd.webp",NOVE
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
+#EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4d9e606b76e0b7c4fb127c51b5bb7d35.webp",VIDEO ITALIA
+https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
+#EXTINF:-1 group-title="Italya" ,DMAX ITALIA
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
 #EXTINF:-1 group-title="Norvec" ,Canal Motor TV
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Norvec" ,Frikanalen
