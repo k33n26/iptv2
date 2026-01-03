@@ -1,14 +1,25 @@
 RAI 1,https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+RAI 1(2),https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 RAI 2,https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+RAI 2(2),https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 RAI 3,https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+RAI 3(2),https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 RAI GULP,https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
-RAI NEWS,https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+RAI NEWS,https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+RAI NEWS(2),https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
 RAI SCUOLA,https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+RAI SCUOLA(2),https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 RAI STORIA,https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+RAI STORIA(2),https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
+RAI ITALIA,https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+RAI ITALIA US,https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+RAI ITALIA AUSTRALIA,https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
+RAI WORLD PREMIUM,https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 CANALE 5,https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 ITALIA 1,https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 RETE 4,https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 LA7,https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+LA7(2),https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 LA7D,https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 RSI LA 1,https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 RSI LA 2,https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
@@ -19,5 +30,8 @@ Lazio Tv,https://streaming.softwarecreation.it/LazioTv/LazioTv/chunklist_w113263
 NOVE,https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
 VIDEO ITALIA,https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
 DMAX ITALIA,https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
-
+TG COM 24,https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
+MEDIASET ITALIA,https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+RETE ITALIA,https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
+INTER TV,https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
