@@ -4,3 +4,13 @@ J Sports 3,https://nl.utako.moe/js3/index.m3u8
 J Sports 4,https://nl.utako.moe/js4/index.m3u8
 NHK,https://nl.utako.moe/NHK_G/index.m3u8
 NHK WORLD,https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+NIPPON TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
+FUJI TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
+TV Asahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
+TV Tokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
+Canal Anime Onegai 1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+Canal Anime Onegai 2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+Canal Anime Onegai 3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+Canal Anime Onegai 4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+Canal Anime Onegai 5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
