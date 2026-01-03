@@ -1,6 +1,7 @@
 M1,http://dvr4.kablova.tv/M1/index.m3u8
 M2,http://dvr4.kablova.tv/M2/index.m3u8
 DUNA TV,http://dvr1.kablova.tv/DUNA/index.m3u8
+DUNA TV(2),https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
 M4 SPORT,http://dvr1.kablova.tv/M4/index.m3u8
 TV2,http://dvr4.kablova.tv/TV2/index.m3u8
 ATV,http://dvr2.kablova.tv/ATV/index.m3u8
