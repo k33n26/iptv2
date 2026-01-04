@@ -81,6 +81,6 @@ Adria Fishing,https://de1.adriatelekom.com/AdriaFishing-www/tracks-v1a1/mono.ts.
 Adria Travel,https://de1.adriatelekom.com/AdriaTravel-www/tracks-v1a1/mono.ts.m3u8
 Adria Hunting,https://de1.adriatelekom.com/AdriaHunting-www/tracks-v1a1/mono.ts.m3u8
 Adria Kitchen,https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
-
+Persiana docs,https://scihls.persiana.live/hls/stream.m3u8
 
 

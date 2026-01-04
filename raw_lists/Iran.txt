@@ -43,9 +43,18 @@ IRIB Tabarestan,https://ncdn.telewebion.com/tabarestan/live/playlist.m3u8
 Press TV English,https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 4U TV,https://hls.4utv.live/hls/stream.m3u8
 AVA Family,https://familyhls.avatv.live/hls/stream.m3u8
-
-
-
+Persiana Sports 1,https://spstr.abntv.live/hls/psstream.m3u8
+Persiana Family,https://familyhls.persiana.live/hls/stream.m3u8
+Persiana Cinema,https://cinehls.persiana.live/hls/stream.m3u8
+Persiana Series,https://onehls.persiana.live/hls/stream.m3u8
+Persiana Korea,https://korhls.persiana.live/hls/stream.m3u8
+Persiana Iranian,https://irhls.persiana.live/hls/stream.m3u8
+Persiana Comedy,https://comedyhls.persiana.live/hls/stream.m3u8
+Persiana+,https://euhls.persiana.live/hls/stream.m3u8
+Persiana Docs,https://scihls.persiana.live/hls/stream.m3u8
+Persiana Junior,https://junhls.persiana.live/hls/stream.m3u8
+Persiana Turkiye,https://turkhls.persiana.live/hls/stream.m3u8
+Persiana Reality,https://twohls.persiana.live/hls/stream.m3u8
 
 
 
