@@ -811,7 +811,7 @@ http://pl.online24.pm/play/8045/5FD91ED329C33F6/video.m3u8
 http://pl.online24.pm/play/8047/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1 group-title="Hollanda" ,NPO2
 http://pl.online24.pm/play/8048/5FD91ED329C33F6/video.m3u8
-#EXTINF:-1 group-title="Hollanda" ,NPO3
+#EXTINF:-1 group-title="Hollanda" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95009ce158269f1d85b760b5f49e645e.webp",NPO3
 http://pl.online24.pm/play/8049/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1 group-title="Hollanda" ,NGC NL
 http://pl.online24.pm/play/8046/5FD91ED329C33F6/video.m3u8
@@ -1307,7 +1307,7 @@ https://jmp2.uk/stvp-FR4200001BN
 https://jmp2.uk/stvp-FR700002UP
 #EXTINF:-1 group-title="Fransa" ,Doc Story
 https://jmp2.uk/stvp-FR1200001N2
-#EXTINF:-1 group-title="Fransa" ,Tahiti TV
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0c62d28e838c86b1ade68ad310eeae82.webp",Tahiti TV
 https://jmp2.uk/stvp-FRBB49000059E
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/85bf91c6b42f624b440a4f66cfbd5ad1.webp",Destination Nature
 https://jmp2.uk/stvp-FRBC4000001IO
@@ -1635,6 +1635,30 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran" ,AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Sports 1
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/13353482b12bd38ae7e354306dfbddf9.webp",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana+
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" ,Persiana Reality
+https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Arabistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1cf52e012549575e6ac93e1119fab0b7.webp",Asharq News
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8
 #EXTINF:-1 group-title="Arabistan" ,Asharq Bloomberg
@@ -3413,7 +3437,7 @@ https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" ,DOCSTORY
 https://jmp2.uk/stvp-FR1200001N2
-#EXTINF:-1 group-title="Belgesel" ,TAHITI TV
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8907549f4a1ebb2ce0d3aafb98bf1c67.webp",TAHITI TV
 https://jmp2.uk/stvp-FRBB49000059E
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/85bf91c6b42f624b440a4f66cfbd5ad1.webp",Destination Nature
 https://jmp2.uk/stvp-FRBC4000001IO
@@ -3479,6 +3503,8 @@ https://de1.adriatelekom.com/AdriaTravel-www/tracks-v1a1/mono.ts.m3u8
 https://de1.adriatelekom.com/AdriaHunting-www/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Belgesel" ,Adria Kitchen
 https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Persiana docs
+https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV

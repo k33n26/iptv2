@@ -2112,7 +2112,11 @@
   },
   "Documentary+": null,
   "DOCSTORY": null,
-  "TAHITI TV": null,
+  "TAHITI TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/8907549f4a1ebb2ce0d3aafb98bf1c67.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8907549f4a1ebb2ce0d3aafb98bf1c67.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/8907549f4a1ebb2ce0d3aafb98bf1c67.webp"
+  },
   "Destination Nature": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/85bf91c6b42f624b440a4f66cfbd5ad1.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/85bf91c6b42f624b440a4f66cfbd5ad1.webp",
@@ -2857,7 +2861,11 @@
   "NET5": null,
   "NPO1": null,
   "NPO2": null,
-  "NPO3": null,
+  "NPO3": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/95009ce158269f1d85b760b5f49e645e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95009ce158269f1d85b760b5f49e645e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/95009ce158269f1d85b760b5f49e645e.webp"
+  },
   "NGC NL": null,
   "NGC WILD NL": null,
   "ONS": null,
@@ -3942,7 +3950,11 @@
   "La Maison France 5": null,
   "Mission Intervention": null,
   "Doc Story": null,
-  "Tahiti TV": null,
+  "Tahiti TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0c62d28e838c86b1ade68ad310eeae82.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0c62d28e838c86b1ade68ad310eeae82.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0c62d28e838c86b1ade68ad310eeae82.webp"
+  },
   "Chefclub TV": null,
   "TV5 MONDE+ Chefs": null,
   "TV5 Monde Voyage": null,
@@ -4061,5 +4073,22 @@
   "Pink Red TV": null,
   "Tv Maná-1": null,
   "Tv Maná-2": null,
-  "Tv Maná English": null
+  "Tv Maná English": null,
+  "Persiana Sports 1": null,
+  "Persiana Family": null,
+  "Persiana Cinema": null,
+  "Persiana Series": null,
+  "Persiana Korea": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/13353482b12bd38ae7e354306dfbddf9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/13353482b12bd38ae7e354306dfbddf9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/13353482b12bd38ae7e354306dfbddf9.webp"
+  },
+  "Persiana Iranian": null,
+  "Persiana Comedy": null,
+  "Persiana+": null,
+  "Persiana Docs": null,
+  "Persiana Junior": null,
+  "Persiana Turkiye": null,
+  "Persiana Reality": null,
+  "Persiana docs": null
 }
