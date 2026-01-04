@@ -2901,6 +2901,12 @@ https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/re
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
 #EXTINF:-1 group-title="Portekiz" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c230b731e04e713c29989c73b1fb831.webp",Record News
 https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
+#EXTINF:-1 group-title="Portekiz" ,Tv Maná-1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Portekiz" ,Tv Maná-2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Portekiz" ,Tv Maná English
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet_src.m3u8
 #EXTINF:-1 group-title="Moldova" ,M1 MOLDOVA
