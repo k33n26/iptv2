@@ -23,3 +23,6 @@ RTP-TV-PORTUGUESA,https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/pl
 REDE RECORD INTERNACIONAL,https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 RTPI,https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
 Record News,https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
+Tv Maná-1,https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist.m3u8
+Tv Maná-2,https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist.m3u8
+Tv Maná English,https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist.m3u8
