@@ -4090,5 +4090,50 @@
   "Persiana Junior": null,
   "Persiana Turkiye": null,
   "Persiana Reality": null,
-  "Persiana docs": null
+  "Persiana docs": null,
+  "BFM NORMANDIE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ca6465e05660509f28b599837b11baf5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ca6465e05660509f28b599837b11baf5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ca6465e05660509f28b599837b11baf5.webp"
+  },
+  "BFM DICI HAUTE-PROVENCE": null,
+  "BFM DICI ALPES DU SUD": null,
+  "BFM ALSACE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3424487b6d14185b2afa65fa7e2784e5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3424487b6d14185b2afa65fa7e2784e5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3424487b6d14185b2afa65fa7e2784e5.webp"
+  },
+  "BFM TOULON VAR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a876b67ff836329942e4df7c4fc54e72.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a876b67ff836329942e4df7c4fc54e72.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a876b67ff836329942e4df7c4fc54e72.webp"
+  },
+  "BFM NICE COTE D'AZUR": null,
+  "BFM MARSEILLE PROVENCE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/103734ba32c2ffee96397dd30b693d26.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/103734ba32c2ffee96397dd30b693d26.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/103734ba32c2ffee96397dd30b693d26.webp"
+  },
+  "BFM Grand Littoral": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/597797e1ce9759360109915fe2fe5eca.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/597797e1ce9759360109915fe2fe5eca.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/597797e1ce9759360109915fe2fe5eca.webp"
+  },
+  "BFM Grand Lille": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/69a2c71de39acfd4b7dbe8b2434dd558.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/69a2c71de39acfd4b7dbe8b2434dd558.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/69a2c71de39acfd4b7dbe8b2434dd558.webp"
+  },
+  "BFM Lyon": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6862d035702acad8c87f62d5c1e95a32.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6862d035702acad8c87f62d5c1e95a32.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6862d035702acad8c87f62d5c1e95a32.webp"
+  },
+  "BFM Grands Reportages": null,
+  "BFM TECH & CO": null,
+  "BFM Business": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2c929f1d64f9bfbd39b0dfad57c71c40.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c929f1d64f9bfbd39b0dfad57c71c40.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2c929f1d64f9bfbd39b0dfad57c71c40.webp"
+  }
 }
