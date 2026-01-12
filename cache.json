@@ -2133,7 +2133,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cff2135449d5952764d425777a55f79b.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/cff2135449d5952764d425777a55f79b.webp"
   },
-  "One Terra": null,
+  "One Terra": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4c8f3e7b3d315fa6d3af25c2bc53c51b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4c8f3e7b3d315fa6d3af25c2bc53c51b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4c8f3e7b3d315fa6d3af25c2bc53c51b.webp"
+  },
   "Terra Mater WILD": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f01be5773238ecc3ebdf7f4e5a824f15.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f01be5773238ecc3ebdf7f4e5a824f15.webp",
@@ -14739,5 +14743,7 @@
   "Classic;News": null,
   "ZillarBarta_News": null,
   "Kids;Science": null,
-  "ЭлТР_Билим_Илим_(480p)_[Not_24/7]": null
+  "ЭлТР_Билим_Илим_(480p)_[Not_24/7]": null,
+  "BBC TOP GEAR": null,
+  "Biznet_Adventure": null
 }

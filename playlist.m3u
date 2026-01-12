@@ -23421,7 +23421,7 @@ https://jmp2.uk/stvp-FRBC3900004DS
 https://jmp2.uk/stvp-FR3700004HZ
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/cff2135449d5952764d425777a55f79b.webp",Wilder Planet
 https://jmp2.uk/stvp-ATBA3300031VR
-#EXTINF:-1 group-title="Belgesel" ,One Terra
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4c8f3e7b3d315fa6d3af25c2bc53c51b.webp",One Terra
 https://jmp2.uk/stvp-ATBA1500021SL
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f01be5773238ecc3ebdf7f4e5a824f15.webp",Terra Mater WILD
 https://jmp2.uk/stvp-ATBD2700001KY
@@ -23483,6 +23483,10 @@ https://scihls.persiana.live/hls/stream.m3u8
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/993d1cd17ac5a4a958f9b8907e35a4de.webp",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,BBC TOP GEAR
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Biznet_Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
