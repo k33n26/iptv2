@@ -82,5 +82,6 @@ Adria Travel,https://de1.adriatelekom.com/AdriaTravel-www/tracks-v1a1/mono.ts.m3
 Adria Hunting,https://de1.adriatelekom.com/AdriaHunting-www/tracks-v1a1/mono.ts.m3u8
 Adria Kitchen,https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
 Persiana docs,https://scihls.persiana.live/hls/stream.m3u8
-
+Adventure Earth,https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+Amazon Sat,https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
