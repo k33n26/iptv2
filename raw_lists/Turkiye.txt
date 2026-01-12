@@ -252,7 +252,8 @@ B4,http://176.123.10.77:8480/b4/index.m3u8
 B5,http://176.123.10.77:8480/b5/index.m3u8
 SSport1,http://176.123.10.77:8480/s1/index.m3u8
 SSport2,http://176.123.10.77:8480/s2/index.m3u8
-
+Tarih TV,http://65.108.239.207/tarihtv/index.m3u8
+VAV Tarih TV,https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
 
 
 
