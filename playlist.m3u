@@ -235,6 +235,12 @@ https://live.mp4-youtube.workers.dev/?ID=jvC6-s5exnI
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ARTI-TV
 http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Fusion TV
+http://162.212.179.32/akamaissh101/ssh101/084952510aa/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Fusion 2 TV
+https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Fusion Turk
+http://162.212.179.32/akamaissh101/ssh101/084952510aaa/playlist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BONCUK TV
 http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIM-EV-TV
@@ -1065,7 +1071,7 @@ https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46a6ef2841b3351feceb885557c04ba1.webp",FRANCE 3
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-#EXTINF:-1 group-title="Fransa" ,FRANCE 4
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e6085a122c24060c7277c007af773f5d.webp",FRANCE 4
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3d908480819e237e69ebc0f10c4dae05.webp",FRANCE 5
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
@@ -3287,7 +3293,7 @@ https://frikanalen.no/stream/stream_1.m3u8
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 group-title="Israil" ,KAN11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 group-title="Israil" ,KAN26
+#EXTINF:-1 group-title="Israil" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/64534fe116859648c815e7154930bd42.webp",KAN26
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
 #EXTINF:-1 group-title="Israil" ,CH12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1752661341~acl=%2f*~data=hdntl~hmac=e09c1483ec77a2693cdf91f3d04482b2f03783ccd927dc06cf238707eaae2c87/profileManifest.m3u8?_uid=57b95473-62fd-49a4-bfee-84b31ec6ce42&rK=b9&_did=faa42beff55d6fae254a02cc4447e70f3cc5471a

@@ -1111,7 +1111,11 @@
   },
   "ASSADISSA": null,
   "TAMAZIGHT": null,
-  "KAN26": null,
+  "KAN26": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/64534fe116859648c815e7154930bd42.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/64534fe116859648c815e7154930bd42.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/64534fe116859648c815e7154930bd42.webp"
+  },
   "NOW14": null,
   "i24-NEWS": null,
   "MAKO24": null,
@@ -3662,7 +3666,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/46a6ef2841b3351feceb885557c04ba1.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/46a6ef2841b3351feceb885557c04ba1.webp"
   },
-  "FRANCE 4": null,
+  "FRANCE 4": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/e6085a122c24060c7277c007af773f5d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e6085a122c24060c7277c007af773f5d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/e6085a122c24060c7277c007af773f5d.webp"
+  },
   "FRANCE 5": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3d908480819e237e69ebc0f10c4dae05.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3d908480819e237e69ebc0f10c4dae05.webp",
@@ -4135,5 +4143,8 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2c929f1d64f9bfbd39b0dfad57c71c40.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c929f1d64f9bfbd39b0dfad57c71c40.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2c929f1d64f9bfbd39b0dfad57c71c40.webp"
-  }
+  },
+  "Fusion TV": null,
+  "Fusion 2 TV": null,
+  "Fusion Turk": null
 }
