@@ -84,4 +84,5 @@ Adria Kitchen,https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.
 Persiana docs,https://scihls.persiana.live/hls/stream.m3u8
 Adventure Earth,https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 Amazon Sat,https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
+BBC TOP GEAR,https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+Biznet_Adventure,http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
