@@ -22,6 +22,9 @@ BIZIMKILER(4),http://104.238.23.221/yt1.php?v=jvC6-s5exnI
 BIZIMKILER(5),https://live.mp4-youtube.workers.dev/?ID=jvC6-s5exnI
 SUPERTURK-TV,http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 ARTI-TV,http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
+Fusion TV,http://162.212.179.32/akamaissh101/ssh101/084952510aa/playlist.m3u8
+Fusion 2 TV,https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
+Fusion Turk,http://162.212.179.32/akamaissh101/ssh101/084952510aaa/playlist.m3u8
 BONCUK TV,http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 BIZIM-EV-TV,https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
 BIZIM-EV-TV(2),https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/bizimevtv.m3u8
