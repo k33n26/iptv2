@@ -4146,5 +4146,17 @@
   },
   "Fusion TV": null,
   "Fusion 2 TV": null,
-  "Fusion Turk": null
+  "Fusion Turk": null,
+  "Tarih TV": null,
+  "VAV Tarih TV": null,
+  "Adventure Earth": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/11f7e09777bddcb71b55acfeed2cdc23.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/11f7e09777bddcb71b55acfeed2cdc23.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/11f7e09777bddcb71b55acfeed2cdc23.webp"
+  },
+  "Amazon Sat": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/993d1cd17ac5a4a958f9b8907e35a4de.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/993d1cd17ac5a4a958f9b8907e35a4de.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/993d1cd17ac5a4a958f9b8907e35a4de.webp"
+  }
 }

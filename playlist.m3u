@@ -695,6 +695,10 @@ http://176.123.10.77:8480/b5/index.m3u8
 http://176.123.10.77:8480/s1/index.m3u8
 #EXTINF:-1 group-title="Turkiye" ,SSport2
 http://176.123.10.77:8480/s2/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,Tarih TV
+http://65.108.239.207/tarihtv/index.m3u8
+#EXTINF:-1 group-title="Turkiye" ,VAV Tarih TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="Karadag" ,RTCG 1
 http://23.88.66.93/RTCG_1/index.m3u8
 #EXTINF:-1 group-title="Karadag" ,RTCG 2
@@ -3541,6 +3545,10 @@ https://de1.adriatelekom.com/AdriaHunting-www/tracks-v1a1/mono.ts.m3u8
 https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Belgesel" ,Persiana docs
 https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/11f7e09777bddcb71b55acfeed2cdc23.webp",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/993d1cd17ac5a4a958f9b8907e35a4de.webp",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
