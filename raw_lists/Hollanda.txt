@@ -26,8 +26,12 @@ LOVE NATURE NL,http://pl.online24.pm/play/8043/5FD91ED329C33F6/video.m3u8
 MTV NL,http://pl.online24.pm/play/8044/5FD91ED329C33F6/video.m3u8
 NET5,http://pl.online24.pm/play/8045/5FD91ED329C33F6/video.m3u8
 NPO1,http://pl.online24.pm/play/8047/5FD91ED329C33F6/video.m3u8
+NPO1(2),http://thksmom.shop/NL_NPO1/mpegts
 NPO2,http://pl.online24.pm/play/8048/5FD91ED329C33F6/video.m3u8
+NPO(2),http://thksmom.shop/NL_NPO2/mpegts
 NPO3,http://pl.online24.pm/play/8049/5FD91ED329C33F6/video.m3u8
+NPO3(2),http://thksmom.shop/NL_NPO3/mpegts
+NPO4,http://thksmom.shop/NL_NPO4/mpegts
 NGC NL,http://pl.online24.pm/play/8046/5FD91ED329C33F6/video.m3u8
 NGC WILD NL,http://pl.online24.pm/play/8050/5FD91ED329C33F6/video.m3u8
 ONS,http://pl.online24.pm/play/8052/5FD91ED329C33F6/video.m3u8
