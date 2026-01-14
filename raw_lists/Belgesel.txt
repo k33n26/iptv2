@@ -83,6 +83,46 @@ Adria Hunting,https://de1.adriatelekom.com/AdriaHunting-www/tracks-v1a1/mono.ts.
 Adria Kitchen,https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
 Persiana docs,https://scihls.persiana.live/hls/stream.m3u8
 Adventure Earth,https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+Adventure Earth(2),https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 Amazon Sat,https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 BBC TOP GEAR,https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 Biznet_Adventure,http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+BBC Earth Asia,https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+KTOO 360TV 3 (FNX),https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+National Geographic East,https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+National Geographic Wild East,https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+Persiana Travel,https://ptravelhls.persiana.live/hls/stream.m3u8
+RL PRO TV,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+The Nest,https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+Da Vinci Asia Vietnam,https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
+Moya Planeta,http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+3Cat Càmeres del temps,https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+Smithsonian Channel East,https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+OEPM TV,https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+Schladming-Dachstein TV,https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+Turismo RDTV,https://streamunoapp.com:3086/live/telemileniolive.m3u8
+TV Sayohi,https://live.teleradiocom.tj/16/3m.m3u8
+Teleputeshestviya,http://31.148.48.15/Teleputeshestviya/index.m3u8
+Meteonews,https://streaming.meteonews.net/hls/stream.m3u8
+Sky News Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+Oman Althakafia,https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+Miras,https://alpha.tv.online.tm/hls/ch003.m3u8
+Saudi Thaqafiya TV,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+StoryChannel TV,https://136044159.r.cdnsun.net/storychannel.m3u8
+Yemen Shabab Channel,https://starmenajo.com/hls/yemenshabab/index.m3u8
+Outside TV,https://outsidetv-firetv.amagi.tv/playlist.m3u8
+Pursuit UP,https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
