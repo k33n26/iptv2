@@ -2497,7 +2497,7 @@ http://156.239.254.7:5555/smt.php?id=AlQuran
 http://156.239.254.7:5555/smt.php?id=TawafTV
 #EXTINF:-1 group-title="China" ,Vision Prime
 http://156.239.254.7:5555/smt.php?id=VisionPrime
-#EXTINF:-1 group-title="China" ,Muslim TV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a6286cf29bf918261ccc3199ba09384b.webp",Muslim TV
 http://156.239.254.7:5555/smt.php?id=MuslimTV
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5fad6027f8ebdf9c33061c21b03a3130.webp",Music TV
 http://156.239.254.7:5555/smt.php?id=MusicTV
@@ -2973,6 +2973,8 @@ https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist.m3u8
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet_src.m3u8
+#EXTINF:-1 group-title="Azerbaycan" ,Kapaz
+http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 group-title="Moldova" ,M1 MOLDOVA
 https://v1.trm.md/static/streaming-playlists/hls/877afe70-eef4-484d-8291-2841891bbd88/0.m3u8
 #EXTINF:-1 group-title="Moldova" ,M2 MOLDOVA
@@ -3733,7 +3735,7 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 #EXTINF:-1 group-title="Amerika" ,CW18
 https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
-#EXTINF:-1 group-title="Amerika" ,CW29
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0ea941d38afdaf0e6aa45888d3dbe644.webp",CW29
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1 group-title="Amerika" ,CW44
 https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8

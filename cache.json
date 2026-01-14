@@ -2695,7 +2695,11 @@
   "AlQuran AlKareem": null,
   "Tawaf TV": null,
   "Vision Prime": null,
-  "Muslim TV": null,
+  "Muslim TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a6286cf29bf918261ccc3199ba09384b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a6286cf29bf918261ccc3199ba09384b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a6286cf29bf918261ccc3199ba09384b.webp"
+  },
   "Music TV": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5fad6027f8ebdf9c33061c21b03a3130.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5fad6027f8ebdf9c33061c21b03a3130.webp",
@@ -3010,7 +3014,11 @@
   "CW8": null,
   "CW15": null,
   "CW18": null,
-  "CW29": null,
+  "CW29": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0ea941d38afdaf0e6aa45888d3dbe644.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0ea941d38afdaf0e6aa45888d3dbe644.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0ea941d38afdaf0e6aa45888d3dbe644.webp"
+  },
   "CW44": null,
   "FOX4": null,
   "FOX22": null,
@@ -14749,5 +14757,6 @@
   "Kids;Science": null,
   "ЭлТР_Билим_Илим_(480p)_[Not_24/7]": null,
   "BBC TOP GEAR": null,
-  "Biznet_Adventure": null
+  "Biznet_Adventure": null,
+  "Kapaz": null
 }
