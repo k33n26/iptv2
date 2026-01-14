@@ -819,10 +819,18 @@ http://pl.online24.pm/play/8044/5FD91ED329C33F6/video.m3u8
 http://pl.online24.pm/play/8045/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1 group-title="Hollanda" ,NPO1
 http://pl.online24.pm/play/8047/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Hollanda" ,NPO1(2)
+http://thksmom.shop/NL_NPO1/mpegts
 #EXTINF:-1 group-title="Hollanda" ,NPO2
 http://pl.online24.pm/play/8048/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Hollanda" ,NPO(2)
+http://thksmom.shop/NL_NPO2/mpegts
 #EXTINF:-1 group-title="Hollanda" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/95009ce158269f1d85b760b5f49e645e.webp",NPO3
 http://pl.online24.pm/play/8049/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 group-title="Hollanda" ,NPO3(2)
+http://thksmom.shop/NL_NPO3/mpegts
+#EXTINF:-1 group-title="Hollanda" ,NPO4
+http://thksmom.shop/NL_NPO4/mpegts
 #EXTINF:-1 group-title="Hollanda" ,NGC NL
 http://pl.online24.pm/play/8046/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1 group-title="Hollanda" ,NGC WILD NL
