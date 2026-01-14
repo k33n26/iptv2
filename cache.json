@@ -1499,7 +1499,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4627c4edff8efe4a66fea85ed1471075.webp"
   },
   "Al Ekhbariya": null,
-  "Al Hadath": null,
+  "Al Hadath": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2100de81bb938c589ecafdb51a476a7c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2100de81bb938c589ecafdb51a476a7c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2100de81bb938c589ecafdb51a476a7c.webp"
+  },
   "Bab Al Hara": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2cf6c1e0a0970efb1cc04a5e791aa191.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2cf6c1e0a0970efb1cc04a5e791aa191.webp",
