@@ -14762,5 +14762,49 @@
   "NPO1(2)": null,
   "NPO(2)": null,
   "NPO3(2)": null,
-  "NPO4": null
+  "NPO4": null,
+  "Adventure Earth(2)": null,
+  "BBC Earth Asia": null,
+  "KTOO 360TV 3 (FNX)": null,
+  "National Geographic East": null,
+  "National Geographic Wild East": null,
+  "Persiana Travel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bfd7f4662ca09890e1849fa2c9dbe49b.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bfd7f4662ca09890e1849fa2c9dbe49b.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bfd7f4662ca09890e1849fa2c9dbe49b.webp"
+  },
+  "RL PRO TV": null,
+  "The Nest": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5c7e91f92117625e2c551ef984187356.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5c7e91f92117625e2c551ef984187356.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5c7e91f92117625e2c551ef984187356.webp"
+  },
+  "Da Vinci Asia Vietnam": null,
+  "Moya Planeta": null,
+  "3Cat Càmeres del temps": null,
+  "Smithsonian Channel East": null,
+  "OEPM TV": null,
+  "Schladming-Dachstein TV": null,
+  "Turismo RDTV": null,
+  "Teleputeshestviya": null,
+  "Meteonews": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f9375658aea3264b90acb46847f8d0eb.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f9375658aea3264b90acb46847f8d0eb.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f9375658aea3264b90acb46847f8d0eb.webp"
+  },
+  "Sky News Weather": null,
+  "Oman Althakafia": null,
+  "Miras": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b21edab177c33c21d5cb859a6e5f0982.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b21edab177c33c21d5cb859a6e5f0982.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b21edab177c33c21d5cb859a6e5f0982.webp"
+  },
+  "StoryChannel TV": null,
+  "Yemen Shabab Channel": null,
+  "Outside TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/989bb1227f3c6c8a767aa11910983bd3.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/989bb1227f3c6c8a767aa11910983bd3.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/989bb1227f3c6c8a767aa11910983bd3.webp"
+  },
+  "Pursuit UP": null
 }

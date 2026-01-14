@@ -3557,12 +3557,64 @@ https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/11f7e09777bddcb71b55acfeed2cdc23.webp",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Adventure Earth(2)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/993d1cd17ac5a4a958f9b8907e35a4de.webp",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 group-title="Belgesel" ,BBC TOP GEAR
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" ,Biznet_Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,BBC Earth Asia
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+#EXTINF:-1 group-title="Belgesel" ,KTOO 360TV 3 (FNX)
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+#EXTINF:-1 group-title="Belgesel" ,National Geographic East
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,National Geographic Wild East
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bfd7f4662ca09890e1849fa2c9dbe49b.webp",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Belgesel" ,RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5c7e91f92117625e2c551ef984187356.webp",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Da Vinci Asia Vietnam
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Moya Planeta
+http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,3Cat Càmeres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Smithsonian Channel East
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,OEPM TV
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Turismo RDTV
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+#EXTINF:-1 group-title="Belgesel" ,TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Teleputeshestviya
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f9375658aea3264b90acb46847f8d0eb.webp",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Oman Althakafia
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b21edab177c33c21d5cb859a6e5f0982.webp",Miras
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Saudi Thaqafiya TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,StoryChannel TV
+https://136044159.r.cdnsun.net/storychannel.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Yemen Shabab Channel
+https://starmenajo.com/hls/yemenshabab/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/989bb1227f3c6c8a767aa11910983bd3.webp",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Pursuit UP
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
