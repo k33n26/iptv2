@@ -3615,6 +3615,72 @@ https://starmenajo.com/hls/yemenshabab/index.m3u8
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" ,Pursuit UP
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fd94aa87cfe44fca8cbb02228fde0741.webp",DISCOVERY LIFE
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c49364c2ea7e0bd63503575d7d95c11.webp",DISCOVERY FAMILY
+https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Discovery Channel HD
+https://fl31.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Discovery_Channel
+https://fl1.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,BBC EARTH(SD)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+#EXTINF:-1 group-title="Belgesel" ,BBC Earth(FHD)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a490ae75a3ec2acf16c9f592e889eb4c.webp",Discovery Channel
+https://a1xs.vip/300034
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/122b7a5b031314d7e83e7d7ce9cf5fab.webp",CTV Nature Channel
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,CTV Nature Channel(2)
+http://143.244.60.30/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/52d1df7fff7b1ba3ac317b98ef2fdb80.webp",Animal Planet
+https://a1xs.vip/300035
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d4a4950b7b7267417aa0b9733f30b6fe.webp",History Channel
+http://143.244.60.30/history_channel/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/16d2b386b2034b9488996466aaae0b57.webp",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,National_Geographic
+https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Nat_Geo_Wild
+https://fl1.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/624b0d398256c289eab213a5142990b5.webp",WILD EARTH
+https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7b00b4ddb39f7e3014e917d10fa83439fd401ea85d708834a847ff8109f96a2ded54387e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3ec028d077745969226905dafc4e68697341c4fb912568f561/126/640x360_1020800/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0b073322f5f50bfbe4f84b43da1d3650.webp",Outdoor channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Wild tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/978dea787f2d5d12839e1cf9581ac6cd.webp",Smithsonian Channel
+http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,FOOD_NETWORK
+https://fl41.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,COOKING_CHANNEL
+https://fl1.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,E!
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",TLC
+https://fl1.moveonjoy.com/TLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/e12a8b6e18ee3d67dc8153f4f4713a40.webp",TLC
+http://143.244.60.30/TLC/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,TLC 2
+https://tzh911.qzz.io/play-smt.php?id=tlc_twn
+#EXTINF:-1 group-title="Belgesel" ,Game Show Central
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
+#EXTINF:-1 group-title="Belgesel" ,Travel_Channel
+https://fl1.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2838d50de5d50d2e46ba88589f494bc7.webp",HGTV
+https://fl1.moveonjoy.com/HGTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" ,HLN TV
+https://fl1.moveonjoy.com/HLN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/80ebd1932101cb3a622f3f70eaaf6b5d.webp",DIY Netword
+https://fl1.moveonjoy.com/DIY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c370dca571a8e9eeb48104236808fe8d.webp",TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f9e9e2afc05990353de2ee15740eb65.webp",AXS TV
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4287696b7e31ff64c71454df67bd0122.webp",The design network
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV

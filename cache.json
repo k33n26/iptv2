@@ -14806,5 +14806,65 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/989bb1227f3c6c8a767aa11910983bd3.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/989bb1227f3c6c8a767aa11910983bd3.webp"
   },
-  "Pursuit UP": null
+  "Pursuit UP": null,
+  "DISCOVERY LIFE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/fd94aa87cfe44fca8cbb02228fde0741.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fd94aa87cfe44fca8cbb02228fde0741.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/fd94aa87cfe44fca8cbb02228fde0741.webp"
+  },
+  "DISCOVERY FAMILY": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2c49364c2ea7e0bd63503575d7d95c11.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c49364c2ea7e0bd63503575d7d95c11.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2c49364c2ea7e0bd63503575d7d95c11.webp"
+  },
+  "Discovery Channel HD": null,
+  "Discovery_Channel": null,
+  "BBC EARTH(SD)": null,
+  "BBC Earth(FHD)": null,
+  "Discovery Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a490ae75a3ec2acf16c9f592e889eb4c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a490ae75a3ec2acf16c9f592e889eb4c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a490ae75a3ec2acf16c9f592e889eb4c.webp"
+  },
+  "CTV Nature Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/122b7a5b031314d7e83e7d7ce9cf5fab.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/122b7a5b031314d7e83e7d7ce9cf5fab.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/122b7a5b031314d7e83e7d7ce9cf5fab.webp"
+  },
+  "CTV Nature Channel(2)": null,
+  "National_Geographic": null,
+  "Nat_Geo_Wild": null,
+  "WILD EARTH": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/624b0d398256c289eab213a5142990b5.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/624b0d398256c289eab213a5142990b5.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/624b0d398256c289eab213a5142990b5.webp"
+  },
+  "Outdoor channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0b073322f5f50bfbe4f84b43da1d3650.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0b073322f5f50bfbe4f84b43da1d3650.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0b073322f5f50bfbe4f84b43da1d3650.webp"
+  },
+  "Wild tv": null,
+  "Smithsonian Channel": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/978dea787f2d5d12839e1cf9581ac6cd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/978dea787f2d5d12839e1cf9581ac6cd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/978dea787f2d5d12839e1cf9581ac6cd.webp"
+  },
+  "FOOD_NETWORK": null,
+  "COOKING_CHANNEL": null,
+  "TLC 2": null,
+  "Game Show Central": null,
+  "Travel_Channel": null,
+  "HLN TV": null,
+  "DIY Netword": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/80ebd1932101cb3a622f3f70eaaf6b5d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/80ebd1932101cb3a622f3f70eaaf6b5d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/80ebd1932101cb3a622f3f70eaaf6b5d.webp"
+  },
+  "Go2Travel": null,
+  "The design network": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4287696b7e31ff64c71454df67bd0122.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4287696b7e31ff64c71454df67bd0122.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4287696b7e31ff64c71454df67bd0122.webp"
+  }
 }
