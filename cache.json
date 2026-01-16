@@ -14881,5 +14881,25 @@
   "MY ZEN WELLBEING TV": null,
   "MOTORVISION FR": null,
   "MOTORVISION": null,
-  "FUSION TV": null
+  "FUSION TV": null,
+  "TRT-GENC": null,
+  "TYT-TURK": null,
+  "SIFIR TV": null,
+  "TLC(2)": null,
+  "DMAX(2)": null,
+  "STAR-TV(2)": null,
+  "NOW-TV(2)": null,
+  "KANAL-D(2)": null,
+  "ATV(2)": null,
+  "TV-8(2)": null,
+  "MACKOLIK": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/13cfdaac6f4acaf03d783ca4afc60e00.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/13cfdaac6f4acaf03d783ca4afc60e00.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/13cfdaac6f4acaf03d783ca4afc60e00.webp"
+  },
+  "FBTV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d022524a49a6b3fb3d95140c75c34c7f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d022524a49a6b3fb3d95140c75c34c7f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d022524a49a6b3fb3d95140c75c34c7f.webp"
+  }
 }
