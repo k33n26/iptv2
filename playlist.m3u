@@ -1915,8 +1915,20 @@ https://streamer20.multimedia.blue/Eltrona/MamerTV/chunklist_w2072753570.m3u8
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:-1 group-title="Luksemburg" ,RTL Zwee
 https://stream.rtl.lu/data/live/tele/channel2/720p.m3u8
+#EXTINF:-1 group-title="China" ,CCTV1
+https://aaaa.dds0557.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1768315835-0-0-81a805a55eab9bbe17d1020e8b987d61
+#EXTINF:-1 group-title="China" ,CCTV2
+https://aaaa.dds0557.com/livetv/hlcc/K_CpRQ7HR/K_CpRQ7HR_live.m3u8?auth_key=1768316093-0-0-6f2b47b410f631ba236a105adb451be7
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c05a594b68692bbb5d09e966469540c8.webp",CCTV4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c05a594b68692bbb5d09e966469540c8.webp",CCTV4
+https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c05a594b68692bbb5d09e966469540c8.webp",CCTV4
+https://xv4766.kylintv.tv/live/cctv4hd_iphone.m3u8
+#EXTINF:-1 group-title="China" ,CCTV5
+https://xv4766.kylintv.tv/live/cctv5hd_iphone.m3u8
+#EXTINF:-1 group-title="China" ,CCTV5+
+https://aaaa.dds0557.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1768316475-0-0-c657bfb96a904a81b6bdbf9229822075
 #EXTINF:-1 group-title="China" ,CGTN-DOCUMENTRY
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 group-title="China" ,CGTN-DOCUMENTRY
