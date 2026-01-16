@@ -3693,6 +3693,34 @@ https://fl1.moveonjoy.com/Axs_TV/index.m3u8
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4287696b7e31ff64c71454df67bd0122.webp",The design network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
+#EXTINF:-1 group-title="Belgesel" ,SCIENCES ET VIE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
+#EXTINF:-1 group-title="Belgesel" ,RUSTICA-NATURE&AGRO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10047
+#EXTINF:-1 group-title="Belgesel" ,MAISON&TRAVAUX
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+#EXTINF:-1 group-title="Belgesel" ,VOYAGES+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+#EXTINF:-1 group-title="Belgesel" ,RMC WOW
+https://d225rs9gbjxb5j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bdlabwqcrqc2n/RMC_Wow_FR.m3u8
+#EXTINF:-1 group-title="Belgesel" ,RMC MYSTÈRE
+https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8
+#EXTINF:-1 group-title="Belgesel" ,RMC MECANIC
+https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
+#EXTINF:-1 group-title="Belgesel" ,RMC ALERTE SECOURS
+https://d18py9aevgxe9g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7m4nvp688td5a/RMC_alerte_secours_FR.m3u8
+#EXTINF:-1 group-title="Belgesel" ,SOCIETY PLUS
+https://societypluslachaine-channel-dash.vodfactorychannels.com/v1/channel/SocietyPRODHLS/index.m3u8?bpkio_serviceid=ba9a56ce0a9bfa26d1cc84078c4800d7
+#EXTINF:-1 group-title="Belgesel" ,MY ZEN WELLBEING TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,MOTORVISION FR
+https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
+#EXTINF:-1 group-title="Belgesel" ,MOTORVISION
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 group-title="Belgesel" ,MOTORVISION TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 group-title="Belgesel" ,FUSION TV
+https://edge21.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
