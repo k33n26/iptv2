@@ -160,6 +160,7 @@ MOTORVISION,https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 MOTORVISION TV,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 FUSION TV,https://edge21.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 SONY BBC EARTH,http://103.178.78.151:7505/play/a0vu/index.m3u8
+HISTORY2,https://02.arlivre.online/history2/index.m3u8
 
 
 
