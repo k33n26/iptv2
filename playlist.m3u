@@ -219,8 +219,6 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkiye" ,TRT-EBA
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkiye" ,TRT-4K
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/244
 #EXTINF:-1 group-title="Turkiye" ,MECLIS-TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 group-title="Turkiye" ,BIZIMKILER
@@ -273,6 +271,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/fi
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/inci-taneleri.m3u8
 #EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/14e4e5a862a74a0e8b67086f451727dc.webp",Topkapi.Film
 http://104.238.23.182/yt1/s/topkapifilm.m3u8
+#EXTINF:-1 group-title="Turkiye" ,i-Play Cinema
+https://a8.radyotelekom.com.tr:3742/hybrid/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,Yesilcam 7/24
 http://104.238.23.221/yt1.php?v=Pq7ndgZHjjE
 #EXTINF:-1 group-title="Turkiye" ,Eski Turk Filmleri
@@ -2657,7 +2657,7 @@ http://156.239.254.7:5555/smt.php?id=pptv_pat
 http://156.239.254.7:5555/smt.php?id=thaithai_pat
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b4d2669bf368aaf787b71ae1ae1a16bb.webp",Amarin
 http://156.239.254.7:5555/smt.php?id=amarin_pat
-#EXTINF:-1 group-title="China" ,Ch 8
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/706d46056470ec69615cc421e5872824.webp",Ch 8
 http://156.239.254.7:5555/smt.php?id=ch8_pat
 #EXTINF:-1 group-title="China" ,GmmOne
 http://156.239.254.7:5555/smt.php?id=gmmone_pat
@@ -3217,7 +3217,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 #EXTINF:-1 group-title="Tayland" ,G-MM25
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
-#EXTINF:-1 group-title="Tayland" ,MCOT
+#EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/90c868992d6745b62633bf2cae1bd195.webp",MCOT
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 #EXTINF:-1 group-title="Tayland" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ccbd8dc34e7228744d9dc6465bba6fbd.webp",NBT CENTRAL
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1534462777_b3128000.m3u8?null

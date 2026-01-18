@@ -1374,7 +1374,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4cf030cb57043c348a361444b826ae8d.webp"
   },
   "G-MM25": null,
-  "MCOT": null,
+  "MCOT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/90c868992d6745b62633bf2cae1bd195.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/90c868992d6745b62633bf2cae1bd195.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/90c868992d6745b62633bf2cae1bd195.webp"
+  },
   "NBT CENTRAL": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ccbd8dc34e7228744d9dc6465bba6fbd.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ccbd8dc34e7228744d9dc6465bba6fbd.webp",
@@ -2786,7 +2790,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b4d2669bf368aaf787b71ae1ae1a16bb.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b4d2669bf368aaf787b71ae1ae1a16bb.webp"
   },
-  "Ch 8": null,
+  "Ch 8": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/706d46056470ec69615cc421e5872824.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/706d46056470ec69615cc421e5872824.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/706d46056470ec69615cc421e5872824.webp"
+  },
   "GmmOne": null,
   "Mono": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5d9b47bd3b65072e0d5daf55f01da086.webp",
@@ -14913,5 +14921,6 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/34658e9616f0ef44cef0ea7e9997e492.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/34658e9616f0ef44cef0ea7e9997e492.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/34658e9616f0ef44cef0ea7e9997e492.webp"
-  }
+  },
+  "i-Play Cinema": null
 }
