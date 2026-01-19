@@ -14922,5 +14922,17 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/34658e9616f0ef44cef0ea7e9997e492.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/34658e9616f0ef44cef0ea7e9997e492.webp"
   },
-  "i-Play Cinema": null
+  "i-Play Cinema": null,
+  "HISTOIRE": null,
+  "TEVA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3c9a2e4e3f2321971f8fdb8bf33dae35.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3c9a2e4e3f2321971f8fdb8bf33dae35.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3c9a2e4e3f2321971f8fdb8bf33dae35.webp"
+  },
+  "National Geo": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/1053791d451b1b663cdaee287ac9710c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1053791d451b1b663cdaee287ac9710c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1053791d451b1b663cdaee287ac9710c.webp"
+  },
+  "RMC DECOUVERDE": null
 }
