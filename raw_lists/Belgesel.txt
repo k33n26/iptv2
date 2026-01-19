@@ -163,8 +163,11 @@ SONY BBC EARTH,http://103.178.78.151:7505/play/a0vu/index.m3u8
 HISTORY2,https://02.arlivre.online/history2/index.m3u8
 VIASAT NATURE,https://745851.live.tvstitch.com/catchup/playlist.m3u8?source=aHR0cHM6Ly9wbGF5b3V0LXN0cmVhbS5hZHQtcGxheW91dC50b3AvY2RuOC1zMS0zLXMyL3BsYXllci92aWRlby85NmRhMmY1OTBjZDcyNDZiYmRlMDA1MTA0N2IwZDZmNy83NDE2LzEyODB4NzIwLTE1MDAwMDAvaW5kZXgubTN1OA==&w=1280&h=720&master=youtv_archive177&client=&session=8b0e6cb0eb8dddacd1b837a473c9da18&ott_provider_id=745851&bitrate=1500000&variant=2&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&pv=7416&master_hash=c2aed69553e66814618a89ae76d0aec3
 VIASAT TRUE CRIME,https://745851.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9zdHJlYW0ueW91dHYuY29tLnVhL3YxLzQ0NTcvZXlKMElqb3hOelk0TmpVNU16RTVMQ0pwSWpvaU9EZ3VNalV6TGpFNU1TNDRNaUlzSW1NaU9qUTBOVGNzSW1RaU9pSmlNR0l6WTJWbU9EQmtOV1l6WWpRMU16RmpOVE15WWpZeVpEbGpabVJoWWlJc0luVWlPak0yTWpFMU9EaDkvODY1OTc4ODk5ZGQzMTg1MzMxZWVjNDdlMmY2Nzc2Y2UvTnpNPS90cmFja3MtdjFhMS9tb25vLm0zdTg=&w=1920&h=1080&master=4457&client=3621588&session=7162ab62b9e538a221a899c7c37594d8&ott_provider_id=745851&bitrate=6840000&variant=0&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=
-
-
+HISTOIRE,http://151.80.18.177:86/Histoire/index.m3u8
+TEVA,http://151.80.18.177:86/Teva_HD/index.m3u8
+DISCOVERY,http://151.80.18.177:86/Discovery_HD/index.m3u8
+National Geo,http://151.80.18.177:86/National_Geo_HD/index.m3u8
+RMC DECOUVERDE,http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
 
 
 
