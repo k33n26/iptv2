@@ -997,7 +997,7 @@ https://vod1.laki.eu/live/hram/index.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w8815639.m3u8
 #EXTINF:-1 group-title="Sirbistan" ,RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
-#EXTINF:-1 group-title="Sirbistan" ,RTCG
+#EXTINF:-1 group-title="Sirbistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d52e048d2051bedcd9544afd5a9346e.webp",RTCG
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
 #EXTINF:-1 group-title="Sirbistan" ,DM SAT
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
@@ -3017,6 +3017,8 @@ https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist.m3u8
 https://nl.livekadeh.com/hls2/vilayet_src.m3u8
 #EXTINF:-1 group-title="Azerbaycan" ,Kapaz
 http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/80cd2185c832b2c08ef28f92d1a0f5e7.webp",Ayaz Tv
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 #EXTINF:-1 group-title="Moldova" ,M1 MOLDOVA
 https://v1.trm.md/static/streaming-playlists/hls/877afe70-eef4-484d-8291-2841891bbd88/0.m3u8
 #EXTINF:-1 group-title="Moldova" ,M2 MOLDOVA

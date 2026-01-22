@@ -3798,7 +3798,11 @@
   "RSI LA 1": null,
   "RSI LA 2": null,
   "DUNA TV(2)": null,
-  "RTCG": null,
+  "RTCG": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9d52e048d2051bedcd9544afd5a9346e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9d52e048d2051bedcd9544afd5a9346e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9d52e048d2051bedcd9544afd5a9346e.webp"
+  },
   "DM SAT": null,
   "FOOD NETWORK": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b0e7eb6bbedb91ec85734ca5a940718e.webp",
@@ -14934,5 +14938,10 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/1053791d451b1b663cdaee287ac9710c.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/1053791d451b1b663cdaee287ac9710c.webp"
   },
-  "RMC DECOUVERDE": null
+  "RMC DECOUVERDE": null,
+  "Ayaz Tv": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/80cd2185c832b2c08ef28f92d1a0f5e7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/80cd2185c832b2c08ef28f92d1a0f5e7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/80cd2185c832b2c08ef28f92d1a0f5e7.webp"
+  }
 }
