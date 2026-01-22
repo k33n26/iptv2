@@ -3849,6 +3849,8 @@ http://151.80.18.177:86/Discovery_HD/index.m3u8
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 group-title="Belgesel" ,RMC DECOUVERDE
 http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 group-title="Belgesel" ,AWE ENCORE
+https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
