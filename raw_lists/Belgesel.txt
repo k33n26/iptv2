@@ -176,9 +176,9 @@ Starvision TV,http://3.team.ga/ch2815/mono.m3u8?token=zazann.v2_67DnLd0kYqVMnB4z
 TV 25,http://3.team.ga/ch1210/mono.m3u8?token=zazann.v2_O6oPLyfih4ByP8H2TUkak_yBrg0XVfsU-CxWpIGAprj_EcFXfgkvx5fej1r2Op7aKILFByKxJiU
 TV4,http://3.team.ga/ch2037/mono.m3u8?token=zazann.v2_v4BeoF_z48J9TTJ5li82nM3RCHdYtWg1k8dSsW1pwurs2JwDENDaKVvt4O5B1minb1f0roC7ITM
 Planete+,http://3.team.ga/ch2390/mono.m3u8?token=zazann.v2_qK0e0RHFzoesPH33BBvVGklCOs4NZpwVrAwLIYmaTbAHHqgr46BZhT4Lztk7ldFjiieszbJK3wQ
-
-
-
+NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+WOWOW Live,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+Viasat Nature(BG),http://lb.digicom.bg:8888/viasat.nature/index.m3u8
 
 
 
