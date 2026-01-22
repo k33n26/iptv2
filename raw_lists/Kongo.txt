@@ -1,0 +1,2 @@
+EMCI TV Afrique,https://live.eu-north-1a.cf.dmcdn.net/sec2(w3VomzUKtdKZVa9u8msEwgEuFx4zICROTDhKDgkZx9Z_tOcya3EdI2H8Ksx6yPrLAJfuNa-EViU1x0038xlk0574E-eAQiPbMONo2vq28_Cnb_ITub0Es-WDmE_Z2Yd1)/dm/3/x8azdk1/s/live-480@60.m3u8
+RLPRO TV,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
