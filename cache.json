@@ -15037,5 +15037,15 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/20b3af3a7a84907a49af40e87a6bab73.webp"
   },
   "TVRI SPORT": null,
-  "AWE ENCORE": null
+  "AWE ENCORE": null,
+  "Digi+ Documentary": null,
+  "Silk Documentary": null,
+  "Silk Universal": null,
+  "Starvision TV": null,
+  "TV 25": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2c303059836d6e6021f77a6cbc69ef93.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c303059836d6e6021f77a6cbc69ef93.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2c303059836d6e6021f77a6cbc69ef93.webp"
+  },
+  "Planete+": null
 }

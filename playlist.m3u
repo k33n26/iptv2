@@ -3851,6 +3851,20 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
 #EXTINF:-1 group-title="Belgesel" ,AWE ENCORE
 https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,Digi+ Documentary
+http://3.team.ga/ch1493/mono.m3u8?token=zazann.v2_LljHoRyJ9W1eN33tG44IwKhLbxqOWawHeoWO0aqeQIJe3ckWwF3YaxyoDN6TQY4REy_Umg4ZQ74
+#EXTINF:-1 group-title="Belgesel" ,Silk Documentary
+http://3.team.ga/ch1620/mono.m3u8?token=zazann.v2_zp9ualW4iigMrDHKIhHIGWhGHGI-cdJbDER73y1wQmg0T-j67KSudK-8iyQPQj3e-10wkSdM89w
+#EXTINF:-1 group-title="Belgesel" ,Silk Universal
+http://3.team.ga/ch1592/mono.m3u8?token=zazann.v2_K37xLJXUpjVYolM0ufCDQ1tT5NHfSyy3zMG_AVyGJY5czYQ3yiju_9Tye3QoDT-3rSWnG91xJGA
+#EXTINF:-1 group-title="Belgesel" ,Starvision TV
+http://3.team.ga/ch2815/mono.m3u8?token=zazann.v2_67DnLd0kYqVMnB4zt4UPGRH_q2N4VXPfhCvQf-W-OB1ExcJ9KWfH9glbDAWkxMT1zYrEshqTyk8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2c303059836d6e6021f77a6cbc69ef93.webp",TV 25
+http://3.team.ga/ch1210/mono.m3u8?token=zazann.v2_O6oPLyfih4ByP8H2TUkak_yBrg0XVfsU-CxWpIGAprj_EcFXfgkvx5fej1r2Op7aKILFByKxJiU
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0ca4399271eecc845c15fd3959921f75.webp",TV4
+http://3.team.ga/ch2037/mono.m3u8?token=zazann.v2_v4BeoF_z48J9TTJ5li82nM3RCHdYtWg1k8dSsW1pwurs2JwDENDaKVvt4O5B1minb1f0roC7ITM
+#EXTINF:-1 group-title="Belgesel" ,Planete+
+http://3.team.ga/ch2390/mono.m3u8?token=zazann.v2_qK0e0RHFzoesPH33BBvVGklCOs4NZpwVrAwLIYmaTbAHHqgr46BZhT4Lztk7ldFjiieszbJK3wQ
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
