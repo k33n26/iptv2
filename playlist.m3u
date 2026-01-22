@@ -3865,6 +3865,16 @@ http://3.team.ga/ch1210/mono.m3u8?token=zazann.v2_O6oPLyfih4ByP8H2TUkak_yBrg0XVf
 http://3.team.ga/ch2037/mono.m3u8?token=zazann.v2_v4BeoF_z48J9TTJ5li82nM3RCHdYtWg1k8dSsW1pwurs2JwDENDaKVvt4O5B1minb1f0roC7ITM
 #EXTINF:-1 group-title="Belgesel" ,Planete+
 http://3.team.ga/ch2390/mono.m3u8?token=zazann.v2_qK0e0RHFzoesPH33BBvVGklCOs4NZpwVrAwLIYmaTbAHHqgr46BZhT4Lztk7ldFjiieszbJK3wQ
+#EXTINF:-1 group-title="Belgesel" ,NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="Belgesel" ,WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="Belgesel" ,Viasat Nature(BG)
+http://lb.digicom.bg:8888/viasat.nature/index.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b192a49caedd21580329a48b695ea523.webp",History JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="Belgesel" ,Discovery JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV
