@@ -14,3 +14,53 @@ Canal Anime Onegai 2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
 Canal Anime Onegai 3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 Canal Anime Onegai 4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 Canal Anime Onegai 5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+BS Asahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+BS Nippon TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+BS Shochiku Tokyu,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+Cartoon Network Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+Channel Ginga,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+CNNj,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+Eisei Gekijo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+Family Gekijo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+Fishing Vision,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+LaLa TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+MBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+Mondo TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+Movie Plus,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+National Geographic Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+NHK E (Tokyo),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+NHK G (Osaka),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+NHK G (Tokyo),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+Nihon Eiga Senmon,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+Nippon TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+Nittele G Plus,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+Sky A,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+Star 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+Sun TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+Tabi Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+TAKARAZUKA SKY STAGE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+TBS News,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+Toei Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+Tokyo MX1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+WOWOW Cinema,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+WOWOW Live,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+WOWOW Prime,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+YTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+
+
+
+
+
+
+
+
+
+
+
