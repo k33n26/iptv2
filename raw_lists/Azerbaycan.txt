@@ -1,2 +1,3 @@
 Vilayet TV,https://nl.livekadeh.com/hls2/vilayet_src.m3u8
 Kapaz,http://85.132.78.122:8050/hls/stream/index.m3u8
+Ayaz Tv,https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
