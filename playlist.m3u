@@ -37,6 +37,10 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
 #EXTINF:-1 group-title="Avusturya" ,REDBULL-TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Kongo" ,EMCI TV Afrique
+https://live.eu-north-1a.cf.dmcdn.net/sec2(w3VomzUKtdKZVa9u8msEwgEuFx4zICROTDhKDgkZx9Z_tOcya3EdI2H8Ksx6yPrLAJfuNa-EViU1x0038xlk0574E-eAQiPbMONo2vq28_Cnb_ITub0Es-WDmE_Z2Yd1)/dm/3/x8azdk1/s/live-480@60.m3u8
+#EXTINF:-1 group-title="Kongo" ,RLPRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 group-title="Slovenya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/09fec330348b720e8710ca590440f177.webp",Prava TV
 https://customer-utk39z3nlycl89nu.cloudflarestream.com/e1eca6b2e48efdc31299528917f975e7/manifest/stream_t01e8fd18b0b29368837b399beb2b3399_r1342625008.m3u8?llhlsHBs=0.9
 #EXTINF:-1 group-title="Belarus" ,BELARUS 1
