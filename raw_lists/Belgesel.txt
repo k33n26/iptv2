@@ -168,7 +168,7 @@ TEVA,http://151.80.18.177:86/Teva_HD/index.m3u8
 DISCOVERY,http://151.80.18.177:86/Discovery_HD/index.m3u8
 National Geo,http://151.80.18.177:86/National_Geo_HD/index.m3u8
 RMC DECOUVERDE,http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
-
+AWE ENCORE,https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 
 
