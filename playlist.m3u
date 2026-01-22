@@ -375,6 +375,8 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/62a36e3f28a09e66c7595addc013397
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,ONS-TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turkiye" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/62d9b0c5b15a5a0833169b5116e45b3d.webp",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 group-title="Turkiye" ,RIZETURK-TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 group-title="Turkiye" ,Ilke-TV

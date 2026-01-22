@@ -14945,5 +14945,10 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/80cd2185c832b2c08ef28f92d1a0f5e7.webp"
   },
   "EMCI TV Afrique": null,
-  "RLPRO TV": null
+  "RLPRO TV": null,
+  "GZT": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/62d9b0c5b15a5a0833169b5116e45b3d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/62d9b0c5b15a5a0833169b5116e45b3d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/62d9b0c5b15a5a0833169b5116e45b3d.webp"
+  }
 }
