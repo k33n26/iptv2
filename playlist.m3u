@@ -3917,6 +3917,82 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 #EXTINF:-1 group-title="Japonya" ,Canal Anime Onegai 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+#EXTINF:-1 group-title="Japonya" ,BS Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 group-title="Japonya" ,BS Nippon TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="Japonya" ,BS Shochiku Tokyu
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#EXTINF:-1 group-title="Japonya" ,Cartoon Network Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="Japonya" ,Channel Ginga
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 group-title="Japonya" ,CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 group-title="Japonya" ,Eisei Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 group-title="Japonya" ,Family Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/740cffeb5226f880bb307568d00dd748.webp",Fishing Vision
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0140bbd913ad60065c5db25f09951101.webp",LaLa TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a86bc043b40aacc2c2d6436af2d3281d.webp",MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="Japonya" ,Mondo TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fbf677c2b9c61c2375d0528a0793dd19.webp",Movie Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/65d3b174a022f2bca52dda0484a412de.webp",MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 group-title="Japonya" ,Music Japan TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 group-title="Japonya" ,National Geographic Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="Japonya" ,NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="Japonya" ,NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="Japonya" ,NHK E (Tokyo)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="Japonya" ,NHK G (Osaka)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="Japonya" ,NHK G (Tokyo)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="Japonya" ,Nihon Eiga Senmon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="Japonya" ,Nippon TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="Japonya" ,Nittele G Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="Japonya" ,Sky A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="Japonya" ,Space Shower TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="Japonya" ,Star 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 group-title="Japonya" ,Sun TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f6d687d44b863e4ba2fa64edae43d1c1.webp",Tabi Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 group-title="Japonya" ,TAKARAZUKA SKY STAGE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c370dca571a8e9eeb48104236808fe8d.webp",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="Japonya" ,TBS News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+#EXTINF:-1 group-title="Japonya" ,Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="Japonya" ,Tokyo MX1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 group-title="Japonya" ,WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 group-title="Japonya" ,WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="Japonya" ,WOWOW Prime
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9a2f56fa735f694d3e38f2802b8d2e06.webp",YTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 #EXTINF:-1 group-title="Fas" ,Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 group-title="Fas" ,2M MONDE
