@@ -169,9 +169,13 @@ DISCOVERY,http://151.80.18.177:86/Discovery_HD/index.m3u8
 National Geo,http://151.80.18.177:86/National_Geo_HD/index.m3u8
 RMC DECOUVERDE,http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
 AWE ENCORE,https://aweencore-vizio.amagi.tv/playlist.m3u8
-
-
-
+Digi+ Documentary,http://3.team.ga/ch1493/mono.m3u8?token=zazann.v2_LljHoRyJ9W1eN33tG44IwKhLbxqOWawHeoWO0aqeQIJe3ckWwF3YaxyoDN6TQY4REy_Umg4ZQ74
+Silk Documentary,http://3.team.ga/ch1620/mono.m3u8?token=zazann.v2_zp9ualW4iigMrDHKIhHIGWhGHGI-cdJbDER73y1wQmg0T-j67KSudK-8iyQPQj3e-10wkSdM89w
+Silk Universal,http://3.team.ga/ch1592/mono.m3u8?token=zazann.v2_K37xLJXUpjVYolM0ufCDQ1tT5NHfSyy3zMG_AVyGJY5czYQ3yiju_9Tye3QoDT-3rSWnG91xJGA
+Starvision TV,http://3.team.ga/ch2815/mono.m3u8?token=zazann.v2_67DnLd0kYqVMnB4zt4UPGRH_q2N4VXPfhCvQf-W-OB1ExcJ9KWfH9glbDAWkxMT1zYrEshqTyk8
+TV 25,http://3.team.ga/ch1210/mono.m3u8?token=zazann.v2_O6oPLyfih4ByP8H2TUkak_yBrg0XVfsU-CxWpIGAprj_EcFXfgkvx5fej1r2Op7aKILFByKxJiU
+TV4,http://3.team.ga/ch2037/mono.m3u8?token=zazann.v2_v4BeoF_z48J9TTJ5li82nM3RCHdYtWg1k8dSsW1pwurs2JwDENDaKVvt4O5B1minb1f0roC7ITM
+Planete+,http://3.team.ga/ch2390/mono.m3u8?token=zazann.v2_qK0e0RHFzoesPH33BBvVGklCOs4NZpwVrAwLIYmaTbAHHqgr46BZhT4Lztk7ldFjiieszbJK3wQ
 
 
 
