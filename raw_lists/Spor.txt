@@ -1,0 +1,40 @@
+XSPORT,http://iptv.prosto.tv:7000/ch109/video.m3u8
+XSPORT FHD,http://iptv.prosto.tv:7000/ch110/video.m3u8
+MOTOR RACING,https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+CANAL MOTOR,http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+HORIZON SPORTS,https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+WORLD OF FREE SPORTS,https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
+WORLD BILLIARDS,https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+STRONGMAN CHAMPIONS LEAGUE,https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+TURKMEN SPORT,http://217.174.225.146/hls/ch004_720/index.m3u8
+RED BULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+CANAL DO INTER (BR),https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+GAORA SPORTS (JP),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+J SPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J SPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J SPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J SPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+PAC 12 INSIDER,https://pac12-roku-us.amagi.tv/playlist.m3u8
+SAN MARINO RTV SPORT,https://smrtvlive.b-cdn.net/bcdn_token=C8e-oWmABjxasoqb0uXgmCm9f1TnFv3InAu0nmNmUhU&token_path=%2Flive&expires=1769075586/live/smrtv-ch02/playlist.m3u8
+TR SPORT,https://livetr.teleromagna.it/mia/live/playlist.m3u8
+TRACE SPORT STARTS,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+UNBEATEN,https://unbeaten-tcl.amagi.tv/playlist.m3u8
+REAL MADRID TV,https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+ACCDN,https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+AFRICA 24 SPORT,https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+BAHRAIN SPORTS 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+BAHRAIN SPORTS 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+BEK TV SPORTS WEST,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+ČT SPORT,http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+FB TV,http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+FUEL TV,https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+INTER TV,https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+MTRSPT 1,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+KOZOOM TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+MAVTV,https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+MNB SPORT,https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+RTA SPORT,https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+SOS KANAL PLUS,https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+SPORTS TV,https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+TVRI SPORT,https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
