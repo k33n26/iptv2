@@ -179,6 +179,8 @@ Planete+,http://3.team.ga/ch2390/mono.m3u8?token=zazann.v2_qK0e0RHFzoesPH33BBvVG
 NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 WOWOW Live,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 Viasat Nature(BG),http://lb.digicom.bg:8888/viasat.nature/index.m3u8
+History JP,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+Discovery JP,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
 
 
