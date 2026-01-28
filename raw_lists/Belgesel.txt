@@ -181,6 +181,6 @@ WOWOW Live,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs
 Viasat Nature(BG),http://lb.digicom.bg:8888/viasat.nature/index.m3u8
 History JP,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 Discovery JP,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-
+BBC TRAVEL,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
 
 
