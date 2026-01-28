@@ -1631,7 +1631,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a1c4eb450799cb3f30c400d0201414e7.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a1c4eb450799cb3f30c400d0201414e7.webp"
   },
-  "DiscoveryID": null,
+  "DiscoveryID": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ffb34d5e05d77be0443b878428720c56.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ffb34d5e05d77be0443b878428720c56.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ffb34d5e05d77be0443b878428720c56.webp"
+  },
   "DocuScreen": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/926dce422a96052375172bd0be729c24.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/926dce422a96052375172bd0be729c24.webp",
@@ -15119,5 +15123,6 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b192a49caedd21580329a48b695ea523.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b192a49caedd21580329a48b695ea523.webp"
   },
-  "Discovery JP": null
+  "Discovery JP": null,
+  "BBC TRAVEL": null
 }
