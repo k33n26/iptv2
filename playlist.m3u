@@ -1941,7 +1941,7 @@ https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.
 https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
 #EXTINF:-1 group-title="Luksemburg" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9f09594706f0260bb0316ff55b5b1a60.webp",RTL9
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
-#EXTINF:-1 group-title="Luksemburg" ,Apart TV
+#EXTINF:-1 group-title="Luksemburg" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5de85ce02dfcb329443ffbb6db87d112.webp",Apart TV
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/chunklist.m3u8
 #EXTINF:-1 group-title="Luksemburg" ,Dudelange TV
 https://streamer20.multimedia.blue/Eltrona/DudelangeTV/chunklist_w481382086.m3u8
@@ -3885,6 +3885,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="Belgesel" ,BBC TRAVEL
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
+#EXTINF:-1 group-title="Belgesel" ,Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f3c3bfa870c3a5f144c38d1fd63a186e.webp",PARK TV
+https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" ,PARK TV(2)
+http://lb.streaming.sk:80/parktv/stream/playlist.m3u8
 #EXTINF:-1 group-title="Andorra" ,RTV
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/h264_1080p_manifest.m3u8
 #EXTINF:-1 group-title="Nepal" ,Capital TV

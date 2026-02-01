@@ -1214,7 +1214,11 @@
   "TV Jurmala": null,
   "Vidusdaugavas Televizija": null,
   "Re TV": null,
-  "Apart TV": null,
+  "Apart TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5de85ce02dfcb329443ffbb6db87d112.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5de85ce02dfcb329443ffbb6db87d112.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5de85ce02dfcb329443ffbb6db87d112.webp"
+  },
   "Dudelange TV": null,
   "Mamer TV": null,
   "RTL Tele Letzebuerg": null,
@@ -15148,5 +15152,12 @@
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bb0d231cdbd59b07698b602ea0e7d560.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bb0d231cdbd59b07698b602ea0e7d560.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bb0d231cdbd59b07698b602ea0e7d560.webp"
-  }
+  },
+  "Karbala Documentary": null,
+  "PARK TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f3c3bfa870c3a5f144c38d1fd63a186e.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f3c3bfa870c3a5f144c38d1fd63a186e.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f3c3bfa870c3a5f144c38d1fd63a186e.webp"
+  },
+  "PARK TV(2)": null
 }
