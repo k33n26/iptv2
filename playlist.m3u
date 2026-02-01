@@ -969,7 +969,7 @@ https://best-str.umn.cdn.united.cloud/stream?i=TgDwzn9bh9qOUHQ2o0p_wg&a=YEI0y-Nd
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1 group-title="Bosna-Hersek" ,TVZE
 https://stream.rtvze.ba/live/123/123-301902.ts
-#EXTINF:-1 group-title="Bosna-Hersek" ,BHT 1
+#EXTINF:-1 group-title="Bosna-Hersek" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/10482cdc5de49427ca6215b6ba863024.webp",BHT 1
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 group-title="Bosna-Hersek" ,RTRS-TV
 https://parh.rtrs.tv/tv/live/chunklist_w617800997.m3u8
@@ -1433,6 +1433,14 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://player.tvnet.lv/stream/amlst:61659/chunklist_w453417690_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/088f47d27aca1053823567d22df3a168.webp",3SAT
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f635c3a476f809f4948a9468ccfa957f.webp",PRO7
+http://5.180.164.5:9981/stream/channelid/828295634?profile=Customer
+#EXTINF:-1 group-title="Almanya" ,SAT1
+http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/800ba826689e13a89d4eb5699b5b0389.webp",PRO7 MAXX
+http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bb0d231cdbd59b07698b602ea0e7d560.webp",SAT1 GOLD
+http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef9a847178d6115213d30a23cec021cd.webp",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 group-title="Almanya" ,RTL Super
@@ -1549,7 +1557,7 @@ https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/chunks.m3u8?nimblesessionid=1109943727
 #EXTINF:-1 group-title="Almanya" ,hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master-720p-3200.m3u8
-#EXTINF:-1 group-title="Almanya" ,l tv
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4ec64d078b01068e58f165817e44e8ce.webp",l tv
 https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8
 #EXTINF:-1 group-title="Almanya" ,Munchen TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunks.m3u8?nimblesessionid=1109945207

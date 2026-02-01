@@ -808,7 +808,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a93adea4e4e9dad0aadf08da85137c7b.webp"
   },
   "hr-fernsehen": null,
-  "l tv": null,
+  "l tv": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/4ec64d078b01068e58f165817e44e8ce.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4ec64d078b01068e58f165817e44e8ce.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4ec64d078b01068e58f165817e44e8ce.webp"
+  },
   "MDR (tokench)": null,
   "Munchen TV": null,
   "NDR": {
@@ -881,7 +885,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/64c28aaf48b05cf27697aeb6afe2910d.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/64c28aaf48b05cf27697aeb6afe2910d.webp"
   },
-  "BHT 1": null,
+  "BHT 1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/10482cdc5de49427ca6215b6ba863024.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/10482cdc5de49427ca6215b6ba863024.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/10482cdc5de49427ca6215b6ba863024.webp"
+  },
   "NTV IC Kakanj": null,
   "Televizija M": null,
   "RTRS plus": null,
@@ -15124,5 +15132,21 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b192a49caedd21580329a48b695ea523.webp"
   },
   "Discovery JP": null,
-  "BBC TRAVEL": null
+  "BBC TRAVEL": null,
+  "PRO7": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f635c3a476f809f4948a9468ccfa957f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f635c3a476f809f4948a9468ccfa957f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f635c3a476f809f4948a9468ccfa957f.webp"
+  },
+  "SAT1": null,
+  "PRO7 MAXX": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/800ba826689e13a89d4eb5699b5b0389.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/800ba826689e13a89d4eb5699b5b0389.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/800ba826689e13a89d4eb5699b5b0389.webp"
+  },
+  "SAT1 GOLD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bb0d231cdbd59b07698b602ea0e7d560.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bb0d231cdbd59b07698b602ea0e7d560.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bb0d231cdbd59b07698b602ea0e7d560.webp"
+  }
 }
