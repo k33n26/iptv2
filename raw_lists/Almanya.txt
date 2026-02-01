@@ -1,4 +1,8 @@
 3SAT,https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+PRO7,http://5.180.164.5:9981/stream/channelid/828295634?profile=Customer
+SAT1,http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
+PRO7 MAXX,http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
+SAT1 GOLD,http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
 WELT,https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 RTL Super,https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 Phoenix,https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
