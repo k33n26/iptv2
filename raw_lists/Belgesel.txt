@@ -185,3 +185,4 @@ BBC TRAVEL,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls
 Karbala Documentary,https://ktvlive.online/stream/hls/ch3.m3u8
 PARK TV,https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 PARK TV(2),http://lb.streaming.sk:80/parktv/stream/playlist.m3u8
+DOCUBOX,https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8

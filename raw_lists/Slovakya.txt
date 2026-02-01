@@ -4,3 +4,5 @@ Markiza Krimi,https://cdnsk003.panaccess.com/local/Markiza_krimi/tracks-v1a1/mon
 MTR,https://cdnsk003.panaccess.com/local/Ruzomberok/tracks-v1a1/mono.m3u8
 Televizia Mocenok,https://5ca49f2417d90.streamlock.net/mocenok/livestream/chunklist_w1768861797.m3u8
 TVT,https://5ca49f2417d90.streamlock.net/live/turzovka/chunklist_w1426185184.m3u8
+NZTV,https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+NZTV(tkn),https://livestream.lznet.work/hls/nztv-playout/1_2/index.m3u8?tkn=2816898580
