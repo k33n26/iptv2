@@ -108,11 +108,19 @@
   "Al Maghribia": null,
   "Bergamo TV": null,
   "Chumbak TV": null,
-  "TRT-1": null,
+  "TRT-1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/945386457ebb97550eb3851fb6b9a298.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/945386457ebb97550eb3851fb6b9a298.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/945386457ebb97550eb3851fb6b9a298.webp"
+  },
   "TRT-2": null,
   "TRT-BELGESEL": null,
   "TRT-NOSTALJI": null,
-  "TRT-SPOR": null,
+  "TRT-SPOR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/41c60b9d073bc1b2790b577c879e9e86.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/41c60b9d073bc1b2790b577c879e9e86.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/41c60b9d073bc1b2790b577c879e9e86.webp"
+  },
   "TRT-SPOR-YILDIZ": null,
   "TRT-TURK": null,
   "TRT-AVAZ": null,
@@ -298,7 +306,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5581acdcdaba2b1c8edf5631ce485969.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5581acdcdaba2b1c8edf5631ce485969.webp"
   },
-  "KANAL-D": null,
+  "KANAL-D": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3f7d9ddf609da634088b4bebaf3cc651.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3f7d9ddf609da634088b4bebaf3cc651.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3f7d9ddf609da634088b4bebaf3cc651.webp"
+  },
   "EURO-D": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/236f9271b2b5d7bbf81e5644d0ebf9d6.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/236f9271b2b5d7bbf81e5644d0ebf9d6.webp",
@@ -1274,7 +1286,11 @@
   },
   "Altena TV": null,
   "BredaNu TV": null,
-  "BVN": null,
+  "BVN": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ff0e7c3416c5a5b2dd1efe16f0b63b78.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ff0e7c3416c5a5b2dd1efe16f0b63b78.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ff0e7c3416c5a5b2dd1efe16f0b63b78.webp"
+  },
   "Capital TV": null,
   "Indigenous Television": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2a0968ec0b1996615fa466af6328b928.webp",
@@ -15160,5 +15176,127 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f3c3bfa870c3a5f144c38d1fd63a186e.webp"
   },
   "PARK TV(2)": null,
-  "NZTV(tkn)": null
+  "NZTV(tkn)": null,
+  "Animal Planet HD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f70efe81e859a5a1ef45cef66199f41d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f70efe81e859a5a1ef45cef66199f41d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f70efe81e859a5a1ef45cef66199f41d.webp"
+  },
+  "National Geographic HD": null,
+  "Nat Geo Wild HD": null,
+  "DocuBox HD": null,
+  "HGTV HD": null,
+  "HD Life": null,
+  "Viasat Nature": null,
+  "Viasat Explore": null,
+  "Viasat History HD": null,
+  "Viju Explore HD": null,
+  "Viju History HD": null,
+  "Viju Nature HD": null,
+  "Viju+ Planet HD": null,
+  "Big Planet HD": null,
+  "Travel Channel HD": null,
+  "RTG HD": null,
+  "History HD": null,
+  "H2 HD": null,
+  "The Explorers": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ec11a99411025b257730f5d59a696e95.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ec11a99411025b257730f5d59a696e95.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ec11a99411025b257730f5d59a696e95.webp"
+  },
+  "Travel+Adventure HD": null,
+  "Travel XP HD": null,
+  "Through the Eyes of a Tourist HD": null,
+  "Adventures TV HD": null,
+  "Big Asia HD": null,
+  "Wild Nature HD": null,
+  "Let’s Go HD": null,
+  "Zhivaya Planeta": null,
+  "The Fisherman": null,
+  "Hunter & Fisherman HD": null,
+  "Hunting and Fishing": null,
+  "Fishing HD": null,
+  "Fishing Dialogues": null,
+  "Wild Hunt HD": null,
+  "Wild Fishing HD": null,
+  "Continent E": null,
+  "Trophy HD": null,
+  "Suburban Life TV": null,
+  "Suburban / Country Life": null,
+  "Estate": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b41345e412f177a82b7640447968a5ed.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b41345e412f177a82b7640447968a5ed.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b41345e412f177a82b7640447968a5ed.webp"
+  },
+  "6 Acres": null,
+  "Dacha HD": null,
+  "ZooSweet": null,
+  "About Kyiv": null,
+  "Znayem 24": null,
+  "True Stories HD": null,
+  "Wild": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/dc81f161d89ab15ceb29b7445dfee757.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dc81f161d89ab15ceb29b7445dfee757.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/dc81f161d89ab15ceb29b7445dfee757.webp"
+  },
+  "Arsenal TV HD": null,
+  "Muzhskoy TV": null,
+  "Science 2.0": null,
+  "My Planet": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7ccb86d4f632f5373db02aee85474877.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7ccb86d4f632f5373db02aee85474877.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7ccb86d4f632f5373db02aee85474877.webp"
+  },
+  "Planeta TV": null,
+  "Who’s WHO": null,
+  "History ru": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b5b728e686c4be0291dac3c6e24dfb55.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b5b728e686c4be0291dac3c6e24dfb55.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b5b728e686c4be0291dac3c6e24dfb55.webp"
+  },
+  "365 Days TV": null,
+  "Weapons TV": null,
+  "Terra": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9c557202449df095780589c2e6e0fe50.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9c557202449df095780589c2e6e0fe50.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9c557202449df095780589c2e6e0fe50.webp"
+  },
+  "Terra HD": null,
+  "Time Machine TV": null,
+  "Domashnie Zhivotnye TV": null,
+  "Ocean TV": null,
+  "Galaxy": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/756fb2b980ffa9a26e5290293efba3aa.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/756fb2b980ffa9a26e5290293efba3aa.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/756fb2b980ffa9a26e5290293efba3aa.webp"
+  },
+  "My Element TV": null,
+  "Teleputeshestviya TV": null,
+  "World of Animals": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f0d9dd38fdc547a2177508ce90a406a9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f0d9dd38fdc547a2177508ce90a406a9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f0d9dd38fdc547a2177508ce90a406a9.webp"
+  },
+  "First Space Channel": null,
+  "Nauka TV": null,
+  "One Planet HD": null,
+  "UTravel": null,
+  "Lost World": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d752f3a28ba68914599fd523d09ef831.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d752f3a28ba68914599fd523d09ef831.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d752f3a28ba68914599fd523d09ef831.webp"
+  },
+  "CGTN Russian": null,
+  "Curiosity Stream HD": null,
+  "Drive Channel": null,
+  "T24": null,
+  "RTG TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ee0cdc3683b8a18bbca89691c6d7a8d4.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ee0cdc3683b8a18bbca89691c6d7a8d4.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/ee0cdc3683b8a18bbca89691c6d7a8d4.webp"
+  },
+  "Zoo TV": null,
+  "Who Goes Where TV": null,
+  "MM Discoveries TV": null,
+  "Dog & Co TV": null
 }
