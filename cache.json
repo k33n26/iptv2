@@ -114,14 +114,22 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/945386457ebb97550eb3851fb6b9a298.webp"
   },
   "TRT-2": null,
-  "TRT-BELGESEL": null,
+  "TRT-BELGESEL": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/d9961e0992ca4d41e2747255e975b050.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d9961e0992ca4d41e2747255e975b050.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/d9961e0992ca4d41e2747255e975b050.webp"
+  },
   "TRT-NOSTALJI": null,
   "TRT-SPOR": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/41c60b9d073bc1b2790b577c879e9e86.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/41c60b9d073bc1b2790b577c879e9e86.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/41c60b9d073bc1b2790b577c879e9e86.webp"
   },
-  "TRT-SPOR-YILDIZ": null,
+  "TRT-SPOR-YILDIZ": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/da63213c4a03405f16b6fb14dc42dcc1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/da63213c4a03405f16b6fb14dc42dcc1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/da63213c4a03405f16b6fb14dc42dcc1.webp"
+  },
   "TRT-TURK": null,
   "TRT-AVAZ": null,
   "TRT-COCUK": null,
@@ -211,7 +219,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/954faa98c80f12f4da19299c5f908f93.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/954faa98c80f12f4da19299c5f908f93.webp"
   },
-  "EKOL-TV": null,
+  "EKOL-TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/14b0cdabdbe751b2526e11afd905cdfc.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/14b0cdabdbe751b2526e11afd905cdfc.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/14b0cdabdbe751b2526e11afd905cdfc.webp"
+  },
   "FLASHHABER-TV": null,
   "LIDERHABER-TV": null,
   "HABERTURK": {
@@ -231,7 +243,11 @@
   },
   "CNN-TURK": null,
   "KANAL-24": null,
-  "TGRT-HABER": null,
+  "TGRT-HABER": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bebaf64de30df4c4067c87e1e57d8506.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bebaf64de30df4c4067c87e1e57d8506.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bebaf64de30df4c4067c87e1e57d8506.webp"
+  },
   "BLOOMBERG-HT": null,
   "EKOTURK-TV": null,
   "ULUSAL-TV": null,
@@ -402,7 +418,11 @@
   "ASPOR": null,
   "ASPOR(2)": null,
   "ASPOR(3)": null,
-  "HT-SPOR": null,
+  "HT-SPOR": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/b7d5963762cc29f03cfb9a0b68aa89bd.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b7d5963762cc29f03cfb9a0b68aa89bd.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/b7d5963762cc29f03cfb9a0b68aa89bd.webp"
+  },
   "HT-SPOR(2)": null,
   "EKOL-SPOR": null,
   "FB-TV": null,
@@ -661,7 +681,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/973b050c50fc6ac0cc62ffa7a942c657.webp"
   },
   "ERT1": null,
-  "ERT2": null,
+  "ERT2": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a45cef7a7b0039b8a5101813ada940b3.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a45cef7a7b0039b8a5101813ada940b3.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a45cef7a7b0039b8a5101813ada940b3.webp"
+  },
   "ERT3": null,
   "ERT-WORLD": null,
   "ERT-NEWS": null,
@@ -737,7 +761,11 @@
   },
   "KAN11": null,
   "CH12": null,
-  "CH13": null,
+  "CH13": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a4dfcbcfb6868d3589a921096136cb2c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a4dfcbcfb6868d3589a921096136cb2c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a4dfcbcfb6868d3589a921096136cb2c.webp"
+  },
   "CH14": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9f6c469304543057850c21748dd9f9d8.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9f6c469304543057850c21748dd9f9d8.webp",
@@ -1758,7 +1786,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/805eb38a4b588273495274fcfa0ae07f.webp"
   },
   "Toprak TV": null,
-  "Koy TV": null,
+  "Koy TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/db3f9e768b110610bbd9e732e81ef0b6.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/db3f9e768b110610bbd9e732e81ef0b6.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/db3f9e768b110610bbd9e732e81ef0b6.webp"
+  },
   "Travel Xp": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f55370aa211c431f5c67dd29cc4fe770.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f55370aa211c431f5c67dd29cc4fe770.webp",
@@ -1841,7 +1873,11 @@
   },
   "TV8": null,
   "BUSUIOC TV": null,
-  "MNet Sport": null,
+  "MNet Sport": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a89fa0520800b93cf2a69477cc60a4c8.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a89fa0520800b93cf2a69477cc60a4c8.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a89fa0520800b93cf2a69477cc60a4c8.webp"
+  },
   "MNet Kids": null,
   "MNet Gourmet": null,
   "MNet Info": null,
@@ -1896,7 +1932,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/9d2fe5d83b755aae1d342f0572b4b2f4.webp"
   },
   "NAUKA 2": null,
-  "UNKNOWN RUSSIA": null,
+  "UNKNOWN RUSSIA": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/bdee96b9f788df8606e8fa64f19b06b1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/bdee96b9f788df8606e8fa64f19b06b1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/bdee96b9f788df8606e8fa64f19b06b1.webp"
+  },
   "UNKNOWN PLANET": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/9b4c41458777eeb05c80ae07b485be64.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/9b4c41458777eeb05c80ae07b485be64.webp",
@@ -2115,7 +2155,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/33c1ae67633aef6b1d2e0f584a11c9c5.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/33c1ae67633aef6b1d2e0f584a11c9c5.webp"
   },
-  "Ora News": null,
+  "Ora News": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6da21239e88f43de2a4978ad23726051.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6da21239e88f43de2a4978ad23726051.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6da21239e88f43de2a4978ad23726051.webp"
+  },
   "Report TV HD": null,
   "Setenta Sports": null,
   "TiviBU Spor1": null,
@@ -2238,16 +2282,28 @@
   "TV-PLATFORMLARI": null,
   "CCTV-1": null,
   "CCTV-2": null,
-  "CCTV-3": null,
+  "CCTV-3": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/852ac815f378e6d6ab518ee11dc43ed1.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/852ac815f378e6d6ab518ee11dc43ed1.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/852ac815f378e6d6ab518ee11dc43ed1.webp"
+  },
   "CCTV-4": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/f47550e52781a20ff074028df2c4f1f0.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f47550e52781a20ff074028df2c4f1f0.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f47550e52781a20ff074028df2c4f1f0.webp"
   },
-  "CCTV-5": null,
+  "CCTV-5": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2e0932f5196729d3ba56f0770776dd21.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/2e0932f5196729d3ba56f0770776dd21.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/2e0932f5196729d3ba56f0770776dd21.webp"
+  },
   "CCTV-6": null,
   "CCTV-7": null,
-  "CCTV-8": null,
+  "CCTV-8": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/474fc0fc5e7e2edccecfa8026d5bc275.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/474fc0fc5e7e2edccecfa8026d5bc275.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/474fc0fc5e7e2edccecfa8026d5bc275.webp"
+  },
   "CCTV-9": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/93b8e95fbcf8cfe0d76d0ec140a2d5da.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/93b8e95fbcf8cfe0d76d0ec140a2d5da.webp",
@@ -2609,7 +2665,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0454236a66b299894fc9ee3f5e8fc6b6.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0454236a66b299894fc9ee3f5e8fc6b6.webp"
   },
-  "Siar": null,
+  "Siar": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/7e8f1e2d99d56e46cfe2cf7ffeb48e0d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/7e8f1e2d99d56e46cfe2cf7ffeb48e0d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/7e8f1e2d99d56e46cfe2cf7ffeb48e0d.webp"
+  },
   "Citra": null,
   "Citra backup": null,
   "Sensasi": null,
@@ -2769,7 +2829,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0a5443b583999c372e68567c9a74a849.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0a5443b583999c372e68567c9a74a849.webp"
   },
-  "Adithya": null,
+  "Adithya": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/327da0054d7c9c136df1d0db4f3e7684.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/327da0054d7c9c136df1d0db4f3e7684.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/327da0054d7c9c136df1d0db4f3e7684.webp"
+  },
   "Makkal TV": null,
   "Zee Action": null,
   "Astro KTV": null,
@@ -2810,7 +2874,11 @@
   "Bollyone": null,
   "Astro Sunmusic": null,
   "Vijay Super": null,
-  "Vellithirai": null,
+  "Vellithirai": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/429d2f06ee4d9da61a0b89e4b8bb146c.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/429d2f06ee4d9da61a0b89e4b8bb146c.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/429d2f06ee4d9da61a0b89e4b8bb146c.webp"
+  },
   "Channel 3 Thailand": null,
   "Channel 5 Thailand": null,
   "Channel 7 Thailand": null,
@@ -2915,7 +2983,11 @@
   "LOVE NATURE NL": null,
   "MTV NL": null,
   "NET5": null,
-  "NPO1": null,
+  "NPO1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/c75764e1cb9336a25139c00add697b68.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c75764e1cb9336a25139c00add697b68.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/c75764e1cb9336a25139c00add697b68.webp"
+  },
   "NPO2": null,
   "NPO3": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/95009ce158269f1d85b760b5f49e645e.webp",
@@ -3738,7 +3810,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/046c183f4f6e980aa3ca6d6105002fcb.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/046c183f4f6e980aa3ca6d6105002fcb.webp"
   },
-  "LA TELE": null,
+  "LA TELE": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/0f1c2074e7f78d6b818a0f63e7511f26.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0f1c2074e7f78d6b818a0f63e7511f26.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0f1c2074e7f78d6b818a0f63e7511f26.webp"
+  },
   "LCP": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5936c61a9f71fdd7e0cfd388a4c37353.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5936c61a9f71fdd7e0cfd388a4c37353.webp",
@@ -3755,7 +3831,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/0ad045da514ed7234f8f073849c3b793.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/0ad045da514ed7234f8f073849c3b793.webp"
   },
-  "NOVO 19": null,
+  "NOVO 19": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/41f424f7d4d9b05cd9dc74f722a2eb1f.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/41f424f7d4d9b05cd9dc74f722a2eb1f.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/41f424f7d4d9b05cd9dc74f722a2eb1f.webp"
+  },
   "NRTV": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/da48b4118d45e452906c66aac30af1ae.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/da48b4118d45e452906c66aac30af1ae.webp",
@@ -14897,7 +14977,11 @@
   "FOOD_NETWORK": null,
   "COOKING_CHANNEL": null,
   "TLC 2": null,
-  "Game Show Central": null,
+  "Game Show Central": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a183a01be534cf700fa7da476fd037f3.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a183a01be534cf700fa7da476fd037f3.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a183a01be534cf700fa7da476fd037f3.webp"
+  },
   "Travel_Channel": null,
   "HLN TV": null,
   "DIY Netword": {
@@ -14911,7 +14995,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/4287696b7e31ff64c71454df67bd0122.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/4287696b7e31ff64c71454df67bd0122.webp"
   },
-  "CCTV1": null,
+  "CCTV1": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/3d8e093d50b1a060c11758de78cca54d.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/3d8e093d50b1a060c11758de78cca54d.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/3d8e093d50b1a060c11758de78cca54d.webp"
+  },
   "CCTV2": null,
   "CCTV5": null,
   "CCTV5+": null,
@@ -15072,7 +15160,11 @@
   "AWE ENCORE": null,
   "Digi+ Documentary": null,
   "Silk Documentary": null,
-  "Silk Universal": null,
+  "Silk Universal": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/6ad051cd7384f21a33ef2cefa5b78106.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/6ad051cd7384f21a33ef2cefa5b78106.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/6ad051cd7384f21a33ef2cefa5b78106.webp"
+  },
   "Starvision TV": null,
   "TV 25": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/2c303059836d6e6021f77a6cbc69ef93.webp",
@@ -15134,7 +15226,11 @@
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/f6d687d44b863e4ba2fa64edae43d1c1.webp"
   },
   "TAKARAZUKA SKY STAGE": null,
-  "TBS News": null,
+  "TBS News": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a9632e97653522ce122a83602a21ce44.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a9632e97653522ce122a83602a21ce44.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a9632e97653522ce122a83602a21ce44.webp"
+  },
   "Toei Channel": null,
   "Tokyo MX1": null,
   "WOWOW Cinema": null,
@@ -15197,7 +15293,11 @@
   "Big Planet HD": null,
   "Travel Channel HD": null,
   "RTG HD": null,
-  "History HD": null,
+  "History HD": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/5215a766af96e8e9dcdf634c2287eb44.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/5215a766af96e8e9dcdf634c2287eb44.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/5215a766af96e8e9dcdf634c2287eb44.webp"
+  },
   "H2 HD": null,
   "The Explorers": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/ec11a99411025b257730f5d59a696e95.webp",
@@ -15264,7 +15364,11 @@
   "Terra HD": null,
   "Time Machine TV": null,
   "Domashnie Zhivotnye TV": null,
-  "Ocean TV": null,
+  "Ocean TV": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/a9a4ceeceb2c8dce2082d06375e9cdfa.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a9a4ceeceb2c8dce2082d06375e9cdfa.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/a9a4ceeceb2c8dce2082d06375e9cdfa.webp"
+  },
   "Galaxy": {
     "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/756fb2b980ffa9a26e5290293efba3aa.webp",
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/756fb2b980ffa9a26e5290293efba3aa.webp",
@@ -15298,5 +15402,6 @@
   "Zoo TV": null,
   "Who Goes Where TV": null,
   "MM Discoveries TV": null,
-  "Dog & Co TV": null
+  "Dog & Co TV": null,
+  "ERT-COSMOS": null
 }
