@@ -854,21 +854,27 @@ https://live.teleradiocom.tj/2/3m.m3u8
 #EXTINF:-1 group-title="Tacikistan" ,TV Sinamo
 https://live.teleradiocom.tj/6/3m.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ERT1
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/default/ERT1-audio_208000_gre=206000-video=6176000.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/default/index.m3u8
 #EXTINF:-1 group-title="Yunanistan" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/a45cef7a7b0039b8a5101813ada940b3.webp",ERT2
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/default/ERT2-audio_208000_gre=206000-video=6176000.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/default/index.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ERT3
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/ERT3-audio_208000_gre=206000-video=6176000.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ERT-WORLD
-https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTWorld/default/index.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ERT-NEWS
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/ERTNews-audio_206200_gre=206000-video=6176000.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ERT-COSMOS
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/ERTCosmos-audio_142800_gre=140800-video=5154400.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ERT-KIDS
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTKids/default/ERTKids.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ERT-MUSIC
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTMusic/default/index.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT-SPORT-1
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports1/default/index.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT-SPORT-2
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports2/default/index.m3u8
+#EXTINF:-1 group-title="Yunanistan" ,ERT-SPORT-3
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports3/default/index.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ALPHA-TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="Yunanistan" ,ANT1-HD
