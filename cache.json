@@ -2788,7 +2788,11 @@
     "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/40dbd2460c336f980951da0f456e729f.webp",
     "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/40dbd2460c336f980951da0f456e729f.webp"
   },
-  "AlQuran AlKareem": null,
+  "AlQuran AlKareem": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/dc150d9cd6f11b3bbbd7d9f1e78077b9.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dc150d9cd6f11b3bbbd7d9f1e78077b9.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/dc150d9cd6f11b3bbbd7d9f1e78077b9.webp"
+  },
   "Tawaf TV": null,
   "Vision Prime": null,
   "Muslim TV": {
@@ -15406,5 +15410,25 @@
   "ERT-COSMOS": null,
   "ERT-SPORT-1": null,
   "ERT-SPORT-2": null,
-  "ERT-SPORT-3": null
+  "ERT-SPORT-3": null,
+  "RAI 1 HD": null,
+  "RAI 1 FHD": null,
+  "RAI 2 HD": null,
+  "RAI 2 FHD": null,
+  "RAI 3 HD": null,
+  "RAI 3 FHD": null,
+  "RAI NEWS FHD": null,
+  "RAI NEWS HD": null,
+  "RAI SCUOLA HD": null,
+  "RAI SCUOLA FHD": null,
+  "RAI STORIA HD": null,
+  "RAI STORIA FHD": null,
+  "LA7 HD": null,
+  "LA7 FHD": null,
+  "RTV 38": {
+    "small": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/small/fb4032f59ea5283d3edafac4442168d7.webp",
+    "medium": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fb4032f59ea5283d3edafac4442168d7.webp",
+    "large": "https://raw.githubusercontent.com/k33n26/iptv2/main/logos/large/fb4032f59ea5283d3edafac4442168d7.webp"
+  },
+  "Video Calabria": null
 }

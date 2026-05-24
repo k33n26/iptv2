@@ -1629,7 +1629,7 @@ http://156.239.254.7:5555/smt.php?id=NetTV
 http://156.239.254.7:5555/smt.php?id=Animax
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/40dbd2460c336f980951da0f456e729f.webp",EWTN
 http://156.239.254.7:5555/smt.php?id=Ewtn
-#EXTINF:-1 group-title="China" ,AlQuran AlKareem
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/dc150d9cd6f11b3bbbd7d9f1e78077b9.webp",AlQuran AlKareem
 http://156.239.254.7:5555/smt.php?id=AlQuran
 #EXTINF:-1 group-title="China" ,Tawaf TV
 http://156.239.254.7:5555/smt.php?id=TawafTV
@@ -2447,31 +2447,31 @@ https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3
 https://live-ln24.digiteka.com/1911668011/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Belcika" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/64c28aaf48b05cf27697aeb6afe2910d.webp",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1_305_720p.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI 1
+#EXTINF:-1 group-title="Italya" ,RAI 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI 1(2)
+#EXTINF:-1 group-title="Italya" ,RAI 1 FHD
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI 2
+#EXTINF:-1 group-title="Italya" ,RAI 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI 2(2)
+#EXTINF:-1 group-title="Italya" ,RAI 2 FHD
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI 3
+#EXTINF:-1 group-title="Italya" ,RAI 3 HD
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI 3(2)
+#EXTINF:-1 group-title="Italya" ,RAI 3 FHD
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI GULP
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI NEWS
+#EXTINF:-1 group-title="Italya" ,RAI NEWS FHD
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI NEWS(2)
+#EXTINF:-1 group-title="Italya" ,RAI NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI SCUOLA
+#EXTINF:-1 group-title="Italya" ,RAI SCUOLA HD
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI SCUOLA(2)
+#EXTINF:-1 group-title="Italya" ,RAI SCUOLA FHD
 https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI STORIA
+#EXTINF:-1 group-title="Italya" ,RAI STORIA HD
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
-#EXTINF:-1 group-title="Italya" ,RAI STORIA(2)
+#EXTINF:-1 group-title="Italya" ,RAI STORIA FHD
 https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,RAI ITALIA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
@@ -2487,9 +2487,9 @@ https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 #EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/ef45a5efbb1eb6b196fe64580de2b3be.webp",RETE 4
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
-#EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/8585d16efe6a89af5f02818321a599cd.webp",LA7
+#EXTINF:-1 group-title="Italya" ,LA7 HD
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
-#EXTINF:-1 group-title="Italya" ,LA7(2)
+#EXTINF:-1 group-title="Italya" ,LA7 FHD
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,LA7D
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
@@ -2519,6 +2519,10 @@ https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
 #EXTINF:-1 group-title="Italya" ,INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 group-title="Italya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fb4032f59ea5283d3edafac4442168d7.webp",RTV 38
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S62514532/3cqprdTryr2d/playlist.m3u8
+#EXTINF:-1 group-title="Italya" ,Video Calabria
+https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
 #EXTINF:-1 group-title="Avusturya" tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/973b050c50fc6ac0cc62ffa7a942c657.webp",ORF
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.m3u8
 #EXTINF:-1 group-title="Avusturya" ,KRONE-TV
